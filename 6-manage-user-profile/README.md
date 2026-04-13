@@ -2,34 +2,31 @@
 
 Organizations with hundreds or thousands of users can take advantage of the User Profiles feature to create multiple profiles with different access rights, simplifying user and permission management.
 
-Navigate to Configuration
+1. Navigate to Configuration
 
-![Screenshot](./screenshots/image-1.png)
+![Screenshot](<../.gitbook/assets/image-1 (2).png>)
 
-From the list, select Manage User Profiles.
+2. From the list, select Manage User Profiles.
 
-![Screenshot](./screenshots/image-2.png)
+![Screenshot](<../.gitbook/assets/image-2 (2).png>)
 
-Click the Actions drop-down and choose Add.
+3. Click the Actions drop-down and choose Add.
 
-![Screenshot](./screenshots/image-3.png)
+![Screenshot](<../.gitbook/assets/image-3 (2).png>)
 
-Enter the Identifier and Profile Name.
+* Enter the Identifier and Profile Name.
+* Enable contractor profiles (Web access) for contractor users and sub-contractor profiles for (Web or Mobile) for sub-contractor users.
 
-Enable contractor profiles (Web access) for contractor users and sub-contractor profiles
+![Screenshot](<../.gitbook/assets/image-4 (2).png>)
 
-for (Web or Mobile) for sub-contractor users.
+* Enable the required Roles and Rights.
 
-![Screenshot](./screenshots/image-4.png)
+![Screenshot](<../.gitbook/assets/image-5 (2).png>)
 
-Enable the required Roles and Rights.
+4. Click Save.
 
-![Screenshot](./screenshots/image-5.png)
-
-Click Save.
-
-![Screenshot](./screenshots/image-6.png)
+![Screenshot](<../.gitbook/assets/image-6 (2).png>)
 
 A confirmation message indicates that the user profile has been created successfully.
 
-![Screenshot](./screenshots/image-7.png)
+![Screenshot](<../.gitbook/assets/image-7 (2).png>)
