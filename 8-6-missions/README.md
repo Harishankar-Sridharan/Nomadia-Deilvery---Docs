@@ -1905,129 +1905,153 @@ Urgent missions follow a "Chained" model where a pickup is immediately followed 
 
 3. Enter the Pickup Information (Origin).
 4. Enter the Delivery Information (Destination).
+
+<figure><img src="../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
+
 5. Select the created mission from the list.
 6. Click the Assign Urgent Mission button.
+
+<figure><img src="../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
+
 7. The new pickup mission will be dynamically added to the existing route
 
-### 6.4.5.3. Create an urgent pickup mission (Emergency Pickup)
+<figure><img src="../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
+
+#### 2.5.3. Create an urgent pickup mission (Emergency Pickup)
 
 This feature allows an unplanned pickup mission to be inserted into an existing, published route while the driver is already in the field. It is specifically designed for pickup scenarios, such as a customer requesting an immediate return of a damaged item.
 
-Create a new Pickup mission.
+1. Create a new Pickup mission&#x20;
 
-Select the mission from the list.
+<figure><img src="../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
 
-Click the Actions menu.
 
-Select Emergency Pickup.
 
-Choose the insertion point of the driver:
+2. Select the mission from the list
+3. Click the Actions menu.
+4. Select Emergency Pickup.
 
-Assign After: Adds the pickup as the very next stop.
+<figure><img src="../.gitbook/assets/image (135).png" alt=""><figcaption></figcaption></figure>
 
-Assign at End: Adds the pickup to the end of the current route.
+5. Choose the insertion point of the driver:
 
-Click Replace
+<figure><img src="../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
+
+6. Assign After: Adds the pickup as the very next stop.
+
+<figure><img src="../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>
+
+7. Assign at End: Adds the pickup to the end of the current route.
+8. Click Replace
 
 These grouped missions will be executed only once on the mobile application, significantly reducing field execution time. Additionally, even if missions are not grouped beforehand, the mobile app automatically groups missions that share the same address information.
 
-### 6.4.5.4. Create a 'perform at once' mission
+#### 2.5.4. Create a 'perform at once' mission
 
 'Perform at once' links multiple individual missions destined for the same customer/address. Unlike container grouping, this relies on a "Grouping Key" to tell the mobile app that these items should be fulfilled together, allowing for a single validation step (one signature or one photo) for all linked items.
 
-Select multiple missions that share the exact same delivery address.
+1. Select multiple missions that share the exact same delivery address.
 
-Click the Actions menu.
+<figure><img src="../.gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>
 
-Select Perform at once.
+2. Click the Actions menu.
+3. Select Perform at once.
 
-The system generates a Grouping Key for the selected missions.
+<figure><img src="../.gitbook/assets/image (139).png" alt=""><figcaption></figcaption></figure>
 
-### 6.4.6. Mission Wizard: A Guided step by step process
+4. The system generates a Grouping Key for the selected missions.
 
-The Mission Creation Wizard in Nomadia Delivery provides a user-friendly, step-by-step
+<figure><img src="../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
 
-process for creating and adding missions effortlessly. From entering basic mission details to
+### 2.6. Mission Wizard: A Guided step by step process
 
-specifying customer opening hours, the wizard simplifies mission setup while ensuring
-
-accuracy and efficiency throughout.
+The Mission Creation Wizard in Nomadia Delivery provides a user-friendly, step-by-step process for creating and adding missions effortlessly. From entering basic mission details to specifying customer opening hours, the wizard simplifies mission setup while ensuring accuracy and efficiency throughout.
 
 Follow these steps to create a mission using the wizard
 
-Open the delivery management system, then navigate to the ‘Missions’ tab
+1. Open the delivery management system, then navigate to the ‘Missions’ tab
 
-Click the ‘Actions’ button and choose ‘Add’ to launch the mission creation wizard
+<figure><img src="../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
 
-Select the type of mission and agency
+2. Click the ‘Actions’ button and choose ‘Add’ to launch the mission creation wizard
 
-Pickup Address details
+<figure><img src="../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
 
-For Pickup Missions: Enter the pickup address details, such as the address line, city,
+3. Select the type of mission and agency
 
-state/province, postal code, and any additional instructions or landmarks. This helps ensure the
+<figure><img src="../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
 
-pickup point is accurately identified and located.
+4.  Pickup Address details:
 
-For Delivery Missions: The agency address is used by default.
+    * **For Pickup Missions**: Enter the pickup address details such as address line, city, state/province, postal code, and any additional instructions or landmarks to ensure accurate identification.
+    * **For Delivery Missions**: The agency address is used by default.
 
-Delivery Address details
+    <figure><img src="../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
+5.  Delivery Address details:
 
-For Delivery Missions: Enter the delivery address details. Providing clear and accurate
+    * **For Delivery Missions**: Enter the delivery address details. Providing clear and accurate information ensures successful and timely deliveries.
+    * **For Pickup Missions**: The agency address is used by default.
 
-information is essential to ensure successful and timely deliveries.
+    <figure><img src="../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure>
+6. Parcel Information (Optional): In this step, provide details about the parcels, such as dimensions, weight, contents, and any special handling requirements. Supplying accurate parcel information helps ensure proper handling and maintains delivery integrity.
 
-For Pickup Missions: The agency address is used by default.
+<figure><img src="../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
 
-Parcel Information (Optional): In this step, provide details about the parcels, such as
+7. Customer Opening Hours Definition (Optional): Specify the customer’s opening hours to schedule deliveries within appropriate time slots. This ensures delivery timings aligned with customer availability, reducing the chances of missed deliveries or rejections.
 
-dimensions, weight, contents, and any special handling requirements. Supplying accurate parcel
+<figure><img src="../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
 
-information helps ensure proper handling and maintains delivery integrity.
+8. Add Mission to Delivery Management System: After entering all required information, click the ‘Add’ button to save the mission in the delivery management system. The mission has been successfully created. This wizard streamlines the process by guiding users’ step by step, ensuring that all required information is entered accurately.
 
-Customer Opening Hours Definition (Optional): Specify the customer’s opening hours to schedule deliveries within appropriate time slots. This ensures delivery timings aligned with customer availability, reducing the chances of missed deliveries or rejections.
+<figure><img src="../.gitbook/assets/image (148).png" alt=""><figcaption></figcaption></figure>
 
-Add Mission to Delivery Management System: After entering all required information, click
+9. The mission has been successfully created. This wizard streamlines the process by guiding users’ step by step, ensuring that all required information is entered accurately.
 
-the ‘Add’ button to save the mission in the delivery management system.
+<figure><img src="../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
 
-The mission has been successfully created. This wizard streamlines the process by guiding
-
-users’ step by step, ensuring that all required information is entered accurately.
-
-### 6.4.7. Import Missions
-
-From the Missions page
-
-Click Actions.
-
-Select Import from the dropdown menu.
-
-Click Browse (Excel).
-
-Choose the desired Excel file from your local system to upload and import it.
-
-Missions will be imported successfully.
-
-### 6.4.8. Map the import mission file fields
-
-### 6.4.8.1. Map the address fields
+### 2.7. Import Missions
 
 From the Missions page
 
-Click Actions.
+1. Click Actions.
+2. Select Import from the dropdown menu.
 
-Select Import from the dropdown menu.
+<figure><img src="../.gitbook/assets/image (150).png" alt=""><figcaption></figcaption></figure>
 
-Click Browse (Excel).
+3. Click Browse (Excel).
 
-Select the Address from the location indicators
+<figure><img src="../.gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>
 
-Click on Validate
+4. Choose the desired Excel file from your local system to upload and import it.
 
-The address fields will be mapped successfully
+<figure><img src="../.gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
 
-### 6.4.8.2. Map the addresses fields from the global address list
+5. Missions will be imported successfully.
+
+<figure><img src="../.gitbook/assets/image (153).png" alt=""><figcaption></figcaption></figure>
+
+### 2.8. Map the import mission file fields
+
+#### 2.8.1. Map the address fields
+
+From the Missions page
+
+1. Click Actions.
+2. Select Import from the dropdown menu.
+3. Click Browse (Excel).
+4. Select the Address from the location indicators
+
+<figure><img src="../.gitbook/assets/image (154).png" alt=""><figcaption></figcaption></figure>
+
+5. Click on Validate
+
+<figure><img src="../.gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
+
+6. The address fields will be mapped successfully
+
+<figure><img src="../.gitbook/assets/image (156).png" alt=""><figcaption></figcaption></figure>
+
+#### 2.8.2. Map the addresses fields from the global address list
 
 The Global Address List now offers enhanced control over how addresses are managed and accessed in Nomadia Delivery. It is no longer restricted to contractors and is now available directly from the Configuration module. Addresses added to the Global Address List are visible and usable by all Nomadia Delivery users, regardless of contractor.
 
