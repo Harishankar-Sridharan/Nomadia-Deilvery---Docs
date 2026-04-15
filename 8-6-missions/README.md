@@ -2059,245 +2059,249 @@ To use addresses from the Global Address List, follow the steps below:
 
 1. Open the Nomadia Delivery application and go to the Configuration tab.
 
-Select Address List from the menu.
+<figure><img src="../.gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure>
 
-Create a new address or import addresses from an Excel file.
+2. Select Address List from the menu.
+
+<figure><img src="../.gitbook/assets/image (158).png" alt=""><figcaption></figcaption></figure>
+
+3. Create a new address or import addresses from an Excel file.
+
+<figure><img src="../.gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure>
 
 Once the address list is created, navigate to the Mission page.
 
-From the mission table, select Actions → Add (Beta).
+<figure><img src="../.gitbook/assets/image (160).png" alt=""><figcaption></figcaption></figure>
 
-Select an agency from the dropdown list and click Next.
+4. From the mission table, select Actions → Add (Beta).
 
-In the address picker (pickup/delivery), enter an address from the Address List.
+<figure><img src="../.gitbook/assets/image (162).png" alt=""><figcaption></figcaption></figure>
 
-The autocomplete suggests addresses from the Global Address List.
+5. Select an agency from the dropdown list.
 
-If a contractor is selected during mission creation, the autocomplete combines contractor addresses and Global Address List entries into a single dropdown.
+<figure><img src="../.gitbook/assets/image (163).png" alt=""><figcaption></figcaption></figure>
 
-Items in the dropdown are distinguished by an icon and tooltip, indicating whether they come from the Global Address List or the contractor’s address list.
+Click Next
+
+<figure><img src="../.gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure>
+
+6. In the address picker (pickup/delivery), enter an address from the Address List.
+
+<figure><img src="../.gitbook/assets/image (166).png" alt=""><figcaption></figcaption></figure>
+
+* The autocomplete suggests addresses from the Global Address List.
+* If a contractor is selected during mission creation, the autocomplete combines contractor addresses and Global Address List entries into a single dropdown.
+
+<figure><img src="../.gitbook/assets/image (167).png" alt=""><figcaption></figcaption></figure>
+
+* Items in the dropdown are distinguished by an icon and tooltip, indicating whether they come from the Global Address List or the contractor’s address list.
+
+<figure><img src="../.gitbook/assets/image (168).png" alt=""><figcaption></figcaption></figure>
 
 This ensures a seamless and unified experience when entering mission addresses.
 
-### 6.4.9. Improve the Missions addresses geocoding
+### 2.9. Improve the Missions addresses geocoding
 
-### 6.4.9.1. Correct geocoding with a new address
+### 2.9.1. Correct geocoding with a new address
 
 From the Missions page
 
-Click Actions.
+1. Click Actions.
+2. Select Import from the dropdown menu.
+3. Click Browse (Excel).
+4. Disable the Pickup address field
+5. Select the Latitude and Longitude from the location indicators
+6. Click on Validate
+7. Update the New address in the new address field
 
-Select Import from the dropdown menu.
+<figure><img src="../.gitbook/assets/image (170).png" alt=""><figcaption></figcaption></figure>
 
-Click Browse (Excel).
-
-Disable the Pickup address field
-
-Select the Latitude and Longitude from the location indicators
-
-Click on Validate
-
-Update the New address in the new address field
-
-### 6.4.10. Select Missions from the map
+#### 2.9.2. Select Missions from the map
 
 From the Map view.
 
-Use the Selection button to choose the selection method (e.g., Polygon, Circle).
+1. Use the Selection button to choose the selection method (e.g., Polygon, Circle).
 
-Draw/select the region to highlight missions.
+<figure><img src="../.gitbook/assets/image (171).png" alt=""><figcaption></figcaption></figure>
 
-Selected missions will appear in the table view on the left panel.
+2. Draw/select the region to highlight missions.
+
+<figure><img src="../.gitbook/assets/image (172).png" alt=""><figcaption></figcaption></figure>
+
+3. Selected missions will appear in the table view on the left panel.
+
+<figure><img src="../.gitbook/assets/image (173).png" alt=""><figcaption></figcaption></figure>
 
 ##
 
-### 6.4.11. Manage Missions Table
+### 2.10. Manage Missions Table
 
-### 6.4.11.1. Customize the Table Display
+#### 2.10.1. Customize the Table Display
 
-Click on the Table action menu
+1. Click on the Table action menu
+2. Click on Customize List.
 
-Click on Customize List.
+<figure><img src="../.gitbook/assets/image (174).png" alt=""><figcaption></figcaption></figure>
 
-Select the desired fields from the Available Fields list and click the arrow icon to move them to
+3. Select the desired fields from the Available Fields list and click the arrow icon to move them to the Display Fields section.
+4. Click on Save
 
-the Display Fields section.
-
-Click on Save
+<figure><img src="../.gitbook/assets/image (175).png" alt=""><figcaption></figcaption></figure>
 
 The selected fields will be displayed on the table
 
-### 6.4.11.2. Sort the Table
+#### 2.10.2. Sort the Table
 
-Click on the column header (e.g., Last Name).
+1. Click on the column header (e.g., Last Name).
+2. Select Ascending or Descending order.
+3. The table reorders based on the selection.
 
-Select Ascending or Descending order.
+<figure><img src="../.gitbook/assets/image (176).png" alt=""><figcaption></figcaption></figure>
 
-The table reorders based on the selection.
 
-### 6.4.11.3. Filter the Table
 
-### 6.4.11.3.1. Filter Table using Mission statuses shortcuts
+#### 2.10.3. Filter Table using Mission statuses shortcuts
 
-Click on the Mission Status dropdown or shortcut button.
+1. Click on the Mission Status dropdown or shortcut button.
+2. Choose the desired status like Waiting, Picked Up, etc.
+3. The table will refresh and show only matching entries.
 
-Choose the desired status like Waiting, Picked Up, etc.
+<figure><img src="../.gitbook/assets/image (177).png" alt=""><figcaption></figcaption></figure>
 
-The table will refresh and show only matching entries.
 
-###
 
-###
+### 2.10.4. Change the order of Mission statuses shortcuts
 
-###
+1. Click on the Filter configuration icon (grey panel).
+2. Drag mission statuses into the preferred sequence.
 
-### 6.4.11.3.2. Change the order of Mission statuses shortcuts
+<figure><img src="../.gitbook/assets/image (179).png" alt=""><figcaption></figcaption></figure>
 
-Click on the Filter configuration icon (grey panel).
+3. Save or apply changes (For new filter creation Only)
 
-Drag mission statuses into the preferred sequence.
+<figure><img src="../.gitbook/assets/image (180).png" alt=""><figcaption></figcaption></figure>
 
-Save or apply changes (For new filter creation Only)
 
-###
 
-###
+#### 2.10.5. Filter the Table using criteria
 
-### Filter the Table using criteria
+<table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">Data type </td><td valign="top">Operator </td></tr><tr><td valign="top">Alphanumeric </td><td valign="top"><p>= </p><p>≠ </p><p>Contains </p><p>Does not contain </p><p>Starts with </p><p>Ends with </p><p>Is empty </p><p>Is not empty </p></td></tr><tr><td valign="top">Date </td><td valign="top"><p>= </p><p>=D+ </p><p>=D- </p><p>≤D+ </p><p>≤D- </p><p>≥ D+ </p><p>≥ D- </p><p>&#x3C; </p><p>≤ </p><p>> </p><p>≥ </p><p>≠ </p><p>Is empty </p><p>Is not empty </p></td></tr><tr><td valign="top">Arithmetic </td><td valign="top"><p>= </p><p>≠ </p><p>&#x3C; </p><p>≤ </p><p>> </p><p>≥ </p></td></tr></tbody></table>
 
-Click on the Filter input field.
+1. Click on the Filter input field.
+2. Select the appropriate condition from the suggestions.
+3. Choose the relevant operator from the dropdown.
+4. Enter the required value for the condition.
+5. Press the Enter key to apply the filter.
 
-Select the appropriate condition from the suggestions.
+<figure><img src="../.gitbook/assets/image (181).png" alt=""><figcaption></figcaption></figure>
 
-Choose the relevant operator from the dropdown.
+#### 2.10.6. Create a Filter
 
-Enter the required value for the condition.
+1. Click on the Filter input field.
+2. Select the appropriate condition from the suggestions.
+3. Click the Load saved filter icon
+4. Enter the Appropriate name in the input field
+5. Click on Save
 
-Press the Enter key to apply the filter.
+<figure><img src="../.gitbook/assets/image (182).png" alt=""><figcaption></figcaption></figure>
 
-### 6.4.11.3.4. Create a Filter
 
-Click on the Filter input field.
 
-Select the appropriate condition from the suggestions.
+#### 2.10.7. Pin a Filter
 
-Click the Load saved filter icon
+1. Click Load saved filters icon.
+2. Click on the pin icon of the filter to pin.
 
-Enter the Appropriate name in the input field
+<figure><img src="../.gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure>
 
-Click on Save
+#### 2.10.8. Delete a Filter
 
-### 6.4.11.3.5. Pin a Filter
+1. Click on the Filter input field.
+2. Select the appropriate condition from the suggestions.
+3. Click the filter option.
+4. Click the "Delete" icon to delete the selected status
 
-Click Load saved filters icon.
+<figure><img src="../.gitbook/assets/image (185).png" alt=""><figcaption></figcaption></figure>
 
-Click on the pin icon of the filter to pin.
 
-### 6.4.11.3.6. Delete a Filter
 
-Click on the Filter input field.
-
-Select the appropriate condition from the suggestions.
-
-Click the filter option.
-
-Click the "Delete" icon to delete the selected status
-
-### 6.4.11.4. Color the Missions
+#### 2.10.9. Color the Missions
 
 From the Missions page
 
-Click Actions.
+1. Click Actions.
+2. Select Coloring from the dropdown menu.
 
-Select Coloring from the dropdown menu.
+<figure><img src="../.gitbook/assets/image (186).png" alt=""><figcaption></figcaption></figure>
 
-Select the appropriate condition from the suggestions.
+3. Select the appropriate condition from the suggestions.
+4. Choose the Color
+5. Click on Save
 
-Choose the Color
+<figure><img src="../.gitbook/assets/image (187).png" alt=""><figcaption></figcaption></figure>
 
-Click on Save
+6. The selected color will be applied successfully.
 
-The selected color will be applied successfully.
+#### 2.10.10. Search for a Mission
 
-### 6.4.11.5. Search for a Mission
+1. Click the Search icon.
 
-Click the Search icon.
+You can search using any of the following fields:
 
-You can search using any of the following fields
+* Mission Number
+* Sender Barcode
+* Phone Number
+* Customer Name
+* Postal Code
+* City
 
-Mission Number
+<figure><img src="../.gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure>
 
-Sender Barcode
+2. Enter the Desired Criterion in the input field.
+3. The corresponding mission details will appear below.
 
-Phone Number
+<figure><img src="../.gitbook/assets/image (189).png" alt=""><figcaption></figcaption></figure>
 
-Customer Name
+### 2.11. View a Mission information
 
-Postal Code
+1. Click the Pen icon corresponding to the desired mission.
+2.  A details panel will open showing information such as:
 
-City
+    * Pickup details
+    * Delivery location
+    * Parcel barcode and contents
+    * Contact information, etc.
 
-Enter the Desired Criterion in the input field.
+    <figure><img src="../.gitbook/assets/image (190).png" alt=""><figcaption></figcaption></figure>
 
-The corresponding mission details will appear below.
-
-### 6.4.11.6. View a Mission information
-
-Click the Pen icon corresponding to the desired mission.
-
-A details panel will open showing information such as:
-
-Pickup details
-
-Delivery location
-
-Parcel barcode and contents
-
-Contact information, etc.
-
-### 6.4.12. Mission Ticketing System
+### 2.12. Mission Ticketing System
 
 The mission ticketing system in Nomadia Delivery simplifies the process of managing mission- or parcel-related queries. It allows contractors to raise tickets directly from the mission editor via the
 
 Help tab. This ensures that any issues or concerns arise during a mission is reported quickly and resolved efficiently.
 
-To access the ticket module, users must have the appropriate rights granted by administrators. To enable the ticket module for contractors or transporters,
-
-follow these steps:
+To access the ticket module, users must have the appropriate rights granted by administrators. To enable the ticket module for contractors or transporters, follow these steps:
 
 Open the Nomadia Delivery application and navigate to the Configuration tab.
 
-Select manage users from the drop-down.
-
-Click the pencil icon next to the user to edit a user.
-
-Go to the ‘Roles & Rights’ tab.
-
-Activate the necessary rights under the Tickets section.
-
-Click ‘Save’ to save the configuration.
+1. Select manage users from the drop-down.
+2. Click the pencil icon next to the user to edit a user.
+3. Go to the ‘Roles & Rights’ tab.
+4. Activate the necessary rights under the Tickets section.
+5. Click ‘Save’ to save the configuration.
 
 To create a ticket a contractor user should follow these steps:
 
-Open the Nomadia Delivery application and go to the Missions tab.
-
-Apply the Not delivered / Not picked pre-filter to display missions that are in distress.
-
-Click the pencil icon next to the relevant mission to switch to edit mode.
-
-Open the Help tab and select Create a ticket to initiate a support ticket for the mission.
-
-Enter your query in the provided field and click Send to submit the ticket to the transporter.
-
-The ticket is created, and the transporter will receive an email notification about the reported
-
-issue.
+1. Open the Nomadia Delivery application and go to the Missions tab.
+2. Apply the Not delivered / Not picked pre-filter to display missions that are in distress.
+3. Click the pencil icon next to the relevant mission to switch to edit mode.
+4. Open the Help tab and select Create a ticket to initiate a support ticket for the mission.
+5. Enter your query in the provided field and click Send to submit the ticket to the transporter.
+6. The ticket is created, and the transporter will receive an email notification about the reported issue.
 
 To reply to a ticket, the transporter should follow these steps:
 
-Once a contractor creates a ticket, the transporter receives an email containing the query and a
-
-direct link to the related mission.
+1. Once a contractor creates a ticket, the transporter receives an email containing the query and a direct link to the related mission.
 
 Click the link to open the Mission Editor and view the ticket details.
 
