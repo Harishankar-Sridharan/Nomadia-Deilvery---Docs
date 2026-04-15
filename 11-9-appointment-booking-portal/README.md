@@ -1,4 +1,4 @@
-# 9. Appointment Booking Portal
+# Appointment Booking Portal
 
 The appointment booking portal in Nomadia Delivery enables you to schedule optimized slots for missions, ensuring alignment with the deliverers’ existing tour plans. This guide outlines how to use the portal’s features to improve scheduling efficiency.
 
@@ -6,25 +6,25 @@ To configure Nomadia Delivery for the appointment booking portal, the transporte
 
 Open the Nomadia Delivery application and go to the Configuration tab.
 
-![Screenshot](./screenshots/image-1.png)
+![Screenshot](<../.gitbook/assets/image-1 (5).png>)
 
 From the drop-down menu, select Configure customer experience pages.
 
-![Screenshot](./screenshots/image-2.png)
+![Screenshot](<../.gitbook/assets/image-2 (5).png>)
 
 Click on the Schedule a delivery option.
 
-![Screenshot](./screenshots/image-3.png)
+![Screenshot](<../.gitbook/assets/image-3 (5).png>)
 
 Open the Planning tab. This tab allows the transporter to define the time slots that will be
 
 available for booking in the appointment portal.
 
-![Screenshot](./screenshots/image-4.png)
+![Screenshot](<../.gitbook/assets/image-4 (5).png>)
 
 Click within the grey area to set the availability of your deliverers.
 
-![Screenshot](./screenshots/image-5.png)
+![Screenshot](<../.gitbook/assets/image-5 (5).png>)
 
 Choose the preferred days and times according to your delivery preferences, then save the
 
@@ -32,17 +32,17 @@ planning.
 
 Note: The delivery slots defined here are the ones proposed by the real-time optimization engine. Ensure you configure them carefully to avoid unwanted slot suggestions during breaks (e.g., lunch, briefing, or debriefing times). You can either apply the same slots across all days of the week or configure different slots for each day. Once the setup is complete, the planning view will display the preferred slots, as shown in the example screenshot.
 
-![Screenshot](./screenshots/image-6.png)
+![Screenshot](<../.gitbook/assets/image-6 (5).png>)
 
 Finally, click Save to confirm the planning.
 
-![Screenshot](./screenshots/image-7.png)
+![Screenshot](<../.gitbook/assets/image-7 (5).png>)
 
 To update or delete an existing plan, follow these steps
 
 Click on the blue area to open the planning you want to modify
 
-![Screenshot](./screenshots/image-8.png)
+![Screenshot](<../.gitbook/assets/image-8 (4).png>)
 
 Adjust the date and time as needed and click Update to save the changes or delete to remove
 
@@ -58,11 +58,11 @@ Launch the Nomadia Delivery application and go to the Missions tab.
 
 Select any existing mission by clicking the pencil icon to edit it.
 
-![Screenshot](./screenshots/image-9.png)
+![Screenshot](<../.gitbook/assets/image-9 (4).png>)
 
 Then, click the ‘Appointment Booking’ button to view the available slot proposals.
 
-![Screenshot](./screenshots/image-10.png)
+![Screenshot](<../.gitbook/assets/image-10 (3).png>)
 
 Please note that the ‘Appointment Booking’ feature is available only for standard pickup or delivery missions. It will be disabled for the following mission types:
 
@@ -72,11 +72,11 @@ Chained pickup & delivery
 
 For these missions, a tooltip message, as shown in the screenshot below, will appear.
 
-![Screenshot](./screenshots/image-11.png)
+![Screenshot](<../.gitbook/assets/image-11 (3).png>)
 
 The real-time optimization engine suggests slots by considering vehicle and user availability, as well as mission schedules, based on the pre-defined slots configured during setup.
 
-![Screenshot](./screenshots/image-12.png)
+![Screenshot](<../.gitbook/assets/image-12 (3).png>)
 
 The proposed slots are categorized based on the star rating
 
@@ -92,7 +92,7 @@ in the back office.
 
 back office.
 
-![Screenshot](./screenshots/image-13.png)
+![Screenshot](<../.gitbook/assets/image-13 (3).png>)
 
 The user can choose any of the proposed slots and click the ‘Choose’ button to either create a
 
@@ -100,17 +100,17 @@ new tour plan for the selected slot (if no existing tour is scheduled in the bac
 
 date and time) or add the mission to an existing tour plan.
 
-![Screenshot](./screenshots/image-14.png)
+![Screenshot](<../.gitbook/assets/image-14 (3).png>)
 
 Once the slot is successfully booked, a notification will appear in the back office.
 
-![Screenshot](./screenshots/image-15.png)
+![Screenshot](<../.gitbook/assets/image-15 (3).png>)
 
 Return to the Missions tab to confirm that the tour has been created or updated for the
 
 selected date and time.
 
-![Screenshot](./screenshots/image-16.png)
+![Screenshot](<../.gitbook/assets/image-16 (3).png>)
 
 ## 9.1. Booking Portal Configuration
 
@@ -124,7 +124,7 @@ Open the Nomadia Delivery application and go to the Configuration tab.
 
 From the drop-down menu, select Configure customer experience pages.
 
-![Screenshot](./screenshots/image-17.png)
+![Screenshot](<../.gitbook/assets/image-17 (3).png>)
 
 Choose the Schedule a delivery menu item.
 
@@ -140,7 +140,7 @@ locating the customer.
 
 Click Add a field to include additional fields.
 
-![Screenshot](./screenshots/image-18.png)
+![Screenshot](<../.gitbook/assets/image-18 (3).png>)
 
 Specify the field name and select the field type (Text, Checkbox, Multiline Text, List of values,
 
@@ -154,15 +154,15 @@ Choose the Mode for the field, such as Input Required, Hidden, Read-only, or Rea
 
 define the customer’s control when filling out the form.
 
-![Screenshot](./screenshots/image-19.png)
+![Screenshot](<../.gitbook/assets/image-19 (3).png>)
 
 Click Add to include the custom field in the form.
 
-![Screenshot](./screenshots/image-20.png)
+![Screenshot](<../.gitbook/assets/image-20 (3).png>)
 
 The field will now appear in the list of data to be collected from the customer.
 
-![Screenshot](./screenshots/image-21.png)
+![Screenshot](<../.gitbook/assets/image-21 (3).png>)
 
 To integrate the booking portal into the contractor’s website, transporters should follow these
 
@@ -170,7 +170,7 @@ steps:
 
 Copy the code sample from the booking portal.
 
-![Screenshot](./screenshots/image-22.png)
+![Screenshot](<../.gitbook/assets/image-22 (3).png>)
 
 Share it with the contractor for integration.
 
@@ -178,7 +178,7 @@ The URL in the code sample automatically redirects to the booking portal and can
 
 embedded into an I-frame on the contractor’s website.
 
-![Screenshot](./screenshots/image-23.png)
+![Screenshot](<../.gitbook/assets/image-23 (3).png>)
 
 The I-frame allows customers to directly schedule deliveries.
 
@@ -186,7 +186,7 @@ The customer can click Schedule to view real-time optimized time slots and then 
 
 preferred slot by clicking Choose.
 
-![Screenshot](./screenshots/image-24.png)
+![Screenshot](<../.gitbook/assets/image-24 (3).png>)
 
 The booking portal is directly linked with the drivers’ tour plans in Nomadia Delivery
 
@@ -196,7 +196,7 @@ A mission is automatically created.
 
 The mission is optimally scheduled and added to the driver’s real-time tour.
 
-![Screenshot](./screenshots/image-25.png)
+![Screenshot](<../.gitbook/assets/image-25 (3).png>)
 
 The I-Frame Booking Portal helps transporters boost their digital presence and customer
 
@@ -220,11 +220,11 @@ To set up the rescheduling button in email communications, follow these steps:
 
 Launch the Nomadia Delivery application and go to the Configuration tab.
 
-![Screenshot](./screenshots/image-26.png)
+![Screenshot](<../.gitbook/assets/image-26 (4).png>)
 
 From the drop-down menu, select Configure Customer Experience Pages.
 
-![Screenshot](./screenshots/image-27.png)
+![Screenshot](<../.gitbook/assets/image-27 (4).png>)
 
 Click on the Before the Delivery menu item.
 
@@ -232,7 +232,7 @@ Enable the Reschedule a Delivery toggle to activate the reschedule button in cus
 
 communications
 
-![Screenshot](./screenshots/image-28.png)
+![Screenshot](<../.gitbook/assets/image-28 (4).png>)
 
 Set the rescheduling link validity using the Disable Before Delivery option. You can configure the
 
@@ -240,33 +240,33 @@ link to be active from a maximum of 12 hours before delivery to a minimum of 3 h
 
 delivery, based on your operational requirements.
 
-![Screenshot](./screenshots/image-29.png)
+![Screenshot](<../.gitbook/assets/image-29 (4).png>)
 
 Click Save to apply and save the rescheduling configuration.
 
-![Screenshot](./screenshots/image-30.png)
+![Screenshot](<../.gitbook/assets/image-30 (3).png>)
 
 To set up the rescheduling link in customer email communications, follow these steps:
 
 Launch the Nomadia Delivery application and go to the Configuration tab.
 
-![Screenshot](./screenshots/image-31.png)
+![Screenshot](<../.gitbook/assets/image-31 (3).png>)
 
 From the drop-down menu, select Configure Outgoing Messages.
 
-![Screenshot](./screenshots/image-32.png)
+![Screenshot](<../.gitbook/assets/image-32 (3).png>)
 
 Click on the Email Templates menu item.
 
-![Screenshot](./screenshots/image-33.png)
+![Screenshot](<../.gitbook/assets/image-33 (3).png>)
 
 Click on Actions dropdown menu and select Add
 
-![Screenshot](./screenshots/image-34.png)
+![Screenshot](<../.gitbook/assets/image-34 (3).png>)
 
 Click the “Time window to communicate”
 
-![Screenshot](./screenshots/image-35.png)
+![Screenshot](<../.gitbook/assets/image-35 (3).png>)
 
 Enable Outgoing Emails to allow communication with the end customer.
 
@@ -276,7 +276,7 @@ Click on Save
 
 .
 
-![Screenshot](./screenshots/image-36.png)
+![Screenshot](<../.gitbook/assets/image-36 (3).png>)
 
 To send email notifications to the end customer, follow these steps:
 
@@ -284,41 +284,41 @@ To send email notifications to the end customer, follow these steps:
 
 2. Click the Actions menu and select Publish on Mobile App.
 
-![Screenshot](./screenshots/image-37.png)
+![Screenshot](<../.gitbook/assets/image-37 (3).png>)
 
 3. Enable the Send Delivery Notes toggle to send email notifications to end customers, then click OK.
 
-![Screenshot](./screenshots/image-38.png)
+![Screenshot](<../.gitbook/assets/image-38 (3).png>)
 
 A popup will appear confirming that emails have been sent, showing the number of emails
 
 delivered.
 
-![Screenshot](./screenshots/image-39.png)
+![Screenshot](<../.gitbook/assets/image-39 (3).png>)
 
 Please note that the mission has been set up with the delivery/pickup email address, allowing Nomadia Delivery to send email notifications to your end customer.
 
-![Screenshot](./screenshots/image-40.png)
+![Screenshot](<../.gitbook/assets/image-40 (3).png>)
 
 To reschedule a mission, the end customer should follow these steps
 
 On the day of delivery, the customer will receive an email.
 
-![Screenshot](./screenshots/image-41.png)
+![Screenshot](<../.gitbook/assets/image-41 (3).png>)
 
 The customer should click the link in the email to reschedule the mission.
 
-![Screenshot](./screenshots/image-42.png)
+![Screenshot](<../.gitbook/assets/image-42 (3).png>)
 
 If the proposed date and time are not convenient, the customer can click the Reschedule button.
 
-![Screenshot](./screenshots/image-43.png)
+![Screenshot](<../.gitbook/assets/image-43 (3).png>)
 
 The customer can then choose any of the available slots suggested by the real-time optimization
 
 engine.
 
-![Screenshot](./screenshots/image-44.png)
+![Screenshot](<../.gitbook/assets/image-44 (3).png>)
 
 Time slots marked with a green leaf indicate eco-friendly options, showing that a deliverer will be
 
@@ -326,10 +326,10 @@ nearby at that time, making it the most optimal choice.
 
 After selecting a preferred slot, the customer should click the Choose button.
 
-![Screenshot](./screenshots/image-45.png)
+![Screenshot](<../.gitbook/assets/image-45 (3).png>)
 
 A confirmation of the selected slot is sent to the end customer.
 
-![Screenshot](./screenshots/image-46.png)
+![Screenshot](<../.gitbook/assets/image-46 (3).png>)
 
 The route plan is automatically updated based on the customer’s chosen slot.

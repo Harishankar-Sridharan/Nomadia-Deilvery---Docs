@@ -1,4 +1,4 @@
-# 8. Subcontractor Management
+# Subcontractor Management
 
 The subcontractor management feature allows transporters to delegate logistics tasks to subcontractors, making collaborations smoother and increasing operational flexibility.
 
@@ -14,7 +14,7 @@ has the necessary rights to create and modify subcontractors.)
 
 Click the Actions menu and select the Add button.
 
-![Screenshot](./screenshots/image-1.png)
+![Screenshot](<../.gitbook/assets/image-1 (6).png>)
 
 When adding a subcontractor, the following fields are mandatory:
 
@@ -36,21 +36,21 @@ Agency
 
 The transporter may also enter additional details such as zone and authorizations. Once the subcontractor’s address is entered, the map will automatically highlight their geographical location.
 
-![Screenshot](./screenshots/image-2.png)
+![Screenshot](<../.gitbook/assets/image-2 (6).png>)
 
 Click Save to add the subcontractor to the delivery management system.
 
-![Screenshot](./screenshots/image-3.png)
+![Screenshot](<../.gitbook/assets/image-3 (6).png>)
 
 A notification will confirm that the subcontractor has been successfully added.
 
-![Screenshot](./screenshots/image-4.png)
+![Screenshot](<../.gitbook/assets/image-4 (6).png>)
 
 As an alternative, subcontractors can be imported in bulk via an Excel file, saving time and effort
 
 when adding multiple entries.
 
-![Screenshot](./screenshots/image-5.png)
+![Screenshot](<../.gitbook/assets/image-5 (6).png>)
 
 After registration, the transporter can create subcontractor access from the Configuration module. This enables subcontractors to log in to the system and carry out their tasks.
 
@@ -60,15 +60,15 @@ Transporters can assign users within each subcontractor to manage planning and e
 
 Open the Nomadia Delivery application and go to Configuration > Manage users.
 
-![Screenshot](./screenshots/image-6.png)
+![Screenshot](<../.gitbook/assets/image-6 (6).png>)
 
 Click the Action button and select Add.
 
-![Screenshot](./screenshots/image-7.png)
+![Screenshot](<../.gitbook/assets/image-7 (6).png>)
 
 Click OK to create a new user.
 
-![Screenshot](./screenshots/image-8.png)
+![Screenshot](<../.gitbook/assets/image-8 (5).png>)
 
 Alternatively, you can create a user from an existing one. This speeds up the process by
 
@@ -78,11 +78,11 @@ In the Generalities tab, enter the profile, login, and last name of the user, an
 
 status. Then proceed to the Access tab.
 
-![Screenshot](./screenshots/image-9.png)
+![Screenshot](<../.gitbook/assets/image-9 (5).png>)
 
 Enable web access for the user and select the subcontractor’s website from the drop-down list.
 
-![Screenshot](./screenshots/image-10.png)
+![Screenshot](<../.gitbook/assets/image-10 (4).png>)
 
 Select the correct subcontractor (created in the Subcontractors module) to link with this user, then continue to the Roles & rights tab.
 
@@ -90,13 +90,13 @@ Note: If no subcontractor appears in the list, ensure one has been created in th
 
 The system automatically assigns rights based on the user.
 
-![Screenshot](./screenshots/image-11.png)
+![Screenshot](<../.gitbook/assets/image-11 (4).png>)
 
 Save the new user. The subcontractor will receive an email notification with instructions to create
 
 a password and activate the account.
 
-![Screenshot](./screenshots/image-12.png)
+![Screenshot](<../.gitbook/assets/image-12 (4).png>)
 
 The subcontractor must:
 
@@ -130,15 +130,15 @@ Select the missions you want to assign from the mission table, click the Actions
 
 choose Assign to subcontractor.
 
-![Screenshot](./screenshots/image-13.png)
+![Screenshot](<../.gitbook/assets/image-13 (4).png>)
 
 From the list, select the desired subcontractor to allocate the missions and click Apply.
 
-![Screenshot](./screenshots/image-14.png)
+![Screenshot](<../.gitbook/assets/image-14 (4).png>)
 
 The selected missions will now be assigned to the chosen subcontractor.
 
-![Screenshot](./screenshots/image-15.png)
+![Screenshot](<../.gitbook/assets/image-15 (4).png>)
 
 Use the following steps to filter missions assigned to subcontractors
 
@@ -152,11 +152,11 @@ In the Allotted to drop-down, select the desired subcontractor.
 
 Click Apply to display the missions assigned to the selected subcontractor.
 
-![Screenshot](./screenshots/image-16.png)
+![Screenshot](<../.gitbook/assets/image-16 (4).png>)
 
 The mission tab will now show only the missions allocated to the chosen subcontractor.
 
-![Screenshot](./screenshots/image-17.png)
+![Screenshot](<../.gitbook/assets/image-17 (4).png>)
 
 The Subcontractor Management feature equips transporters with the tools to efficiently outsource logistics operations. By enabling subcontractor setup and management, creation and assignment of subcontractor planners and drivers, mission allocation, subcontractor route creation, zone-based auto-assignment, subcontractor self-sufficiency, and real-time progress tracking, this feature ensures a streamlined and effective logistics management process.
 
@@ -170,17 +170,17 @@ Navigate to the Configuration module.
 
 Open the Manage User Profile section.
 
-![Screenshot](./screenshots/image-18.png)
+![Screenshot](<../.gitbook/assets/image-18 (4).png>)
 
 Update the subcontractor’s access by enabling Vehicles and Optimization rights.
 
-![Screenshot](./screenshots/image-19.png)
+![Screenshot](<../.gitbook/assets/image-19 (4).png>)
 
 Once these permissions are granted, subcontractors can log in and use the route optimization
 
 features.
 
-![Screenshot](./screenshots/image-20.png)
+![Screenshot](<../.gitbook/assets/image-20 (4).png>)
 
 Running Optimization with Subcontractor Login
 
@@ -190,19 +190,19 @@ Go to the Missions tab.
 
 Select the missions to optimize, click the Actions button, and choose Optimize.
 
-![Screenshot](./screenshots/image-21.png)
+![Screenshot](<../.gitbook/assets/image-21 (4).png>)
 
 Define the optimization scope by selecting date range, team, and vehicles, then click Optimize.
 
-![Screenshot](./screenshots/image-22.png)
+![Screenshot](<../.gitbook/assets/image-22 (4).png>)
 
 When satisfied with the outcome, click Stop and see the result.
 
-![Screenshot](./screenshots/image-23.png)
+![Screenshot](<../.gitbook/assets/image-23 (4).png>)
 
 An optimization summary is displayed. Click Display the simulation to analyze results.
 
-![Screenshot](./screenshots/image-24.png)
+![Screenshot](<../.gitbook/assets/image-24 (4).png>)
 
 Alternatively, click Validate routes to publish results directly without reviewing them.
 
@@ -212,24 +212,24 @@ Select the routes to validate.
 
 Open the Actions menu, then click Validate.
 
-![Screenshot](./screenshots/image-25.png)
+![Screenshot](<../.gitbook/assets/image-25 (4).png>)
 
 Confirm by clicking OK.
 
-![Screenshot](./screenshots/image-26.png)
+![Screenshot](<../.gitbook/assets/image-26 (3).png>)
 
 The route is validated, and a confirmation notification appears.
 
-![Screenshot](./screenshots/image-27.png)
+![Screenshot](<../.gitbook/assets/image-27 (3).png>)
 
 At the bottom of the popup, activate Publish to the mobile app if you want to share the route
 
 with the driver.
 
-![Screenshot](./screenshots/image-28.png)
+![Screenshot](<../.gitbook/assets/image-28 (3).png>)
 
 If conflicts are listed, review them. To proceed anyway, click Force to validate.
 
 The validated route is published to the mobile app.
 
-![Screenshot](./screenshots/image-29.png)
+![Screenshot](<../.gitbook/assets/image-29 (3).png>)
