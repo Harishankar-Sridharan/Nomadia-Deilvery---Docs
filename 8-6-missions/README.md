@@ -840,7 +840,7 @@ To configure and manage sub-status configuration types in Nomadia Delivery, foll
 
 4. Define the required actions for each sub-status, such as making signature mandatory, requiring a photo, etc.
 
-<figure><img src="../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
 
 5. Repeat the process to create additional sub-statuses and link them to the desired templates.
 
@@ -1135,11 +1135,11 @@ The document templates will be downloaded successfully.
 
 7. Edit the information as needed
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
 
 7. Click on Save
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -1147,29 +1147,29 @@ The document templates will be downloaded successfully.
 
 1. Go to Configuration.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
 
 2. Click on Configuration Menu
 3. Under Customization, click on Document Templates
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
 
 4. Click the Actions dropdown menu
 5. Click on Import
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
 
 6. Click on Browse Computer to upload the file.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
 
 7. Select a Valid file from a local system
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
 
 The document templates will be imported successfully.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -1182,7 +1182,7 @@ The document templates will be imported successfully.
 5. Click the Actions dropdown menu
 6. Click on Enable/Disable
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
 
 7. The document templates will be enabled / disabled successfully.
 
@@ -1195,11 +1195,11 @@ The document templates will be imported successfully.
 5. Click the Actions dropdown menu
 6. Click on Delete
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
 
 7. The document templates will be deleted successfully.
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
 
 #### 1.10.7. Show/Hide default templates
 
@@ -1210,7 +1210,7 @@ The document templates will be imported successfully.
 5. Click the Actions dropdown menu
 6. Click on Show/Hide Default Template
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
 
 ### 1.11. Manage Document Library
 
@@ -1222,19 +1222,19 @@ Ensure your file is in one of these supported formats before proceeding: XLSX, D
 2. Click on Configuration Menu
 3. Under My data, click on Document Library
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
 
 4. Click on Browse Computer to upload the file
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
 
 5. Select a Valid file from a local system.
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
 
 6. The documents will be imported successfully.
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 
 ### 1.12. Document recommendations
 
@@ -1244,37 +1244,37 @@ The Document Recommendations feature ensures that all required paperwork is avai
 
 1. Open the Nomadia Delivery application and navigate to the Missions tab
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
 
 2. Click Actions and select Add (Beta).
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
 
 3. Enter the Agency name.
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
 
 4. Click the Pencil icon in the top-right corner.
 
-<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
 
 5. Enable the Add documents toggle and click Save.
 
-<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
 
 6. Enter the delivery address.
 
-<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
 
 7. Click Add.
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
 
 Once the delivery address is added, the Document Recommendation list is automatically displayed based on the consignee’s country (delivery country). This helps users identify the mandatory documents that must be uploaded to meet legal requirements when transporting missions across countries.
 
-<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
 
 #### 1.12.2. Recommendations While Editing the Document
 
@@ -1282,49 +1282,49 @@ To set up recommendations for Nomadia Delivery, follow the steps below.
 
 1. Open the Nomadia Delivery application and go to the Configuration tab.
 
-<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
 
 2. Select Document Library from the list.
 
-<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
 
 3. Select the Document Recommendations tab.
 
-<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
 
 4. Click the Actions menu, then select Add to create a new document recommendation.
 5. Alternatively, users can import the document recommendation list using an Excel file from the same Actions menu.
 
-<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
 
 6.  A recommendation list can be applied to multiple countries simultaneously.
 
     * Alternatively, a country can have both a general recommendation list and a country-specific recommendation list. In such cases, both lists are merged and displayed during mission creation or editing.
     * Links can be added to the recommendation list, allowing users to access online or cloud-hosted documents such as SharePoint.
 
-    <figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
 
 
 
 7. Enable the toggle to activate the recommendation list.
 
-<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
 
 8. Click Add to create the document recommendation list.
 
-<figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
 
 The document recommendation lists are displayed on the table.
 
-<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
 
 When creating or editing a mission, the document recommendation list is displayed based on the consignee’s country (delivery country). This helps users identify the documents that must be uploaded to comply with legal requirements when transporting missions from one country to another.
 
-<figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
 
 If a country has multiple recommendation lists, they are seamlessly merged and displayed with a separator.
 
-<figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
 
 ### 1.13. Manage Container Types
 
@@ -1338,29 +1338,29 @@ You can group multiple containers together and track the quantity of each contai
 
 1. Go to Configuration.
 
-<figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
 
 2. Click on Configuration Menu
 3. Under Customization, click on Container Types
 
-<figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
 
 4. Click the Actions dropdown menu
 5. Click on Add
 
-<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
 
 6. Enter the Code and Translation
 
-<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
 
 7. Click on Save
 
-<figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
 
 Container type will be created successfully.
 
-<figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
 
 #### 1.13.2. Edit a Container Type
 
@@ -1370,11 +1370,11 @@ Container type will be created successfully.
 4. Click the Pencil icon of the chosen container type
 5. Edit the information as needed
 
-<figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
 
 6. Click on Save
 
-<figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
 
 #### 1.13.3. Delete a Container Type
 
@@ -1385,11 +1385,11 @@ Container type will be created successfully.
 5. Click on Actions
 6. Click on Delete
 
-<figure><img src="../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
 
 The container type will be deleted successfully
 
-<figure><img src="../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
 
 ### 1.14. Manage Mission’s Notifications
 
@@ -1399,21 +1399,21 @@ The Manage Mission’s Notifications enable administrators and dispatchers to co
 
 1. Go to Configuration.
 
-<figure><img src="../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
 
 2. Click on Configuration Menu
 3. Under Fulfillment and Client Experience, click on Configure Outgoing Messages
 
-<figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
 
 4. Select the General Configuration
 5. Under Configure Outgoing Emails to the Customers, enable the Customers Outgoing Email Service
 
-<figure><img src="../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
 
 6. Click on Save
 
-<figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
 
 #### 1.14.2. Enable SMS Notifications
 
@@ -1424,7 +1424,7 @@ The Manage Mission’s Notifications enable administrators and dispatchers to co
 5. Under Configure Outgoing SMS to the Customers, enable the Customers Outgoing SMS Service
 6. Click on Save
 
-<figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
 
 **Note**: SMS notifications are provided as an additional service.
 
@@ -1441,11 +1441,11 @@ The "Manage Missions" documents specifically refer to guides and documentation t
 5. Click on Import
 6. Click on Browse Computer
 
-<figure><img src="../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
 
 7. Select a Valid file to import a document
 
-<figure><img src="../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
 
 The mission documents will be imported successfully
 
@@ -1454,20 +1454,20 @@ The mission documents will be imported successfully
 1. Navigate to the Missions Tab.
 2. Locate the desired mission and click the pencil icon to open it in edit mode.
 
-<figure><img src="../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
 
 3. In the left-hand menu, select Documents.
 4. Click Browse Computer to open your file explorer.
 
-<figure><img src="../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
 
 5. Select a valid document from your local system to upload.
 
-<figure><img src="../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
 
 6. The mission documents will be uploaded successfully.
 
-<figure><img src="../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
 
 #### 1.15.3. Download a Document
 
@@ -1476,11 +1476,11 @@ The mission documents will be imported successfully
 3. In the left-hand menu, select Documents.
 4. Click on Download
 
-<figure><img src="../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
 
 5. The mission documents will be downloaded successfully.
 
-<figure><img src="../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
 
 #### 1.15.4. Delete a Document
 
@@ -1489,11 +1489,11 @@ The mission documents will be imported successfully
 3. In the left-hand menu, select Documents.
 4. Click on the Bin icon of the chosen document
 
-<figure><img src="../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
 
 5. The mission documents will be deleted successfully.
 
-<figure><img src="../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
 
 #### 1.15.5. ACCESSING ECMR
 
@@ -1505,289 +1505,368 @@ Download the eCMR PDF directly through the delivery management system.
 
 1. Log in to the delivery management system and go to the Missions tab.
 
-<figure><img src="../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
 
 2.  Before generating the eCMR, ensure that the company name, address, and SIRET number are configured in **Configuration → General**.
 
     * These details are required by law and will be displayed on the eCMR.
 
-    <figure><img src="../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (125).png" alt=""><figcaption></figcaption></figure>
 3. Select the routes for which you want to generate the eCMR.
 4. Click Actions → Consignment notes.
 
-<figure><img src="../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
 
 5. Click the Download button.
 
-<figure><img src="../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
 
 The system will generate the eCMR PDF, which you can download and share with deliverers.
 
-<figure><img src="../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
 
-##
 
-##
 
-##
-
-## 6.4. Manage Missions
+### 2. Manage Missions
 
 The following fields are available at the mission level, allowing you to configure various mission constraints based on your business requirements.
 
-### 6.4.1. Mission Creation Configuration
+<table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">Mission Section</td><td valign="top">Mission Field</td><td valign="top">Description</td></tr><tr><td valign="top">General Information</td><td valign="top">Mission Number</td><td valign="top">A unique identifier automatically or manually assigned to the mission for tracking and reference purposes.</td></tr><tr><td valign="top"> </td><td valign="top">Sender Barcode</td><td valign="top">Barcode associated with the sender or shipment, used for scanning and quick identification during processing and delivery operations</td></tr><tr><td valign="top"> </td><td valign="top">Parent Container ID</td><td valign="top">Identifies the parent container to which the mission or shipment belongs, enabling hierarchical shipment tracking</td></tr><tr><td valign="top"> </td><td valign="top">Grouping key</td><td valign="top">A value used to group multiple missions together for planning, routing, or operational purposes.</td></tr><tr><td valign="top"> </td><td valign="top">Container Type</td><td valign="top">Defines the type of container used for the shipment (e.g., box, pallet, envelope), which may influence handling or transportation constraints.</td></tr><tr><td valign="top"> </td><td valign="top">Status Configuration Type</td><td valign="top">Specifies the status workflow configuration applied to the mission, determining available mission states and transitions.</td></tr><tr><td valign="top"> </td><td valign="top">Notification Configuration Type</td><td valign="top">Defines the notification rules associated with the mission, such as alerts sent to customers, drivers, or operators during mission progress.</td></tr><tr><td valign="top"> </td><td valign="top">Scheduled Deliverer</td><td valign="top">The planned resource (driver, technician, or agent) assigned to execute the mission.</td></tr><tr><td valign="top"> </td><td valign="top">Origin</td><td valign="top">The starting location from which the mission begins or where the goods are picked up.</td></tr><tr><td valign="top"> </td><td valign="top">Priority</td><td valign="top">Indicates the importance level of the mission, which may influence planning order and execution scheduling.</td></tr><tr><td valign="top"> </td><td valign="top">Storage place</td><td valign="top">Specifies the storage or warehouse location associated with the mission before dispatch or after completion.</td></tr><tr><td valign="top"> </td><td valign="top">Fixed Visit Duration</td><td valign="top">Defines the expected duration required to complete the mission at the location.</td></tr><tr><td valign="top"> </td><td valign="top">Keys</td><td valign="top">Reference identifiers or tags used for classification, filtering, or integration purposes.</td></tr><tr><td valign="top"> </td><td valign="top">Compatibility with the resources</td><td valign="top">Defines constraints ensuring that only compatible resources (based on skills, vehicle type, or configuration) can be assigned to the mission.</td></tr><tr><td valign="top"> </td><td valign="top">Require all skills to be compatible</td><td valign="top"><p>When enabled, the assigned resource must possess all required skills defined for the mission.</p><p> </p></td></tr><tr><td valign="top"> </td><td valign="top">Delivery to be executed before any pickup</td><td valign="top">Ensures delivery operations are completed before pickup tasks within the same mission sequence.</td></tr><tr><td valign="top"> </td><td valign="top">One time password</td><td valign="top">A security verification code required to validate mission completion or delivery confirmation.</td></tr><tr><td valign="top"> </td><td valign="top">Origin agency</td><td valign="top">The agency or operational unit responsible for initiating the mission.</td></tr><tr><td valign="top"> </td><td valign="top">Destination agency</td><td valign="top">The agency or operational unit responsible for receiving or completing the mission.</td></tr><tr><td valign="top"> </td><td valign="top">Leg</td><td valign="top">Represents a segment of a multi-stage mission or transportation route.</td></tr><tr><td valign="top"> </td><td valign="top">Mission status</td><td valign="top">Displays the current state of the mission within the operational workflow (e.g., Planned, Assigned, In Progress, Completed, Cancelled).</td></tr><tr><td valign="top">Pickup Information</td><td valign="top">Pickup (Address)</td><td valign="top">Specifies the primary address where the pickup operation will take place.</td></tr><tr><td valign="top"> </td><td valign="top">Pickup (Address Complement)</td><td valign="top">Provides additional address details such as building name, apartment number, floor, or access instructions to help locate the pickup point accurately.</td></tr><tr><td valign="top"> </td><td valign="top">Pickup Designation</td><td valign="top">Identifies the pickup location or organization name associated with the shipment.</td></tr><tr><td valign="top"> </td><td valign="top">Pickup (First name)</td><td valign="top">First name of the contact person available at the pickup location.</td></tr><tr><td valign="top"> </td><td valign="top">Pickup (Last name)</td><td valign="top">Last name of the contact person responsible for coordinating the pickup.</td></tr><tr><td valign="top"> </td><td valign="top">Pickup (Cell phone)</td><td valign="top">Mobile phone number of the pickup contact person, used for communication during mission execution.</td></tr><tr><td valign="top"> </td><td valign="top">Pickup (Landline phone)</td><td valign="top">Landline telephone number of the pickup location or contact person.</td></tr><tr><td valign="top"> </td><td valign="top">Pickup (Email)</td><td valign="top">Email address of the pickup contact for sending notifications or communication related to the mission.</td></tr><tr><td valign="top"> </td><td valign="top">Pickup asked date</td><td valign="top">The requested date and time when the pickup should begin.</td></tr><tr><td valign="top"> </td><td valign="top">Pickup asked end date</td><td valign="top">The latest acceptable date and time by which the pickup must be completed.</td></tr><tr><td valign="top"> </td><td valign="top">Pickup Instructions</td><td valign="top">Special instructions or operational notes provided to the resource performing the pickup (e.g., access procedures, handling requirements, security instructions).</td></tr><tr><td valign="top"> </td><td valign="top">Scannable container code</td><td valign="top">Barcode or scannable identifier associated with the container, enabling quick verification and tracking during pickup operations.</td></tr><tr><td valign="top">Delivery Information</td><td valign="top">Address</td><td valign="top">Specifies the primary destination address where the delivery must be completed.</td></tr><tr><td valign="top"> </td><td valign="top">Delivery (Address Complement)</td><td valign="top">Provides additional location details such as apartment number, building name, floor, gate number, or access instructions to help accurately locate the delivery point.</td></tr><tr><td valign="top"> </td><td valign="top">Designation</td><td valign="top">Indicates the name of the delivery location, company, or organization receiving the shipment.</td></tr><tr><td valign="top"> </td><td valign="top">First name</td><td valign="top">First name of the recipient or contact person at the delivery location.</td></tr><tr><td valign="top"> </td><td valign="top">Last name</td><td valign="top">Last name of the recipient or responsible contact person.</td></tr><tr><td valign="top"> </td><td valign="top">Cell phone</td><td valign="top">Mobile phone number of the delivery contact, used for communication during delivery execution.</td></tr><tr><td valign="top"> </td><td valign="top">Landline phone</td><td valign="top">Landline telephone number associated with the delivery location or recipient.</td></tr><tr><td valign="top"> </td><td valign="top">Email</td><td valign="top">Email address of the recipient used for notifications, confirmations, or delivery updates.</td></tr><tr><td valign="top"> </td><td valign="top">Delivery asked date</td><td valign="top">The requested date and time when the delivery should start or be performed.</td></tr><tr><td valign="top"> </td><td valign="top">Delivery asked end date</td><td valign="top">The latest acceptable date and time by which the delivery must be completed.</td></tr><tr><td valign="top"> </td><td valign="top">Cash on delivery</td><td valign="top">Specifies the amount to be collected from the recipient at the time of delivery, if applicable.</td></tr><tr><td valign="top"> </td><td valign="top">Delivery price</td><td valign="top">Defines the delivery charge associated with the mission for billing or accounting purposes.</td></tr><tr><td valign="top"> </td><td valign="top">Delivery instructions</td><td valign="top">Special notes or operational instructions provided to the delivery resource (e.g., access procedures, preferred delivery time, handling precautions).</td></tr><tr><td valign="top"> </td><td valign="top">Fallback delivery in PUDO</td><td valign="top">Indicates whether the shipment can be redirected to a Pick-Up and Drop-Off (PUDO) point if the primary delivery attempt fails or the recipient is unavailable.</td></tr><tr><td valign="top">Custom fields</td><td valign="top"> </td><td valign="top">The Custom Fields section allows users to define and capture additional information specific to business requirements that are not covered by the standard mission fields.</td></tr><tr><td valign="top">Articles</td><td valign="top"> </td><td valign="top">The Articles section contains detailed information about the items or goods associated with a mission. It allows users to define the characteristics, quantity, and handling requirements of the products being picked up or delivered.</td></tr><tr><td valign="top">Opening hours</td><td valign="top"> </td><td valign="top">The Opening Hours section defines the time periods during which a pickup or delivery location is available for operational activities. It ensures that missions are scheduled and executed only within the authorized working hours of the location.</td></tr><tr><td valign="top">PUDO Information</td><td valign="top">PUDO Id</td><td valign="top">A unique identifier assigned to the Pick-Up and Drop-Off point used for tracking and system reference.</td></tr><tr><td valign="top"> </td><td valign="top">PUDO (Address complement)</td><td valign="top">Provides additional address details such as building information, floor number, or specific access instructions to help locate the PUDO point easily.</td></tr><tr><td valign="top"> </td><td valign="top">PUDO Address</td><td valign="top">Specifies the physical address of the Pick-Up and Drop-Off location.</td></tr><tr><td valign="top"> </td><td valign="top">PUDO first name</td><td valign="top">First name of the contact person responsible at the PUDO location.</td></tr><tr><td valign="top"> </td><td valign="top">PUDO last name</td><td valign="top">Last name of the contact person managing or coordinating operations at the PUDO point.</td></tr><tr><td valign="top"> </td><td valign="top">PUDO landline phone</td><td valign="top">Landline telephone number of the PUDO location for operational communication.</td></tr><tr><td valign="top"> </td><td valign="top">PUDO cell phone</td><td valign="top">Mobile phone number of the PUDO contact person for real-time communication during mission execution.</td></tr><tr><td valign="top"> </td><td valign="top">PUDO email</td><td valign="top">Email address associated with the PUDO location used for notifications and operational correspondence.</td></tr><tr><td valign="top"> </td><td valign="top">PUDO fixed visit duration</td><td valign="top">Defines the standard time required to complete operations (pickup or drop-off) at the PUDO location. This duration is used by the planning system for scheduling and route optimization.</td></tr><tr><td valign="top"> </td><td valign="top">Pickup PUDO</td><td valign="top">Pickup PUDO refers to the Pick-Up and Drop-Off (PUDO) location designated as the pickup point for a mission instead of the standard pickup address.</td></tr><tr><td valign="top"> </td><td valign="top">Delivery PUDO</td><td valign="top">Delivery PUDO refers to the Pick-Up and Drop-Off (PUDO) location used as an alternative or final delivery destination instead of the recipient’s primary address.</td></tr></tbody></table>
+
+### 2.1. Mission Creation Configuration
 
 Fields can be organized within their respective blocks/sections to structure the mission creation layout according to your requirements. While the arrangement of fields inside a block remains fixed, you can modify the overall layout by changing the order of the blocks or sections.
 
 Blocks or sections can be reordered using drag-and-drop functionality. Any changes made through drag-and-drop are automatically synchronized with the visibility and order displayed in the left-hand side user interface.
 
-Go to Manage Missions
+1. Go to Manage Missions
 
-Click Add Mission
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-Enter the Mission type, Agency
+2. Click Add Mission
 
-Click Next
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-Click the pencil icon in the top right corner.
+3. Enter the Mission type, Agency
 
-View the available information blocks:
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-General Information
+4. Click Next
 
-Pickup Information
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-Delivery Information
+5. Click the pencil icon in the top right corner.
 
-PUDO Information
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-Custom Fields
+6.  View the available information blocks:
 
-Configure fields within each block:
+    * General Information
+    * Pickup Information
+    * Delivery Information
+    * PUDO Information
+    * Custom Fields
 
-Set fields as editable, read-only, or disabled.
+    <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-Use drag and drop to:
 
-Reorder fields within a block.
+7. Configure fields within each block: Set fields as editable, read-only, or disabled.
 
-Group multiple fields into a single container using the six-dot handle.
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-Group the duplicated parcels in one container
+8. Use drag and drop to:
+   * Reorder fields within a block.
+   * Group multiple fields into a single container using the six-dot handle.
+   *   Group the duplicated parcels in one container:
 
-Selecting Yes automatically creates a mission based on the type selected below.
+       * Selecting **Yes** automatically creates a mission based on the type selected below.
+       * Selecting **No** prevents automatic mission creation.
+       * Optional — The user is prompted with this option during mission creation.
 
-Selecting No prevents automatic mission creation.
+       <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
-Optional — The user is prompted with this option during mission creation.
 
-Expand or collapse blocks as needed.
+9. Expand or collapse blocks as needed.
 
-Save the new mission configuration.
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
-### 6.4.2. Add a Mission
+10. Save the new mission configuration.
+
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
+### 2.2. Add a Mission
 
 Adding Mission allows users to create a mission by selecting a mission type, choosing a configuration, and entering mandatory mission information. The system enforces validations based on the selected mission type.
 
-Go to Missions
+1. Go to Missions
 
-Click Add from the Actions menu
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
-Select Mission Type, (Pickup information - delivery) Delivery information -pickup), Agency.
+2. Click Add from the Actions menu
 
-Click Next.
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
-Select a Mission Configuration:
+3. Select Mission Type, (Pickup information - delivery) Delivery information -pickup), Agency.
 
-Default configuration, or
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
-Any Custom configuration was created earlier.
+4. Click Next.
 
-Enter mandatory mission details based on mission type.
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
-Click Add or Add and Print.
+5.  Select a Mission Configuration:
 
-### 6.4.3 Add Mission Beta
+    * Default configuration
+    * Any custom configuration created earlier
 
-The Add (Beta) interface introduces a simplified, single-page mission creation experience in Nomadia Delivery. Designed to minimize repetitive steps and improve clarity, this interface replaces the traditional multi-step wizard with a unified view that brings together all mission parameters, constraints, and dependencies in one place.
+    <figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+6. Enter mandatory mission details based on mission type.
 
-Custom Field Grouping: Custom fields can now be grouped under a defined group name. During mission creation, these fields are displayed together under their respective group, making it easier to identify sections and enter information efficiently.
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
-Group Ordering: Custom field groups can be reordered using drag-and-drop while creating or editing a configuration. The mission creation form reflects this order, allowing users to follow a workflow that best suits their process.
+7. Click Add or Add and Print.
 
-Sorting Fields Within Groups: Custom fields within a group can be sorted based on Name (default) or Identifier (for custom ordering), giving users precise control over how fields are displayed within each group.
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
-Custom Fields for Parcels: Previously limited to the mission level, custom fields can now be associated with individual parcels when duplicating missions. Custom fields used for parcels cannot be enabled at the mission level, providing greater flexibility when duplicating missions for the same customer or address.
+### 2.3 Add Mission Beta
 
-Group Missions in a Container: When duplicating missions, users can now group them by default within a parent container.
+1. The Add (Beta) interface introduces a simplified, single-page mission creation experience in Nomadia Delivery. Designed to minimize repetitive steps and improve clarity, this interface replaces the traditional multi-step wizard with a unified view that brings together all mission parameters, constraints, and dependencies in one place.
+   * **Custom Field Grouping**: Custom fields can now be grouped under a defined group name. During mission creation, these fields are displayed together under their respective group.
+   * **Group Ordering**: Custom field groups can be reordered using drag-and-drop while creating or editing a configuration.
+   * **Sorting Fields Within Groups**: Custom fields can be sorted based on Name or Identifier for custom ordering.
+   * **Custom Fields for Parcels**: Custom fields can now be associated with individual parcels when duplicating missions.
+   * **Group Missions in a Container**: Duplicated missions can be grouped within a parent container.
+   * **Immediate Document Attachment**: The Add Document page appears immediately after mission creation to attach documents.
 
-Immediate Document Attachment: Earlier, documents could only be added after mission creation through the mission editor. With this enhancement, the Add Document page is displayed immediately after mission creation, allowing documents to be attached right away.
+To group custom fields in the mission creation form using a group name:
 
-To group custom fields in the mission creation form using a group name, follow the steps below:
+* Open the Nomadia Delivery application and go to the Configuration tab.
 
-Open the Nomadia Delivery application and go to the Configuration tab.
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
-From the list, select Custom fields,
+* From the list, select **Custom fields**.
 
-Click on Missions
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
-Click the Pencil icon to edit an existing custom field.
+* Click on **Missions**.
 
-In the Group name autocomplete field, enter a group name. You can choose an existing group or create a new one on the fly.
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
-Once the group name is selected, click Save to apply the changes.
+* Click the **Pencil icon** to edit an existing custom field.
 
-The assigned group name will be displayed in the Custom Fields table.
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
-To arrange custom field groups in the desired order during mission creation, follow the steps below:
+*   In the **Group name** field:
 
-Open the Nomadia Delivery application and navigate to the Configuration tab.
+    * Enter a group name.
+    * Choose an existing group or create a new one.
 
-Go to the Missions tab.
+    <figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+* Click **Save** to apply the changes.
 
-Click the Actions menu and select Add (beta).
+<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
-Choose the mission type and agency, then click Next.
+* The assigned group name will be displayed in the Custom Fields table.
 
-Click the Pencil icon to edit the mission configuration.
+<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
-Expand the Custom fields accordion.
+To arrange custom field groups in the desired order:
 
-All custom field groups are displayed as separate accordions.
+* Open the Nomadia Delivery application and navigate to the Configuration tab.
 
-Click a Custom field group accordion to expand it.
+<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
-The custom fields belonging to the selected group are listed.
+* Go to the **Missions** tab.
 
-Select the fields you want to display in the mission creation form.
+<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
-The mission creation form dynamically updates the field visibility based on your selections.
+* Click **Actions → Add (beta)**.
 
-Drag and drop the custom field groups to reorder them and control how they appear in the mission creation form.
+<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
-To change the order of fields within a group, enable field display by toggling them using the identifier or name.
+* Choose the mission type and agency
 
-In addition to the default mandatory fields, you can mark custom fields as mandatory directly in the mission configuration by enabling the corresponding toggle.
+<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
-Once all changes are complete, click Save to apply them.
+* Click **Next**.
 
-You can use the same procedure to activate custom fields for parcels.
+<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
-To group missions within a container, follow the steps below:
+* Click the **Pencil icon** to edit the mission configuration.
 
-Open the Nomadia Delivery application and navigate to the Configuration tab.
+<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
-Go to the Missions tab.
+*   Expand the **Custom fields** accordion:
 
-Click the Actions menu and select Add (beta).
+    * All custom field groups are displayed as separate accordions.
+    * Click a group to expand it.
+    * Fields belonging to that group are listed.
 
-Choose the mission type and agency, then click Next.
+    <figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+*   Select the fields to display:
 
-Click the Pencil icon to edit the mission configuration.
 
-From the Group your parcels drop-down list, select one of the available options.
 
-Yes: Group missions in a container automatically if multiple parcels are added to the mission.
+    <figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+* The form dynamically updates based on selection.
 
-No: Do not group missions even if multiple parcels are added to the mission.
+<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
-Optional: Let the user decide the choice during the mission creation process.
 
-If set to ‘Yes’, select the default type of container to be created in the container type for grouping drop-down.
 
-Please note that only aggregable containers that can contain other missions will be displayed in this drop-down.
+*   Use drag and drop to:
 
-After making the changes to the mission configuration, click the ‘Save’ button to save the changes.
+    * Reorder custom field groups.
+    * Control how they appear in the mission creation form.
 
-To add documents to missions immediately after the mission creation, follow the steps below:
+    <figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+*   To change field order within a group:
 
-Open the Nomadia Delivery application and navigate to the Configuration tab.
+    * Enable fields using identifier or name.
 
-Go to the mission tab.
+    <figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+*   Configure mandatory fields:
 
-Click the ‘Actions’ menu and click the ‘Add(beta)’ menu item
+    * Toggle required fields as needed.
 
-Select the mission type and the agency and click the ‘Next’ button
+    <figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+* Click **Save** to apply changes.
 
-Edit the mission configuration by clicking the ‘Pencil’ icon.
+<figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
-Activate the toggle ‘Add documents’ in the mission creation.
+* The same procedure can be used to activate custom fields for parcels.
 
-After making the changes to the mission configuration, click the ‘Save’ button to save the changes.
+To group missions within a container:
 
-If set to yes, the question to add documents to the mission is asked immediately after the mission is created.
+* Open the Nomadia Delivery application and navigate to the Configuration tab.
+* Go to the **Missions** tab.
+* Click **Actions → Add (beta)**.
+* Choose the mission type and agency, then click **Next**.
+* Click the **Pencil icon** to edit the mission configuration.
+*   From **Group your parcels**:
 
-The user can opt to add documents from the local computer or from the document library and click ‘Save’ to attach documents to the mission.
+    * **Yes**: Automatically group missions when multiple parcels are added.
+    * **No**: Do not group missions.
 
-The documents will be added successfully to the newly created mission.
+    <figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
-### 6.4.4. Group missions in one container
+    * **Optional**: Let the user decide during mission creation.
+*   If **Yes** is selected:
+
+    * Choose the default container type.
+    * Only aggregable containers will be displayed.
+
+    <figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+* Click **Save** to apply changes.
+
+<figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+
+To add documents right after mission creation:
+
+* Open the Nomadia Delivery application and navigate to the Configuration tab.
+* Go to the **Missions** tab.
+* Click **Actions → Add (beta)**.
+* Select mission type and agency, then click **Next**.
+* Click the **Pencil icon** to edit the configuration.
+* Enable the **Add documents** toggle.
+
+<figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+
+* Click **Save** to apply changes.
+
+<figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+
+* If enabled:
+  * The system prompts to add documents immediately after mission creation.
+  *   Documents can be added from:
+
+      * Local computer
+      * Document library
+
+      <figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+* Click **Save** to attach documents.
+
+<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+
+* Documents are successfully added to the mission.
+
+<figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+
+
+
+### 2.4. Group missions in one container
 
 This feature allows multiple missions to be grouped into a single parent container, such as a pallet, box, or cardboard container. Grouping facilitates the management of bulk orders for a single customer or location, allowing the system to treat several child missions as part of one parent entity.
 
-Grouping via Mission Duplication
+**Grouping via Mission Duplication**
 
-Navigate to the Mission tab.
+1. Navigate to the Mission tab.
 
-Create a new mission from the Actions menu
+<figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
-Select the mission and use the Duplicate feature. Duplication can be completed within the Parcel section. If the Parcel details are not visible, please enable the Parcel section in the mission configuration.
+2. Create a new mission from the Actions menu
 
-Select the desired Container Type (e.g., Pallet, Box) from the dropdown menu.
+<figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
 
-When the system prompts "Group in container?", select Yes.
+3. Select the mission and use the Duplicate feature. Duplication can be completed within the Parcel section. If the Parcel details are not visible, please enable the Parcel section in the mission configuration.
 
-Parent containers and Child missions have been created.
+<figure><img src="../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+
+4. Select the desired Container Type (e.g., Pallet, Box) from the dropdown menu.
+
+<figure><img src="../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+
+5. When the system prompts "Group in container?", select Yes.
+
+<figure><img src="../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
+
+6. Parent containers and Child missions have been created.
+
+<figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
 
 This option is available in the Sub-status configuration.
 
-Grouping Existing Missions via Actions
+**Grouping Existing Missions via Actions**
 
-Select the mission(s) intended for grouping.
+1. Select the mission(s) intended for grouping.
 
-Click the Actions menu.
+<figure><img src="../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
-Select Group in one container.
+2. Click the Actions menu.
+3. Select Group in one container.
 
-Choose either new container to create a new parent or select an existing container by its ID.
+<figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
-Click Apply to update the Parent ID for the selected missions.
+4. Choose either new container to create a new parent or select an existing container by its ID.
+5. Click Apply to update the Parent ID for the selected missions.
 
-The missions have been grouped in the parent mission
+<figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
 
-### 6.4.5. Manage Urgent Missions
+6. The missions have been grouped in the parent mission
 
-### 6.4.5.1. Prioritizing a mission
+<figure><img src="../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
+
+### 2.5. Manage Urgent Missions
+
+### 2.5.1. Prioritizing a mission
 
 Prioritization allows users to set the urgency of a mission to ensure it is handled according to specific timelines or customer commitments. The system supports manual priority assignment, automatic assignment based on dates, and priority recalculation during route optimization.
 
 Manual Priority Assignment
 
-Select the mission(s) to be prioritized.
-
-Click the Prioritize button from the Actions menu
-
-Select the priority level: Normal, High, or Highest.
-
-Automatic Priority via Delivery Dates
-
-Open the mission creation or edit screen.
-
-Navigate to Delivery Information.
-
-Populate the Delivery Asked Date and Delivery Asked End Date.
-
-Save the mission; the system automatically sets the priority to Highest based on these commitment dates.
-
-Recalculating Priorities during Optimization
-
-Select the missions or parent route for optimization.
-
-Click Optimize from the Actions menu
-
-Switch the Recalculate Priorities toggle to ON.
-
-Run the optimization.
+1. Select the mission(s) to be prioritized.
+2. Click the Prioritize button from the Actions menu
+3. Select the priority level: Normal, High, or Highest.
+4. Automatic Priority via Delivery Dates
+5. Open the mission creation or edit screen.
+6. Navigate to Delivery Information.
+7. Populate the Delivery Asked Date and Delivery Asked End Date.
+8. Save the mission; the system automatically sets the priority to Highest based on these commitment dates.
+9. Recalculating Priorities during Optimization
+10. Select the missions or parent route for optimization.
+11. Click Optimize from the Actions menu
+12. Switch the Recalculate Priorities toggle to ON.
+13. Run the optimization.
 
 ### 6.4.5.2. Create an urgent mission
 
