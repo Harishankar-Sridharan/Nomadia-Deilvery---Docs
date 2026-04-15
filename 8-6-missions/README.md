@@ -840,24 +840,24 @@ To configure and manage sub-status configuration types in Nomadia Delivery, foll
 
 4. Define the required actions for each sub-status, such as making signature mandatory, requiring a photo, etc.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
 
 5. Repeat the process to create additional sub-statuses and link them to the desired templates.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 6. Once all templates are configured, navigate to the Missions tab.
 7. Click on the Mission Editor button to attach a sub-status template to a mission.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 8. Select the status configuration template for the chosen mission
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 9. Alternatively, configure templates in bulk during mission import by mapping the Excel field to the Status configuration type with values like BASIC, INTERMEDIATE, or ADVANCED.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 1.8.6. Trigger Notifications for Sub Status Changes
 
@@ -867,23 +867,23 @@ To configure notifications for sub-status changes, follow the steps below:
 
 1. Open the Nomadia Delivery application and go to the Configuration tab.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Select Sub-statuses from the list.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Click the Pencil icon next to the existing sub-status to edit it.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. The Custom Messages Configuration section is displayed at the bottom of the page.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 5. Click the + button to add the notification configuration to the sub status.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 6.  Notifications can be made for the following recipients:
 
@@ -891,25 +891,25 @@ To configure notifications for sub-status changes, follow the steps below:
     * **Consignee** – The original recipient of the mission (customer). Notifications are sent to the delivery email address or mobile number stored in the mission details.
     * **Other Recipients** – Internal stakeholders such as dispatch or logistics teams. This field accepts multiple email addresses or phone numbers, separated by commas.
 
-    <figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 7.  Notifications can be sent via Email or SMS.
 
     * To create a notification configuration, select a **recipient**, **message type**, and **message template**.
     * Only **custom message templates** are supported for this case.
 
-    <figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 8.  The Other Recipients field allows you to enter multiple email addresses or phone numbers, separated by commas.
 
     * This field is enabled only when **Other Recipients** is selected in the **Recipient** column.
 
-    <figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 9. After completing the configuration, click Save to apply and store the changes.
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 When the mobile user triggers a sub-status, all configured recipients automatically receive the update via Email or SMS at the same time, providing real-time information on the mission’s movement.
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -929,24 +929,24 @@ The Manage Article Types feature allows administrators to define and categorize 
 2. Click on Configuration Menu
 3. Under Customization, click on Types of Articles.
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. Click the Actions dropdown menu
 5. Click on Import
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 6. Click on Browse File to upload the file that contains the zone data.
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 
 7. Select a valid file from your local system.
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 
 8. The articles have been imported successfully.
 
-<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 1.93. Create an Article type
 
@@ -956,21 +956,21 @@ The Manage Article Types feature allows administrators to define and categorize 
 4. Click the Actions dropdown menu
 5. Click on Add
 
-<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
 6. Enter the Name and Translation
 
-<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23) (1).png" alt=""><figcaption></figcaption></figure>
 
 7. Click on Save
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>
 
 The article type has been created successfully
 
-<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 1.9.4. Edit an Article type
 
@@ -980,15 +980,15 @@ The article type has been created successfully
 4. Select an Article
 5. Click the Pencil icon
 
-<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
 
 6. Edit the information as needed
 
-<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (27) (1).png" alt=""><figcaption></figcaption></figure>
 
 7. Click on Save
 
-<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (28) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -1001,11 +1001,11 @@ The article type has been created successfully
 5. Click the Actions dropdown menu
 6. Click on Export
 
-<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
 
 The article types have been exported successfully
 
-<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (30) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 1.9.6. Delete an article type
 
@@ -1016,16 +1016,16 @@ The article types have been exported successfully
 5. Click the Actions dropdown menu
 6. Click on Delete
 
-<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (31) (1).png" alt=""><figcaption></figcaption></figure>
 
 7. You will see a confirmation pop-up message stating: "Do you want to delete the article?"
 8. Click on Delete
 
-<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (32) (1).png" alt=""><figcaption></figcaption></figure>
 
 The article types have been deleted successfully
 
-<figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (33) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -1036,24 +1036,24 @@ From the Mission page
 1. Click on Actions
 2. Select Add from the dropdown menu.
 
-<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (34) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Click on Articles
 4. Click on Add Articles
 
-<figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (35) (1).png" alt=""><figcaption></figcaption></figure>
 
 5. Enter the required information, including the Article name and Planned quantity
 
-<figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (36) (1).png" alt=""><figcaption></figcaption></figure>
 
 6. Click on Add
 
-<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (37) (1).png" alt=""><figcaption></figcaption></figure>
 
 The Articles will be added successfully.
 
-<figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (38) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 1.9.8. Edit a Mission Article
 
@@ -1061,20 +1061,20 @@ From the Mission page
 
 1. Click the pencil icon of the chosen mission
 
-<figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (39) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. In the left-hand menu, click the Articles tab
 
-<figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (40) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Edit the Article
 
-<figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (41) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. Update the necessary details such as Planned, Done, and Returned quantities
 5. Click on Save
 
-<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (42) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 1.9.9. Delete a Mission Article
 
@@ -1084,11 +1084,11 @@ From the Mission page
 2. In the left-hand menu, select the Articles tab
 3. Click on the Bin icon of the Article to delete
 
-<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (43) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. Mission articles will be deleted successfully.
 
-<figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (44) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 1.10. Manage Documents
 
@@ -1109,16 +1109,16 @@ You can design your own templates to replace the default one.
 3. Under Customization, click on Document Templates
 4. Select the Desired document from the list
 
-<figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (45) (1).png" alt=""><figcaption></figcaption></figure>
 
 5. Click the Actions dropdown menu
 6. Click on Download
 
-<figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (46) (1).png" alt=""><figcaption></figcaption></figure>
 
 The document templates will be downloaded successfully.
 
-<figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (47) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -1131,168 +1131,202 @@ The document templates will be downloaded successfully.
 5. Click the Actions dropdown menu
 6. Click on Edit
 
-<figure><img src="../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (48) (1).png" alt=""><figcaption></figcaption></figure>
 
 7. Edit the information as needed
-8. Click on Save
 
-###
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-###
+7. Click on Save
 
-###
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-###
 
-### 6.3.5.1.3. Import a Document Template
 
-Go to Configuration.
+#### 1.10.4. Import a Document Template
 
-Click on Configuration Menu
+1. Go to Configuration.
 
-Under Customization, click on Document Templates
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-Click the Actions dropdown menu
+2. Click on Configuration Menu
+3. Under Customization, click on Document Templates
 
-Click on Import
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-Click on Browse Computer to upload the file.
+4. Click the Actions dropdown menu
+5. Click on Import
 
-Select a Valid file from a local system
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+6. Click on Browse Computer to upload the file.
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+7. Select a Valid file from a local system
+
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 The document templates will be imported successfully.
 
-###
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
-### 6.3.5.1.4. Enable/Disable a Document Template
 
-Go to Configuration.
 
-Click on Configuration Menu
+#### 1.10.5. Enable/Disable a Document Template
 
-Under Customization, click on Document Templates
+1. Go to Configuration.
+2. Click on Configuration Menu
+3. Under Customization, click on Document Templates
+4. Select the Desired document from the list
+5. Click the Actions dropdown menu
+6. Click on Enable/Disable
 
-Select the Desired document from the list
-
-Click the Actions dropdown menu
-
-Click on Enable/Disable
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 7. The document templates will be enabled / disabled successfully.
 
-### 6.3.5.1.5. Delete a document Template
+#### 1.10.6. Delete a document Template
 
-Go to Configuration.
+1. Go to Configuration.
+2. Click on Configuration Menu
+3. Under Customization, click on Document Templates
+4. Select the Desired document from the list
+5. Click the Actions dropdown menu
+6. Click on Delete
 
-Click on Configuration Menu
-
-Under Customization, click on Document Templates
-
-Select the Desired document from the list
-
-Click the Actions dropdown menu
-
-Click on Delete
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 7. The document templates will be deleted successfully.
 
-###
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
-###
+#### 1.10.7. Show/Hide default templates
 
-###
+1. Go to Configuration.
+2. Click on Configuration Menu
+3. Under Customization, click on Document Templates
+4. Select the Desired document from the list
+5. Click the Actions dropdown menu
+6. Click on Show/Hide Default Template
 
-###
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
-### 6.3.5.1.6. Show/Hide default templates
-
-Go to Configuration.
-
-Click on Configuration Menu
-
-Under Customization, click on Document Templates
-
-Select the Desired document from the list
-
-Click the Actions dropdown menu
-
-Click on Show/Hide Default Template
-
-### 6.3.5.2. Manage Document Library
+### 1.11. Manage Document Library
 
 The Manage Document Library feature provides a centralized repository to store, organize, and distribute commonly used documents across the delivery organization. It ensures quick access to reference materials such as safety instructions, compliance guidelines, operating procedures, and training manuals for both back-office staff and field agents.
 
 Ensure your file is in one of these supported formats before proceeding: XLSX, DOCX, PDF, JPG, or PNG
 
-Go to Configuration.
+1. Go to Configuration.
+2. Click on Configuration Menu
+3. Under My data, click on Document Library
 
-Click on Configuration Menu
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
-Under My data, click on Document Library
+4. Click on Browse Computer to upload the file
 
-Click on Browse Computer to upload the file
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
-Select a Valid file from a local system.
+5. Select a Valid file from a local system.
+
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 6. The documents will be imported successfully.
 
-### 6.3.5.3. Document recommendations
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+
+### 1.12. Document recommendations
 
 The Document Recommendations feature ensures that all required paperwork is available for each international shipment. It helps maintain compliance, prevents missing documents, and improves overall process reliability.
 
-### 6.3.5.3.1. Recommendations While Adding the Document
+#### 1.12.1. Recommendations While Adding the Document
 
-Open the Nomadia Delivery application and navigate to the Missions tab
+1. Open the Nomadia Delivery application and navigate to the Missions tab
 
-Click Actions and select Add (Beta).
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
-Enter the Agency name.
+2. Click Actions and select Add (Beta).
 
-Click the Pencil icon in the top-right corner.
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
-Enable the Add documents toggle and click Save.
+3. Enter the Agency name.
 
-Enter the delivery address.
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
-Click Add.
+4. Click the Pencil icon in the top-right corner.
+
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+
+5. Enable the Add documents toggle and click Save.
+
+<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+
+6. Enter the delivery address.
+
+<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+
+7. Click Add.
+
+<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 Once the delivery address is added, the Document Recommendation list is automatically displayed based on the consignee’s country (delivery country). This helps users identify the mandatory documents that must be uploaded to meet legal requirements when transporting missions across countries.
 
-### 6.3.5.3.2. Recommendations While Editing the Document
+<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+
+#### 1.12.2. Recommendations While Editing the Document
 
 To set up recommendations for Nomadia Delivery, follow the steps below.
 
-Open the Nomadia Delivery application and go to the Configuration tab.
+1. Open the Nomadia Delivery application and go to the Configuration tab.
 
-Select Document Library from the list.
+<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
-Select the Document Recommendations tab.
+2. Select Document Library from the list.
 
-Click the Actions menu, then select Add to create a new document recommendation.
+<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
-Alternatively, users can import the document recommendation list using an Excel file from the same Actions menu.
+3. Select the Document Recommendations tab.
 
-Enter the Name of the recommendation list, the applicable Country, and the message to be displayed.
+<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
-A recommendation list can be applied to multiple countries simultaneously.
+4. Click the Actions menu, then select Add to create a new document recommendation.
+5. Alternatively, users can import the document recommendation list using an Excel file from the same Actions menu.
 
-Alternatively, a country can have both a general recommendation list and a country-specific recommendation list. In such cases, both lists are merged and displayed as the recommended document list during the mission creation or editing process.
+<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
-Links can be added to the recommendation list, allowing users to directly access online or cloud-hosted documents, such as SharePoint documents.
+6.  A recommendation list can be applied to multiple countries simultaneously.
 
-Enable the toggle to activate the recommendation list.
+    * Alternatively, a country can have both a general recommendation list and a country-specific recommendation list. In such cases, both lists are merged and displayed during mission creation or editing.
+    * Links can be added to the recommendation list, allowing users to access online or cloud-hosted documents such as SharePoint.
 
-Click Add to create the document recommendation list.
+    <figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+
+
+
+7. Enable the toggle to activate the recommendation list.
+
+<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+
+8. Click Add to create the document recommendation list.
+
+<figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
 The document recommendation lists are displayed on the table.
 
+<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+
 When creating or editing a mission, the document recommendation list is displayed based on the consignee’s country (delivery country). This helps users identify the documents that must be uploaded to comply with legal requirements when transporting missions from one country to another.
+
+<figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
 If a country has multiple recommendation lists, they are seamlessly merged and displayed with a separator.
 
-###
+<figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
-### 6.3.6. Manage Container Types
+### 1.13. Manage Container Types
 
 The Manage Container Types feature enables logistics managers and dispatchers to define, configure, and manage the various types of containers or packaging units used in delivery operations. This helps optimize space planning, improve tracking, and ensure accurate handling of goods during transport.
 
@@ -1300,153 +1334,168 @@ The system supports three default container types: Cardboard, Pallet, and Parcel
 
 You can group multiple containers together and track the quantity of each container type at client locations for better inventory and logistics management.
 
-### 6.3.6.1. Create a Container type
+#### 1.13.1. Create a Container type
 
-Go to Configuration.
+1. Go to Configuration.
 
-Click on Configuration Menu
+<figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
-Under Customization, click on Container Types
+2. Click on Configuration Menu
+3. Under Customization, click on Container Types
 
-Click the Actions dropdown menu
+<figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
-Click on Add
+4. Click the Actions dropdown menu
+5. Click on Add
 
-Enter the Code and Translation
+<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
-Click on Save
+6. Enter the Code and Translation
+
+<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+
+7. Click on Save
+
+<figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
 Container type will be created successfully.
 
-### 6.3.6.2. Edit a Container Type
+<figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
-Go to Configuration.
+#### 1.13.2. Edit a Container Type
 
-Click on Configuration Menu
+1. Go to Configuration.
+2. Click on Configuration Menu
+3. Under Customization, click on Container Types
+4. Click the Pencil icon of the chosen container type
+5. Edit the information as needed
 
-Under Customization, click on Container Types
+<figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
-Click the Pencil icon of the chosen container type
+6. Click on Save
 
-Edit the information as needed
+<figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
 
-Click on Save
+#### 1.13.3. Delete a Container Type
 
-### 6.3.6.3. Delete a Container Type
+1. Go to Configuration.
+2. Click on Configuration Menu
+3. Under Customization, click on Container Types
+4. Select the Container Types
+5. Click on Actions
+6. Click on Delete
 
-Go to Configuration.
+<figure><img src="../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 
-Click on Configuration Menu
+The container type will be deleted successfully
 
-Under Customization, click on Container Types
+<figure><img src="../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
-Select the Container Types
-
-Click on Actions
-
-Click on Delete
-
-7. The container type will be deleted successfully
-
-### 6.3.7. Manage Mission’s Notifications
+### 1.14. Manage Mission’s Notifications
 
 The Manage Mission’s Notifications enable administrators and dispatchers to configure and automate notifications related to delivery missions. These notifications ensure real-time communication with customers, field agents, and internal stakeholders, improving operational visibility and customer satisfaction.
 
-### 6.3.7.1. Enable Email Notification
+#### 1.14.1. Enable Email Notification
 
-Go to Configuration.
+1. Go to Configuration.
 
-Click on Configuration Menu
+<figure><img src="../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
 
-Under Fulfillment and Client Experience, click on Configure Outgoing Messages
+2. Click on Configuration Menu
+3. Under Fulfillment and Client Experience, click on Configure Outgoing Messages
 
-Select the General Configuration
+<figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
 
-Under Configure Outgoing Emails to the Customers, enable the Customers Outgoing Email
+4. Select the General Configuration
+5. Under Configure Outgoing Emails to the Customers, enable the Customers Outgoing Email Service
 
-Service
+<figure><img src="../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
-Click on Save
+6. Click on Save
 
-### 6.3.7.2. Enable SMS Notifications
+<figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
-Go to Configuration.
+#### 1.14.2. Enable SMS Notifications
 
-Click on Configuration Menu
+1. Go to Configuration.
+2. Click on Configuration Menu
+3. Under Fulfillment and Client Experience, click on Configure Outgoing Messages
+4. Select the General Configuration
+5. Under Configure Outgoing SMS to the Customers, enable the Customers Outgoing SMS Service
+6. Click on Save
 
-Under Fulfillment and Client Experience, click on Configure Outgoing Messages
+<figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
 
-Select the General Configuration
+**Note**: SMS notifications are provided as an additional service.
 
-Under Configure Outgoing SMS to the Customers, enable the Customers Outgoing SMS
-
-Service
-
-Click on Save
-
-Note: SMS notifications are provided as an additional service.
-
-### 6.3.8. Manage Missions Documents
+### 1.15. Manage Missions Documents
 
 The "Manage Missions" documents specifically refer to guides and documentation that help users oversee and operate delivery-related missions within the logistics and field execution workflows.
 
-### 6.3.8.1. Import a Document from the Document Library
+#### 1.15.1. Import a Document from the Document Library
 
-Go to Configuration.
+1. Go to Configuration.
+2. Click on Configuration Menu
+3. Click on Document Library
+4. Click on Actions
+5. Click on Import
+6. Click on Browse Computer
 
-Click on Configuration Menu
+<figure><img src="../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
 
-Click on Document Library
+7. Select a Valid file to import a document
 
-Click on Actions
-
-Click on Import
-
-Click on Browse Computer
-
-Select a Valid file to import a document
+<figure><img src="../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
 
 The mission documents will be imported successfully
 
-### 6.3.8.2. Upload a Document
+#### 1.15.2. Upload a Document
 
-Navigate to the Missions Tab.
+1. Navigate to the Missions Tab.
+2. Locate the desired mission and click the pencil icon to open it in edit mode.
 
-Locate the desired mission and click the pencil icon to open it in edit mode.
+<figure><img src="../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
 
-In the left-hand menu, select Documents.
+3. In the left-hand menu, select Documents.
+4. Click Browse Computer to open your file explorer.
 
-Click Browse Computer to open your file explorer.
+<figure><img src="../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
 
-Select a valid document from your local system to upload.
+5. Select a valid document from your local system to upload.
 
-The mission documents will be uploaded successfully.
+<figure><img src="../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
 
-### 6.3.8.3. Download a Document
+6. The mission documents will be uploaded successfully.
 
-Navigate to the Missions section.
+<figure><img src="../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
 
-Locate the desired mission and click the pencil icon to open it in edit mode.
+#### 1.15.3. Download a Document
 
-In the left-hand menu, select Documents.
+1. Navigate to the Missions section.
+2. Locate the desired mission and click the pencil icon to open it in edit mode.
+3. In the left-hand menu, select Documents.
+4. Click on Download
 
-Click on Download
+<figure><img src="../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
 
 5. The mission documents will be downloaded successfully.
 
-### 6.3.8.4. Delete a Document
+<figure><img src="../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
 
-Navigate to the Missions section.
+#### 1.15.4. Delete a Document
 
-Locate the desired mission and click the pencil icon to open it in edit mode.
+1. Navigate to the Missions section.
+2. Locate the desired mission and click the pencil icon to open it in edit mode.
+3. In the left-hand menu, select Documents.
+4. Click on the Bin icon of the chosen document
 
-In the left-hand menu, select Documents.
+<figure><img src="../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
 
-Click on the Bin icon of the chosen document
+5. The mission documents will be deleted successfully.
 
-The mission documents will be deleted successfully.
+<figure><img src="../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
 
-### 6.3.8.5. ACCESSING ECMR
+#### 1.15.5. ACCESSING ECMR
 
 An eCMR (Electronic Consignment Note) is the digital equivalent of the traditional paper-
 
@@ -1454,21 +1503,27 @@ based CMR used in road transport. It acts as proof of the carriage contract, ack
 
 Download the eCMR PDF directly through the delivery management system.
 
-Log in to the delivery management system and go to the Missions tab.
+1. Log in to the delivery management system and go to the Missions tab.
 
-Before generating the eCMR, ensure that the company name, address, and SIRET number are
+<figure><img src="../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
 
-configured in Configuration → General.
+2.  Before generating the eCMR, ensure that the company name, address, and SIRET number are configured in **Configuration → General**.
 
-These details are required by law and will be displayed on the eCMR.
+    * These details are required by law and will be displayed on the eCMR.
 
-Select the routes for which you want to generate the eCMR.
+    <figure><img src="../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
+3. Select the routes for which you want to generate the eCMR.
+4. Click Actions → Consignment notes.
 
-Click Actions → Consignment notes.
+<figure><img src="../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
 
-Click the Download button.
+5. Click the Download button.
+
+<figure><img src="../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 
 The system will generate the eCMR PDF, which you can download and share with deliverers.
+
+<figure><img src="../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
 
 ##
 
