@@ -4,7 +4,7 @@
 
 The Home Screen is the default landing page when you access Nomadia Delivery. It provides an operational overview of your delivery activity, highlighting key performance indicators, mission statuses, and quick links to core functionalities. This screen is designed to help users navigate efficiently while staying informed about logistics operations in real time.
 
-<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 2. Key Areas of the Home Screen
 
@@ -26,20 +26,20 @@ From the Home page,
 1. Click on the Account icon located in the upper-right corner of the screen.
 2. Select My Preferences from the dropdown menu
 
-<figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Choose the Dashboard from the Home page custom dashboard.
 
-<figure><img src=".gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. Select a period ranging from Last Day to Last Seven Days based on your preference.
 5. Click on Save
 
-<figure><img src=".gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 6. Your homepage will display the chosen dashboard.
 
-<figure><img src=".gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 4. Configure the display of mission’s statuses
 
@@ -64,7 +64,7 @@ From the Home page,
 
 5. Your home page will display the selected KPI’s.
 
-<figure><img src=".gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 5. Refresh KPI date and Mission statuses
 
@@ -76,4 +76,4 @@ From the Home Page,
 2. Locate the _Refresh KPIs_ icon positioned next to the Last Updated Date and Time.
 3. Click the Refresh the KPIs icon to update the displayed data with the latest available information.
 
-<figure><img src=".gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

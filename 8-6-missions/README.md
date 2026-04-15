@@ -844,20 +844,20 @@ To configure and manage sub-status configuration types in Nomadia Delivery, foll
 
 5. Repeat the process to create additional sub-statuses and link them to the desired templates.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 6. Once all templates are configured, navigate to the Missions tab.
 7. Click on the Mission Editor button to attach a sub-status template to a mission.
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 8. Select the status configuration template for the chosen mission
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 9. Alternatively, configure templates in bulk during mission import by mapping the Excel field to the Status configuration type with values like BASIC, INTERMEDIATE, or ADVANCED.
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 1.8.6. Trigger Notifications for Sub Status Changes
 
@@ -867,23 +867,23 @@ To configure notifications for sub-status changes, follow the steps below:
 
 1. Open the Nomadia Delivery application and go to the Configuration tab.
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Select Sub-statuses from the list.
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Click the Pencil icon next to the existing sub-status to edit it.
 
-<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. The Custom Messages Configuration section is displayed at the bottom of the page.
 
-<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 5. Click the + button to add the notification configuration to the sub status.
 
-<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 6.  Notifications can be made for the following recipients:
 
@@ -891,7 +891,7 @@ To configure notifications for sub-status changes, follow the steps below:
     * **Consignee** – The original recipient of the mission (customer). Notifications are sent to the delivery email address or mobile number stored in the mission details.
     * **Other Recipients** – Internal stakeholders such as dispatch or logistics teams. This field accepts multiple email addresses or phone numbers, separated by commas.
 
-    <figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 7.  Notifications can be sent via Email or SMS.
 
     * To create a notification configuration, select a **recipient**, **message type**, and **message template**.
@@ -1541,23 +1541,23 @@ Blocks or sections can be reordered using drag-and-drop functionality. Any chang
 
 1. Go to Manage Missions
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 2. Click Add Mission
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Enter the Mission type, Agency
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. Click Next
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 5. Click the pencil icon in the top right corner.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 6.  View the available information blocks:
 
@@ -1567,12 +1567,12 @@ Blocks or sections can be reordered using drag-and-drop functionality. Any chang
     * PUDO Information
     * Custom Fields
 
-    <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 7. Configure fields within each block: Set fields as editable, read-only, or disabled.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 8. Use drag and drop to:
    * Reorder fields within a block.
@@ -1583,16 +1583,16 @@ Blocks or sections can be reordered using drag-and-drop functionality. Any chang
        * Selecting **No** prevents automatic mission creation.
        * Optional — The user is prompted with this option during mission creation.
 
-       <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 9. Expand or collapse blocks as needed.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 10. Save the new mission configuration.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 2.2. Add a Mission
 
@@ -1600,7 +1600,7 @@ Adding Mission allows users to create a mission by selecting a mission type, cho
 
 1. Go to Missions
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Click Add from the Actions menu
 
@@ -1855,36 +1855,59 @@ Prioritization allows users to set the urgency of a mission to ensure it is hand
 Manual Priority Assignment
 
 1. Select the mission(s) to be prioritized.
-2. Click the Prioritize button from the Actions menu
-3. Select the priority level: Normal, High, or Highest.
-4. Automatic Priority via Delivery Dates
-5. Open the mission creation or edit screen.
-6. Navigate to Delivery Information.
-7. Populate the Delivery Asked Date and Delivery Asked End Date.
-8. Save the mission; the system automatically sets the priority to Highest based on these commitment dates.
-9. Recalculating Priorities during Optimization
-10. Select the missions or parent route for optimization.
-11. Click Optimize from the Actions menu
-12. Switch the Recalculate Priorities toggle to ON.
-13. Run the optimization.
 
-### 6.4.5.2. Create an urgent mission
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+2. Click the Prioritize button from the Actions menu
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+3. Select the priority level: Normal, High, or Highest.
+
+**Automatic Priority via Delivery Dates**
+
+1. Open the mission creation or edit screen.
+2. Navigate to Delivery Information.
+3. Populate the Delivery Asked Date and Delivery Asked End Date.
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+4. Save the mission; the system automatically sets the priority to Highest based on these commitment dates.
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+Recalculating Priorities during Optimization
+
+1. Select the missions or parent route for optimization.
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+2. Click Optimize from the Actions menu
+
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+3. Switch the Recalculate Priorities toggle to ON.
+
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
+4. Run the optimization.
+
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
+### 2.5.2. Create an urgent mission
 
 Urgent missions follow a "Chained" model where a pickup is immediately followed by a delivery for the same order, like on-demand food or healthcare delivery. This feature ensures a strict 1-to-1 sequence of operations and uses a dedicated assignment workflow for available drivers.
 
-Open the mission creation screen.
+1. Open the mission creation screen.
+2. Select the mission type Chained Pickup and Delivery.
 
-Select the mission type Chained Pickup and Delivery.
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-Enter the Pickup Information (Origin).
-
-Enter the Delivery Information (Destination).
-
-Select the created mission from the list.
-
-Click the Assign Urgent Mission button.
-
-The new pickup mission will be dynamically added to the existing route
+3. Enter the Pickup Information (Origin).
+4. Enter the Delivery Information (Destination).
+5. Select the created mission from the list.
+6. Click the Assign Urgent Mission button.
+7. The new pickup mission will be dynamically added to the existing route
 
 ### 6.4.5.3. Create an urgent pickup mission (Emergency Pickup)
 
