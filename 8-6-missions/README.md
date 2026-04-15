@@ -1,66 +1,49 @@
 # Missions
 
-## 6.1. Understanding the Missions Page
+### 1. Understanding the Missions Page
 
 A Mission refers to a task that must be executed, typically involving a pick-up location and delivery address. Each mission moves through a sequence of statuses that reflect its current stage. Understanding these statuses is essential for monitoring the progress and handling any exceptions that may occur during the process.
 
-![Screenshot](<../.gitbook/assets/image-1 (3).png>)
+![Screenshot](<../.gitbook/assets/image-1 (3) (1).png>)
 
-###
+<table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">Section ID</td><td valign="top">Section</td><td valign="top">Description</td></tr><tr><td valign="top">A</td><td valign="top">Mission Table</td><td valign="top">Displays ongoing missions in a table format. Supports up to 10,000 entries at a time. Includes sorting and filtering options for easy data access.</td></tr><tr><td valign="top">B</td><td valign="top">Map</td><td valign="top">Interactive map showing mission locations and route paths. Help visualize geographic distribution and real time spatial tracking of mission statuses.</td></tr><tr><td valign="top">C</td><td valign="top">Routes Table</td><td valign="top">Gantt-style view of routes, showing scheduling and duration. Useful for understanding workload and mission sequence. It outlines the agenda for the designated mobile user.</td></tr><tr><td valign="top">D</td><td valign="top">Details</td><td valign="top">Shows detailed information for selected missions or routes, such as deliverer name, time slots, and status. Helps in reviewing and making informed decisions.</td></tr></tbody></table>
 
-###
-
-###
-
-###
-
-###
-
-### 6.1.1. Set missions display (prefilter)
+### 1.1. Set missions display (prefilter)
 
 From the Missions page:
 
-Click the "Prefiltered On" button at the top left, The display of this section may vary based on
+1. Click the **"Prefiltered On"** button at the top left.\
+   The display of this section may vary based on screen resolution.
+2. Choose your filters:
+   * **Agency**: Select one or more agencies.
+   * **Reference**: Filter by creation date or modification date.
+   * **Period**: Choose from options like the last hour, last 24 hours, last 7 days, or set a custom date range.
+   * **Display Deleted Missions**: Enable this option to include deleted missions.
+3. Click **Apply**.
 
-screen resolution.
+![Screenshot](<../.gitbook/assets/image-2 (3) (1).png>)
 
-Choose Your Filters
+4. The filtered missions will be displayed on your Missions page.
 
-Agency: Select one or more agencies.
+![Screenshot](<../.gitbook/assets/image-3 (3) (1).png>)
 
-Reference: Filter by Creation date or Modification date.
-
-Period: Choose from options like the last hour, last 24 hours, last 7 days, or set a
-
-custom date range.
-
-Display Deleted Missions: Turn on if you want to include deleted missions.
-
-Click on Apply
-
-![Screenshot](<../.gitbook/assets/image-2 (3).png>)
-
-The filtered missions will be displayed on your Missions page.
-
-![Screenshot](<../.gitbook/assets/image-3 (3).png>)
-
-### 6.1.2. Pre-filters
+### 1.2. Pre-filters
 
 The Pre-filters on the Missions Page are dynamic sections that provide users with detailed and contextual information based on their current selection or interaction. These pre-filters enhance navigation and productivity by allowing quick access to relevant data without switching screens.
 
-\`
+![Screenshot](<../.gitbook/assets/image-4 (3) (1).png>)
 
-![Screenshot](<../.gitbook/assets/image-4 (3).png>)
-
-### 6.1.3. Default Delivery statuses
+### 1.3. Default Delivery statuses
 
 Below are an overview of the various mission statuses and their significance:
 
-![Screenshot](<../.gitbook/assets/image-5 (3).png>)
+<table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">Status</td><td valign="top">Description</td></tr><tr><td valign="top">Waiting</td><td valign="top">The mission is expected but not yet received</td></tr><tr><td valign="top">Received</td><td valign="top">The mission has been successfully received</td></tr><tr><td valign="top">To be Delivered</td><td valign="top">The mission is prepared for delivery</td></tr><tr><td valign="top">To be Loaded</td><td valign="top">The mission is waiting to be loaded.</td></tr><tr><td valign="top">Loaded</td><td valign="top">The package is now loaded and in transit</td></tr><tr><td valign="top">To be Picked up</td><td valign="top">Mission is scheduled and awaiting pick up</td></tr><tr><td valign="top">Picked up</td><td valign="top">Item has been collected from the origin</td></tr><tr><td valign="top">Delivered</td><td valign="top">The delivery is completed successfully.</td></tr><tr><td valign="top">Not Received</td><td valign="top">Indicates a mission was expected but couldn’t be received</td></tr><tr><td valign="top">Not Loaded</td><td valign="top">The mission couldn’t be loaded as expected</td></tr><tr><td valign="top">Not Picked up</td><td valign="top">Scheduled pickup was missed or failed.</td></tr><tr><td valign="top">Not Delivered</td><td valign="top">The delivery failed</td></tr><tr><td valign="top">Visited</td><td valign="top">Destination has been successfully visited</td></tr><tr><td valign="top">To be Visited</td><td valign="top">Destination is scheduled for a visit.</td></tr><tr><td valign="top">Not Visited</td><td valign="top">The scheduled visit was missed or unsuccessful.</td></tr></tbody></table>
 
-##
+![Screenshot](<../.gitbook/assets/image-5 (3) (1).png>)
 
-## 6.2. Understanding the mission parameters
+
+
+### 1.4. Understanding the mission parameters
 
 Mission Parameters are the core data elements that define the characteristics, objectives, and execution details of each mission. Understanding these parameters is essential for ensuring that missions are properly configured, assigned, and executed in the field.
 
@@ -68,805 +51,764 @@ These parameters provide both operational and logistical information used by
 
 coordinators, dispatchers, and deliverers.
 
-### 6.2.1. Access Mission Parameters
+#### 1.4.1. Access Mission Parameters
 
 From the Mission page
 
-Click the pencil icon next to the mission you want to edit
+1. Click the pencil icon next to the mission you want to edit
 
-![Screenshot](<../.gitbook/assets/image-6 (3).png>)
+![Screenshot](<../.gitbook/assets/image-6 (3) (1).png>)
 
-### 6.2.2. Mission parameters description
+#### 1.4.2. Mission parameters description
 
-## 6.3. Manage Mission Parameters
+### Mission
+
+| Parameter                           | Description                                                                   |
+| ----------------------------------- | ----------------------------------------------------------------------------- |
+| Barcode                             | Automatically generated by Nomadia Delivery to uniquely identify the mission. |
+| Agency - Mandatory                  | Mandatory field. Specifies the agency responsible for handling the mission.   |
+| Subcontractor                       | Third-party delivery provider assigned to the mission.                        |
+| Sender Barcode                      | Optional barcode supplied by the contractor.                                  |
+| Parent Container ID                 | Identifies the main container grouping multiple missions.                     |
+| Grouping key                        | Groups missions linked to the same customer.                                  |
+| Container type                      | Type of container (box, pallet, crate, etc.).                                 |
+| Origin                              | Original dispatch location.                                                   |
+| Scheduled deliverer                 | Assigned delivery person.                                                     |
+| Priority                            | Mission urgency (High, Medium, Low).                                          |
+| Status configuration type           | Defines the status workflow applied.                                          |
+| One type of password                | Security code (PIN/OTP) for verification.                                     |
+| Mission Status                      | Current mission status.                                                       |
+| Sub-status                          | Detailed status within the main status.                                       |
+| Motive                              | Reason for the current sub-status.                                            |
+| Mission type                        | Delivery / Pickup / Chained Pickup & Delivery / Visit / Drop Shipping         |
+| Provisional date                    | Tentative mission date.                                                       |
+| Main depot scan date                | Date and time scanned at depot.                                               |
+| Storage place                       | Storage location in depot.                                                    |
+| Fixed visit duration                | Estimated time to complete mission.                                           |
+| Compatibility with resources        | Matches resource capabilities.                                                |
+| Require all skills to be compatible | Resource must meet all skill requirements.                                    |
+| Delivery before pickup              | Enforces delivery-first sequence.                                             |
+| Keys                                | Indicates if keys/codes are required.                                         |
+| Position                            | Order in route sequence.                                                      |
+
+***
+
+### Parcel
+
+| Parameter     | Description                           |
+| ------------- | ------------------------------------- |
+| Product type  | Type/category of product.             |
+| Length        | Package length.                       |
+| Width         | Package width.                        |
+| Height        | Package height.                       |
+| Weight        | Package weight.                       |
+| Volume        | Package volume.                       |
+| Package value | Declared value for insurance/billing. |
+| Comment       | Internal notes.                       |
+
+***
+
+### Pickup
+
+| Parameter                     | Description                                      |
+| ----------------------------- | ------------------------------------------------ |
+| Address – Mandatory           | Pickup address (cannot be edited after routing). |
+| Contact details               | Name, phone, email of sender.                    |
+| Picked up by                  | Person who performed pickup.                     |
+| Pickup asked date / end date  | Requested pickup time window.                    |
+| Scannable container code      | Barcode for container identification.            |
+| Pickup instructions / Comment | Special pickup instructions.                     |
+
+***
+
+### Delivery
+
+| Parameter                       | Description                              |
+| ------------------------------- | ---------------------------------------- |
+| Address – Mandatory             | Delivery address (locked after routing). |
+| Contact details                 | Recipient details.                       |
+| Delivered by                    | Delivery agent.                          |
+| Delivery asked date / end date  | Requested delivery window.               |
+| Cash on delivery                | Amount to collect.                       |
+| Delivery price                  | Delivery cost.                           |
+| Delivery instructions / Comment | Special delivery instructions.           |
+
+***
+
+### Articles
+
+| Parameter       | Description                 |
+| --------------- | --------------------------- |
+| Type of article | Defined in Manage Articles. |
+| Planned         | Planned quantity.           |
+| Done            | Completed quantity.         |
+
+***
+
+### Opening Hours
+
+| Parameter     | Description                               |
+| ------------- | ----------------------------------------- |
+| Opening Slots | Allowed time slots for mission execution. |
+
+***
+
+### Photos
+
+| Parameter | Description                     |
+| --------- | ------------------------------- |
+| Photos    | Images captured via mobile app. |
+
+***
+
+### Signatures
+
+| Parameter  | Description                                     |
+| ---------- | ----------------------------------------------- |
+| Signatures | Contractor, deliverer, and customer signatures. |
+
+***
+
+### Documents
+
+| Parameter | Description                             |
+| --------- | --------------------------------------- |
+| Documents | Linked documents from library or cloud. |
+
+***
+
+### Logs
+
+| Parameter        | Description                                 |
+| ---------------- | ------------------------------------------- |
+| Mission’s events | Timeline of status changes with timestamps. |
+
+### 1.5. Manage Mission Parameters
 
 The Manage Mission Parameters section allows administrators to define and configure key parameters that govern how delivery missions are planned, executed, and optimized within the system. These parameters play a crucial role in tailoring the delivery operations to match business needs and logistical constraints.
 
-## 6.3.1. Manage Postal Zones
+#### 1.5.1. Manage Postal Zones
 
-The Manage Postal Zones feature allows administrators and logistics managers to define and manage geographical delivery zones based on postal codes. These zones are
+The Manage Postal Zones feature allows administrators and logistics managers to define and manage geographical delivery zones based on postal codes. These zones are essential for organizing deliveries, assigning resources, and optimizing routes within specific areas
 
-essential for organizing deliveries, assigning resources, and optimizing routes within specific areas
 
-###
 
-### 6.3.1.1. Import Postal Zones
+#### 1.5.2. Import Postal Zones
 
-###
+1. Click on Configuration Tab
 
-Click on Configuration Tab
+![Screenshot](<../.gitbook/assets/image-7 (3) (1).png>)
 
-![Screenshot](<../.gitbook/assets/image-7 (3).png>)
+2. Click on Configuration Menu
+3. Under My data section, click on Manage Zones
 
-Click on Configuration Menu
+![Screenshot](<../.gitbook/assets/image-8 (2) (1).png>)
 
-Under My data section, click on Manage Zones
+4. Click the Actions dropdown menu.
+5. Click on Import
 
-![Screenshot](<../.gitbook/assets/image-8 (2).png>)
+![Screenshot](<../.gitbook/assets/image-9 (2) (1).png>)
 
-Click the Actions dropdown menu.
+6. Click on Browse File to upload the file that contains the zone data.
 
-Click on Import
+![Screenshot](<../.gitbook/assets/image-10 (1) (1).png>)
 
-![Screenshot](<../.gitbook/assets/image-9 (2).png>)
+7. Select a valid Zone file from your local system.
 
-Click on Browse File to upload the file that contains the zone data.
-
-![Screenshot](<../.gitbook/assets/image-10 (1).png>)
-
-Select a valid Zone file from your local system.
-
-![Screenshot](<../.gitbook/assets/image-11 (1).png>)
+![Screenshot](<../.gitbook/assets/image-11 (1) (1).png>)
 
 Postal Zones will be imported successfully.
 
-![Screenshot](<../.gitbook/assets/image-12 (1).png>)
+![Screenshot](<../.gitbook/assets/image-12 (1) (1).png>)
 
-### 6.3.1.2. Add a Postal Zone
+#### 1.5.3. Add a Postal Zone
 
-Click on Configuration Tab
+1. Click on Configuration Tab
+2. Click on Configuration Menu
+3. Under My data section, click on Manage Zones
+4. Click the Actions dropdown menu.
+5. Click on Add a Postal Zone.
 
-Click on Configuration Menu
+![Screenshot](<../.gitbook/assets/image-13 (1) (1).png>)
 
-Under My data section, click on Manage Zones
+6. Fill in the required fields: Code, Name, and Prefix.
 
-Click the Actions dropdown menu.
+**Note**: The Prefix is used to standardize postal codes to a fixed length of 6 digits. In regions where postal codes are shorter (e.g., 5 digits in some areas of France), the system automatically adds the defined prefix to reach the required length.
 
-Click on Add a Postal Zone.
+![Screenshot](<../.gitbook/assets/image-14 (1) (1).png>)
 
-![Screenshot](<../.gitbook/assets/image-13 (1).png>)
+7. Click on Save
 
-Fill in the required fields: Code, Name, and Prefix.
-
-Note: The Prefix is used to standardize postal codes to a fixed length of 6 digits. In regions where postal codes are shorter (e.g., 5 digits in some areas of France), the system automatically adds the defined prefix to reach the required length.
-
-![Screenshot](<../.gitbook/assets/image-14 (1).png>)
-
-Click on Save
-
-![Screenshot](<../.gitbook/assets/image-15 (1).png>)
+![Screenshot](<../.gitbook/assets/image-15 (1) (1).png>)
 
 Postal Zones will be added successfully
 
-![Screenshot](<../.gitbook/assets/image-16 (1).png>)
+![Screenshot](<../.gitbook/assets/image-16 (1) (1).png>)
 
-### 6.3.1.3. Create Postal Zones by Territory Management (Sectorization)
+#### 1.5.4. Create Postal Zones by Territory Management (Sectorization)
 
-Click on Configuration Tab
-
-Click on Configuration Menu
-
-Under My data section, click on Manage Zones
-
-Select a Mission
-
-Click the Actions dropdown menu.
-
-Click on New Sectorization.
+1. Click on Configuration Tab
+2. Click on Configuration Menu
+3. Under My data section, click on Manage Zones
+4. Select a Mission
+5. Click the Actions dropdown menu.
+6. Click on New Sectorization.
 
 For detailed information, refer to the Territory Manager Manual available at the following link:
 
-https://mynomadia.com/doc/tm/docs/en/tm-book/\_districting.html
+[Nomadia Districting Documentation](https://mynomadia.com/doc/tm/docs/en/tm-book/_districting.html)
 
-![Screenshot](<../.gitbook/assets/image-17 (1).png>)
+![Screenshot](<../.gitbook/assets/image-17 (1) (1).png>)
 
-Select the appropriate Indicators and define the Time Period
+7. Select the appropriate Indicators and define the Time Period
+8. Click on Assign Territories
 
-Click on Assign Territories
+![Screenshot](<../.gitbook/assets/image-18 (1) (1).png>)
 
-![Screenshot](<../.gitbook/assets/image-18 (1).png>)
+9. Click on Automation
 
-Click on Automation
+![Screenshot](<../.gitbook/assets/image-19 (1) (1).png>)
 
-![Screenshot](<../.gitbook/assets/image-19 (1).png>)
+10. In the Balancing Points section, click Start to prepare the system for automatic balancing.
 
-In the Balancing Points section, click Start to prepare the system for
+![Screenshot](<../.gitbook/assets/image-20 (1) (1).png>)
 
-automatic balancing.
+11. Click “Let’s go!” to launch the automated balancing of territories.
 
-![Screenshot](<../.gitbook/assets/image-20 (1).png>)
+![Screenshot](<../.gitbook/assets/image-21 (1) (1).png>)
 
-Click “Let’s go!” to launch the automated balancing of territories.
+12. Sectors are generated according to the balancing rules set by the user.
+13. To ensure the sectorization respects postal code boundaries, click on Administrative Borders and select Postal Code from the dropdown menu.
 
-![Screenshot](<../.gitbook/assets/image-21 (1).png>)
-
-Sectors are generated according to the balancing rules set by the user.
-
-To ensure the sectorization respects postal code boundaries, click on Administrative Borders and select Postal Code from the dropdown menu.
-
-![Screenshot](<../.gitbook/assets/image-22 (1).png>)
+![Screenshot](<../.gitbook/assets/image-22 (1) (1).png>)
 
 Sectors are aligned based on postal boundaries
 
-Disclaimer: Postal code boundary data is unavailable for certain countries.
+**Disclaimer**: Postal code boundary data is unavailable for certain countries.
 
-### 6.3.1.4. Delete a Postal Zone
+#### 1.5.5. Delete a Postal Zone
 
-Click on Configuration Tab
+1. Click on Configuration Tab
+2. Click on Configuration Menu
+3. Under My data section, click on Manage Zones
+4. Select a Zone
 
-Click on Configuration Menu
+![Screenshot](<../.gitbook/assets/image-23 (1) (1).png>)
 
-Under My data section, click on Manage Zones
+5. Click the Actions dropdown menu.
+6. Click on Delete
 
-Select a Zone
+![Screenshot](<../.gitbook/assets/image-24 (1) (1).png>)
 
-![Screenshot](<../.gitbook/assets/image-23 (1).png>)
+7. You will see a confirmation pop-up message stating: "Are you sure you want to delete this zone?"
+8. Click on Yes
 
-Click the Actions dropdown menu.
-
-Click on Delete
-
-![Screenshot](<../.gitbook/assets/image-24 (1).png>)
-
-You will see a confirmation pop-up message stating: "Are you sure you want to
-
-delete this zone?"
-
-Click on Yes
-
-![Screenshot](<../.gitbook/assets/image-25 (1).png>)
+![Screenshot](<../.gitbook/assets/image-25 (1) (1).png>)
 
 Postal Zone will be deleted successfully
 
-![Screenshot](<../.gitbook/assets/image-26 (1).png>)
+![Screenshot](<../.gitbook/assets/image-26 (1) (1).png>)
 
-### 6.3.1.5. Export a Postal Zone
+#### 1.5.6. Export a Postal Zone
 
-Click on Configuration Tab
+1. Click on Configuration Tab
+2. Click on Configuration Menu
+3. Under My data section, click on Manage Zones
+4. Select a Zone
+5. Click the Actions dropdown menu.
+6. Click on Export
 
-Click on Configuration Menu
-
-Under My data section, click on Manage Zones
-
-Select a Zone
-
-Click the Actions dropdown menu.
-
-Click on Export
-
-![Screenshot](../.gitbook/assets/image-27.png)
+![Screenshot](<../.gitbook/assets/image-27 (1).png>)
 
 Postal Zone will be exported successfully
 
-![Screenshot](../.gitbook/assets/image-28.png)
+![Screenshot](<../.gitbook/assets/image-28 (1).png>)
 
-### 6.3.1.6. Color a Postal Zone
+#### 1.5.7. Color a Postal Zone
 
 Apply conditions based on zone attributes such as type of mission (Delivery, Pickup), Zone priority, Assigned deliverer, Postal code prefix, etc.
 
-Click on Configuration Tab
+1. Click on Configuration Tab
+2. Click on Configuration Menu
+3. Under My data section, click on Manage Zones
+4. Select a Zone
+5. Click the Actions dropdown menu.
+6. Click on Coloring
 
-Click on Configuration Menu
+![Screenshot](<../.gitbook/assets/image-29 (1).png>)
 
-Under My data section, click on Manage Zones
+7. Choose a Color
+8. Click on Save
 
-Select a Zone
-
-Click the Actions dropdown menu.
-
-Click on Coloring
-
-![Screenshot](../.gitbook/assets/image-29.png)
-
-Choose a Color
-
-Click on Save
-
-![Screenshot](../.gitbook/assets/image-30.png)
+![Screenshot](<../.gitbook/assets/image-30 (1).png>)
 
 The selected color has been applied successfully.
 
-![Screenshot](../.gitbook/assets/image-31.png)
+![Screenshot](<../.gitbook/assets/image-31 (1).png>)
 
-### 6.3.1.7. Customize Zones Table
+#### 1.5.8. Customize Zones Table
 
-Refer to 4.3.1.1. Import a Postal Zones to have the complete list of available fields.
+Refer to 1.5.2. Import Postal Zones to have the complete list of available fields.
 
-Click on Configuration Tab
+1. Click on Configuration Tab
+2. Click on Configuration Menu
+3. Under My data section, click on Manage Zones
+4. Select a Zone
+5. Click the Actions dropdown menu.
+6. Click on Customize Limit
 
-Click on Configuration Menu
+![Screenshot](<../.gitbook/assets/image-32 (1).png>)
 
-Under My data section, click on Manage Zones
+7. Choose which fields you want to display on the table.
 
-Select a Zone
-
-Click the Actions dropdown menu.
-
-Click on Customize Limit
-
-![Screenshot](../.gitbook/assets/image-32.png)
-
-Choose which fields you want to display on the table.
-
-Note: Avoid selecting too many fields at once, as it may become difficult to read or
+**Note**: Avoid selecting too many fields at once, as it may become difficult to read or
 
 navigate.
 
-Click on Save
+8. Click on Save
 
-![Screenshot](../.gitbook/assets/image-33.png)
+![Screenshot](<../.gitbook/assets/image-33 (1).png>)
 
 The selected fields have been displayed on the table.
 
-![Screenshot](../.gitbook/assets/image-34.png)
+![Screenshot](<../.gitbook/assets/image-34 (1).png>)
 
-### 6.3.2. Manage Vehicle Fleets
+### 1.6. Manage Vehicle Fleets
 
 The Manage Vehicle Fleets in Nomadia Delivery allows administrators and planners to maintain an up-to-date registry of the vehicles used for delivery operations. This includes adding, editing, or deactivating vehicles, assigning specific characteristics, and ensuring that each vehicle is properly configured to meet logistical needs.
 
-### 6.3.2.1. Import Vehicles fleets
+#### 1.6.1. Import Vehicles fleets
 
-Go to Configuration.
+1. Go to Configuration.
 
-![Screenshot](../.gitbook/assets/image-35.png)
+![Screenshot](<../.gitbook/assets/image-35 (1).png>)
 
-Click on Configuration menu
+2. Click on Configuration menu
+3. Under My Data, click on Manage the Vehicles.
 
-Under My Data, click on Manage the Vehicles.
+![Screenshot](<../.gitbook/assets/image-36 (1).png>)
 
-![Screenshot](../.gitbook/assets/image-36.png)
+4. Under My Fleets, click the Actions dropdown menu.
+5. Click on Import
 
-Under My Fleets, click the Actions dropdown menu.
+![Screenshot](<../.gitbook/assets/image-37 (1).png>)
 
-Click on Import
+6. Click on Browse File to upload the file
 
-![Screenshot](../.gitbook/assets/image-37.png)
+![Screenshot](<../.gitbook/assets/image-38 (1).png>)
 
-Click on Browse File to upload the file
+7. Select a Valid file from your local system.
 
-![Screenshot](../.gitbook/assets/image-38.png)
-
-Select a Valid file from your local system.
-
-![Screenshot](../.gitbook/assets/image-39.png)
+![Screenshot](<../.gitbook/assets/image-39 (1).png>)
 
 The vehicle fleets have been imported successfully.
 
-![Screenshot](../.gitbook/assets/image-40.png)
+![Screenshot](<../.gitbook/assets/image-40 (1).png>)
 
-### 6.3.2.2. Add a Vehicles fleets
+#### 1.6.2. Add a Vehicles fleets
 
-Go to Configuration.
+1. Go to Configuration.
+2. Click on Configuration Menu
+3. Under My Data, click on Manage the Vehicles.
+4. Under My Fleets, click the Actions dropdown menu.
+5. Click on Add
 
-Click on Configuration Menu
+![Screenshot](<../.gitbook/assets/image-41 (1).png>)
 
-Under My Data, click on Manage the Vehicles.
+6. Enter the Name and Agency name
+7. Click on Add
 
-Under My Fleets, click the Actions dropdown menu.
-
-Click on Add
-
-![Screenshot](../.gitbook/assets/image-41.png)
-
-Enter the Name and Agency name
-
-Click on Add
-
-![Screenshot](../.gitbook/assets/image-42.png)
+![Screenshot](<../.gitbook/assets/image-42 (1).png>)
 
 The vehicle fleets have been added successfully.
 
-![Screenshot](../.gitbook/assets/image-43.png)
+![Screenshot](<../.gitbook/assets/image-43 (1).png>)
 
-###
 
-###
 
-###
+#### 1.6.3. Delete a Vehicles fleets
 
-### 6.3.2.3. Delete a Vehicles fleets
+1. Go to Configuration.
+2. Click on Configuration Menu
+3. Under My Data, click on Manage the Vehicles.
+4. Select a Team
+5. Under My Fleets, click the Actions dropdown menu.
+6. Click on Delete
 
-Go to Configuration.
+![Screenshot](<../.gitbook/assets/image-44 (1).png>)
 
-Click on Configuration Menu
+7. You will see a confirmation pop-up message stating: "Do you want to delete the Vehicle?"
+8. Click on Delete
 
-Under My Data, click on Manage the Vehicles.
-
-Select a Team
-
-Under My Fleets, click the Actions dropdown menu.
-
-Click on Delete
-
-![Screenshot](../.gitbook/assets/image-44.png)
-
-You will see a confirmation pop-up message stating: "Do you want to delete the Vehicle?"
-
-Click on Delete
-
-![Screenshot](../.gitbook/assets/image-45.png)
+![Screenshot](<../.gitbook/assets/image-45 (1).png>)
 
 The Vehicle fleets have been deleted successfully.
 
-![Screenshot](../.gitbook/assets/image-46.png)
+![Screenshot](<../.gitbook/assets/image-46 (1).png>)
 
 ###
 
-### 6.3.2.4. Manage Vehicles in a fleet
+### 1.7. Manage Vehicles in a fleet
 
-### 6.3.2.4.1. Add a Vehicle
+#### 1.7.1. Add a Vehicle
 
-Go to Configuration.
+1. Go to Configuration.
+2. Click on Configuration Menu
+3. Under My Data, click on Manage the Vehicles.
+4. Click the Desired Name
+5. Click on Actions
+6. Click on Add from the dropdown menu
 
-Click on Configuration Menu
+![Screenshot](<../.gitbook/assets/image-47 (1).png>)
 
-Under My Data, click on Manage the Vehicles.
+7. Enter the Name
 
-Click the Desired Name
+![Screenshot](<../.gitbook/assets/image-48 (1).png>)
 
-Click on Actions
+8. Click on Add
 
-Click on Add from the dropdown menu
+![Screenshot](<../.gitbook/assets/image-49 (1).png>)
 
-![Screenshot](../.gitbook/assets/image-47.png)
 
-Enter the Name
 
-![Screenshot](../.gitbook/assets/image-48.png)
+#### 1.7.2. Customize the constraints
 
-Click on Add
+1. Go to Configuration.
+2. Click on Configuration Menu
+3. Under My Data, click on Manage the Vehicles.
+4. Click on the Desired name
+5. Click on Actions
+6. Click on Add
+7. Click on Constraints
 
-![Screenshot](../.gitbook/assets/image-49.png)
+![Screenshot](<../.gitbook/assets/image-50 (1).png>)
 
-###
+8. Choose which fields you want to display on the table.
 
-### 6.3.2.5. Customize the constraints
+**Note**: Avoid selecting too many fields at once, as it may become difficult to read or navigate.
 
-Go to Configuration.
+9. Click on Save
 
-Click on Configuration Menu
-
-Under My Data, click on Manage the Vehicles.
-
-Click on the Desired name
-
-Click on Actions
-
-Click on Add
-
-Click on Constraints
-
-![Screenshot](../.gitbook/assets/image-50.png)
-
-Choose which fields you want to display on the table.
-
-Note: Avoid selecting too many fields at once, as it may become difficult to read or navigate.
-
-Click on Save
-
-![Screenshot](../.gitbook/assets/image-51.png)
+![Screenshot](<../.gitbook/assets/image-51 (1).png>)
 
 The Fields have been displayed successfully.
 
-![Screenshot](../.gitbook/assets/image-52.png)
+![Screenshot](<../.gitbook/assets/image-52 (1).png>)
 
-###
 
-### 6.3.2.5.1. Delete a Vehicle
 
-Go to Configuration.
+#### 1.7.3. Delete a Vehicle
 
-Click on Configuration Menu
+1. Go to Configuration.
+2. Click on Configuration Menu
+3. Under My Data, click on Manage the Vehicles.
+4. Click the Desired Name
+5. Click on Actions
+6. Click on Delete from the dropdown menu
 
-Under My Data, click on Manage the Vehicles.
+![Screenshot](<../.gitbook/assets/image-53 (1).png>)
 
-Click the Desired Name
+7. You will see a confirmation pop-up message stating: "Do you want to delete the Vehicle?"
+8. Click on Delete.
 
-Click on Actions
-
-Click on Delete from the dropdown menu
-
-![Screenshot](../.gitbook/assets/image-53.png)
-
-You will see a confirmation pop-up message stating: "Do you want to delete the Vehicle?"
-
-Click on Delete.
-
-![Screenshot](../.gitbook/assets/image-54.png)
+![Screenshot](<../.gitbook/assets/image-54 (1).png>)
 
 Vehicles have been deleted successfully
 
-![Screenshot](../.gitbook/assets/image-55.png)
+![Screenshot](<../.gitbook/assets/image-55 (1).png>)
 
-###
 
-###
 
-###
+#### 1.7.4. Export a Vehicle
 
-### 6.3.2.5.2. Export a Vehicle
+1. Go to Configuration.
+2. Click on Configuration Menu
+3. Under My Data, click on Manage the Vehicles.
+4. Click the Desired Name
+5. Click on Actions
+6. Click on Export from the dropdown menu
 
-Go to Configuration.
-
-Click on Configuration Menu
-
-Under My Data, click on Manage the Vehicles.
-
-Click the Desired Name
-
-Click on Actions
-
-Click on Export from the dropdown menu
-
-![Screenshot](../.gitbook/assets/image-56.png)
+![Screenshot](<../.gitbook/assets/image-56 (1).png>)
 
 The vehicles have been exported successfully.
 
-![Screenshot](../.gitbook/assets/image-57.png)
+![Screenshot](<../.gitbook/assets/image-57 (1).png>)
 
-### 6.3.2.5.3. Color a Vehicle
+#### 1.7.5. Color a Vehicle
 
-Go to Configuration.
+1. Go to Configuration.
+2. Click on Configuration Menu
+3. Under My Data, click on Manage the Vehicles.
+4. Click the Desired Name
+5. Click on Actions
+6. Click on Coloring from the dropdown menu
 
-Click on Configuration Menu
+![Screenshot](<../.gitbook/assets/image-58 (1).png>)
 
-Under My Data, click on Manage the Vehicles.
+7. Choose a Color
+8. Click on Save
 
-Click the Desired Name
-
-Click on Actions
-
-Click on Coloring from the dropdown menu
-
-![Screenshot](../.gitbook/assets/image-58.png)
-
-Choose a Color
-
-Click on Save
-
-![Screenshot](../.gitbook/assets/image-59.png)
+![Screenshot](<../.gitbook/assets/image-59 (1).png>)
 
 The color has been applied successfully.
 
-![Screenshot](../.gitbook/assets/image-60.png)
+![Screenshot](<../.gitbook/assets/image-60 (1).png>)
 
-###
 
-###
 
-###
+#### 1.7.6. Customize Vehicles table
 
-### 6.3.2.5.4. Customize Vehicles table
+1. Go to Configuration.
+2. Click on Configuration Menu
+3. Under My Data, click on Manage the Vehicles.
+4. Click the Desired Name
+5. Click on Actions
+6. Click on Customize the list from the dropdown menu
 
-Go to Configuration.
+![Screenshot](<../.gitbook/assets/image-61 (1).png>)
 
-Click on Configuration Menu
+7. Choose which fields you want to display on the table.
 
-Under My Data, click on Manage the Vehicles.
-
-Click the Desired Name
-
-Click on Actions
-
-Click on Customize the list from the dropdown menu
-
-![Screenshot](../.gitbook/assets/image-61.png)
-
-Choose which fields you want to display on the table.
-
-Note: Avoid selecting too many fields at once, as it may become difficult to read or
+**Note**: Avoid selecting too many fields at once, as it may become difficult to read or
 
 navigate.
 
-Click on Save
+8. Click on Save
 
-![Screenshot](../.gitbook/assets/image-62.png)
+![Screenshot](<../.gitbook/assets/image-62 (1).png>)
 
-19. The selected fields will be displayed on the table successfully
+The selected fields will be displayed on the table successfully
 
-![Screenshot](../.gitbook/assets/image-63.png)
+![Screenshot](<../.gitbook/assets/image-63 (1).png>)
 
-###
 
-###
 
-###
+#### 1.7.6. Export a Vehicles fleets
 
-###
+1. Go to Configuration.
+2. Click on Configuration Menu
+3. Under My Data, click on Manage the Vehicles.
+4. Select a Team
+5. Under My Fleets, click the Actions dropdown menu.
+6. Click on Export
 
-### 6.3.2.6. Export a Vehicles fleets
+![Screenshot](<../.gitbook/assets/image-64 (1).png>)
 
-Go to Configuration.
+The vehicles fleets will be exported successfully.
 
-Click on Configuration Menu
+![Screenshot](<../.gitbook/assets/image-65 (1).png>)
 
-Under My Data, click on Manage the Vehicles.
-
-Select a Team
-
-Under My Fleets, click the Actions dropdown menu.
-
-Click on Export
-
-![Screenshot](../.gitbook/assets/image-64.png)
-
-7. The vehicles fleets will be exported successfully.
-
-![Screenshot](../.gitbook/assets/image-65.png)
-
-### 6.3.2.7. Color a Vehicles fleets
-
-Apply conditions based on zone attributes such as type of mission (Delivery, Pickup),
-
-Zone priority, Assigned deliverer, Postal code prefix, etc.
-
-Go to Configuration.
-
-Click on Configuration Menu
-
-Under My Data, click on Manage the Vehicles.
-
-Select a Team
-
-Under My Fleets, click the Actions dropdown menu.
-
-Click on Coloring
-
-![Screenshot](../.gitbook/assets/image-66.png)
-
-Choose a Color
-
-Click on Save
-
-![Screenshot](../.gitbook/assets/image-67.png)
-
-The selected color has been applied successfully
-
-![Screenshot](../.gitbook/assets/image-68.png)
-
-### 6.3.2.8. Customize Vehicles fleets table
-
-Go to Configuration.
-
-Click on Configuration Menu
-
-Under My Data, click on Manage the Vehicles.
-
-Select a Team
-
-Under My Fleets, click the Actions dropdown menu.
-
-Click on Customize the list
-
-![Screenshot](../.gitbook/assets/image-69.png)
-
-Choose which fields you want to display on the table.
-
-Note: Avoid selecting too many fields at once, as it may become difficult to read or navigate.
-
-Click on Save
-
-![Screenshot](../.gitbook/assets/image-70.png)
-
-The selected fields have been displayed on the table successfully
-
-![Screenshot](../.gitbook/assets/image-71.png)
-
-###
-
-### 6.3.2.9. Customizing Status Labels.
-
-Previously, statuses in Nomadia Delivery were static and could not be customized to adapt to customer workflows. Customizable status labels now enhance mission tracking by giving users full control to configure status labels and colors to align with their business workflows.
-
-Status Labels – Description
-
-Waiting - Initial status. The Parcel is expected to arrive at the agency.
-
-Received - Optional Status: Indicates the parcel has been received by the deliverer. The exact location depends on context.
-
-Not received - Optional Status: Indicates the parcel was expected but not received by the deliverer. Location is dependent on context.
-
-To be delivered - Parcel is scheduled for delivery by the transporter or subcontractor.
-
-To be loaded - Optional Status: Parcel is ready at the docking area, awaiting loading onto the vehicle.
-
-Loaded - Optional Status: Parcel has been successfully loaded onto the truck by the deliverer.
-
-Not loaded - Optional Status: Parcel was expected but not loaded onto the truck
-
-Not delivered - Delivery attempt failed; parcel was not handed over to the customer.
-
-Delivered - Parcel has been delivered to the final recipient.
-
-To be picked up - Parcel is scheduled for pickup by the transporter or subcontractor.
-
-Picked up - Parcel has been collected from the contractor or end-customer.
-
-Not Picked up - Pickup attempt failed; parcel was not collected.
-
-To be Visited - Visit is scheduled by the transporter or subcontractor.
-
-Visited - Visit was completed by the deliverer.
-
-Not Visited - Visit was scheduled but not completed.
-
-To customize status labels in Nomadia Delivery, follow the steps below.
-
-Open the Nomadia Delivery application and navigate to the Configuration tab.
-
-![Screenshot](../.gitbook/assets/image-72.png)
-
-Select Customize Status Labels from the list.
-
-![Screenshot](../.gitbook/assets/image-73.png)
-
-This page displays all statuses in Nomadia Delivery.
-
-![Screenshot](../.gitbook/assets/image-74.png)
-
-Click the text box next to the status and update the label to match your business workflow.
-
-![Screenshot](../.gitbook/assets/image-75.png)
-
-Click the Other Languages accordion to update labels for users in different languages or countries.
-
-![Screenshot](../.gitbook/assets/image-76.png)
-
-Click the Color Picker to change the background color of a status label. Ensure you choose a contrasting color that maintains text readability in the UI.
-
-![Screenshot](../.gitbook/assets/image-77.png)
-
-After making the changes, click Save to apply the label and color updates across both the web and mobile applications.
-
-![Screenshot](../.gitbook/assets/image-78.png)
-
-After saving the changes, return to the mission page to view the updated labels and colors in the pre-filter area
-
-![Screenshot](../.gitbook/assets/image-79.png)
-
-This provides a smooth, business-aligned experience for both planners and deliverers.
-
-###
-
-###
-
-###
-
-### 6.3.3. Manage Sub Statuses
-
-The Manage Sub Statuses feature allows administrators to create, edit, and assign detailed status labels that reflect the real-time progress or condition of a delivery task. These sub statuses provide a more granular tracking mechanism within the broader status categories such as "Pickup", "Waiting", or "Delivered"
-
-### 6.3.3.1. Create a Sub status
-
-Go to Configuration.
-
-Click on Configuration Menu
-
-Under My Data, click on Sub statuses.
-
-![Screenshot](../.gitbook/assets/image-80.png)
-
-Click the Actions dropdown menu
-
-Click on Add
-
-![Screenshot](../.gitbook/assets/image-81.png)
-
-Enter the Sub status code
-
-Select the Status configuration type
-
-![Screenshot](../.gitbook/assets/image-82.png)
-
-Click on Save
-
-![Screenshot](../.gitbook/assets/image-83.png)
-
-Sub status has been created successfully
-
-![Screenshot](../.gitbook/assets/image-84.png)
-
-###
-
-### 6.3.3.2. Delete a Sub status
-
-Go to Configuration.
-
-Click on Configuration Menu
-
-Under My Data, click on Sub statuses.
-
-Select a Sub statuses
-
-Click the Actions dropdown menu
-
-Click on Delete
-
-![Screenshot](../.gitbook/assets/image-85.png)
-
-You will see a confirmation pop-up message stating: "Do you want to delete the sub-status?"
-
-Click on Yes
-
-![Screenshot](../.gitbook/assets/image-86.png)
-
-Sub status has been deleted successfully
-
-![Screenshot](../.gitbook/assets/image-87.png)
-
-###
-
-### 6.3.3.3. Coloring a Sub status
+#### 1.7.7. Color a Vehicles fleets
 
 Apply conditions based on zone attributes such as type of mission (Delivery, Pickup), Zone priority, Assigned deliverer, Postal code prefix, etc.
 
-Go to Configuration.
+1. Go to Configuration.
+2. Click on Configuration Menu
+3. Under My Data, click on Manage the Vehicles.
+4. Select a Team
+5. Under My Fleets, click the Actions dropdown menu.
+6. Click on Coloring
 
-Click on Configuration Menu
+![Screenshot](<../.gitbook/assets/image-66 (1).png>)
 
-Under My Data, click on Sub statuses.
+7. Choose a Color
+8. Click on Save
 
-Select a Sub statuses
+![Screenshot](<../.gitbook/assets/image-67 (1).png>)
 
-Click the Actions dropdown menu
+The selected color has been applied successfully
 
-Click on Coloring
+![Screenshot](<../.gitbook/assets/image-68 (1).png>)
 
-![Screenshot](../.gitbook/assets/image-88.png)
+#### 1.7.8. Customize Vehicles fleets table
 
-Choose a Color
+1. Go to Configuration.
+2. Click on Configuration Menu
+3. Under My Data, click on Manage the Vehicles.
+4. Select a Team
+5. Under My Fleets, click the Actions dropdown menu.
+6. Click on Customize the list
 
-Click on Save
+![Screenshot](<../.gitbook/assets/image-69 (1).png>)
 
-![Screenshot](../.gitbook/assets/image-89.png)
+7. Choose which fields you want to display on the table.
 
-The selected color has been applied successfully.
+**Note**: Avoid selecting too many fields at once, as it may become difficult to read or navigate.
 
-![Screenshot](../.gitbook/assets/image-90.png)
+8. Click on Save
 
-###
-
-### 6.3.3.4. Customize Sub statuses table
-
-Go to Configuration.
-
-Click on Configuration Menu
-
-Under My Data, click on Sub statuses.
-
-Select a Sub statuses
-
-Click the Actions dropdown menu
-
-Click on Customize the Limit
-
-![Screenshot](../.gitbook/assets/image-91.png)
-
-Choose which fields you want to display on the table.
-
-Note: Avoid selecting too many fields at once, as it may become difficult to read or navigate.
-
-Click on Save
-
-![Screenshot](../.gitbook/assets/image-92.png)
+![Screenshot](<../.gitbook/assets/image-70 (1).png>)
 
 The selected fields have been displayed on the table successfully
 
-![Screenshot](../.gitbook/assets/image-93.png)
+![Screenshot](<../.gitbook/assets/image-71 (1).png>)
 
-###
 
-### 6.3.3.5. MANAGING SUB-STATUS CONFIGURATION TYPES
+
+#### 1.7.9. Customizing Status Labels.
+
+Previously, statuses in Nomadia Delivery were static and could not be customized to adapt to customer workflows. Customizable status labels now enhance mission tracking by giving users full control to configure status labels and colors to align with their business workflows.
+
+* Status Labels – Description
+* Waiting - Initial status. The Parcel is expected to arrive at the agency.
+* Received - Optional Status: Indicates the parcel has been received by the deliverer. The exact location depends on context.
+* Not received - Optional Status: Indicates the parcel was expected but not received by the deliverer. Location is dependent on context.
+* To be delivered - Parcel is scheduled for delivery by the transporter or subcontractor.
+* To be loaded - Optional Status: Parcel is ready at the docking area, awaiting loading onto the vehicle.
+* Loaded - Optional Status: Parcel has been successfully loaded onto the truck by the deliverer.
+* Not loaded - Optional Status: Parcel was expected but not loaded onto the truck
+* Not delivered - Delivery attempt failed; parcel was not handed over to the customer.
+* Delivered - Parcel has been delivered to the final recipient.
+* To be picked up - Parcel is scheduled for pickup by the transporter or subcontractor.
+* Picked up - Parcel has been collected from the contractor or end-customer.
+* Not Picked up - Pickup attempt failed; parcel was not collected.
+* To be Visited - Visit is scheduled by the transporter or subcontractor.
+* Visited - Visit was completed by the deliverer.
+* Not Visited - Visit was scheduled but not completed.
+
+To customize status labels in Nomadia Delivery, follow the steps below.
+
+1. Open the Nomadia Delivery application and navigate to the Configuration tab.
+
+![Screenshot](<../.gitbook/assets/image-72 (1).png>)
+
+2. Select Customize Status Labels from the list.
+
+![Screenshot](<../.gitbook/assets/image-73 (1).png>)
+
+This page displays all statuses in Nomadia Delivery.
+
+![Screenshot](<../.gitbook/assets/image-74 (1).png>)
+
+3. Click the text box next to the status and update the label to match your business workflow.
+
+![Screenshot](<../.gitbook/assets/image-75 (1).png>)
+
+4. Click the Other Languages accordion to update labels for users in different languages or countries.
+
+![Screenshot](<../.gitbook/assets/image-76 (1).png>)
+
+5. Click the Color Picker to change the background color of a status label. Ensure you choose a contrasting color that maintains text readability in the UI.
+
+![Screenshot](<../.gitbook/assets/image-77 (1).png>)
+
+6. After making the changes, click Save to apply the label and color updates across both the web and mobile applications.
+
+![Screenshot](<../.gitbook/assets/image-78 (1).png>)
+
+7. After saving the changes, return to the mission page to view the updated labels and colors in the pre-filter area
+
+![Screenshot](<../.gitbook/assets/image-79 (1).png>)
+
+This provides a smooth, business-aligned experience for both planners and deliverers.
+
+
+
+### 1.8. Manage Sub Statuses
+
+The Manage Sub Statuses feature allows administrators to create, edit, and assign detailed status labels that reflect the real-time progress or condition of a delivery task. These sub statuses provide a more granular tracking mechanism within the broader status categories such as "Pickup", "Waiting", or "Delivered"
+
+### 1.8.1. Create a Sub status
+
+1. Go to Configuration.
+2. Click on Configuration Menu
+3. Under My Data, click on Sub statuses.
+
+![Screenshot](<../.gitbook/assets/image-80 (1).png>)
+
+4. Click the Actions dropdown menu
+5. Click on Add
+
+![Screenshot](<../.gitbook/assets/image-81 (1).png>)
+
+6. Enter the Sub status code
+7. Select the Status configuration type
+
+![Screenshot](<../.gitbook/assets/image-82 (1).png>)
+
+8. Click on Save
+
+![Screenshot](<../.gitbook/assets/image-83 (1).png>)
+
+Sub status has been created successfully
+
+![Screenshot](<../.gitbook/assets/image-84 (1).png>)
+
+
+
+#### 1.8.2. Delete a Sub status
+
+1. Go to Configuration.
+2. Click on Configuration Menu
+3. Under My Data, click on Sub statuses.
+4. Select a Sub statuses
+5. Click the Actions dropdown menu
+6. Click on Delete
+
+![Screenshot](<../.gitbook/assets/image-85 (1).png>)
+
+You will see a confirmation pop-up message stating: "Do you want to delete the sub-status?"
+
+7. Click on Yes
+
+![Screenshot](<../.gitbook/assets/image-86 (1).png>)
+
+Sub status has been deleted successfully
+
+![Screenshot](<../.gitbook/assets/image-87 (1).png>)
+
+
+
+#### 1.8.3. Coloring a Sub status
+
+Apply conditions based on zone attributes such as type of mission (Delivery, Pickup), Zone priority, Assigned deliverer, Postal code prefix, etc.
+
+1. Go to Configuration.
+2. Click on Configuration Menu
+3. Under My Data, click on Sub statuses.
+4. Select a Sub statuses
+5. Click the Actions dropdown menu
+6. Click on Coloring
+
+![Screenshot](<../.gitbook/assets/image-88 (1).png>)
+
+7. Choose a Color
+8. Click on Save
+
+![Screenshot](<../.gitbook/assets/image-89 (1).png>)
+
+The selected color has been applied successfully.
+
+![Screenshot](<../.gitbook/assets/image-90 (1).png>)
+
+
+
+#### 1.8.4. Customize Sub statuses table
+
+1. Go to Configuration.
+2. Click on Configuration Menu
+3. Under My Data, click on Sub statuses.
+4. Select a Sub statuses
+5. Click the Actions dropdown menu
+6. Click on Customize the Limit
+
+![Screenshot](<../.gitbook/assets/image-91 (1).png>)
+
+7. Choose which fields you want to display on the table.
+
+**Note**: Avoid selecting too many fields at once, as it may become difficult to read or navigate.
+
+8. Click on Save
+
+![Screenshot](<../.gitbook/assets/image-92 (1).png>)
+
+The selected fields have been displayed on the table successfully
+
+![Screenshot](<../.gitbook/assets/image-93 (1).png>)
+
+
+
+#### 1.8.5. MANAGING SUB-STATUS CONFIGURATION TYPES
 
 Nomadia Delivery provides three types of sub-status templates that enable users to personalize the delivery workflow according to the customer type or category. These templates are Basic, Intermediate, and Advanced.
 
@@ -884,83 +826,102 @@ Note: The Configuration types options are provided solely to help differentiate 
 
 To configure and manage sub-status configuration types in Nomadia Delivery, follow these steps:
 
-Open the Nomadia Delivery application and go to the Configuration module.
+1. Open the Nomadia Delivery application and go to the Configuration module.
 
-![Screenshot](../.gitbook/assets/image-94.png)
+![Screenshot](<../.gitbook/assets/image-94 (1).png>)
 
-Click on the Actions button, then choose Add to create a new sub-status.
+2. Click on the Actions button, then choose Add to create a new sub-status.
 
-![Screenshot](../.gitbook/assets/image-95.png)
+![Screenshot](<../.gitbook/assets/image-95 (1).png>)
 
-Assign the created sub-status to one or more templates.
+3. Assign the created sub-status to one or more templates.
 
-![Screenshot](../.gitbook/assets/image-96.png)
+![Screenshot](<../.gitbook/assets/image-96 (1).png>)
 
-Define the required actions for each sub-status, such as making signature mandatory, requiring a
+4. Define the required actions for each sub-status, such as making signature mandatory, requiring a photo, etc.
 
-photo, etc.
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-Repeat the process to create additional sub-statuses and link them to the desired templates.
+5. Repeat the process to create additional sub-statuses and link them to the desired templates.
 
-Once all templates are configured, navigate to the Missions tab.
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-Click on the Mission Editor button to attach a sub-status template to a mission.
+6. Once all templates are configured, navigate to the Missions tab.
+7. Click on the Mission Editor button to attach a sub-status template to a mission.
 
-Select the appropriate sub-status configuration template for the chosen mission
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-Alternatively, configure templates in bulk during mission import by mapping the Excel field to the
+8. Select the status configuration template for the chosen mission
 
-Status configuration type with values like BASIC, INTERMEDIATE, or ADVANCED.
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-### 6.3.3.6. Trigger Notifications for Sub Status Changes
+9. Alternatively, configure templates in bulk during mission import by mapping the Excel field to the Status configuration type with values like BASIC, INTERMEDIATE, or ADVANCED.
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+#### 1.8.6. Trigger Notifications for Sub Status Changes
 
 The Trigger Notifications for Sub-Status Changes feature enables accurate, real-time communication with all stakeholders involved in parcel movement. It improves transparency, coordination, and overall service quality across first-mile, mid-mile, and last-mile operations.
 
 To configure notifications for sub-status changes, follow the steps below:
 
-Open the Nomadia Delivery application and go to the Configuration tab.
+1. Open the Nomadia Delivery application and go to the Configuration tab.
 
-Select Sub-statuses from the list.
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-Click the Pencil icon next to the existing sub-status to edit it.
+2. Select Sub-statuses from the list.
 
-The Custom Messages Configuration section is displayed at the bottom of the page.
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-Click the + button to add the notification configuration to the sub status.
+3. Click the Pencil icon next to the existing sub-status to edit it.
 
-Notifications can be made for the following recipients:
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
-Sender – The original sender of the mission. Notifications are sent to the contractor’s email address or mobile number stored in the mission details.
+4. The Custom Messages Configuration section is displayed at the bottom of the page.
 
-Consignee – The original recipient of the mission (customer). Notifications are sent to the delivery email address or mobile number stored in the mission details.
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
-Other Recipients – Any internal stakeholders who need to be informed about the mission’s transit, such as the dispatch or logistics teams. This field accepts multiple email addresses or phone numbers, separated by commas.
+5. Click the + button to add the notification configuration to the sub status.
 
-Notifications can be sent via Email or SMS.
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-To create a notification configuration, select a recipient, message type, and message template. Please note that only custom message templates are supported for this case.
+6.  Notifications can be made for the following recipients:
 
-The Other Recipients field allows you to enter multiple email addresses or phone numbers, separated by commas.
+    * **Sender** – The original sender of the mission. Notifications are sent to the contractor’s email address or mobile number stored in the mission details.
+    * **Consignee** – The original recipient of the mission (customer). Notifications are sent to the delivery email address or mobile number stored in the mission details.
+    * **Other Recipients** – Internal stakeholders such as dispatch or logistics teams. This field accepts multiple email addresses or phone numbers, separated by commas.
 
-Please note that the Other Recipients field is enabled only when Other Recipients is selected in the Recipient column.
+    <figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+7.  Notifications can be sent via Email or SMS.
 
-After completing the configuration, click Save to apply and store the changes.
+    * To create a notification configuration, select a **recipient**, **message type**, and **message template**.
+    * Only **custom message templates** are supported for this case.
+
+    <figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+8.  The Other Recipients field allows you to enter multiple email addresses or phone numbers, separated by commas.
+
+    * This field is enabled only when **Other Recipients** is selected in the **Recipient** column.
+
+    <figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+9. After completing the configuration, click Save to apply and store the changes.
+
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 When the mobile user triggers a sub-status, all configured recipients automatically receive the update via Email or SMS at the same time, providing real-time information on the mission’s movement.
 
-###
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
-###
 
-###
 
-### 6.3.4. Manage Articles
+### 1.9. Manage Articles
 
 The Manage Articles feature in Nomadia Delivery allows users to maintain and organize a centralized catalog of products (articles) that are part of the delivery workflow. This feature supports the complete lifecycle of articles — including creation, editing, activation/deactivation, and deletion — enabling seamless tracking and accurate planning of deliveries.
 
-### 6.3.4.1. Manage Article types
+#### 1.9.1. Manage Article types
 
 The Manage Article Types feature allows administrators to define and categorize the various kinds of articles handled within the delivery process. This classification ensures better organization, filtering, and reporting of items during route planning, loading, and delivery execution.
+
+<table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">Field name in import file</td><td valign="top">Field name in back office table</td><td valign="top">Description</td></tr><tr><td valign="top">Id</td><td valign="top">Name</td><td valign="top">Mandatory and unique among all the articles id / Name</td></tr><tr><td valign="top">Labels</td><td valign="top">Labels</td><td valign="top"><p>In the import file, for several languages the syntax is:</p><p>[language code on two characters] = [Translation]; [language code on two characters] = [Translation]. E.g.: “fr=Tournevis;en=Screwdriver”</p></td></tr></tbody></table>
 
 ### 6.3.4.1.1. Import Article types.
 
