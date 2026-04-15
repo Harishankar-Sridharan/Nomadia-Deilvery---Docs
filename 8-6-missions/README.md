@@ -923,199 +923,218 @@ The Manage Article Types feature allows administrators to define and categorize 
 
 <table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">Field name in import file</td><td valign="top">Field name in back office table</td><td valign="top">Description</td></tr><tr><td valign="top">Id</td><td valign="top">Name</td><td valign="top">Mandatory and unique among all the articles id / Name</td></tr><tr><td valign="top">Labels</td><td valign="top">Labels</td><td valign="top"><p>In the import file, for several languages the syntax is:</p><p>[language code on two characters] = [Translation]; [language code on two characters] = [Translation]. E.g.: “fr=Tournevis;en=Screwdriver”</p></td></tr></tbody></table>
 
-### 6.3.4.1.1. Import Article types.
+#### 1.9.2. Import Article types.
 
-Go to Configuration.
+1. Go to Configuration.
+2. Click on Configuration Menu
+3. Under Customization, click on Types of Articles.
 
-Click on Configuration Menu
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
-Under Customization, click on Types of Articles.
+4. Click the Actions dropdown menu
+5. Click on Import
 
-Click the Actions dropdown menu
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
-Click on Import
+6. Click on Browse File to upload the file that contains the zone data.
 
-Click on Browse File to upload the file that contains the zone data.
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
-Select a valid file from your local system.
+7. Select a valid file from your local system.
 
-The articles have been imported successfully.
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
-### 6.3.4.1.2. Create an Article type
+8. The articles have been imported successfully.
 
-Go to Configuration.
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
-Click on Configuration Menu
+#### 1.93. Create an Article type
 
-Under Customization, click on Types of Articles.
+1. Go to Configuration.
+2. Click on Configuration Menu
+3. Under Customization, click on Types of Articles.
+4. Click the Actions dropdown menu
+5. Click on Add
 
-Click the Actions dropdown menu
+<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
-Click on Add
 
-Enter the Name and Translation
 
-Click on Save
+6. Enter the Name and Translation
+
+<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+
+7. Click on Save
+
+<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 The article type has been created successfully
 
-### 6.3.4.1.3. Edit an Article type
+<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
-Go to Configuration.
+#### 1.9.4. Edit an Article type
 
-Click on Configuration Menu
+1. Go to Configuration.
+2. Click on Configuration Menu
+3. Under Customization, click on Types of Articles.
+4. Select an Article
+5. Click the Pencil icon
 
-Under Customization, click on Types of Articles.
+<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
-Select an Article
+6. Edit the information as needed
 
-Click the Pencil icon
+<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
-Edit the information as needed
+7. Click on Save
 
-Click on Save
+<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
-###
 
-###
 
-###
+#### 1.9.5. Export Article types
 
-### 6.3.4.1.4. Export Article types
+1. Go to Configuration.
+2. Click on Configuration Menu
+3. Under Customization, click on Types of Articles.
+4. Select an Article
+5. Click the Actions dropdown menu
+6. Click on Export
 
-Go to Configuration.
-
-Click on Configuration Menu
-
-Under Customization, click on Types of Articles.
-
-Select an Article
-
-Click the Actions dropdown menu
-
-Click on Export
+<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
 The article types have been exported successfully
 
-### 6.3.4.1.5. Delete an article type
+<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
-Go to Configuration.
+#### 1.9.6. Delete an article type
 
-Click on Configuration Menu
+1. Go to Configuration.
+2. Click on Configuration Menu
+3. Under Customization, click on Types of Articles.
+4. Select an Article
+5. Click the Actions dropdown menu
+6. Click on Delete
 
-Under Customization, click on Types of Articles.
+<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
-Select an Article
+7. You will see a confirmation pop-up message stating: "Do you want to delete the article?"
+8. Click on Delete
 
-Click the Actions dropdown menu
-
-Click on Delete
-
-You will see a confirmation pop-up message stating: "Do you want to delete the article?"
-
-Click on Delete
+<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
 The article types have been deleted successfully
 
-###
+<figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
-###
 
-###
 
-### 6.3.4.2. Add Articles to a Mission
+#### 1.9.7. Add Articles to a Mission
 
 From the Mission page
 
-Click on Actions
+1. Click on Actions
+2. Select Add from the dropdown menu.
 
-Select Add from the dropdown menu.
+<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
-Click on Articles
+3. Click on Articles
+4. Click on Add Articles
 
-Click on Add Articles
+<figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
-Enter the required information, including the Article name and Planned quantity
+5. Enter the required information, including the Article name and Planned quantity
 
-Click on Add
+<figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+
+6. Click on Add
+
+<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
 The Articles will be added successfully.
 
-### 6.3.4.3. Edit a Mission Article
+<figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+
+#### 1.9.8. Edit a Mission Article
 
 From the Mission page
 
-Click the pencil icon of the chosen mission
+1. Click the pencil icon of the chosen mission
 
-In the left-hand menu, click the Articles tab
+<figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
-Edit the Article
+2. In the left-hand menu, click the Articles tab
 
-Update the necessary details such as Planned, Done, and Returned quantities
+<figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
-Click on Save
+3. Edit the Article
 
-### 6.3.4.4. Delete a Mission Article
+<figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+
+4. Update the necessary details such as Planned, Done, and Returned quantities
+5. Click on Save
+
+<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+
+#### 1.9.9. Delete a Mission Article
 
 From the Mission page
 
-Click the pencil icon next to the desired mission
+1. Click the pencil icon next to the desired mission
+2. In the left-hand menu, select the Articles tab
+3. Click on the Bin icon of the Article to delete
 
-In the left-hand menu, select the Articles tab
+<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
-Click on the Bin icon of the Article to delete
+4. Mission articles will be deleted successfully.
 
-Mission articles will be deleted successfully.
+<figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
-### 6.3.5. Manage Documents
+### 1.10. Manage Documents
 
 The "Manage Documents" feature allows users to upload, view, organize, and associate various documents with delivery operations to streamline communication and ensure all necessary information is easily accessible in the field and at the back office.
 
-### 6.3.5.1. Manage Templates for Mission documents
+#### 1.10.1. Manage Templates for Mission documents
 
 The Manage Document Templates feature allows administrators and back-office users to create, configure, and maintain reusable templates for documents such as delivery slips, invoices, proof of delivery, and task reports. These templates standardize documentation across operations and ensure consistency in branding, structure, and required information.
 
 You can design your own templates to replace the default one.
 
-### 6.3.5.1.1. Download a Document Template
+<table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">Templates</td><td valign="top">Associated Variables</td></tr><tr><td valign="top">Route sheet</td><td valign="top">Mission, Route</td></tr><tr><td valign="top">Loading sheet</td><td valign="top">Mission, Route</td></tr><tr><td valign="top">Mission sheet</td><td valign="top">Mission</td></tr><tr><td valign="top">Sticker sheet</td><td valign="top">Mission</td></tr><tr><td valign="top">Consignment notes</td><td valign="top">Mission, Agency, Contractor, Company, Vehicle, Delivery Man, Custom Data, Documents, Status Changes</td></tr><tr><td valign="top">Visit Report</td><td valign="top">Mission Open Order</td></tr><tr><td valign="top">Small Stickers Sheet</td><td valign="top">Mission</td></tr></tbody></table>
 
-Go to Configuration.
+#### 1.10.2. Download a Document Template
 
-Click on Configuration Menu
+1. Go to Configuration.
+2. Click on Configuration Menu
+3. Under Customization, click on Document Templates
+4. Select the Desired document from the list
 
-Under Customization, click on Document Templates
+<figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
-Select the Desired document from the list
+5. Click the Actions dropdown menu
+6. Click on Download
 
-Click the Actions dropdown menu
-
-Click on Download
+<figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
 The document templates will be downloaded successfully.
 
-###
+<figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
 
-###
 
-###
 
-### 6.3.5.1.2. Edit a Document Template
+#### 1.10.3. Edit a Document Template
 
-Go to Configuration.
+1. Go to Configuration.
+2. Click on Configuration Menu
+3. Under Customization, click on Document Templates
+4. Select the Desired document from the list
+5. Click the Actions dropdown menu
+6. Click on Edit
 
-Click on Configuration Menu
+<figure><img src="../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 
-Under Customization, click on Document Templates
-
-Select the Desired document from the list
-
-Click the Actions dropdown menu
-
-Click on Edit
-
-Edit the information as needed
-
-Click on Save
+7. Edit the information as needed
+8. Click on Save
 
 ###
 
