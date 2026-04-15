@@ -1,4 +1,4 @@
-# 10. Customizing Word Templates
+# Customizing Word Templates
 
 This guide provides step-by-step instructions for customizing your Word template used in the PDF export feature, enabling you to download delivery-related documents such as routing sheets, loading sheets, eCMR, mission reports, sticker sheets, and visit reports.
 
@@ -8,11 +8,11 @@ Open the Nomadia Delivery application and go to the Configuration tab.
 
 From the drop-down menu, select Document Templates.
 
-![Screenshot](./screenshots/image-1.png)
+![Screenshot](<../.gitbook/assets/image-1 (8).png>)
 
 The page will display all the default templates that Nomadia Delivery uses to generate PDFs, including routing sheets, loading sheets, eCMR, mission reports, sticker sheets, and visit reports.
 
-![Screenshot](./screenshots/image-2.png)
+![Screenshot](<../.gitbook/assets/image-2 (7).png>)
 
 Default templates in Nomadia Delivery are enabled by default and cannot be disabled,
 
@@ -24,23 +24,23 @@ Follow these steps to download an existing template:
 
 Select the template(s) you want to download.
 
-![Screenshot](./screenshots/image-3.png)
+![Screenshot](<../.gitbook/assets/image-3 (8).png>)
 
 Open the Actions menu and choose Download.
 
-![Screenshot](./screenshots/image-4.png)
+![Screenshot](<../.gitbook/assets/image-4 (8).png>)
 
 A ZIP file will be generated, containing all the selected templates.
 
-![Screenshot](./screenshots/image-5.png)
+![Screenshot](<../.gitbook/assets/image-5 (8).png>)
 
 Follow these steps to modify an existing template:
 
 Open the downloaded template in Microsoft Word.
 
-![Screenshot](./screenshots/image-6.png)
+![Screenshot](<../.gitbook/assets/image-6 (8).png>)
 
-Refer to the accompanying document FieldsMaster_DocumentTemplate, which lists all the
+Refer to the accompanying document FieldsMaster\_DocumentTemplate, which lists all the
 
 available fields that can be used within the template.
 
@@ -60,15 +60,15 @@ Copy the plain text of the field, for example: ${(contractor.name)!}.
 
 Go to Insert → Quick Parts → Field.
 
-![Screenshot](./screenshots/image-7.png)
+![Screenshot](<../.gitbook/assets/image-7 (9).png>)
 
 In the Categories dropdown, select Mail Merge, then choose Merge Field under Field names
 
 Paste the field name you copied into the Field name text box and click OK.
 
-The plain text will now be converted into a merge field, appearing as:     «${(contractor.name)!}»
+The plain text will now be converted into a merge field, appearing as: «${(contractor.name)!}»
 
-![Screenshot](./screenshots/image-8.png)
+![Screenshot](<../.gitbook/assets/image-8 (8).png>)
 
 "Follow these steps to activate a new template."
 
@@ -78,31 +78,31 @@ Go to the Configuration module and select Document Templates from the menu.
 
 Click on the Actions menu and choose Import.
 
-![Screenshot](./screenshots/image-9.png)
+![Screenshot](<../.gitbook/assets/image-9 (8).png>)
 
 Browse your computer and select the template you just created.
 
-![Screenshot](./screenshots/image-10.png)
+![Screenshot](<../.gitbook/assets/image-10 (7).png>)
 
 If necessary, update the identifier or file name.
 
-![Screenshot](./screenshots/image-11.png)
+![Screenshot](<../.gitbook/assets/image-11 (7).png>)
 
 Choose the template type from the dropdown menu (e.g., Consignment Note Template).
 
-![Screenshot](./screenshots/image-12.png)
+![Screenshot](<../.gitbook/assets/image-12 (6).png>)
 
 Select the agency or agencies where the template should be available (e.g., Louisiana).
 
-![Screenshot](./screenshots/image-13.png)
+![Screenshot](<../.gitbook/assets/image-13 (7).png>)
 
 Click Save to upload the template.
 
-![Screenshot](./screenshots/image-14.png)
+![Screenshot](<../.gitbook/assets/image-14 (6).png>)
 
 The newly uploaded template will now appear in the templates table.
 
-![Screenshot](./screenshots/image-15.png)
+![Screenshot](<../.gitbook/assets/image-15 (6).png>)
 
 By default, new templates are disabled. To enable the template:
 
@@ -110,31 +110,31 @@ Select the uploaded template and click the Actions menu.
 
 Choose Enable/Disable to activate the template.
 
-![Screenshot](./screenshots/image-16.png)
+![Screenshot](<../.gitbook/assets/image-16 (6).png>)
 
 A notification will confirm that the template has been updated successfully, and the Enabled
 
 column will display Yes.
 
-![Screenshot](./screenshots/image-17.png)
+![Screenshot](<../.gitbook/assets/image-17 (5).png>)
 
 Follow these steps to generate a PDF using the newly enabled template:
 
 Navigate to the Missions tab and select a route that has been published to the mobile deliverer.
 
-![Screenshot](./screenshots/image-18.png)
+![Screenshot](<../.gitbook/assets/image-18 (5).png>)
 
 Click on the Actions menu and choose Consignment Note.
 
-![Screenshot](./screenshots/image-19.png)
+![Screenshot](<../.gitbook/assets/image-19 (5).png>)
 
 Click the Download button to download the consignment note.
 
-![Screenshot](./screenshots/image-20.png)
+![Screenshot](<../.gitbook/assets/image-20 (5).png>)
 
 The downloaded PDF will be generated using the newly enabled template.
 
-![Screenshot](./screenshots/image-21.png)
+![Screenshot](<../.gitbook/assets/image-21 (5).png>)
 
 Follow these steps to delete a template
 
@@ -142,21 +142,21 @@ Open the Nomadia Delivery application and go to the Configuration tab.
 
 From the dropdown menu, select Document Templates.
 
-![Screenshot](./screenshots/image-22.png)
+![Screenshot](<../.gitbook/assets/image-22 (5).png>)
 
 In the table, choose any non-default template, then click the Actions menu.
 
 Select Delete to remove the template.
 
-![Screenshot](./screenshots/image-23.png)
+![Screenshot](<../.gitbook/assets/image-23 (5).png>)
 
 Confirm the deletion by clicking Yes.
 
-![Screenshot](./screenshots/image-24.png)
+![Screenshot](<../.gitbook/assets/image-24 (5).png>)
 
 The selected template will be permanently deleted from the application.
 
-![Screenshot](./screenshots/image-25.png)
+![Screenshot](<../.gitbook/assets/image-25 (5).png>)
 
 Follow these steps to modify the template settings.
 
@@ -164,17 +164,17 @@ Template settings include the type of document the template is associated with�
 
 To modify the settings, click the Edit button next to the template name.
 
-![Screenshot](./screenshots/image-26.png)
+![Screenshot](<../.gitbook/assets/image-26 (5).png>)
 
 You can update the document type and the agencies associated with the template.
 
-![Screenshot](./screenshots/image-27.png)
+![Screenshot](<../.gitbook/assets/image-27 (5).png>)
 
 Once the changes are made, click Save to apply and save the updated settings.
 
-![Screenshot](./screenshots/image-28.png)
+![Screenshot](<../.gitbook/assets/image-28 (5).png>)
 
-## 10.1.  Custom Configuration type
+## 10.1. Custom Configuration type
 
 Nomadia Delivery now offers rule-based auto-assignment for configuration types—covering both sub status and notification—based on mission parameters. This enhancement enables planners to customize the delivery lifecycle according to operational needs, automate recurring decisions and maintain consistent workflows across different types of mission.
 
@@ -200,7 +200,7 @@ ADVANCED. You can either use these existing types or create a new one from scrat
 
 To edit an existing configuration type, click the Pencil icon next to it.
 
-![Screenshot](./screenshots/image-29.png)
+![Screenshot](<../.gitbook/assets/image-29 (5).png>)
 
 In the General tab, activate the toggles based on your requirements:
 
@@ -226,7 +226,7 @@ If multiple configuration types meet the conditions, the system will assign the 
 
 priority (with 1 being the highest).
 
-![Screenshot](./screenshots/image-30.png)
+![Screenshot](<../.gitbook/assets/image-30 (4).png>)
 
 The table below illustrates how different configuration types, conditions, and rules influence auto-
 
@@ -236,7 +236,7 @@ Note: The sub status configuration type assigned to the mission object takes the
 
 Once the rules are configured, any newly created or imported mission will automatically inherit the corresponding configuration types, and the mission values will be filled accordingly.
 
-![Screenshot](./screenshots/image-31.png)
+![Screenshot](<../.gitbook/assets/image-31 (4).png>)
 
 In exceptional cases, users can manually update sub status or notification configuration types. If
 
@@ -246,9 +246,9 @@ If confirmed, the manual changes will be retained.
 
 If declined, the system will revert to auto-assigned configurations.
 
-![Screenshot](./screenshots/image-32.png)
+![Screenshot](<../.gitbook/assets/image-32 (4).png>)
 
-## 
+##
 
 ## 10.2 Customize Email Templates
 
@@ -266,7 +266,7 @@ They act as a fallback when no custom configuration is in place.
 
 While they cannot be deleted, they can be disabled if required.
 
-![Screenshot](./screenshots/image-33.png)
+![Screenshot](<../.gitbook/assets/image-33 (4).png>)
 
 Follow the steps below to create a custom email notification template:
 
@@ -276,17 +276,17 @@ From the drop-down menu, select Configure outgoing messages.
 
 Click on the Email templates tab.
 
-![Screenshot](./screenshots/image-34.png)
+![Screenshot](<../.gitbook/assets/image-34 (4).png>)
 
 In the table, click the Actions button and select Add.
 
-![Screenshot](./screenshots/image-35.png)
+![Screenshot](<../.gitbook/assets/image-35 (4).png>)
 
 A list of available templates will appear. Choose one to customize (e.g., Time window to
 
 communicate).
 
-![Screenshot](./screenshots/image-36.png)
+![Screenshot](<../.gitbook/assets/image-36 (4).png>)
 
 In the pop-up window, personalize and configure the message as needed. Select a configuration
 
@@ -294,7 +294,7 @@ type to link the template with the mission.
 
 Enable the template and save your changes.
 
-![Screenshot](./screenshots/image-37.png)
+![Screenshot](<../.gitbook/assets/image-37 (4).png>)
 
 Repeat the process to configure other notifications and associate them with the appropriate
 
