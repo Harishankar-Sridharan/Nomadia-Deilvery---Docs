@@ -6,21 +6,21 @@ The Manage Users section allows administrators to create, configure, and maintai
 
 1. Navigate to Configuration.
 
-![Screenshot](<../.gitbook/assets/image-1 (1).png>)
+![](<../.gitbook/assets/image-1 (1).png>)
 
 2. From the list, select Manage Users.
 
 
 
-![Screenshot](<../.gitbook/assets/image-2 (1).png>)
+![](<../.gitbook/assets/image-2 (1).png>)
 
 3. Click the Actions drop-down and choose Add.
 
-![Screenshot](<../.gitbook/assets/image-3 (1).png>)
+![](<../.gitbook/assets/image-3 (1).png>)
 
 4. To create a new user, set Create from existing user to No. Click OK. For step-by-step instructions, refer to section 5.3. Creating a User from an Existing User
 
-![Screenshot](<../.gitbook/assets/image-4 (1).png>)
+![](<../.gitbook/assets/image-4 (1).png>)
 
 * Select the appropriate Profile Name: Planner (Standard), Contractor, or Subcontractor.
 * &#x20;If Planner (Standard) is selected, access can be granted to a Transporter.
@@ -29,25 +29,25 @@ The Manage Users section allows administrators to create, configure, and maintai
 * Enter the Login ID, First Name, and Last Name.
 * The Login ID is required to be in an email format. For Mobile Users, the login ID is not required to be a valid email address.
 
-![Screenshot](<../.gitbook/assets/image-5 (1).png>)
+![](<../.gitbook/assets/image-5 (1).png>)
 
 * Set the User Status to Yes or No, as required.
 * When a profile is selected, all roles and access rights are inherited automatically. Roles and rights cannot be enabled or disabled manually at the user level. To change any roles or access rights, the modifications must be made in the profile configuration.
 * Enable Mobile Access and enter the user’s Password. For more information about the password policy, refer "Password policy for Mobile Access"
 
-![Screenshot](<../.gitbook/assets/image-6 (1).png>)
+![](<../.gitbook/assets/image-6 (1).png>)
 
 * Open Roles and Rights and enable the required permissions:
 
-![Screenshot](<../.gitbook/assets/image-7 (1).png>)
+![](<../.gitbook/assets/image-7 (1).png>)
 
 * Go to Agency, select the available agency, and click the right arrow to assign it to the user.
 
-![Screenshot](<../.gitbook/assets/image-8 (1).png>)
+![](<../.gitbook/assets/image-8 (1).png>)
 
 5. After completing all required details, click Save to create the user.
 
-![Screenshot](<../.gitbook/assets/image-9 (1).png>)
+![](<../.gitbook/assets/image-9 (1).png>)
 
 ### 1.1. Roles and Rights
 
@@ -79,7 +79,7 @@ The Manage Users section allows administrators to create, configure, and maintai
 
 The password must contain a minimum of 8 characters, including at least one uppercase letter, one lowercase letter, and one number.
 
-![Screenshot](../.gitbook/assets/image-10.png)
+![](../.gitbook/assets/image-10.png)
 
 ### 2. Enabling Web Access
 
@@ -103,7 +103,7 @@ The password must contain a minimum of 8 characters, including at least one uppe
 
 &#x20;      F. For Web Users, the Login ID must be in an email format and must be a valid email address.
 
-![Screenshot](../.gitbook/assets/image-11.png)
+![](../.gitbook/assets/image-11.png)
 
 &#x20;      G. Set the User Status to Yes or No, as required
 
@@ -111,32 +111,32 @@ The password must contain a minimum of 8 characters, including at least one uppe
 
 5. Enable or disable Web Access as required and select the Subcontractor Name, if applicable.
 
-![Screenshot](../.gitbook/assets/image-12.png)
+![](../.gitbook/assets/image-12.png)
 
 6. Click Save. A notification email is sent to the user.
 
-![Screenshot](../.gitbook/assets/image-13.png)
+![](../.gitbook/assets/image-13.png)
 
 7. Open the email and click the provided link to set the password.
 
-![Screenshot](../.gitbook/assets/image-14.png)
+![](../.gitbook/assets/image-14.png)
 
 8. Enter your email address and click Send verification code.
 
-![Screenshot](../.gitbook/assets/image-15.png)
+![](../.gitbook/assets/image-15.png)
 
 9. Enter the received verification code and click Verify code.
 
-![Screenshot](../.gitbook/assets/image-16.png)
+![](../.gitbook/assets/image-16.png)
 
 10. Click Continue.
 
-![Screenshot](../.gitbook/assets/image-17.png)
+![](../.gitbook/assets/image-17.png)
 
 11. Enter the new password and confirm it. For more information about the password policy, refer to the link "Password policy for Web Access"
 12. Click Continue.
 
-![Screenshot](../.gitbook/assets/image-18.png)
+![](../.gitbook/assets/image-18.png)
 
 The password has been changed successfully.
 
@@ -212,7 +212,7 @@ The password must include at least three of the following character types:
 * Numbers (0–9)
 * Symbols (special characters)
 
-![Screenshot](../.gitbook/assets/image-19.png)
+![](../.gitbook/assets/image-19.png)
 
 ### 3. Creating a User from an Existing User
 
@@ -222,15 +222,15 @@ The password must include at least three of the following character types:
 4. Choose Yes or No for Import User’s Preferences, as required.
 5. Click Ok
 
-![Screenshot](../.gitbook/assets/image-20.png)
+![](../.gitbook/assets/image-20.png)
 
 6. Modify the user details if necessary.
 
-![Screenshot](../.gitbook/assets/image-21.png)
+![](../.gitbook/assets/image-21.png)
 
 7. Click Save to complete the process.
 
-![Screenshot](../.gitbook/assets/image-22.png)
+![](../.gitbook/assets/image-22.png)
 
 ### 4. Days off
 
@@ -238,17 +238,17 @@ If a user has planned leave or vacation, the Days Off section can be used to rec
 
 1. Navigate to Days Off.
 
-![Screenshot](../.gitbook/assets/image-23.png)
+![](../.gitbook/assets/image-23.png)
 
 2. Click the + (Add) icon.
 
-![Screenshot](../.gitbook/assets/image-24.png)
+![](../.gitbook/assets/image-24.png)
 
 3. Enter the From Date, To Date, and specify the Reason.
 4. Click Add.
 
-![Screenshot](../.gitbook/assets/image-25.png)
+![](../.gitbook/assets/image-25.png)
 
 5. Click on Save to update the details
 
-![Screenshot](../.gitbook/assets/image-26.png)
+![](../.gitbook/assets/image-26.png)
