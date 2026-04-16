@@ -1923,7 +1923,7 @@ This feature allows an unplanned pickup mission to be inserted into an existing,
 
 1. Create a new Pickup mission&#x20;
 
-<figure><img src="../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (134) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -2284,26 +2284,26 @@ To access the ticket module, users must have the appropriate rights granted by a
 
 1. Open the Nomadia Delivery application and navigate to the Configuration tab.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Select Manage users from the drop-down.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 3. Click the pencil icon next to the user to edit a user.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 
 
 4. Go to the ‘Roles & Rights’ tab.
 5. Activate the necessary rights under the Tickets section.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 6. Click ‘Save’ to save the configuration.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 To create a ticket a contractor user should follow these steps:
 
@@ -2311,83 +2311,83 @@ To create a ticket a contractor user should follow these steps:
 2. Apply the Not delivered / Not picked pre-filter to display missions that are in distress.
 3. Click the pencil icon next to the relevant mission to switch to edit mode.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 4. Open the Help tab and select Create a ticket to initiate a support ticket for the mission.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 5. Enter your query in the provided field and click Send to submit the ticket to the transporter.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 6. The ticket is created, and the transporter will receive an email notification about the reported issue.
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 To reply to a ticket, the transporter should follow these steps:
 
 1. Once a contractor creates a ticket, the transporter receives an email containing the query and a direct link to the related mission.
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 2. Click the link to open the Mission Editor and view the ticket details.
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 3. Alternatively, transporters can locate missions with active tickets by applying the Open ticket filter = Yes in the Missions tab and saving it as a pre-filter for ongoing monitoring
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 4. To respond, open the Help tab, enter your reply in the message box, and click Reply to send the response.
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 To reply to a ticket, the contractor should follow these steps
 
 1. When the transporter replies to a ticket, the contractor receives an email with the response and a direct link to the related mission.
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 2. To reply, open the Mission Editor, go to the Help tab, type your message in the response box, and click Reply.
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 To close a ticket, the transporter should follow these steps:
 
 1. After sharing the required information with the contractor, the transporter can close the ticket by selecting the Close Ticket button in the Mission Editor.
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 To reopen a ticket, the contractor should follow these steps:
 
 1. As soon as the ticket is closed by the transporter an email will be sent to the contractor about the ticket closure.
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 2. The contractor can click on the link and reopen the ticket if the resolution provided by the transporter is not satisfactory.
 3. In the help tab of the mission editor, click on the reopen button to reopen the ticket if the response is not satisfactory.
 
-<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 To perform a bulk edit of tickets, contractors or transporters should follow these steps:
 
 1. Go to the Tickets module to fetch the list of the tickets created in the system
 
-<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 2. Select one or many tickets and click -> Actions
 
-<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 3. Click ‘Reopen’ to reopen all the selected closed tickets or click ‘Close ticket’ to Close all the replied tickets.
 4. A warning message is displayed to validate the action.
 
-<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 5. Click ‘Yes’ to confirm the actions
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 6. A notification message is displayed confirming the action.
 
@@ -2404,36 +2404,36 @@ To build and manage a document library within Nomadia Delivery, follow these ste
 1. Open the Nomadia Delivery application and go to the Configuration tab.
 2. From the drop-down menu, select Document Library.
 
-<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 3. Click the Actions button and choose Import to upload a document from your computer.
 
-<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
 4. Enter a clear and relevant identifier to help you recognize the document later.
 
-<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
 5. Click Save to store the document in the Document Library.
 
-<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
 6. The uploaded document will now be available in the Document Library section.
 
-<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 Steps to attach a document to a mission:
 
 1. Open the Nomadia Delivery application and go to the Missions tab
 2. Select the mission you want to update and click the pencil icon to edit it.
 
-<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
 
 
 3. Navigate to the Documents tab.
 
-<figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -2447,15 +2447,15 @@ Steps to attach a document to a mission:
 6. If uploading from the Document Library, click Browse the Library, then choose the document(s) you want to attach.
 7. Click Import.
 
-<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
 8. Click Save.
 
-<figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
 9. The document is now successfully attached to the mission
 
-<figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
 ### 2.14. Duplicating Missions with Quantities
 
@@ -2465,39 +2465,39 @@ Steps to duplicate missions with quantities:
 
 1. Open the Nomadia Delivery application and go to the Missions tab.
 
-<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
 2. In the Mission table, click the Actions drop-down menu and select Add.
 
-<figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
 3. In the mission wizard, complete the mandatory fields according to the mission type (e.g., agency, pickup address, delivery address, etc.).
 
-<figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
 4. Under the Parcel section, enter parcel details such as length, width, height, weight, volume, and solver constraints.
 
-<figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
 5. To add a new parcel with different values, click the “+” symbol.
 
-<figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
 6. To duplicate an existing parcel with the same details, click the Copy icon.
 
-<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
 7. If you mistakenly add a parcel, click the Delete icon to remove it.
 
-<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
 8. After finalizing the parcels to be duplicated, click Add to generate the required number of missions.
 
-<figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
 9. The duplicated missions will now appear in the mission table.
 
-<figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
 ### 2.15. Cross Docking Missions
 
@@ -2521,71 +2521,71 @@ To set up a cross-docking mission, proceed with the following steps.
 
 1. Open the Nomadia Delivery application and go to the Missions tab.
 
-<figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
 
 2. Click the Actions menu and select Add.
 
-<figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 
 3. In the Mission type drop-down, select Cross-docking to create a cross-docking mission.
 
-<figure><img src="../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
 4. From the Contractor identifier drop-down, choose the contractor linked to the cross-docking mission.
 
 Note: For cross-docking missions, if the contractor is mapped, their registered address will automatically be used as the default pickup address for Leg 1 | Mid-Mile Pickup Tour. This address is retrieved from the contractor configuration.
 
-<figure><img src="../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
 
 5. Select the Agency from which deliverers will start for the Leg 1 | Mid-Mile Pickup Tour.
 
-<figure><img src="../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
 
 6. Click Next to continue.
 
-<figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
 7. By default, the contractor’s address will be used as the pickup address. If required, you can select a different pickup address for Leg 1 | Mid-Mile Pickup Tour by clicking the Edit button next to the address field.
 
-<figure><img src="../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
 8. Enter the delivery address of the end customer in the address section to complete the cross- docking mission setup.
 
-<figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
 
 9. Click Add to create the cross-docking mission.
 
-<figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
 
 A new mission of type Cross-docking will now be added to the delivery management system.
 
-<figure><img src="../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
 
 **To create a cross-docking mission Leg1 | Mid-Mile Pickup Tour, follow these steps**
 
 1. Select the created mission, open the Actions menu, and choose Assign. Assign the mission to a deliverer.
 
-<figure><img src="../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
 
 2. Provide a name for the route, select the deliverer, and specify the date and time for the pickup mission – Leg 1 | Mid-Mile Pickup Tour. Click OK to create the tour.
 
-<figure><img src="../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
 
 3. The Leg 1 | Mid-Mile Pickup Tour route will now be created in the delivery management system and will be ready for publishing to the deliverer’s mobile app.
 
-<figure><img src="../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
 
 4. Open the Actions menu again and select Publish on mobile app.
 
-<figure><img src="../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
 
 5. Click OK to confirm and push the tour details to the mobile app.
 
-<figure><img src="../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
 
 6. The Leg 1 | Mid-Mile Pickup Tour will now be available on the deliverer’s mobile app.
 
-<figure><img src="../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
 
 7. The deliverer must perform the pickup in real time to complete the Leg 1 | Mid-Mile Pickup Tour.
 
@@ -2593,45 +2593,45 @@ A new mission of type Cross-docking will now be added to the delivery management
 
 8. Once completed, the confirmation of the tour will be displayed in the Gantt chart with a green tick mark.
 
-<figure><img src="../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
 
 9. Missions for Leg 2 | Last-Mile Delivery Tour can only be planned once the goods are returned to the depot.
 
-<figure><img src="../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
 
 To create a cross-docking mission, follow these steps:
 
 1. Select the Returned to Depot mission, open the Actions menu, and choose Assign. Assign the mission to a deliverer.
 
-<figure><img src="../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
 
 2. Enter a name for the route, select the deliverer, and set the date and time for the delivery mission – Leg 2 | Last-Mile Delivery Tour. Click OK to create the tour.
 
-<figure><img src="../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
 
 3. The Leg 2 | Last-Mile Delivery Tour route will now be created in the delivery management system and will be ready for publishing to the deliverer’s mobile app.
 
-<figure><img src="../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
 
 4. From the Actions menu, select Publish on mobile app.
 
-<figure><img src="../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
 
 5. Click OK to confirm and push the tour details to the mobile app.
 
-<figure><img src="../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
 
 6. The Leg 2 | Last-Mile Delivery Tour will now be published to the deliverer’s mobile app.&#x20;
 
-<figure><img src="../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 
 7. The deliverer must carry out the deliveries in real time to complete the Leg 2 | Last-Mile Delivery Tour.
 
-<figure><img src="../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
 
 8. Once completed, the tour confirmation will be displayed in the Gantt chart with a green tick mark.
 
-<figure><img src="../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
 
 ### 2.16. Drop Shipping Missions
 
@@ -2642,53 +2642,53 @@ To create a drop-shipping mission, users (contractors, transporters, or subcontr
 1. Open the Nomadia Delivery application and go to the Missions tab.
 2. Click on the Actions menu and select Add.
 
-<figure><img src="../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
 
 3. In the Mission Type drop-down, choose Drop-Shipping.
 
-<figure><img src="../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
 
 4. From the Contractor Identifier drop-down, select the contractor associated with the mission
 
 
 
-<figure><img src="../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
 
 * For drop-shipping missions, the contractor’s address (from contractor configuration) will be automatically used as the default pickup address.
 
-<figure><img src="../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
 
 5. Select the Agency from which the deliverers will begin their tour.
 
-<figure><img src="../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
 
 6. Click Next.
 
-<figure><img src="../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
 
 7. The system will display the contractor’s address as the pickup location by default
 
-<figure><img src="../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
 
 * If needed, click the **Edit** button next to the address field to set a different pickup address.
 
-<figure><img src="../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
 
 8. Click Next to continue.
 
-<figure><img src="../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
 
 9. Enter the delivery address of the end customer in the address section.
 
-<figure><img src="../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
 
 10. Click Add to create the drop-shipping mission.
 
-<figure><img src="../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
 
 Once completed, a new mission of type Drop-Shipping will be added to the delivery management system.
 
-<figure><img src="../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
 
 Follow these steps to create a drop-shipping mission tour Drop-shipping missions are exclusively managed through the optimization engine to ensure accuracy and strict compliance with the delivery chain. Manual route planning is restricted to preserve workflow integrity.
 
@@ -2696,48 +2696,48 @@ Deliveries are permitted only after all pickups are completed, preventing disrup
 
 1. Select the missions you have created, open the ‘Actions’ menu, and choose ‘Optimize’ to perform a batch optimization.
 
-<figure><img src="../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
 
 2. Define the optimization scope by selecting the date range, team, and vehicles, then click ‘Optimize’.
 
-<figure><img src="../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
 
 3. Once you are satisfied with the results, click ‘Stop and see the result’.
 
-<figure><img src="../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
 
 4. The optimization summary is displayed. Click ‘Display the simulation’ to analyze the results.
 
-<figure><img src="../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
 
 5. Alternatively, click ‘Validate routes’ to publish the results directly without reviewing them.
 6. In the ‘Deliveries’ panel, the application prefixes all delivery mission numbers with ‘DROP’ to differentiate pickup and drop events.
 
-<figure><img src="../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
 
 7. In the ‘Routes’ panel, select the routes you want to validate, open the ‘Actions’ menu, and click Validate.&#x20;
 
-<figure><img src="../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
 
 8. Click ‘OK’ to confirm validation.
 
-<figure><img src="../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
 
 9. After validation, confirmation notification is displayed.
 
-<figure><img src="../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
 
 10. At the bottom of the popup, enable the ‘Publish to the mobile app’ toggle if you want to share the route with the driver.
 
-<figure><img src="../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
 
 11. If conflicts occur, the popup will list all problems detected. In such cases, click ‘Force’ to proceed with validation.
 
-<figure><img src="../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
 
 12. The validated route with drop-shipping missions is then published to the mobile app.
 
-<figure><img src="../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
 
 Transporters can create routes that start from the agency, pick up parcels directly from the contractor (supplier) location, and deliver them to end customers. Unlike cross-docking missions, these routes do not require returning to the agency after the pickups are completed.
 
@@ -2758,52 +2758,52 @@ To set up a visit mission, users (contractors, transporters, or subcontractors) 
 1. Open the Nomadia Delivery application and go to the Missions tab.
 2. Click the ‘Actions’ menu and select ‘Add’.
 
-<figure><img src="../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
 
 3. In the Mission Type drop-down, choose the new mission type ‘Visit’ to create a visit mission.
 
-<figure><img src="../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
 
 4. Since a visit mission does not involve pickups or deliveries, the wizard includes only the Visit address and opening hours.
 
-<figure><img src="../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
 
 5. Select the agency that will serve as the starting point for the deliverers.
 
-<figure><img src="../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
 
 6. Click ‘Next’ to proceed to the following step.
 
-<figure><img src="../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
 
 7. Enter the visit address of the end customer in the address field.
 
-<figure><img src="../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
 
 8. Click ‘Add’ to create the visit mission.
 
-<figure><img src="../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
 
 9. A new visit-type mission will now appear in the delivery management system.
 
-<figure><img src="../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
 
 To set up a tour including visit missions, follow these steps:
 
 1. Select the created mission, click the ‘Actions’ menu, select the ‘Assign’ menu item and assign the created mission for a deliverer.
 
-<figure><img src="../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
 
 2. Give a name to the route, select the deliverer, date, and time for the visit mission, and click the OK/Force assignment’ button to create the tour.
 
-<figure><img src="../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
 
 3. The visit route will be created in the delivery management system, and it is ready to be published to the mobile app of the deliverer.
 4. Click the ‘Actions’ menu and select the ‘Publish on mobile app’ menu item.
 5. Click the ‘OK’ button to confirm and push the data to the mobile app
 6. The visit route will be published on the mobile app. The status of the mission is now changed to "To be visited”.
 
-<figure><img src="../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
 
 7. The deliverer, upon logging in to the mobile app, will be able to fulfill the visit with a new status xlike Visited & Not Visited.
 
@@ -2822,32 +2822,32 @@ Note: Zones can only be associated with users who have mobile access.
 
 3. Click the Pencil icon next to the desired mobile user.
 
-<figure><img src="../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
 
 4. Users with mobile access will see an additional tab for configuring zone rights. Click Agencies and zones to set up zone assignments.
 5. Move the available zones of the associated agencies to the right-hand panel to assign them to the user.
 
-<figure><img src="../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (114).png" alt=""><figcaption></figcaption></figure>
 
 6. After adjusting the zone settings, click Save to confirm the changes.
 
-<figure><img src="../.gitbook/assets/image (114).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (115).png" alt=""><figcaption></figcaption></figure>
 
 If the user is linked to a vehicle, all zone settings will automatically synchronize with that vehicle.
 
-<figure><img src="../.gitbook/assets/image (115).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
 
 Nomadia Delivery also allows users and vehicles to be assigned to different zones in exceptional cases, such as sick leave or sudden unavailability. In such scenarios, a synchronization error will appear in the vehicle’s General section.
 
-<figure><img src="../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
 
 Once users and vehicles are properly synchronized with their zone settings, missions are automatically assigned based on spatial alignment. If a mission’s pickup or delivery location falls within a configured zone, the corresponding user or vehicle linked to that zone is automatically assigned, and the Scheduled Deliverer field is updated.
 
-<figure><img src="../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
 
 If multiple users share the same zone, the system assigns the mission to the first user.
 
-<figure><img src="../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
 
 During optimization, the planner has three options:
 
@@ -2866,62 +2866,62 @@ Here are the steps to create a container mission:
 1. Open the Nomadia Delivery application and go to the Mission tab.
 2. Click Actions and select Add to create a new mission.
 
-<figure><img src="../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
 
 3. Create a delivery or pickup mission and use the parcel duplication feature to generate multiple missions for the same address.
 
-<figure><img src="../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
 
 4. Click Add to confirm and create the missions.
 
-<figure><img src="../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
 
 5. Select the missions you created, then click Actions and choose Group in one container.
 
-<figure><img src="../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
 
 6. A new container mission will be generated, automatically inheriting the address and other details from the selected missions.
 
-<figure><img src="../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
 
 7. Open the new container mission and go to the Child Missions tab to view the list of missions grouped inside.
 8. To modify details of the child missions, click the Pencil icon next to them.
 
-<figure><img src="../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (125).png" alt=""><figcaption></figcaption></figure>
 
 9. Users can assign or optimize missions by selecting only the parent container mission. To filter container missions specifically, use the parent container is empty condition.
 
-<figure><img src="../.gitbook/assets/image (125).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
 
 Here are the steps to plan or optimize container missions:
 
 1. Click the Actions button to assign or optimize the selected container missions.
 
-<figure><img src="../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
 
 2. To require scanning of all child missions during delivery in the Nomadia Delivery mobile app, enable the Scan all the items in the container toggle in the Delivered/Not Delivered sub-statuses.
 
-<figure><img src="../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
 
 3. Once enabled, the app will enforce scanning of each child mission inside the container. The deliverer can then manage the sub-status of individual child missions, allowing for either a full or partial delivery/pickup.
 
-<figure><img src="../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
 
 4. Any partially delivered missions remain linked to the route for improved traceability.
 
-<figure><img src="../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
 
 5. To review child mission logs, click the Pencil icon on the container mission, then open the Child Missions tab.
 
-<figure><img src="../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
 
 6. Use the Log tab to view child mission logs. Activate the Also display logs of parent container toggle to see both container and child mission logs simultaneously.
 
-<figure><img src="../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
 
 7. The Fulfillment tab shows only the container mission’s status for completed deliveries/pickups and displays the Not Delivered status of child missions in the case of partial deliveries.
 
-<figure><img src="../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
 
 ### 2.20. Bulk Edit Mission Data
 
