@@ -4,7 +4,7 @@
 
 A Mission refers to a task that must be executed, typically involving a pick-up location and delivery address. Each mission moves through a sequence of statuses that reflect its current stage. Understanding these statuses is essential for monitoring the progress and handling any exceptions that may occur during the process.
 
-![Screenshot](<../.gitbook/assets/image-1 (3) (1).png>)
+![](<../.gitbook/assets/image-1 (3) (1).png>)
 
 <table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">Section ID</td><td valign="top">Section</td><td valign="top">Description</td></tr><tr><td valign="top">A</td><td valign="top">Mission Table</td><td valign="top">Displays ongoing missions in a table format. Supports up to 10,000 entries at a time. Includes sorting and filtering options for easy data access.</td></tr><tr><td valign="top">B</td><td valign="top">Map</td><td valign="top">Interactive map showing mission locations and route paths. Help visualize geographic distribution and real time spatial tracking of mission statuses.</td></tr><tr><td valign="top">C</td><td valign="top">Routes Table</td><td valign="top">Gantt-style view of routes, showing scheduling and duration. Useful for understanding workload and mission sequence. It outlines the agenda for the designated mobile user.</td></tr><tr><td valign="top">D</td><td valign="top">Details</td><td valign="top">Shows detailed information for selected missions or routes, such as deliverer name, time slots, and status. Helps in reviewing and making informed decisions.</td></tr></tbody></table>
 
@@ -21,17 +21,17 @@ From the Missions page:
    * **Display Deleted Missions**: Enable this option to include deleted missions.
 3. Click **Apply**.
 
-![Screenshot](<../.gitbook/assets/image-2 (3) (1).png>)
+![](<../.gitbook/assets/image-2 (3) (1).png>)
 
 4. The filtered missions will be displayed on your Missions page.
 
-![Screenshot](<../.gitbook/assets/image-3 (3) (1).png>)
+![](<../.gitbook/assets/image-3 (3) (1).png>)
 
 ### 1.2. Pre-filters
 
 The Pre-filters on the Missions Page are dynamic sections that provide users with detailed and contextual information based on their current selection or interaction. These pre-filters enhance navigation and productivity by allowing quick access to relevant data without switching screens.
 
-![Screenshot](<../.gitbook/assets/image-4 (3) (1).png>)
+![](<../.gitbook/assets/image-4 (3) (1).png>)
 
 ### 1.3. Default Delivery statuses
 
@@ -39,7 +39,7 @@ Below are an overview of the various mission statuses and their significance:
 
 <table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">Status</td><td valign="top">Description</td></tr><tr><td valign="top">Waiting</td><td valign="top">The mission is expected but not yet received</td></tr><tr><td valign="top">Received</td><td valign="top">The mission has been successfully received</td></tr><tr><td valign="top">To be Delivered</td><td valign="top">The mission is prepared for delivery</td></tr><tr><td valign="top">To be Loaded</td><td valign="top">The mission is waiting to be loaded.</td></tr><tr><td valign="top">Loaded</td><td valign="top">The package is now loaded and in transit</td></tr><tr><td valign="top">To be Picked up</td><td valign="top">Mission is scheduled and awaiting pick up</td></tr><tr><td valign="top">Picked up</td><td valign="top">Item has been collected from the origin</td></tr><tr><td valign="top">Delivered</td><td valign="top">The delivery is completed successfully.</td></tr><tr><td valign="top">Not Received</td><td valign="top">Indicates a mission was expected but couldn’t be received</td></tr><tr><td valign="top">Not Loaded</td><td valign="top">The mission couldn’t be loaded as expected</td></tr><tr><td valign="top">Not Picked up</td><td valign="top">Scheduled pickup was missed or failed.</td></tr><tr><td valign="top">Not Delivered</td><td valign="top">The delivery failed</td></tr><tr><td valign="top">Visited</td><td valign="top">Destination has been successfully visited</td></tr><tr><td valign="top">To be Visited</td><td valign="top">Destination is scheduled for a visit.</td></tr><tr><td valign="top">Not Visited</td><td valign="top">The scheduled visit was missed or unsuccessful.</td></tr></tbody></table>
 
-![Screenshot](<../.gitbook/assets/image-5 (3) (1).png>)
+![](<../.gitbook/assets/image-5 (3) (1).png>)
 
 
 
@@ -57,7 +57,7 @@ From the Mission page
 
 1. Click the pencil icon next to the mission you want to edit
 
-![Screenshot](<../.gitbook/assets/image-6 (3) (1).png>)
+![](<../.gitbook/assets/image-6 (3) (1).png>)
 
 #### 1.4.2. Mission parameters description
 
@@ -197,29 +197,29 @@ The Manage Postal Zones feature allows administrators and logistics managers to 
 
 1. Click on Configuration Tab
 
-![Screenshot](<../.gitbook/assets/image-7 (3) (1).png>)
+![](<../.gitbook/assets/image-7 (3) (1).png>)
 
 2. Click on Configuration Menu
 3. Under My data section, click on Manage Zones
 
-![Screenshot](<../.gitbook/assets/image-8 (2) (1).png>)
+![](<../.gitbook/assets/image-8 (2) (1).png>)
 
 4. Click the Actions dropdown menu.
 5. Click on Import
 
-![Screenshot](<../.gitbook/assets/image-9 (2) (1).png>)
+![](<../.gitbook/assets/image-9 (2) (1).png>)
 
 6. Click on Browse File to upload the file that contains the zone data.
 
-![Screenshot](<../.gitbook/assets/image-10 (1) (1).png>)
+![](<../.gitbook/assets/image-10 (1) (1).png>)
 
 7. Select a valid Zone file from your local system.
 
-![Screenshot](<../.gitbook/assets/image-11 (1) (1).png>)
+![](<../.gitbook/assets/image-11 (1) (1).png>)
 
 Postal Zones will be imported successfully.
 
-![Screenshot](<../.gitbook/assets/image-12 (1) (1).png>)
+![](<../.gitbook/assets/image-12 (1) (1).png>)
 
 #### 1.5.3. Add a Postal Zone
 
@@ -229,21 +229,21 @@ Postal Zones will be imported successfully.
 4. Click the Actions dropdown menu.
 5. Click on Add a Postal Zone.
 
-![Screenshot](<../.gitbook/assets/image-13 (1) (1).png>)
+![](<../.gitbook/assets/image-13 (1) (1).png>)
 
 6. Fill in the required fields: Code, Name, and Prefix.
 
 **Note**: The Prefix is used to standardize postal codes to a fixed length of 6 digits. In regions where postal codes are shorter (e.g., 5 digits in some areas of France), the system automatically adds the defined prefix to reach the required length.
 
-![Screenshot](<../.gitbook/assets/image-14 (1) (1).png>)
+![](<../.gitbook/assets/image-14 (1) (1).png>)
 
 7. Click on Save
 
-![Screenshot](<../.gitbook/assets/image-15 (1) (1).png>)
+![](<../.gitbook/assets/image-15 (1) (1).png>)
 
 Postal Zones will be added successfully
 
-![Screenshot](<../.gitbook/assets/image-16 (1) (1).png>)
+![](<../.gitbook/assets/image-16 (1) (1).png>)
 
 #### 1.5.4. Create Postal Zones by Territory Management (Sectorization)
 
@@ -258,29 +258,29 @@ For detailed information, refer to the Territory Manager Manual available at the
 
 [Nomadia Districting Documentation](https://mynomadia.com/doc/tm/docs/en/tm-book/_districting.html)
 
-![Screenshot](<../.gitbook/assets/image-17 (1) (1).png>)
+![](<../.gitbook/assets/image-17 (1) (1).png>)
 
 7. Select the appropriate Indicators and define the Time Period
 8. Click on Assign Territories
 
-![Screenshot](<../.gitbook/assets/image-18 (1) (1).png>)
+![](<../.gitbook/assets/image-18 (1) (1).png>)
 
 9. Click on Automation
 
-![Screenshot](<../.gitbook/assets/image-19 (1) (1).png>)
+![](<../.gitbook/assets/image-19 (1) (1).png>)
 
 10. In the Balancing Points section, click Start to prepare the system for automatic balancing.
 
-![Screenshot](<../.gitbook/assets/image-20 (1) (1).png>)
+![](<../.gitbook/assets/image-20 (1) (1).png>)
 
 11. Click “Let’s go!” to launch the automated balancing of territories.
 
-![Screenshot](<../.gitbook/assets/image-21 (1) (1).png>)
+![](<../.gitbook/assets/image-21 (1) (1).png>)
 
 12. Sectors are generated according to the balancing rules set by the user.
 13. To ensure the sectorization respects postal code boundaries, click on Administrative Borders and select Postal Code from the dropdown menu.
 
-![Screenshot](<../.gitbook/assets/image-22 (1) (1).png>)
+![](<../.gitbook/assets/image-22 (1) (1).png>)
 
 Sectors are aligned based on postal boundaries
 
@@ -293,21 +293,21 @@ Sectors are aligned based on postal boundaries
 3. Under My data section, click on Manage Zones
 4. Select a Zone
 
-![Screenshot](<../.gitbook/assets/image-23 (1) (1).png>)
+![](<../.gitbook/assets/image-23 (1) (1).png>)
 
 5. Click the Actions dropdown menu.
 6. Click on Delete
 
-![Screenshot](<../.gitbook/assets/image-24 (1) (1).png>)
+![](<../.gitbook/assets/image-24 (1) (1).png>)
 
 7. You will see a confirmation pop-up message stating: "Are you sure you want to delete this zone?"
 8. Click on Yes
 
-![Screenshot](<../.gitbook/assets/image-25 (1) (1).png>)
+![](<../.gitbook/assets/image-25 (1) (1).png>)
 
 Postal Zone will be deleted successfully
 
-![Screenshot](<../.gitbook/assets/image-26 (1) (1).png>)
+![](<../.gitbook/assets/image-26 (1) (1).png>)
 
 #### 1.5.6. Export a Postal Zone
 
@@ -318,11 +318,11 @@ Postal Zone will be deleted successfully
 5. Click the Actions dropdown menu.
 6. Click on Export
 
-![Screenshot](<../.gitbook/assets/image-27 (1).png>)
+![](<../.gitbook/assets/image-27 (1).png>)
 
 Postal Zone will be exported successfully
 
-![Screenshot](<../.gitbook/assets/image-28 (1).png>)
+![](<../.gitbook/assets/image-28 (1).png>)
 
 #### 1.5.7. Color a Postal Zone
 
@@ -335,16 +335,16 @@ Apply conditions based on zone attributes such as type of mission (Delivery, Pic
 5. Click the Actions dropdown menu.
 6. Click on Coloring
 
-![Screenshot](<../.gitbook/assets/image-29 (1).png>)
+![](<../.gitbook/assets/image-29 (1).png>)
 
 7. Choose a Color
 8. Click on Save
 
-![Screenshot](<../.gitbook/assets/image-30 (1).png>)
+![](<../.gitbook/assets/image-30 (1).png>)
 
 The selected color has been applied successfully.
 
-![Screenshot](<../.gitbook/assets/image-31 (1).png>)
+![](<../.gitbook/assets/image-31 (1).png>)
 
 #### 1.5.8. Customize Zones Table
 
@@ -357,7 +357,7 @@ Refer to 1.5.2. Import Postal Zones to have the complete list of available field
 5. Click the Actions dropdown menu.
 6. Click on Customize Limit
 
-![Screenshot](<../.gitbook/assets/image-32 (1).png>)
+![](<../.gitbook/assets/image-32 (1).png>)
 
 7. Choose which fields you want to display on the table.
 
@@ -367,11 +367,11 @@ navigate.
 
 8. Click on Save
 
-![Screenshot](<../.gitbook/assets/image-33 (1).png>)
+![](<../.gitbook/assets/image-33 (1).png>)
 
 The selected fields have been displayed on the table.
 
-![Screenshot](<../.gitbook/assets/image-34 (1).png>)
+![](<../.gitbook/assets/image-34 (1).png>)
 
 ### 1.6. Manage Vehicle Fleets
 
@@ -381,29 +381,29 @@ The Manage Vehicle Fleets in Nomadia Delivery allows administrators and planners
 
 1. Go to Configuration.
 
-![Screenshot](<../.gitbook/assets/image-35 (1).png>)
+![](<../.gitbook/assets/image-35 (1).png>)
 
 2. Click on Configuration menu
 3. Under My Data, click on Manage the Vehicles.
 
-![Screenshot](<../.gitbook/assets/image-36 (1).png>)
+![](<../.gitbook/assets/image-36 (1).png>)
 
 4. Under My Fleets, click the Actions dropdown menu.
 5. Click on Import
 
-![Screenshot](<../.gitbook/assets/image-37 (1).png>)
+![](<../.gitbook/assets/image-37 (1).png>)
 
 6. Click on Browse File to upload the file
 
-![Screenshot](<../.gitbook/assets/image-38 (1).png>)
+![](<../.gitbook/assets/image-38 (1).png>)
 
 7. Select a Valid file from your local system.
 
-![Screenshot](<../.gitbook/assets/image-39 (1).png>)
+![](<../.gitbook/assets/image-39 (1).png>)
 
 The vehicle fleets have been imported successfully.
 
-![Screenshot](<../.gitbook/assets/image-40 (1).png>)
+![](<../.gitbook/assets/image-40 (1).png>)
 
 #### 1.6.2. Add a Vehicles fleets
 
@@ -413,16 +413,16 @@ The vehicle fleets have been imported successfully.
 4. Under My Fleets, click the Actions dropdown menu.
 5. Click on Add
 
-![Screenshot](<../.gitbook/assets/image-41 (1).png>)
+![](<../.gitbook/assets/image-41 (1).png>)
 
 6. Enter the Name and Agency name
 7. Click on Add
 
-![Screenshot](<../.gitbook/assets/image-42 (1).png>)
+![](<../.gitbook/assets/image-42 (1).png>)
 
 The vehicle fleets have been added successfully.
 
-![Screenshot](<../.gitbook/assets/image-43 (1).png>)
+![](<../.gitbook/assets/image-43 (1).png>)
 
 
 
@@ -435,18 +435,18 @@ The vehicle fleets have been added successfully.
 5. Under My Fleets, click the Actions dropdown menu.
 6. Click on Delete
 
-![Screenshot](<../.gitbook/assets/image-44 (1).png>)
+![](<../.gitbook/assets/image-44 (1).png>)
 
 7. You will see a confirmation pop-up message stating: "Do you want to delete the Vehicle?"
 8. Click on Delete
 
-![Screenshot](<../.gitbook/assets/image-45 (1).png>)
+![](<../.gitbook/assets/image-45 (1).png>)
 
 The Vehicle fleets have been deleted successfully.
 
-![Screenshot](<../.gitbook/assets/image-46 (1).png>)
+![](<../.gitbook/assets/image-46 (1).png>)
 
-###
+
 
 ### 1.7. Manage Vehicles in a fleet
 
@@ -459,15 +459,15 @@ The Vehicle fleets have been deleted successfully.
 5. Click on Actions
 6. Click on Add from the dropdown menu
 
-![Screenshot](<../.gitbook/assets/image-47 (1).png>)
+![](<../.gitbook/assets/image-47 (1).png>)
 
 7. Enter the Name
 
-![Screenshot](<../.gitbook/assets/image-48 (1).png>)
+![](<../.gitbook/assets/image-48 (1).png>)
 
 8. Click on Add
 
-![Screenshot](<../.gitbook/assets/image-49 (1).png>)
+![](<../.gitbook/assets/image-49 (1).png>)
 
 
 
@@ -481,7 +481,7 @@ The Vehicle fleets have been deleted successfully.
 6. Click on Add
 7. Click on Constraints
 
-![Screenshot](<../.gitbook/assets/image-50 (1).png>)
+![](<../.gitbook/assets/image-50 (1).png>)
 
 8. Choose which fields you want to display on the table.
 
@@ -489,11 +489,11 @@ The Vehicle fleets have been deleted successfully.
 
 9. Click on Save
 
-![Screenshot](<../.gitbook/assets/image-51 (1).png>)
+![](<../.gitbook/assets/image-51 (1).png>)
 
 The Fields have been displayed successfully.
 
-![Screenshot](<../.gitbook/assets/image-52 (1).png>)
+![](<../.gitbook/assets/image-52 (1).png>)
 
 
 
@@ -506,16 +506,16 @@ The Fields have been displayed successfully.
 5. Click on Actions
 6. Click on Delete from the dropdown menu
 
-![Screenshot](<../.gitbook/assets/image-53 (1).png>)
+![](<../.gitbook/assets/image-53 (1).png>)
 
 7. You will see a confirmation pop-up message stating: "Do you want to delete the Vehicle?"
 8. Click on Delete.
 
-![Screenshot](<../.gitbook/assets/image-54 (1).png>)
+![](<../.gitbook/assets/image-54 (1).png>)
 
 Vehicles have been deleted successfully
 
-![Screenshot](<../.gitbook/assets/image-55 (1).png>)
+![](<../.gitbook/assets/image-55 (1).png>)
 
 
 
@@ -528,11 +528,11 @@ Vehicles have been deleted successfully
 5. Click on Actions
 6. Click on Export from the dropdown menu
 
-![Screenshot](<../.gitbook/assets/image-56 (1).png>)
+![](<../.gitbook/assets/image-56 (1).png>)
 
 The vehicles have been exported successfully.
 
-![Screenshot](<../.gitbook/assets/image-57 (1).png>)
+![](<../.gitbook/assets/image-57 (1).png>)
 
 #### 1.7.5. Color a Vehicle
 
@@ -543,16 +543,16 @@ The vehicles have been exported successfully.
 5. Click on Actions
 6. Click on Coloring from the dropdown menu
 
-![Screenshot](<../.gitbook/assets/image-58 (1).png>)
+![](<../.gitbook/assets/image-58 (1).png>)
 
 7. Choose a Color
 8. Click on Save
 
-![Screenshot](<../.gitbook/assets/image-59 (1).png>)
+![](<../.gitbook/assets/image-59 (1).png>)
 
 The color has been applied successfully.
 
-![Screenshot](<../.gitbook/assets/image-60 (1).png>)
+![](<../.gitbook/assets/image-60 (1).png>)
 
 
 
@@ -565,7 +565,7 @@ The color has been applied successfully.
 5. Click on Actions
 6. Click on Customize the list from the dropdown menu
 
-![Screenshot](<../.gitbook/assets/image-61 (1).png>)
+![](<../.gitbook/assets/image-61 (1).png>)
 
 7. Choose which fields you want to display on the table.
 
@@ -575,11 +575,11 @@ navigate.
 
 8. Click on Save
 
-![Screenshot](<../.gitbook/assets/image-62 (1).png>)
+![](<../.gitbook/assets/image-62 (1).png>)
 
 The selected fields will be displayed on the table successfully
 
-![Screenshot](<../.gitbook/assets/image-63 (1).png>)
+![](<../.gitbook/assets/image-63 (1).png>)
 
 
 
@@ -592,11 +592,11 @@ The selected fields will be displayed on the table successfully
 5. Under My Fleets, click the Actions dropdown menu.
 6. Click on Export
 
-![Screenshot](<../.gitbook/assets/image-64 (1).png>)
+![](<../.gitbook/assets/image-64 (1).png>)
 
 The vehicles fleets will be exported successfully.
 
-![Screenshot](<../.gitbook/assets/image-65 (1).png>)
+![](<../.gitbook/assets/image-65 (1).png>)
 
 #### 1.7.7. Color a Vehicles fleets
 
@@ -609,16 +609,16 @@ Apply conditions based on zone attributes such as type of mission (Delivery, Pic
 5. Under My Fleets, click the Actions dropdown menu.
 6. Click on Coloring
 
-![Screenshot](<../.gitbook/assets/image-66 (1).png>)
+![](<../.gitbook/assets/image-66 (1).png>)
 
 7. Choose a Color
 8. Click on Save
 
-![Screenshot](<../.gitbook/assets/image-67 (1).png>)
+![](<../.gitbook/assets/image-67 (1).png>)
 
 The selected color has been applied successfully
 
-![Screenshot](<../.gitbook/assets/image-68 (1).png>)
+![](<../.gitbook/assets/image-68 (1).png>)
 
 #### 1.7.8. Customize Vehicles fleets table
 
@@ -629,7 +629,7 @@ The selected color has been applied successfully
 5. Under My Fleets, click the Actions dropdown menu.
 6. Click on Customize the list
 
-![Screenshot](<../.gitbook/assets/image-69 (1).png>)
+![](<../.gitbook/assets/image-69 (1).png>)
 
 7. Choose which fields you want to display on the table.
 
@@ -637,11 +637,11 @@ The selected color has been applied successfully
 
 8. Click on Save
 
-![Screenshot](<../.gitbook/assets/image-70 (1).png>)
+![](<../.gitbook/assets/image-70 (1).png>)
 
 The selected fields have been displayed on the table successfully
 
-![Screenshot](<../.gitbook/assets/image-71 (1).png>)
+![](<../.gitbook/assets/image-71 (1).png>)
 
 
 
@@ -670,35 +670,35 @@ To customize status labels in Nomadia Delivery, follow the steps below.
 
 1. Open the Nomadia Delivery application and navigate to the Configuration tab.
 
-![Screenshot](<../.gitbook/assets/image-72 (1).png>)
+![](<../.gitbook/assets/image-72 (1).png>)
 
 2. Select Customize Status Labels from the list.
 
-![Screenshot](<../.gitbook/assets/image-73 (1).png>)
+![](<../.gitbook/assets/image-73 (1).png>)
 
 This page displays all statuses in Nomadia Delivery.
 
-![Screenshot](<../.gitbook/assets/image-74 (1).png>)
+![](<../.gitbook/assets/image-74 (1).png>)
 
 3. Click the text box next to the status and update the label to match your business workflow.
 
-![Screenshot](<../.gitbook/assets/image-75 (1).png>)
+![](<../.gitbook/assets/image-75 (1).png>)
 
 4. Click the Other Languages accordion to update labels for users in different languages or countries.
 
-![Screenshot](<../.gitbook/assets/image-76 (1).png>)
+![](<../.gitbook/assets/image-76 (1).png>)
 
 5. Click the Color Picker to change the background color of a status label. Ensure you choose a contrasting color that maintains text readability in the UI.
 
-![Screenshot](<../.gitbook/assets/image-77 (1).png>)
+![](<../.gitbook/assets/image-77 (1).png>)
 
 6. After making the changes, click Save to apply the label and color updates across both the web and mobile applications.
 
-![Screenshot](<../.gitbook/assets/image-78 (1).png>)
+![](<../.gitbook/assets/image-78 (1).png>)
 
 7. After saving the changes, return to the mission page to view the updated labels and colors in the pre-filter area
 
-![Screenshot](<../.gitbook/assets/image-79 (1).png>)
+![](<../.gitbook/assets/image-79 (1).png>)
 
 This provides a smooth, business-aligned experience for both planners and deliverers.
 
@@ -714,25 +714,25 @@ The Manage Sub Statuses feature allows administrators to create, edit, and assig
 2. Click on Configuration Menu
 3. Under My Data, click on Sub statuses.
 
-![Screenshot](<../.gitbook/assets/image-80 (1).png>)
+![](<../.gitbook/assets/image-80 (1).png>)
 
 4. Click the Actions dropdown menu
 5. Click on Add
 
-![Screenshot](<../.gitbook/assets/image-81 (1).png>)
+![](<../.gitbook/assets/image-81 (1).png>)
 
 6. Enter the Sub status code
 7. Select the Status configuration type
 
-![Screenshot](<../.gitbook/assets/image-82 (1).png>)
+![](<../.gitbook/assets/image-82 (1).png>)
 
 8. Click on Save
 
-![Screenshot](<../.gitbook/assets/image-83 (1).png>)
+![](<../.gitbook/assets/image-83 (1).png>)
 
 Sub status has been created successfully
 
-![Screenshot](<../.gitbook/assets/image-84 (1).png>)
+![](<../.gitbook/assets/image-84 (1).png>)
 
 
 
@@ -745,17 +745,17 @@ Sub status has been created successfully
 5. Click the Actions dropdown menu
 6. Click on Delete
 
-![Screenshot](<../.gitbook/assets/image-85 (1).png>)
+![](<../.gitbook/assets/image-85 (1).png>)
 
 You will see a confirmation pop-up message stating: "Do you want to delete the sub-status?"
 
 7. Click on Yes
 
-![Screenshot](<../.gitbook/assets/image-86 (1).png>)
+![](<../.gitbook/assets/image-86 (1).png>)
 
 Sub status has been deleted successfully
 
-![Screenshot](<../.gitbook/assets/image-87 (1).png>)
+![](<../.gitbook/assets/image-87 (1).png>)
 
 
 
@@ -770,16 +770,16 @@ Apply conditions based on zone attributes such as type of mission (Delivery, Pic
 5. Click the Actions dropdown menu
 6. Click on Coloring
 
-![Screenshot](<../.gitbook/assets/image-88 (1).png>)
+![](<../.gitbook/assets/image-88 (1).png>)
 
 7. Choose a Color
 8. Click on Save
 
-![Screenshot](<../.gitbook/assets/image-89 (1).png>)
+![](<../.gitbook/assets/image-89 (1).png>)
 
 The selected color has been applied successfully.
 
-![Screenshot](<../.gitbook/assets/image-90 (1).png>)
+![](<../.gitbook/assets/image-90 (1).png>)
 
 
 
@@ -792,7 +792,7 @@ The selected color has been applied successfully.
 5. Click the Actions dropdown menu
 6. Click on Customize the Limit
 
-![Screenshot](<../.gitbook/assets/image-91 (1).png>)
+![](<../.gitbook/assets/image-91 (1).png>)
 
 7. Choose which fields you want to display on the table.
 
@@ -800,11 +800,11 @@ The selected color has been applied successfully.
 
 8. Click on Save
 
-![Screenshot](<../.gitbook/assets/image-92 (1).png>)
+![](<../.gitbook/assets/image-92 (1).png>)
 
 The selected fields have been displayed on the table successfully
 
-![Screenshot](<../.gitbook/assets/image-93 (1).png>)
+![](<../.gitbook/assets/image-93 (1).png>)
 
 
 
@@ -828,15 +828,15 @@ To configure and manage sub-status configuration types in Nomadia Delivery, foll
 
 1. Open the Nomadia Delivery application and go to the Configuration module.
 
-![Screenshot](<../.gitbook/assets/image-94 (1).png>)
+![](<../.gitbook/assets/image-94 (1).png>)
 
 2. Click on the Actions button, then choose Add to create a new sub-status.
 
-![Screenshot](<../.gitbook/assets/image-95 (1).png>)
+![](<../.gitbook/assets/image-95 (1).png>)
 
 3. Assign the created sub-status to one or more templates.
 
-![Screenshot](<../.gitbook/assets/image-96 (1).png>)
+![](<../.gitbook/assets/image-96 (1).png>)
 
 4. Define the required actions for each sub-status, such as making signature mandatory, requiring a photo, etc.
 
