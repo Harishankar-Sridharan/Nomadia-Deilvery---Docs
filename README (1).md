@@ -60,7 +60,7 @@ From the Home page,
 3. Choose up to five statuses of the Mission Stats on the Home page to display from the following options: Waiting, Not Received, Not Delivered, To Be Delivered and Loaded
 4. After selecting the desired statuses, click on Save.
 
-![Screenshot](.gitbook/assets/image-7.png)
+![](.gitbook/assets/image-7.png)
 
 5. Your home page will display the selected KPI’s.
 
