@@ -156,30 +156,26 @@ Running Optimization with Subcontractor Login
 
 Alternatively, click Validate routes to publish results directly without reviewing them.
 
-In the Routes panel:
+7. In the Routes panel:
+   * Select the routes to validate.
+   * Open the **Actions** menu, then click **Validate**.
 
-Select the routes to validate.
-
-Open the Actions menu, then click Validate.
-
-![Screenshot](<../.gitbook/assets/image-25 (4).png>)
+![](<../.gitbook/assets/image-25 (4).png>)
 
 Confirm by clicking OK.
 
-![Screenshot](<../.gitbook/assets/image-26 (3).png>)
+![](<../.gitbook/assets/image-26 (3).png>)
 
-The route is validated, and a confirmation notification appears.
+8. The route is validated, and a confirmation notification appears.
 
-![Screenshot](<../.gitbook/assets/image-27 (3).png>)
+![](<../.gitbook/assets/image-27 (3).png>)
 
-At the bottom of the popup, activate Publish to the mobile app if you want to share the route
+At the bottom of the popup, activate Publish to the mobile app if you want to share the route with the driver.
 
-with the driver.
-
-![Screenshot](<../.gitbook/assets/image-28 (3).png>)
+![](<../.gitbook/assets/image-28 (3).png>)
 
 If conflicts are listed, review them. To proceed anyway, click Force to validate.
 
-The validated route is published to the mobile app.
+9. The validated route is published to the mobile app.
 
 ![Screenshot](<../.gitbook/assets/image-29 (3).png>)
