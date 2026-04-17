@@ -4,24 +4,15 @@ Nomadia Delivery is a cloud-based SaaS solution designed to streamline and optim
 
 The platform supports management of up to 500,000 Missions, with powerful filtering and sorting features available to help users focus on the Missions relevant to their operations.
 
-In the Backoffice
+**In the Backoffice**
 
-Missions (such as parcels or pallets) can be imported into the system through various
+* Missions (such as parcels or pallets) can be imported into the system through various methods, including Excel spreadsheets and APIs.
+* Each mission progresses through defined statuses until it reaches the 'To Be Delivered' status."
+* Missions are then assigned to a specific Route, along with the designated delivery resource.
 
-methods, including Excel spreadsheets and APIs.
+**In the Mobile Application**
 
-"Each mission progresses through defined statuses until it reaches the 'To Be Delivered'
+* The delivery personnel continue updating the Mission statuses as they progress through their route, ultimately reaching the Delivered status.
 
-status."
+**Note**: Each time a Mission status is updated, the changes are immediately synchronized with the Backoffice database in real time, ensuring consistent and up-to-date information across all platforms.
 
-Missions are then assigned to a specific Route, along with the designated delivery
-
-resource.
-
-In the Mobile Application
-
-The delivery personnel continue updating the Mission statuses as they progress through
-
-their route, ultimately reaching the Delivered status.
-
-Note: Each time a Mission status is updated, the changes are immediately synchronized with the Backoffice database in real time, ensuring consistent and up-to-date information across all platforms.
