@@ -18,6 +18,7 @@
   * [Coloring and Filter](9-7-contractors/coloring-and-filter.md)
   * [Contractor Restrictions](9-7-contractors/contractor-restrictions.md)
 * [Subcontractor Management](10-8-subcontractor-management/README.md)
+  * [Optimized Route Plan for Sub Contractors](10-8-subcontractor-management/optimized-route-plan-for-sub-contractors.md)
 * [Appointment Booking Portal](11-9-appointment-booking-portal/README.md)
 * [Customizing Word Templates](12-10-customizing-word-templates/README.md)
 * [Fixed and Recurring Plans](13-11-fixed-and-recurring-plans/README.md)
