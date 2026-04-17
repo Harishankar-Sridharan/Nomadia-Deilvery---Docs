@@ -710,117 +710,11 @@ This provides a smooth, business-aligned experience for both planners and delive
 
 ### 1.11. Manage Document Library
 
-The Manage Document Library feature provides a centralized repository to store, organize, and distribute commonly used documents across the delivery organization. It ensures quick access to reference materials such as safety instructions, compliance guidelines, operating procedures, and training manuals for both back-office staff and field agents.
-
-Ensure your file is in one of these supported formats before proceeding: XLSX, DOCX, PDF, JPG, or PNG
-
-1. Go to Configuration.
-2. Click on Configuration Menu
-3. Under My data, click on Document Library
-
-<figure><img src="../.gitbook/assets/image (69) (1).png" alt=""><figcaption></figcaption></figure>
-
-4. Click on Browse Computer to upload the file
-
-<figure><img src="../.gitbook/assets/image (70) (1).png" alt=""><figcaption></figcaption></figure>
-
-5. Select a Valid file from a local system.
-
-<figure><img src="../.gitbook/assets/image (71) (1).png" alt=""><figcaption></figcaption></figure>
-
-6. The documents will be imported successfully.
-
-<figure><img src="../.gitbook/assets/image (72) (1).png" alt=""><figcaption></figcaption></figure>
-
-### 1.12. Document recommendations
-
-The Document Recommendations feature ensures that all required paperwork is available for each international shipment. It helps maintain compliance, prevents missing documents, and improves overall process reliability.
-
-#### 1.12.1. Recommendations While Adding the Document
-
-1. Open the Nomadia Delivery application and navigate to the Missions tab
-
-<figure><img src="../.gitbook/assets/image (73) (1).png" alt=""><figcaption></figcaption></figure>
-
-2. Click Actions and select Add (Beta).
-
-<figure><img src="../.gitbook/assets/image (74) (1).png" alt=""><figcaption></figcaption></figure>
-
-3. Enter the Agency name.
-
-<figure><img src="../.gitbook/assets/image (75) (1).png" alt=""><figcaption></figcaption></figure>
-
-4. Click the Pencil icon in the top-right corner.
-
-<figure><img src="../.gitbook/assets/image (76) (1).png" alt=""><figcaption></figcaption></figure>
-
-5. Enable the Add documents toggle and click Save.
-
-<figure><img src="../.gitbook/assets/image (78) (1).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (77) (1).png" alt=""><figcaption></figcaption></figure>
-
-6. Enter the delivery address.
-
-<figure><img src="../.gitbook/assets/image (79) (1).png" alt=""><figcaption></figcaption></figure>
-
-7. Click Add.
-
-<figure><img src="../.gitbook/assets/image (80) (1).png" alt=""><figcaption></figcaption></figure>
-
-Once the delivery address is added, the Document Recommendation list is automatically displayed based on the consignee’s country (delivery country). This helps users identify the mandatory documents that must be uploaded to meet legal requirements when transporting missions across countries.
-
-<figure><img src="../.gitbook/assets/image (81) (1).png" alt=""><figcaption></figcaption></figure>
-
-#### 1.12.2. Recommendations While Editing the Document
-
-To set up recommendations for Nomadia Delivery, follow the steps below.
-
-1. Open the Nomadia Delivery application and go to the Configuration tab.
-
-<figure><img src="../.gitbook/assets/image (82) (1).png" alt=""><figcaption></figcaption></figure>
-
-2. Select Document Library from the list.
-
-<figure><img src="../.gitbook/assets/image (84) (1).png" alt=""><figcaption></figcaption></figure>
-
-3. Select the Document Recommendations tab.
-
-<figure><img src="../.gitbook/assets/image (86) (1).png" alt=""><figcaption></figcaption></figure>
-
-4. Click the Actions menu, then select Add to create a new document recommendation.
-5. Alternatively, users can import the document recommendation list using an Excel file from the same Actions menu.
-
-<figure><img src="../.gitbook/assets/image (87) (1).png" alt=""><figcaption></figcaption></figure>
-
-6.  A recommendation list can be applied to multiple countries simultaneously.
-
-    * Alternatively, a country can have both a general recommendation list and a country-specific recommendation list. In such cases, both lists are merged and displayed during mission creation or editing.
-    * Links can be added to the recommendation list, allowing users to access online or cloud-hosted documents such as SharePoint.
-
-    <figure><img src="../.gitbook/assets/image (89) (1).png" alt=""><figcaption></figcaption></figure>
 
 
+###
 
-7. Enable the toggle to activate the recommendation list.
 
-<figure><img src="../.gitbook/assets/image (90) (1).png" alt=""><figcaption></figcaption></figure>
-
-8. Click Add to create the document recommendation list.
-
-<figure><img src="../.gitbook/assets/image (91) (1).png" alt=""><figcaption></figcaption></figure>
-
-The document recommendation lists are displayed on the table.
-
-<figure><img src="../.gitbook/assets/image (93) (1).png" alt=""><figcaption></figcaption></figure>
-
-When creating or editing a mission, the document recommendation list is displayed based on the consignee’s country (delivery country). This helps users identify the documents that must be uploaded to comply with legal requirements when transporting missions from one country to another.
-
-<figure><img src="../.gitbook/assets/image (94) (1).png" alt=""><figcaption></figcaption></figure>
-
-If a country has multiple recommendation lists, they are seamlessly merged and displayed with a separator.
-
-<figure><img src="../.gitbook/assets/image (95) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 1.13. Manage Container Types
 
@@ -923,73 +817,6 @@ The Manage Mission’s Notifications enable administrators and dispatchers to co
 <figure><img src="../.gitbook/assets/image (110) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Note**: SMS notifications are provided as an additional service.
-
-### 1.15. Manage Missions Documents
-
-The "Manage Missions" documents specifically refer to guides and documentation that help users oversee and operate delivery-related missions within the logistics and field execution workflows.
-
-#### 1.15.1. Import a Document from the Document Library
-
-1. Go to Configuration.
-2. Click on Configuration Menu
-3. Click on Document Library
-4. Click on Actions
-5. Click on Import
-6. Click on Browse Computer
-
-<figure><img src="../.gitbook/assets/image (111) (1).png" alt=""><figcaption></figcaption></figure>
-
-7. Select a Valid file to import a document
-
-<figure><img src="../.gitbook/assets/image (112) (1).png" alt=""><figcaption></figcaption></figure>
-
-The mission documents will be imported successfully
-
-#### 1.15.2. Upload a Document
-
-1. Navigate to the Missions Tab.
-2. Locate the desired mission and click the pencil icon to open it in edit mode.
-
-<figure><img src="../.gitbook/assets/image (116) (1).png" alt=""><figcaption></figcaption></figure>
-
-3. In the left-hand menu, select Documents.
-4. Click Browse Computer to open your file explorer.
-
-<figure><img src="../.gitbook/assets/image (117) (1).png" alt=""><figcaption></figcaption></figure>
-
-5. Select a valid document from your local system to upload.
-
-<figure><img src="../.gitbook/assets/image (118) (1).png" alt=""><figcaption></figcaption></figure>
-
-6. The mission documents will be uploaded successfully.
-
-<figure><img src="../.gitbook/assets/image (119) (1).png" alt=""><figcaption></figcaption></figure>
-
-#### 1.15.3. Download a Document
-
-1. Navigate to the Missions section.
-2. Locate the desired mission and click the pencil icon to open it in edit mode.
-3. In the left-hand menu, select Documents.
-4. Click on Download
-
-<figure><img src="../.gitbook/assets/image (120) (1).png" alt=""><figcaption></figcaption></figure>
-
-5. The mission documents will be downloaded successfully.
-
-<figure><img src="../.gitbook/assets/image (121) (1).png" alt=""><figcaption></figcaption></figure>
-
-#### 1.15.4. Delete a Document
-
-1. Navigate to the Missions section.
-2. Locate the desired mission and click the pencil icon to open it in edit mode.
-3. In the left-hand menu, select Documents.
-4. Click on the Bin icon of the chosen document
-
-<figure><img src="../.gitbook/assets/image (122) (1).png" alt=""><figcaption></figcaption></figure>
-
-5. The mission documents will be deleted successfully.
-
-<figure><img src="../.gitbook/assets/image (123) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -1744,67 +1571,7 @@ You can search using any of the following fields:
 
 
 
-### 2.13. Attaching Documents to the Mission
 
-Nomadia Delivery now includes a feature that enables transporters and contractors to upload and link essential documents directly to missions. This ensures better compliance and safety throughout the transportation process.
-
-To build and manage a document library within Nomadia Delivery, follow these steps:
-
-1. Open the Nomadia Delivery application and go to the Configuration tab.
-2. From the drop-down menu, select Document Library.
-
-<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
-
-3. Click the Actions button and choose Import to upload a document from your computer.
-
-<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
-
-4. Enter a clear and relevant identifier to help you recognize the document later.
-
-<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
-
-5. Click Save to store the document in the Document Library.
-
-<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
-
-6. The uploaded document will now be available in the Document Library section.
-
-<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
-
-Steps to attach a document to a mission:
-
-1. Open the Nomadia Delivery application and go to the Missions tab
-2. Select the mission you want to update and click the pencil icon to edit it.
-
-<figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
-
-
-
-3. Navigate to the Documents tab.
-
-<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
-
-
-
-
-
-4. Choose the source of the document you want to upload:
-   * The default Document Library within Nomadia Delivery
-   * Your local computer
-   * Cloud storage services
-5. Select the source and follow the on-screen instructions to complete the upload.
-6. If uploading from the Document Library, click Browse the Library, then choose the document(s) you want to attach.
-7. Click Import.
-
-<figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
-
-8. Click Save.
-
-<figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
-
-9. The document is now successfully attached to the mission
-
-<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
 ### 2.14. Duplicating Missions with Quantities
 
