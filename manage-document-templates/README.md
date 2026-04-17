@@ -1,8 +1,6 @@
 # Manage Document Templates
 
-The "Manage Documents" feature allows users to upload, view, organize, and associate various documents with delivery operations to streamline communication and ensure all necessary information is easily accessible in the field and at the back office.
-
-#### Manage Templates for Mission documents
+**Manage Templates for Mission documents**
 
 The Manage Document Templates feature allows administrators and back-office users to create, configure, and maintain reusable templates for documents such as delivery slips, invoices, proof of delivery, and task reports. These templates standardize documentation across operations and ensure consistency in branding, structure, and required information.
 
