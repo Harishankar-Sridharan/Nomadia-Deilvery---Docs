@@ -15,6 +15,7 @@
   * [Mobile - Roles and Rights](7-5-manage-users/mobile-roles-and-rights.md)
   * [Creating a User from an Existing User](7-5-manage-users/creating-a-user-from-an-existing-user.md)
   * [Creating User from a Scratch](7-5-manage-users/creating-user-from-a-scratch.md)
+  * [Days off](7-5-manage-users/days-off.md)
 * [Missions](8-6-missions/README.md)
 * [Contractors](9-7-contractors/README.md)
   * [Registration](9-7-contractors/registration.md)
