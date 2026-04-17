@@ -16,7 +16,7 @@ Nomadia Delivery allows you to manage an address list that serves as a master re
 
 4. Alternatively, you can import an address list from an Excel file by clicking the ‘Import’ button and selecting the desired file.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 5. When importing, ensure that you map the address fields or the X and Y coordinates.
 6. Click ‘Validate’ to map the remaining data into the address list.
