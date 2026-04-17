@@ -1,7 +1,12 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Home Page](<README (1).md>)
+* [Home Page](readme-1/README.md)
+  * [Understanding the Home Screen](readme-1/understanding-the-home-screen.md)
+  * [Key Areas of the Home Screen](readme-1/key-areas-of-the-home-screen.md)
+  * [Configure the Display of my KPI](readme-1/configure-the-display-of-my-kpi.md)
+  * [Configure the display of mission’s statuses](readme-1/configure-the-display-of-missions-statuses.md)
+  * [Refresh KPI date and Mission statuses](readme-1/refresh-kpi-date-and-mission-statuses.md)
 * [Manage User Profile](6-manage-user-profile/README.md)
 * [Manage Users](7-5-manage-users/README.md)
 * [Missions](8-6-missions/README.md)
