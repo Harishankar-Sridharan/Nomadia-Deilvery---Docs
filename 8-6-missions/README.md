@@ -718,42 +718,11 @@ This provides a smooth, business-aligned experience for both planners and delive
 
 
 
-### 1.14. Manage Mission’s Notifications
+###
 
-The Manage Mission’s Notifications enable administrators and dispatchers to configure and automate notifications related to delivery missions. These notifications ensure real-time communication with customers, field agents, and internal stakeholders, improving operational visibility and customer satisfaction.
 
-#### 1.14.1. Enable Email Notification
 
-1. Go to Configuration.
-
-<figure><img src="../.gitbook/assets/image (106) (1).png" alt=""><figcaption></figcaption></figure>
-
-2. Click on Configuration Menu
-3. Under Fulfillment and Client Experience, click on Configure Outgoing Messages
-
-<figure><img src="../.gitbook/assets/image (107) (1).png" alt=""><figcaption></figcaption></figure>
-
-4. Select the General Configuration
-5. Under Configure Outgoing Emails to the Customers, enable the Customers Outgoing Email Service
-
-<figure><img src="../.gitbook/assets/image (108) (1).png" alt=""><figcaption></figcaption></figure>
-
-6. Click on Save
-
-<figure><img src="../.gitbook/assets/image (109) (1).png" alt=""><figcaption></figcaption></figure>
-
-#### 1.14.2. Enable SMS Notifications
-
-1. Go to Configuration.
-2. Click on Configuration Menu
-3. Under Fulfillment and Client Experience, click on Configure Outgoing Messages
-4. Select the General Configuration
-5. Under Configure Outgoing SMS to the Customers, enable the Customers Outgoing SMS Service
-6. Click on Save
-
-<figure><img src="../.gitbook/assets/image (110) (1).png" alt=""><figcaption></figcaption></figure>
-
-**Note**: SMS notifications are provided as an additional service.
+####
 
 
 
