@@ -1,5 +1,19 @@
 # Create Postal Zones by Territory Management (Sectorization)
 
+1\.   Click on Configuration Tab
+
+2\.   Click on Configuration Menu
+
+3\.   Under My data section, click on Manage Zones
+
+4\.   Select a Mission
+
+5\.   Click the Actions dropdown menu.
+
+6\.   Click on New Sectorization.
+
+For detailed information, refer to the Territory Manager Manual available at the following link:
+
 [Nomadia Districting Documentation](https://mynomadia.com/doc/tm/docs/en/tm-book/_districting.html)
 
 ![](<../.gitbook/assets/image-17 (1) (1).png>)
