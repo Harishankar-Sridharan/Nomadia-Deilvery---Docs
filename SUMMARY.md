@@ -26,6 +26,7 @@
   * [Customizing Status Labels](8-6-missions/customizing-status-labels.md)
   * [Mission Creation Configuration](8-6-missions/mission-creation-configuration.md)
   * [Adding a Mission Beta](8-6-missions/adding-a-mission-beta.md)
+  * [Add an Urgent Mission](8-6-missions/add-an-urgent-mission.md)
 * [Booking Portal](11-9-appointment-booking-portal/README.md)
   * [Configure the Portal](11-9-appointment-booking-portal/configure-the-portal.md)
   * [Booking slots](11-9-appointment-booking-portal/booking-slots.md)
