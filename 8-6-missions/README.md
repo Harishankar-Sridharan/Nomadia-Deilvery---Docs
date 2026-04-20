@@ -1,13 +1,5 @@
 # Missions
 
-### 1. Understanding the Missions Page
-
-A Mission refers to a task that must be executed, typically involving a pick-up location and delivery address. Each mission moves through a sequence of statuses that reflect its current stage. Understanding these statuses is essential for monitoring the progress and handling any exceptions that may occur during the process.
-
-![](<../.gitbook/assets/image-1 (3) (1).png>)
-
-<table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">Section ID</td><td valign="top">Section</td><td valign="top">Description</td></tr><tr><td valign="top">A</td><td valign="top">Mission Table</td><td valign="top">Displays ongoing missions in a table format. Supports up to 10,000 entries at a time. Includes sorting and filtering options for easy data access.</td></tr><tr><td valign="top">B</td><td valign="top">Map</td><td valign="top">Interactive map showing mission locations and route paths. Help visualize geographic distribution and real time spatial tracking of mission statuses.</td></tr><tr><td valign="top">C</td><td valign="top">Routes Table</td><td valign="top">Gantt-style view of routes, showing scheduling and duration. Useful for understanding workload and mission sequence. It outlines the agenda for the designated mobile user.</td></tr><tr><td valign="top">D</td><td valign="top">Details</td><td valign="top">Shows detailed information for selected missions or routes, such as deliverer name, time slots, and status. Helps in reviewing and making informed decisions.</td></tr></tbody></table>
-
 ### 1.1. Set missions display (prefilter)
 
 From the Missions page:
@@ -189,16 +181,6 @@ The Manage Mission Parameters section allows administrators to define and config
 
 
 
-#### 1.5.4. Create Postal Zones by Territory Management (Sectorization)
-
-1. Click on Configuration Tab
-2. Click on Configuration Menu
-3. Under My data section, click on Manage Zones
-4. Select a Mission
-5. Click the Actions dropdown menu.
-6. Click on New Sectorization.
-
-For detailed information, refer to the Territory Manager Manual available at the following link:
 
 
 
@@ -208,98 +190,6 @@ For detailed information, refer to the Territory Manager Manual available at the
 
 
 
-
-
-### Manage Vehicles in a fleet
-
-
-
-#### 1.7.6. Customize Vehicles table
-
-1. Go to Configuration.
-2. Click on Configuration Menu
-3. Under My Data, click on Manage the Vehicles.
-4. Click the Desired Name
-5. Click on Actions
-6. Click on Customize the list from the dropdown menu
-
-![](<../.gitbook/assets/image-61 (1).png>)
-
-7. Choose which fields you want to display on the table.
-
-**Note**: Avoid selecting too many fields at once, as it may become difficult to read or
-
-navigate.
-
-8. Click on Save
-
-![](<../.gitbook/assets/image-62 (1).png>)
-
-The selected fields will be displayed on the table successfully
-
-![](<../.gitbook/assets/image-63 (1).png>)
-
-
-
-#### 1.7.6. Export a Vehicles fleets
-
-1. Go to Configuration.
-2. Click on Configuration Menu
-3. Under My Data, click on Manage the Vehicles.
-4. Select a Team
-5. Under My Fleets, click the Actions dropdown menu.
-6. Click on Export
-
-![](<../.gitbook/assets/image-64 (1).png>)
-
-The vehicles fleets will be exported successfully.
-
-![](<../.gitbook/assets/image-65 (1).png>)
-
-#### 1.7.7. Color a Vehicles fleets
-
-Apply conditions based on zone attributes such as type of mission (Delivery, Pickup), Zone priority, Assigned deliverer, Postal code prefix, etc.
-
-1. Go to Configuration.
-2. Click on Configuration Menu
-3. Under My Data, click on Manage the Vehicles.
-4. Select a Team
-5. Under My Fleets, click the Actions dropdown menu.
-6. Click on Coloring
-
-![](<../.gitbook/assets/image-66 (1).png>)
-
-7. Choose a Color
-8. Click on Save
-
-![](<../.gitbook/assets/image-67 (1).png>)
-
-The selected color has been applied successfully
-
-![](<../.gitbook/assets/image-68 (1).png>)
-
-#### 1.7.8. Customize Vehicles fleets table
-
-1. Go to Configuration.
-2. Click on Configuration Menu
-3. Under My Data, click on Manage the Vehicles.
-4. Select a Team
-5. Under My Fleets, click the Actions dropdown menu.
-6. Click on Customize the list
-
-![](<../.gitbook/assets/image-69 (1).png>)
-
-7. Choose which fields you want to display on the table.
-
-**Note**: Avoid selecting too many fields at once, as it may become difficult to read or navigate.
-
-8. Click on Save
-
-![](<../.gitbook/assets/image-70 (1).png>)
-
-The selected fields have been displayed on the table successfully
-
-![](<../.gitbook/assets/image-71 (1).png>)
 
 
 

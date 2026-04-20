@@ -76,3 +76,55 @@ The color has been applied successfully.
 
 ![](<../.gitbook/assets/image-60 (1).png>)
 
+#### Customize Vehicles table
+
+1. Go to Configuration.
+2. Click on Configuration Menu
+3. Under My Data, click on Manage the Vehicles.
+4. Click the Desired Name
+5. Click on Actions
+6. Click on Customize the list from the dropdown menu
+
+![](<../.gitbook/assets/image-61 (1).png>)
+
+7. Choose which fields you want to display on the table.
+
+**Note**: Avoid selecting too many fields at once, as it may become difficult to read or
+
+navigate.
+
+8. Click on Save
+
+![](<../.gitbook/assets/image-62 (1).png>)
+
+The selected fields will be displayed on the table successfully
+
+![](<../.gitbook/assets/image-63 (1).png>)
+
+
+
+
+
+#### Customize Vehicles fleets table
+
+1. Go to Configuration.
+2. Click on Configuration Menu
+3. Under My Data, click on Manage the Vehicles.
+4. Select a Team
+5. Under My Fleets, click the Actions dropdown menu.
+6. Click on Customize the list
+
+![](<../.gitbook/assets/image-69 (1).png>)
+
+7. Choose which fields you want to display on the table.
+
+**Note**: Avoid selecting too many fields at once, as it may become difficult to read or navigate.
+
+8. Click on Save
+
+![](<../.gitbook/assets/image-70 (1).png>)
+
+The selected fields have been displayed on the table successfully
+
+![](<../.gitbook/assets/image-71 (1).png>)
+
