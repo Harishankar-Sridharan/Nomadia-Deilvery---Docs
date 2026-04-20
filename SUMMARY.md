@@ -53,6 +53,7 @@
   * [Customize Zones Table](manage-studies-and-zones/customize-zones-table.md)
 * [Manage Vehicle Fleets](manage-vehicle-fleets/README.md)
   * [Manage Vehicle Fleets](manage-vehicle-fleets/manage-vehicle-fleets.md)
+  * [Manage Vehicles in a fleet](manage-vehicle-fleets/manage-vehicles-in-a-fleet.md)
 * [Contractors](9-7-contractors/README.md)
   * [Registration](9-7-contractors/registration.md)
   * [A Configuration User Type](9-7-contractors/a-configuration-user-type.md)
