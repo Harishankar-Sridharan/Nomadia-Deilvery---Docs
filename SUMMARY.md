@@ -16,6 +16,7 @@
   * [Creating a User from an Existing User](7-5-manage-users/creating-a-user-from-an-existing-user.md)
   * [Creating User from a Scratch](7-5-manage-users/creating-user-from-a-scratch.md)
   * [Days off](7-5-manage-users/days-off.md)
+  * [Auto-Assign Missions to Deliverers](7-5-manage-users/auto-assign-missions-to-deliverers.md)
 * [Missions](8-6-missions/README.md)
   * [Understanding the Missions Page](8-6-missions/understanding-the-missions-page/README.md)
     * [Change the order of mission status shortcuts](8-6-missions/understanding-the-missions-page/change-the-order-of-mission-status-shortcuts.md)
