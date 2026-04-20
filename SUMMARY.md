@@ -54,6 +54,7 @@
 * [Manage Vehicle Fleets](manage-vehicle-fleets/README.md)
   * [Manage Vehicle Fleets](manage-vehicle-fleets/manage-vehicle-fleets.md)
   * [Manage Vehicles in a fleet](manage-vehicle-fleets/manage-vehicles-in-a-fleet.md)
+  * [Customize the Constraints](manage-vehicle-fleets/customize-the-constraints.md)
 * [Contractors](9-7-contractors/README.md)
   * [Registration](9-7-contractors/registration.md)
   * [A Configuration User Type](9-7-contractors/a-configuration-user-type.md)
