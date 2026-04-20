@@ -30,6 +30,7 @@
   * [Create an Urgent Pickup Mission](8-6-missions/create-an-urgent-pickup-mission.md)
   * [Cross Docking Missions](8-6-missions/cross-docking-missions.md)
   * [Drop Shipping Missions](8-6-missions/drop-shipping-missions.md)
+  * [Visit – A New Mission Type](8-6-missions/visit-a-new-mission-type.md)
 * [Booking Portal](11-9-appointment-booking-portal/README.md)
   * [Configure the Portal](11-9-appointment-booking-portal/configure-the-portal.md)
   * [Booking slots](11-9-appointment-booking-portal/booking-slots.md)
