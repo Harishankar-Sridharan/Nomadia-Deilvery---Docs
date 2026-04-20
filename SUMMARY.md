@@ -19,6 +19,7 @@
 * [Missions](8-6-missions/README.md)
   * [Understanding the Missions Page](8-6-missions/understanding-the-missions-page/README.md)
     * [Change the order of mission status shortcuts](8-6-missions/understanding-the-missions-page/change-the-order-of-mission-status-shortcuts.md)
+    * [Filter the Table using Criteria](8-6-missions/understanding-the-missions-page/filter-the-table-using-criteria.md)
 * [Booking Portal](11-9-appointment-booking-portal/README.md)
   * [Configure the Portal](11-9-appointment-booking-portal/configure-the-portal.md)
   * [Booking slots](11-9-appointment-booking-portal/booking-slots.md)
