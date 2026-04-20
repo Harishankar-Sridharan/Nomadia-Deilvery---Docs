@@ -49,6 +49,7 @@
   * [Customize Email Templates](manage-notifications/customize-email-templates.md)
 * [Manage Studies & Zones:](manage-studies-and-zones/README.md)
   * [Manage Postal Zones](manage-studies-and-zones/manage-postal-zones.md)
+  * [Create Postal Zones by Territory Management (Sectorization)](manage-studies-and-zones/create-postal-zones-by-territory-management-sectorization.md)
 * [Contractors](9-7-contractors/README.md)
   * [Registration](9-7-contractors/registration.md)
   * [A Configuration User Type](9-7-contractors/a-configuration-user-type.md)
