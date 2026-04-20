@@ -35,9 +35,7 @@ Below are an overview of the various mission statuses and their significance:
 
 
 
-### 1.5. Manage Mission Parameters
-
-The Manage Mission Parameters section allows administrators to define and configure key parameters that govern how delivery missions are planned, executed, and optimized within the system. These parameters play a crucial role in tailoring the delivery operations to match business needs and logistical constraints.
+###
 
 
 
@@ -53,62 +51,7 @@ The Manage Mission Parameters section allows administrators to define and config
 
 
 
-#### 1.7.9. Customizing Status Labels.
-
-Previously, statuses in Nomadia Delivery were static and could not be customized to adapt to customer workflows. Customizable status labels now enhance mission tracking by giving users full control to configure status labels and colors to align with their business workflows.
-
-* Status Labels – Description
-* Waiting - Initial status. The Parcel is expected to arrive at the agency.
-* Received - Optional Status: Indicates the parcel has been received by the deliverer. The exact location depends on context.
-* Not received - Optional Status: Indicates the parcel was expected but not received by the deliverer. Location is dependent on context.
-* To be delivered - Parcel is scheduled for delivery by the transporter or subcontractor.
-* To be loaded - Optional Status: Parcel is ready at the docking area, awaiting loading onto the vehicle.
-* Loaded - Optional Status: Parcel has been successfully loaded onto the truck by the deliverer.
-* Not loaded - Optional Status: Parcel was expected but not loaded onto the truck
-* Not delivered - Delivery attempt failed; parcel was not handed over to the customer.
-* Delivered - Parcel has been delivered to the final recipient.
-* To be picked up - Parcel is scheduled for pickup by the transporter or subcontractor.
-* Picked up - Parcel has been collected from the contractor or end-customer.
-* Not Picked up - Pickup attempt failed; parcel was not collected.
-* To be Visited - Visit is scheduled by the transporter or subcontractor.
-* Visited - Visit was completed by the deliverer.
-* Not Visited - Visit was scheduled but not completed.
-
-To customize status labels in Nomadia Delivery, follow the steps below.
-
-1. Open the Nomadia Delivery application and navigate to the Configuration tab.
-
-![](<../.gitbook/assets/image-72 (1).png>)
-
-2. Select Customize Status Labels from the list.
-
-![](<../.gitbook/assets/image-73 (1).png>)
-
-This page displays all statuses in Nomadia Delivery.
-
-![](<../.gitbook/assets/image-74 (1).png>)
-
-3. Click the text box next to the status and update the label to match your business workflow.
-
-![](<../.gitbook/assets/image-75 (1).png>)
-
-4. Click the Other Languages accordion to update labels for users in different languages or countries.
-
-![](<../.gitbook/assets/image-76 (1).png>)
-
-5. Click the Color Picker to change the background color of a status label. Ensure you choose a contrasting color that maintains text readability in the UI.
-
-![](<../.gitbook/assets/image-77 (1).png>)
-
-6. After making the changes, click Save to apply the label and color updates across both the web and mobile applications.
-
-![](<../.gitbook/assets/image-78 (1).png>)
-
-7. After saving the changes, return to the mission page to view the updated labels and colors in the pre-filter area
-
-![](<../.gitbook/assets/image-79 (1).png>)
-
-This provides a smooth, business-aligned experience for both planners and deliverers.
+####
 
 
 
@@ -330,95 +273,7 @@ These grouped missions will be executed only once on the mobile application, sig
 
 <figure><img src="../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
 
-### 2.6. Mission Wizard: A Guided step by step process
-
-The Mission Creation Wizard in Nomadia Delivery provides a user-friendly, step-by-step process for creating and adding missions effortlessly. From entering basic mission details to specifying customer opening hours, the wizard simplifies mission setup while ensuring accuracy and efficiency throughout.
-
-Follow these steps to create a mission using the wizard
-
-1. Open the delivery management system, then navigate to the ‘Missions’ tab
-
-<figure><img src="../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
-
-2. Click the ‘Actions’ button and choose ‘Add’ to launch the mission creation wizard
-
-<figure><img src="../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
-
-3. Select the type of mission and agency
-
-<figure><img src="../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
-
-4.  Pickup Address details:
-
-    * **For Pickup Missions**: Enter the pickup address details such as address line, city, state/province, postal code, and any additional instructions or landmarks to ensure accurate identification.
-    * **For Delivery Missions**: The agency address is used by default.
-
-    <figure><img src="../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
-5.  Delivery Address details:
-
-    * **For Delivery Missions**: Enter the delivery address details. Providing clear and accurate information ensures successful and timely deliveries.
-    * **For Pickup Missions**: The agency address is used by default.
-
-    <figure><img src="../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure>
-6. Parcel Information (Optional): In this step, provide details about the parcels, such as dimensions, weight, contents, and any special handling requirements. Supplying accurate parcel information helps ensure proper handling and maintains delivery integrity.
-
-<figure><img src="../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
-
-7. Customer Opening Hours Definition (Optional): Specify the customer’s opening hours to schedule deliveries within appropriate time slots. This ensures delivery timings aligned with customer availability, reducing the chances of missed deliveries or rejections.
-
-<figure><img src="../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
-
-8. Add Mission to Delivery Management System: After entering all required information, click the ‘Add’ button to save the mission in the delivery management system. The mission has been successfully created. This wizard streamlines the process by guiding users’ step by step, ensuring that all required information is entered accurately.
-
-<figure><img src="../.gitbook/assets/image (148).png" alt=""><figcaption></figcaption></figure>
-
-9. The mission has been successfully created. This wizard streamlines the process by guiding users’ step by step, ensuring that all required information is entered accurately.
-
-<figure><img src="../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
-
-### 2.7. Import Missions
-
-From the Missions page
-
-1. Click Actions.
-2. Select Import from the dropdown menu.
-
-<figure><img src="../.gitbook/assets/image (150).png" alt=""><figcaption></figcaption></figure>
-
-3. Click Browse (Excel).
-
-<figure><img src="../.gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>
-
-4. Choose the desired Excel file from your local system to upload and import it.
-
-<figure><img src="../.gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
-
-5. Missions will be imported successfully.
-
-<figure><img src="../.gitbook/assets/image (153).png" alt=""><figcaption></figcaption></figure>
-
-### 2.8. Map the import mission file fields
-
-#### 2.8.1. Map the address fields
-
-From the Missions page
-
-1. Click Actions.
-2. Select Import from the dropdown menu.
-3. Click Browse (Excel).
-4. Select the Address from the location indicators
-
-<figure><img src="../.gitbook/assets/image (154).png" alt=""><figcaption></figcaption></figure>
-
-5. Click on Validate
-
-<figure><img src="../.gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
-
-6. The address fields will be mapped successfully
-
-<figure><img src="../.gitbook/assets/image (156).png" alt=""><figcaption></figcaption></figure>
-
-#### 2.8.2. Map the addresses fields from the global address list
+### 2.6. 2.8.2. Map the addresses fields from the global address list
 
 The Global Address List now offers enhanced control over how addresses are managed and accessed in Nomadia Delivery. It is no longer restricted to contractors and is now available directly from the Configuration module. Addresses added to the Global Address List are visible and usable by all Nomadia Delivery users, regardless of contractor.
 
@@ -575,22 +430,7 @@ The selected fields will be displayed on the table
 
 
 
-#### 2.10.9. Color the Missions
-
-From the Missions page
-
-1. Click Actions.
-2. Select Coloring from the dropdown menu.
-
-<figure><img src="../.gitbook/assets/image (186).png" alt=""><figcaption></figcaption></figure>
-
-3. Select the appropriate condition from the suggestions.
-4. Choose the Color
-5. Click on Save
-
-<figure><img src="../.gitbook/assets/image (187).png" alt=""><figcaption></figcaption></figure>
-
-6. The selected color will be applied successfully.
+####
 
 
 

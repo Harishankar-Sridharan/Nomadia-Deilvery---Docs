@@ -23,6 +23,7 @@
     * [Search for a Mission](8-6-missions/understanding-the-missions-page/search-for-a-mission.md)
   * [Understanding the Mission Parameters](8-6-missions/understanding-the-mission-parameters/README.md)
     * [Manage Missions](8-6-missions/understanding-the-mission-parameters/manage-missions.md)
+  * [Customizing Status Labels](8-6-missions/customizing-status-labels.md)
 * [Booking Portal](11-9-appointment-booking-portal/README.md)
   * [Configure the Portal](11-9-appointment-booking-portal/configure-the-portal.md)
   * [Booking slots](11-9-appointment-booking-portal/booking-slots.md)
