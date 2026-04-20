@@ -25,6 +25,7 @@
     * [Manage Missions](8-6-missions/understanding-the-mission-parameters/manage-missions.md)
   * [Customizing Status Labels](8-6-missions/customizing-status-labels.md)
   * [Mission Creation Configuration](8-6-missions/mission-creation-configuration.md)
+  * [Adding a Mission Beta](8-6-missions/adding-a-mission-beta.md)
 * [Booking Portal](11-9-appointment-booking-portal/README.md)
   * [Configure the Portal](11-9-appointment-booking-portal/configure-the-portal.md)
   * [Booking slots](11-9-appointment-booking-portal/booking-slots.md)
