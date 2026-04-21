@@ -39,6 +39,7 @@
     * [Improve the Missions addresses geocoding](8-6-missions/import-missions/improve-the-missions-addresses-geocoding.md)
   * [Manage Missions Table](8-6-missions/manage-missions-table.md)
   * [Duplicating Missions with Quantities](8-6-missions/duplicating-missions-with-quantities.md)
+  * [Bulk Edit Mission Data](8-6-missions/bulk-edit-mission-data.md)
 * [Booking Portal](11-9-appointment-booking-portal/README.md)
   * [Configure the Portal](11-9-appointment-booking-portal/configure-the-portal.md)
   * [Booking slots](11-9-appointment-booking-portal/booking-slots.md)
