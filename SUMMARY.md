@@ -34,6 +34,7 @@
   * [Visit – A New Mission Type](8-6-missions/visit-a-new-mission-type.md)
   * [Create a 'perform at once' mission](8-6-missions/create-a-perform-at-once-mission.md)
   * [Prioritizing a mission](8-6-missions/prioritizing-a-mission.md)
+  * [Automatic Priority via Delivery Dates](8-6-missions/automatic-priority-via-delivery-dates.md)
 * [Booking Portal](11-9-appointment-booking-portal/README.md)
   * [Configure the Portal](11-9-appointment-booking-portal/configure-the-portal.md)
   * [Booking slots](11-9-appointment-booking-portal/booking-slots.md)
