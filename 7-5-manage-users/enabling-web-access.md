@@ -1,7 +1,5 @@
 # Enabling Web Access
 
-### Enabling Web Access
-
 1\.   Navigate to Configuration.
 
 2\.   From the list, select Manage Users.
