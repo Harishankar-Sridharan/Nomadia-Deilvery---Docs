@@ -22,6 +22,7 @@
     * [Change the order of mission status shortcuts](8-6-missions/understanding-the-missions-page/change-the-order-of-mission-status-shortcuts.md)
     * [Filter the Table using Criteria](8-6-missions/understanding-the-missions-page/filter-the-table-using-criteria.md)
     * [Search for a Mission](8-6-missions/understanding-the-missions-page/search-for-a-mission.md)
+    * [View a Mission information](8-6-missions/understanding-the-missions-page/view-a-mission-information.md)
   * [Understanding the Mission Parameters](8-6-missions/understanding-the-mission-parameters/README.md)
     * [Manage Missions](8-6-missions/understanding-the-mission-parameters/manage-missions.md)
   * [Customizing Status Labels](8-6-missions/customizing-status-labels.md)
