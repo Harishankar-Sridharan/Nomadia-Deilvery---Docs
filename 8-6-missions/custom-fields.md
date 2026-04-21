@@ -161,4 +161,4 @@ Note: The toggle is available only for custom fields of the List of Values type.
 9. This mission visibility prefilter is set to read-only and cannot be modified by the user. To remove or modify this restriction, contact the administrator.
 10. The mission table will display only the missions that match the mission visibility condition, in addition to the existing agency-based prefilter.
 
-![](<../.gitbook/assets/image-62 (2).png>)
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>

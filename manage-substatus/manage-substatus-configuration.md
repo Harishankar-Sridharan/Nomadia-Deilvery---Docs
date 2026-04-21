@@ -36,7 +36,7 @@ To configure and manage sub-status configuration types in Nomadia Delivery, foll
 
 5. Repeat the process to create additional sub-statuses and link them to the desired templates.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 6. Once all templates are configured, navigate to the Missions tab.
 7. Click on the Mission Editor button to attach a sub-status template to a mission.

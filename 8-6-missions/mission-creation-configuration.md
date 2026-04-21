@@ -10,7 +10,7 @@ Blocks or sections can be reordered using drag-and-drop functionality. Any chang
 
 2. Click Add Mission
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Enter the Mission type, Agency
 
@@ -57,5 +57,5 @@ Blocks or sections can be reordered using drag-and-drop functionality. Any chang
 
 10. Save the new mission configuration.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
