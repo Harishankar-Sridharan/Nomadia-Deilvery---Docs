@@ -1,7 +1,5 @@
 # Custom Fields
 
-### Custom Fields
-
 #### Creating Custom Fields while Importing
 
 The Nomadia Delivery application allows users to dynamically add new fields during the import process. These custom fields can be linked to various objects, including Contractors, Missions, and Addresses, and can be created in different data types such as Number, Text, list of values, Date, URL, and Boolean.

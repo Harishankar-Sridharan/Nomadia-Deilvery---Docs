@@ -41,6 +41,7 @@
   * [Duplicating Missions with Quantities](8-6-missions/duplicating-missions-with-quantities.md)
   * [Bulk Edit Mission Data](8-6-missions/bulk-edit-mission-data.md)
   * [Custom Fields](8-6-missions/custom-fields.md)
+  * [Map the addresses fields from the global address list](8-6-missions/map-the-addresses-fields-from-the-global-address-list.md)
 * [Booking Portal](11-9-appointment-booking-portal/README.md)
   * [Configure the Portal](11-9-appointment-booking-portal/configure-the-portal.md)
   * [Booking slots](11-9-appointment-booking-portal/booking-slots.md)
