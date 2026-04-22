@@ -10,7 +10,7 @@
 
 To group custom fields in the mission creation form using a group name:
 
-* Open the Nomadia Delivery application and go to the Configuration tab.
+* Open the Nomadia Delivery application and go to the **Configuration** tab.
 
 <figure><img src="../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -28,7 +28,7 @@ To group custom fields in the mission creation form using a group name:
 
 *   In the **Group name** field:
 
-    * Enter a group name.
+    * Enter a **group name**.
     * Choose an existing group or create a new one.
 
     <figure><img src="../.gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
@@ -42,7 +42,7 @@ To group custom fields in the mission creation form using a group name:
 
 To arrange custom field groups in the desired order:
 
-* Open the Nomadia Delivery application and navigate to the Configuration tab.
+* Open the Nomadia Delivery application and navigate to the **Configuration** tab.
 
 <figure><img src="../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -54,7 +54,7 @@ To arrange custom field groups in the desired order:
 
 <figure><img src="../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
 
-* Choose the mission type and agency
+* Choose the **mission type** and **agency**
 
 <figure><img src="../.gitbook/assets/image (27) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -62,7 +62,7 @@ To arrange custom field groups in the desired order:
 
 <figure><img src="../.gitbook/assets/image (28) (1).png" alt=""><figcaption></figcaption></figure>
 
-* Click the **Pencil icon** to edit the mission configuration.
+* Click the **Pencil** icon to edit the mission configuration.
 
 <figure><img src="../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
 
