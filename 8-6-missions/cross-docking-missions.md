@@ -6,41 +6,41 @@ Cross-docking missions are a newly introduced feature in Nomadia Delivery aimed 
 
 **Leg 1 – Mid-Mile Pickup Tour**
 
-* Plan the Pickup Tour: Organize and assign missions for the pickup route, starting from the agency.
-* Collect Parcels: Deliverers pick up parcels directly from the contractor’s warehouse or designated location.
-* Return to Agency: All collected parcels are brought back to the agency for sorting and processing.
+* **Plan the Pickup Tour:** Organize and assign missions for the pickup route, starting from the agency.
+* **Collect Parcels**: Deliverers pick up parcels directly from the contractor’s warehouse or designated location.
+* **Return to Agency:** All collected parcels are brought back to the agency for sorting and processing.
 
 **Leg 2 – Last-Mile Delivery Tour**
 
-* Plan the Delivery Tour: After parcels are sorted at the agency, prepare and assign the final delivery route.
-* Load for Delivery: Deliverers collect the sorted parcels from the agency.
-* Deliver to Customers: Parcels are delivered to end recipients, with the same mission ID (Barcode) ensuring consistent tracking and traceability.
+* **Plan the Delivery Tour**: After parcels are sorted at the agency, prepare and assign the final delivery route.
+* **Load for Delivery**: Deliverers collect the sorted parcels from the agency.
+* **Deliver to Customers**: Parcels are delivered to end recipients, with the same mission ID (Barcode) ensuring consistent tracking and traceability.
 
 To set up a cross-docking mission, proceed with the following steps.
 
-1. Open the Nomadia Delivery application and go to the Missions tab.
+1. Open the Nomadia Delivery application and go to the **Missions tab**.
 
 <figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
 
-2. Click the Actions menu and select Add.
+2. Click the **Actions** menu and select **Add**.
 
 <figure><img src="../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 
-3. In the Mission type drop-down, select Cross-docking to create a cross-docking mission.
+3. In the Mission type drop-down, select **Cross-docking** to create a cross-docking mission.
 
 <figure><img src="../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
-4. From the Contractor identifier drop-down, choose the contractor linked to the cross-docking mission.
+4. From the Contractor identifier drop-down, choose the **contractor** linked to the cross-docking mission.
 
 Note: For cross-docking missions, if the contractor is mapped, their registered address will automatically be used as the default pickup address for Leg 1 | Mid-Mile Pickup Tour. This address is retrieved from the contractor configuration.
 
 <figure><img src="../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
 
-5. Select the Agency from which deliverers will start for the Leg 1 | Mid-Mile Pickup Tour.
+5. Select the **Agency** from which deliverers will start for the Leg 1 | Mid-Mile Pickup Tour.
 
 <figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
 
-6. Click Next to continue.
+6. Click **Next** to continue.
 
 <figure><img src="../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
@@ -48,11 +48,11 @@ Note: For cross-docking missions, if the contractor is mapped, their registered 
 
 <figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
-8. Enter the delivery address of the end customer in the address section to complete the cross- docking mission setup.
+8. Enter the **delivery address** of the end customer in the address section to complete the cross- docking mission setup.
 
 <figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
 
-9. Click Add to create the cross-docking mission.
+9. Click **Add** to create the cross-docking mission.
 
 <figure><img src="../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
 
@@ -62,11 +62,11 @@ A new mission of type Cross-docking will now be added to the delivery management
 
 **To create a cross-docking mission Leg1 | Mid-Mile Pickup Tour, follow these steps**
 
-1. Select the created mission, open the Actions menu, and choose Assign. Assign the mission to a deliverer.
+1. Select the **created mission**, open the Actions menu, and choose Assign. Assign the mission to a deliverer.
 
 <figure><img src="../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
 
-2. Provide a name for the route, select the deliverer, and specify the date and time for the pickup mission – Leg 1 | Mid-Mile Pickup Tour. Click OK to create the tour.
+2. Provide a name for the route, select the **deliverer**, and specify the date and time for the pickup mission – Leg 1 | Mid-Mile Pickup Tour. Click **OK** to create the tour.
 
 <figure><img src="../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
 
@@ -74,11 +74,11 @@ A new mission of type Cross-docking will now be added to the delivery management
 
 <figure><img src="../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
 
-4. Open the Actions menu again and select Publish on mobile app.
+4. Open the **Actions** menu again and select **Publish** on mobile app.
 
 <figure><img src="../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
 
-5. Click OK to confirm and push the tour details to the mobile app.
+5. Click **OK** to confirm and push the tour details to the mobile app.
 
 <figure><img src="../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
 
@@ -100,7 +100,7 @@ A new mission of type Cross-docking will now be added to the delivery management
 
 To create a cross-docking mission, follow these steps:
 
-1. Select the Returned to Depot mission, open the Actions menu, and choose Assign. Assign the mission to a deliverer.
+1. Select the Returned to Depot mission, open the **Actions** menu, and choose **Assign**. Assign the **mission** to a deliverer.
 
 <figure><img src="../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
 
@@ -112,11 +112,11 @@ To create a cross-docking mission, follow these steps:
 
 <figure><img src="../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
 
-4. From the Actions menu, select Publish on mobile app.
+4. From the Actions menu, select **Publish** on mobile app.
 
 <figure><img src="../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
 
-5. Click OK to confirm and push the tour details to the mobile app.
+5. Click **OK** to confirm and push the tour details to the mobile app.
 
 <figure><img src="../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
 
