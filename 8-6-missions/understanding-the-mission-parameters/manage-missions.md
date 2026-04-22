@@ -8,33 +8,33 @@ The following fields are available at the mission level, allowing you to configu
 
 Adding Mission allows users to create a mission by selecting a mission type, choosing a configuration, and entering mandatory mission information. The system enforces validations based on the selected mission type.
 
-1. Go to Missions
+1. Go to **Missions**
 
 <figure><img src="../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-2. Click Add from the Actions menu
+2. Click **Add** from the Actions menu
 
 <figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
-3. Select Mission Type, (Pickup information - delivery) Delivery information -pickup), Agency.
+3. Select **Mission Type, (Pickup information - delivery) Delivery information -pickup), Agency.**
 
 <figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
-4. Click Next.
+4. Click **Next**.
 
 <figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
-5.  Select a Mission Configuration:
+5.  Select a **Mission Configuration**:
 
     * Default configuration
     * Any custom configuration created earlier
 
     <figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
-6. Enter mandatory mission details based on mission type.
+6. Enter **mandatory mission details** based on mission type.
 
 <figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
-7. Click Add or Add and Print.
+7. Click **Add** or **Add and Print.**
 
 <figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -44,39 +44,39 @@ The Mission Creation Wizard in Nomadia Delivery provides a user-friendly, step-b
 
 Follow these steps to create a mission using the wizard
 
-1. Open the delivery management system, then navigate to the ‘Missions’ tab
+1. Open the delivery management system, then navigate to the ‘**Missions**’ tab
 
 <figure><img src="../../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
 
-2. Click the ‘Actions’ button and choose ‘Add’ to launch the mission creation wizard
+2. Click the ‘**Actions**’ button and choose ‘**Add**’ to launch the mission creation wizard
 
 <figure><img src="../../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
 
-3. Select the type of mission and agency
+3. Select the type of **mission** and **agency**
 
 <figure><img src="../../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
 
 4.  Pickup Address details:
 
-    * **For Pickup Missions**: Enter the pickup address details such as address line, city, state/province, postal code, and any additional instructions or landmarks to ensure accurate identification.
+    * **For Pickup Missions**: Enter the pickup address details such as **address line, city, state/province, postal code**, and any additional instructions or landmarks to ensure accurate identification.
     * **For Delivery Missions**: The agency address is used by default.
 
     <figure><img src="../../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
 5.  Delivery Address details:
 
-    * **For Delivery Missions**: Enter the delivery address details. Providing clear and accurate information ensures successful and timely deliveries.
+    * **For Delivery Missions**: Enter the **delivery address details**. Providing clear and accurate information ensures successful and timely deliveries.
     * **For Pickup Missions**: The agency address is used by default.
 
     <figure><img src="../../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure>
-6. Parcel Information (Optional): In this step, provide details about the parcels, such as dimensions, weight, contents, and any special handling requirements. Supplying accurate parcel information helps ensure proper handling and maintains delivery integrity.
+6. **Parcel Information (Optional)**: In this step, provide details about the parcels, such as **dimensions, weight, contents**, and any special handling requirements. Supplying accurate parcel information helps ensure proper handling and maintains delivery integrity.
 
 <figure><img src="../../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
 
-7. Customer Opening Hours Definition (Optional): Specify the customer’s opening hours to schedule deliveries within appropriate time slots. This ensures delivery timings aligned with customer availability, reducing the chances of missed deliveries or rejections.
+7. **Customer Opening Hours Definition (Optional)**: Specify the customer’s opening hours to schedule deliveries within appropriate time slots. This ensures delivery timings aligned with customer availability, reducing the chances of missed deliveries or rejections.
 
 <figure><img src="../../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
 
-8. Add Mission to Delivery Management System: After entering all required information, click the ‘Add’ button to save the mission in the delivery management system. The mission has been successfully created. This wizard streamlines the process by guiding users’ step by step, ensuring that all required information is entered accurately.
+8. **Add Mission to Delivery Management System**: After entering all required information, click the ‘**Add**’ button to save the mission in the delivery management system. The mission has been successfully created. This wizard streamlines the process by guiding users’ step by step, ensuring that all required information is entered accurately.
 
 <figure><img src="../../.gitbook/assets/image (148).png" alt=""><figcaption></figcaption></figure>
 
@@ -88,16 +88,16 @@ Follow these steps to create a mission using the wizard
 
 #### Map the address fields
 
-From the Missions page
+From the **Missions page**
 
-1. Click Actions.
-2. Select Import from the dropdown menu.
-3. Click Browse (Excel).
-4. Select the Address from the location indicators
+1. Click **Actions**.
+2. Select **Import** from the dropdown menu.
+3. Click **Browse (Excel).**
+4. Select the **Address** from the location indicators
 
 <figure><img src="../../.gitbook/assets/image (154).png" alt=""><figcaption></figcaption></figure>
 
-5. Click on Validate
+5. Click on **Validate**
 
 <figure><img src="../../.gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
 
@@ -107,16 +107,16 @@ From the Missions page
 
 ### Color the Missions
 
-From the Missions page
+From the **Missions page**
 
-1. Click Actions.
-2. Select Coloring from the dropdown menu.
+1. Click **Actions**.
+2. Select **Coloring** from the dropdown menu.
 
 <figure><img src="../../.gitbook/assets/image (186).png" alt=""><figcaption></figcaption></figure>
 
 3. Select the appropriate condition from the suggestions.
-4. Choose the Color
-5. Click on Save
+4. Choose the **Color**
+5. Click on **Save**
 
 <figure><img src="../../.gitbook/assets/image (187).png" alt=""><figcaption></figcaption></figure>
 

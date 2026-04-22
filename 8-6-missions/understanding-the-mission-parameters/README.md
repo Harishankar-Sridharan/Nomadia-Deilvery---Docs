@@ -10,9 +10,9 @@ coordinators, dispatchers, and deliverers.
 
 #### 1.4.1. Access Mission Parameters
 
-From the Mission page
+From the **Mission page**
 
-1. Click the pencil icon next to the mission you want to edit
+1. Click the **pencil** icon next to the mission you want to edit
 
 ![](<../../.gitbook/assets/image-6 (3) (1).png>)
 
