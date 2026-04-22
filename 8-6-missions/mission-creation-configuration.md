@@ -4,33 +4,33 @@ Fields can be organized within their respective blocks/sections to structure the
 
 Blocks or sections can be reordered using drag-and-drop functionality. Any changes made through drag-and-drop are automatically synchronized with the visibility and order displayed in the left-hand side user interface.
 
-1. Go to Manage Missions
+1. Go to **Manage Missions**
 
 <figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
-2. Click Add Mission
+2. Click **Add Mission**
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-3. Enter the Mission type, Agency
+3. Enter the **Mission type, Agency**
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-4. Click Next
+4. Click **Next**
 
 <figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-5. Click the pencil icon in the top right corner.
+5. Click the **pencil** icon in the top right corner.
 
 <figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 6.  View the available information blocks:
 
-    * General Information
-    * Pickup Information
-    * Delivery Information
-    * PUDO Information
-    * Custom Fields
+    * **General Information**
+    * **Pickup Information**
+    * **Delivery Information**
+    * **PUDO Information**
+    * **Custom Fields**
 
     <figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -55,7 +55,7 @@ Blocks or sections can be reordered using drag-and-drop functionality. Any chang
 
 <figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-10. Save the new mission configuration.
+10. **Save** the new mission configuration.
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
