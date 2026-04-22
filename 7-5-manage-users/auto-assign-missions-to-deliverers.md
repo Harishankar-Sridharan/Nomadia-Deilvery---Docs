@@ -6,21 +6,21 @@ Prerequisite: To use automatic mission assignments, you must have a postal code 
 
 Follow the steps below to link zones with users and vehicles:
 
-1. Open the Nomadia Delivery application and go to the Configuration tab.
-2. From the drop-down, select Manage users.
+1. Open the Nomadia Delivery application and go to the **Configuration tab.**
+2. From the drop-down, select **Manage users**.
 
-Note: Zones can only be associated with users who have mobile access.
+**Note**: Zones can only be associated with users who have mobile access.
 
-3. Click the Pencil icon next to the desired mobile user.
+3. Click the **Pencil** icon next to the desired mobile user.
 
 <figure><img src="../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
 
-4. Users with mobile access will see an additional tab for configuring zone rights. Click Agencies and zones to set up zone assignments.
+4. Users with mobile access will see an additional tab for configuring zone rights. Click **Agencies** and **zones** to set up zone assignments.
 5. Move the available zones of the associated agencies to the right-hand panel to assign them to the user.
 
 <figure><img src="../.gitbook/assets/image (114).png" alt=""><figcaption></figcaption></figure>
 
-6. After adjusting the zone settings, click Save to confirm the changes.
+6. After adjusting the zone settings, click **Save** to confirm the changes.
 
 <figure><img src="../.gitbook/assets/image (115).png" alt=""><figcaption></figcaption></figure>
 
