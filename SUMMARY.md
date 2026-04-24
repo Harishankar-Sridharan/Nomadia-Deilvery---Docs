@@ -92,3 +92,4 @@
   * [Optimized Route Plan for Sub Contractors](10-8-subcontractor-management/optimized-route-plan-for-sub-contractors.md)
 * [Custom Dashboards](14-12-custom-dashboards/README.md)
 * [Configuring Customized Surveys](15-13-configuring-customized-surveys/README.md)
+* [Case Studies](case-studies.md)
