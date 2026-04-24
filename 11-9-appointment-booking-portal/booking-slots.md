@@ -4,20 +4,20 @@ The I-Frame Booking Portal is designed to give transporters a flexible and seaml
 
 To configure Nomadia Delivery for the appointment booking portal, transporters need to follow these steps:
 
-1. Open the Nomadia Delivery application and go to the Configuration tab.
-2. From the drop-down menu, select Configure customer experience pages.
+1. Open the Nomadia Delivery application and go to the **Configuration** tab.
+2. From the drop-down menu, select **Configure customer experience pages**.
 
 ![](<../.gitbook/assets/image-17 (3).png>)
 
-3. Choose the Schedule a delivery menu item.
-4. Open the Booking portal tab.
-5. Turn on the toggle Display the booking portal.
+3. Choose the **Schedule a delivery menu item**.
+4. Open the **Booking portal tab**.
+5. Turn on the toggle **Display the booking portal.**
 6. Configure the fields you want to display to the end customer to capture details needed for successful delivery. By default, Name and Address are mandatory, as they are essential for locating the customer.
-7. Click Add a field to include additional fields.
+7. Click **Add a field** to include additional fields.
 
 ![](<../.gitbook/assets/image-18 (3).png>)
 
-8. Specify the field name and select the field type (Text, Checkbox, Multiline Text, List of values, Number or date).
+8. Specify the **field name** and select the **field type** **(Text, Checkbox, Multiline Text, List of values, Number or date).**
 
 Example: Field name – Access Code (the code the deliverer needs to access the customer’s premises).
 
@@ -25,7 +25,7 @@ Example: Field name – Access Code (the code the deliverer needs to access the 
 
 ![](<../.gitbook/assets/image-19 (3).png>)
 
-10. Click Add to include the custom field in the form.
+10. Click **Add** to include the custom field in the form.
 
 ![](<../.gitbook/assets/image-20 (3).png>)
 
@@ -58,9 +58,9 @@ The booking portal is directly linked with the drivers’ tour plans in Nomadia 
 
 The I-Frame Booking Portal helps transporters boost their digital presence and customer
 
-* Engagement by offering:
-* Seamless integration
-* Customizable booking forms
-* Easy administration
-* Optimized delivery slots
-* Slot confirmation notifications
+* **Engagement by offering**
+* **Seamless integration**
+* **Customizable booking forms**
+* **Easy administration**
+* **Optimized delivery slots**
+* **Slot confirmation notifications**
