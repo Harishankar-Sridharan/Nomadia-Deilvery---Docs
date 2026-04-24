@@ -4,35 +4,35 @@ This guide explains how contractors and transporters can duplicate missions with
 
 Steps to duplicate missions with quantities:
 
-1. Open the Nomadia Delivery application and go to the Missions tab.
+1. Open the Nomadia Delivery application and go to the **Missions** tab.
 
 <figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
-2. In the Mission table, click the Actions drop-down menu and select Add.
+2. In the Mission table, click the **Actions drop-down** menu and select **Add**.
 
 <figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
-3. In the mission wizard, complete the mandatory fields according to the mission type (e.g., agency, pickup address, delivery address, etc.).
+3. In the mission wizard, complete the mandatory fields according to the mission type **(e.g., agency, pickup address, delivery address, etc.).**
 
 <figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
-4. Under the Parcel section, enter parcel details such as length, width, height, weight, volume, and solver constraints.
+4. Under the Parcel section, enter parcel details such as **length, width, height, weight, volume,** and **solver constraints**.
 
 <figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
-5. To add a new parcel with different values, click the “+” symbol.
+5. To add a new parcel with different values, click the “**+**” symbol.
 
 <figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
-6. To duplicate an existing parcel with the same details, click the Copy icon.
+6. To duplicate an existing parcel with the same details, click the **Copy** icon.
 
 <figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
-7. If you mistakenly add a parcel, click the Delete icon to remove it.
+7. If you mistakenly add a parcel, click the **Delete** icon to remove it.
 
 <figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
-8. After finalizing the parcels to be duplicated, click Add to generate the required number of missions.
+8. After finalizing the parcels to be duplicated, click **Add** to generate the required number of missions.
 
 <figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
