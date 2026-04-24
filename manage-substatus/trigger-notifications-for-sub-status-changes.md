@@ -4,15 +4,15 @@ The Trigger Notifications for Sub-Status Changes feature enables accurate, real-
 
 To configure notifications for sub-status changes, follow the steps below:
 
-1. Open the Nomadia Delivery application and go to the Configuration tab.
+1. Open the Nomadia Delivery application and go to the **Configuration** tab.
 
 <figure><img src="../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-2. Select Sub-statuses from the list.
+2. Select **Sub-statuses** from the list.
 
 <figure><img src="../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-3. Click the Pencil icon next to the existing sub-status to edit it.
+3. Click the **Pencil** icon next to the existing sub-status to edit it.
 
 <figure><img src="../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -20,7 +20,7 @@ To configure notifications for sub-status changes, follow the steps below:
 
 <figure><img src="../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-5. Click the + button to add the notification configuration to the sub status.
+5. Click the **+** button to add the notification configuration to the sub status.
 
 <figure><img src="../.gitbook/assets/image (9) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -42,7 +42,7 @@ To configure notifications for sub-status changes, follow the steps below:
     * This field is enabled only when **Other Recipients** is selected in the **Recipient** column.
 
     <figure><img src="../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption></figcaption></figure>
-9. After completing the configuration, click Save to apply and store the changes.
+9. After completing the configuration, click **Save** to apply and store the changes.
 
 <figure><img src="../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
