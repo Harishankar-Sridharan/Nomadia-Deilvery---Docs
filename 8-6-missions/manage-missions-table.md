@@ -2,13 +2,13 @@
 
 #### Customize the Table Display
 
-1. Click on the Table action menu
-2. Click on Customize List.
+1. Click on the **Table action** menu
+2. Click on **Generate Sticker Labels**.
 
 <figure><img src="../.gitbook/assets/image (174).png" alt=""><figcaption></figcaption></figure>
 
 3. Select the desired fields from the Available Fields list and click the arrow icon to move them to the Display Fields section.
-4. Click on Save
+4. Click on **Save**
 
 <figure><img src="../.gitbook/assets/image (175).png" alt=""><figcaption></figcaption></figure>
 
@@ -16,13 +16,11 @@ The selected fields will be displayed on the table
 
 #### Sort the Table
 
-1. Click on the column header (e.g., Last Name).
-2. Select Ascending or Descending order.
+1. Click on the **column header** (e.g., Last Name).
+2. Select **Ascending** or **Descending** order.
 3. The table reorders based on the selection.
 
-<figure><img src="../.gitbook/assets/image (176).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/image (212).png" alt=""><figcaption></figcaption></figure>
 
 #### Filter Table using Mission statuses shortcuts
 
@@ -30,9 +28,7 @@ The selected fields will be displayed on the table
 2. Choose the desired status like Waiting, Picked Up, etc.
 3. The table will refresh and show only matching entries.
 
-<figure><img src="../.gitbook/assets/image (177).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/image (213).png" alt=""><figcaption></figcaption></figure>
 
 
 
