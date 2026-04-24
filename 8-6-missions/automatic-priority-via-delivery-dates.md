@@ -4,11 +4,11 @@
 2. Navigate to Delivery Information.
 3. Populate the Delivery Asked Date and Delivery Asked End Date.
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. Save the mission; the system automatically sets the priority to Highest based on these commitment dates.
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Recalculating Priorities during Optimization
 
