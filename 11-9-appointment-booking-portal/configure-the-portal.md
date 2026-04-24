@@ -4,15 +4,15 @@ The appointment booking portal in Nomadia Delivery enables you to schedule optim
 
 To configure Nomadia Delivery for the appointment booking portal, the transporter should follow these steps:
 
-1. Open the Nomadia Delivery application and go to the Configuration tab.
+1. Open the Nomadia Delivery application and go to the **Configuration** tab.
 
 ![](<../.gitbook/assets/image-1 (5).png>)
 
-2. From the drop-down menu, select Configure customer experience pages.
+2. From the drop-down menu, select **Configure customer experience pages.**
 
 ![](<../.gitbook/assets/image-2 (5).png>)
 
-3. Click on the Schedule a delivery option.
+3. Click on the **Schedule a delivery option.**
 
 ![](<../.gitbook/assets/image-3 (5).png>)
 
@@ -30,13 +30,13 @@ To configure Nomadia Delivery for the appointment booking portal, the transporte
 
 ![](<../.gitbook/assets/image-6 (5).png>)
 
-7. Finally, click Save to confirm the planning.
+7. Finally, click **Save** to confirm the planning.
 
 ![](<../.gitbook/assets/image-7 (5).png>)
 
 To update or delete an existing plan, follow these steps
 
-1. Click on the blue area to open the planning you want to modify
+1. Click on the **blue area** to open the planning you want to modify
 
 ![](<../.gitbook/assets/image-8 (4).png>)
 
@@ -46,19 +46,19 @@ To update or delete an existing plan, follow these steps
 
 To reserve a slot through the appointment booking portal, follow these steps:
 
-1. Launch the Nomadia Delivery application and go to the Missions tab.
-2. Select any existing mission by clicking the pencil icon to edit it.
+1. Launch the Nomadia Delivery application and go to the **Missions** tab.
+2. Select any existing mission by clicking the **pencil** icon to edit it.
 
 ![](<../.gitbook/assets/image-9 (4).png>)
 
-3. Then, click the ‘Appointment Booking’ button to view the available slot proposals.
+3. Then, click the ‘**Appointment Booking**’ button to view the available slot proposals.
 
 ![](<../.gitbook/assets/image-10 (3).png>)
 
-Please note that the ‘Appointment Booking’ feature is available only for standard pickup or delivery missions. It will be disabled for the following mission types:
+Please note that the ‘**Appointment Booking**’ feature is available only for standard pickup or delivery missions. It will be disabled for the following mission types:
 
-* Cross-docking
-* Chained pickup & delivery
+* **Cross-docking**
+* **Chained pickup & delivery**
 
 For these missions, a tooltip message, as shown in the screenshot below, will appear.
 
@@ -70,9 +70,9 @@ The real-time optimization engine suggests slots by considering vehicle and user
 
 The proposed slots are categorized based on the star rating
 
-* 1-star: The proposed slot is more than 30 minutes away from the existing tour plans in the back office.
-* 2-star: The proposed slot is between 10 and 30 minutes away from the existing tour plans in the back office.
-* 3-star: The proposed slot is less than 10 minutes away from the existing tour plans in the back office.
+* **1-star**: The proposed slot is more than 30 minutes away from the existing tour plans in the back office.
+* **2-star**: The proposed slot is between 10 and 30 minutes away from the existing tour plans in the back office.
+* **3-star**: The proposed slot is less than 10 minutes away from the existing tour plans in the back office.
 
 ![](<../.gitbook/assets/image-13 (3).png>)
 
