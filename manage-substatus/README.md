@@ -4,18 +4,18 @@ The Manage Sub Statuses feature allows administrators to create, edit, and assig
 
 #### Delete a Sub status
 
-1. Go to Configuration.
-2. Click on Configuration Menu
-3. Under My Data, click on Sub statuses.
-4. Select a Sub statuses
-5. Click the Actions dropdown menu
-6. Click on Delete
+1. Go to **Configuration**.
+2. Click on **Configuration** Menu
+3. Under My Data, click on **Sub statuses.**
+4. Select a **Sub statuses**
+5. Click the **Actions** dropdown menu
+6. Click on **Delete**
 
 ![](<../.gitbook/assets/image-85 (1).png>)
 
 You will see a confirmation pop-up message stating: "Do you want to delete the sub-status?"
 
-7. Click on Yes
+7. Click on **Yes**
 
 ![](<../.gitbook/assets/image-86 (1).png>)
 
@@ -29,17 +29,17 @@ Sub status has been deleted successfully
 
 Apply conditions based on zone attributes such as type of mission (Delivery, Pickup), Zone priority, Assigned deliverer, Postal code prefix, etc.
 
-1. Go to Configuration.
-2. Click on Configuration Menu
-3. Under My Data, click on Sub statuses.
-4. Select a Sub statuses
-5. Click the Actions dropdown menu
-6. Click on Coloring
+1. Go to **Configuration**.
+2. Click on **Configuration** Menu
+3. Under My Data, click on **Sub statuses**.
+4. Select a **Sub statuses**
+5. Click the **Actions** dropdown menu
+6. Click on **Coloring**
 
 ![](<../.gitbook/assets/image-88 (1).png>)
 
-7. Choose a Color
-8. Click on Save
+7. Choose a **Color**
+8. Click on **Save**
 
 ![](<../.gitbook/assets/image-89 (1).png>)
 
