@@ -4,8 +4,8 @@ This guide provides step-by-step instructions for customizing your Word template
 
 Follow these steps to manage document templates:
 
-1. Open the Nomadia Delivery application and go to the Configuration tab.
-2. From the drop-down menu, select Document Templates.
+1. Open the Nomadia Delivery application and go to the **Configuration** tab.
+2. From the drop-down menu, select **Document Templates.**
 
 ![](<../.gitbook/assets/image-1 (8).png>)
 
@@ -17,11 +17,11 @@ Default templates in Nomadia Delivery are enabled by default and cannot be disab
 
 Follow these steps to download an existing template:
 
-1. Select the template(s) you want to download.
+1. Select the **template(s)** you want to download.
 
 ![](<../.gitbook/assets/image-3 (8).png>)
 
-2. Open the Actions menu and choose Download.
+2. Open the **Actions** menu and choose **Download**.
 
 ![](<../.gitbook/assets/image-4 (8).png>)
 
@@ -43,12 +43,12 @@ Follow these steps to modify an existing template:
 Follow these steps to convert plain text into a merge field:
 
 1. Copy the plain text of the field, for example: ${(contractor.name)!}.
-2. Go to Insert → Quick Parts → Field.
+2. Go to **Insert → Quick Parts → Field.**
 
 ![](<../.gitbook/assets/image-7 (9).png>)
 
-3. In the Categories dropdown, select Mail Merge, then choose Merge Field under Field names
-4. Paste the field name you copied into the Field name text box and click OK.
+3. In the Categories dropdown, select **Mail Merge**, then choose **Merge Field** under Field names
+4. Paste the **field name** you copied into the Field name text box and click **OK**.
 5. The plain text will now be converted into a merge field, appearing as: «${(contractor.name)!}»
 
 ![](<../.gitbook/assets/image-8 (8).png>)
@@ -56,12 +56,12 @@ Follow these steps to convert plain text into a merge field:
 "Follow these steps to activate a new template."
 
 1. Once the new template is ready, navigate to the Document Templates section to upload it.
-2. Go to the Configuration module and select Document Templates from the menu.
-3. Click on the Actions menu and choose Import.
+2. Go to the Configuration module and select **Document Templates** from the menu.
+3. Click on the **Actions** menu and choose **Import**.
 
 ![](<../.gitbook/assets/image-9 (8).png>)
 
-4. Browse your computer and select the template you just created.
+4. Browse your computer and select the **template** you just created.
 
 ![](<../.gitbook/assets/image-10 (7).png>)
 
@@ -69,15 +69,15 @@ Follow these steps to convert plain text into a merge field:
 
 ![](<../.gitbook/assets/image-11 (7).png>)
 
-6. Choose the template type from the dropdown menu (e.g., Consignment Note Template).
+6. Choose the **template type** from the dropdown menu (e.g., Consignment Note Template).
 
 ![](<../.gitbook/assets/image-12 (6).png>)
 
-7. Select the agency or agencies where the template should be available (e.g., Louisiana).
+7. Select the **agency** or agencies where the template should be available (e.g., Louisiana).
 
 ![](<../.gitbook/assets/image-13 (7).png>)
 
-8. Click Save to upload the template.
+8. Click **Save** to upload the template.
 
 ![](<../.gitbook/assets/image-14 (6).png>)
 
@@ -87,8 +87,8 @@ The newly uploaded template will now appear in the templates table.
 
 By default, new templates are disabled. To enable the template:
 
-10. Select the uploaded template and click the Actions menu.
-11. Choose Enable/Disable to activate the template.
+10. Select the uploaded template and click the **Actions** menu.
+11. Choose **Enable/Disable** to activate the template.
 
 ![](<../.gitbook/assets/image-16 (6).png>)
 
@@ -98,11 +98,11 @@ By default, new templates are disabled. To enable the template:
 
 Follow these steps to generate a PDF using the newly enabled template:
 
-1. Navigate to the Missions tab and select a route that has been published to the mobile deliverer.
+1. Navigate to the **Missions** tab and select a route that has been published to the mobile deliverer.
 
 ![](<../.gitbook/assets/image-18 (5).png>)
 
-2. Click on the Actions menu and choose Consignment Note.
+2. Click on the **Actions** menu and choose **Consignment Note**.
 
 ![](<../.gitbook/assets/image-19 (5).png>)
 
@@ -116,17 +116,17 @@ Follow these steps to generate a PDF using the newly enabled template:
 
 Follow these steps to delete a template
 
-1. Open the Nomadia Delivery application and go to the Configuration tab.
-2. From the dropdown menu, select Document Templates.
+1. Open the Nomadia Delivery application and go to the **Configuration** tab.
+2. From the dropdown menu, select **Document Templates.**
 
 ![](<../.gitbook/assets/image-22 (5).png>)
 
-3. In the table, choose any non-default template, then click the Actions menu.
-4. Select Delete to remove the template.
+3. In the table, choose any non-default template, then click the **Actions** menu.
+4. Select **Delete** to remove the template.
 
 ![](<../.gitbook/assets/image-23 (5).png>)
 
-5. Confirm the deletion by clicking Yes.
+5. Confirm the deletion by clicking **Yes**.
 
 ![](<../.gitbook/assets/image-24 (5).png>)
 
@@ -138,7 +138,7 @@ Follow these steps to modify the template settings.
 
 Template settings include the type of document the template is associated with—such as Routing Sheet, Loading Sheet, Sticker Sheet, Consignment Note, Visit Report, or Mission Report—and the agencies for which the template is available
 
-1. To modify the settings, click the Edit button next to the template name.
+1. To modify the settings, click the **Edit** button next to the template name.
 
 ![](<../.gitbook/assets/image-26 (5).png>)
 
@@ -146,7 +146,7 @@ Template settings include the type of document the template is associated with�
 
 ![](<../.gitbook/assets/image-27 (5).png>)
 
-3. Once the changes are made, click Save to apply and save the updated settings.
+3. Once the changes are made, click **Save** to apply and save the updated settings.
 
 ![](<../.gitbook/assets/image-28 (5).png>)
 
@@ -166,8 +166,8 @@ Both configuration types can be automatically assigned based on mission attribut
 
 Follow these steps to configure the type
 
-1. Open the Nomadia Delivery application and navigate to the Configuration tab.
-2. From the drop-down, select Configuration types.
+1. Open the Nomadia Delivery application and navigate to the **Configuration** tab.
+2. From the drop-down, select **Configuration types.**
 3. By default, Nomadia Delivery provides three configuration types: BASIC, INTERMEDIATE, and ADVANCED. You can either use these existing types or create a new one from scratch.
 4. To edit an existing configuration type, click the Pencil icon next to it.
 
