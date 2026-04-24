@@ -6,8 +6,8 @@
 
 <figure><img src="../.gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>
 
-2. Click the Actions menu.
-3. Select Perform at once.
+2. Click the **Actions** menu.
+3. Select **Perform at once**.
 
 <figure><img src="../.gitbook/assets/image (139).png" alt=""><figcaption></figcaption></figure>
 
