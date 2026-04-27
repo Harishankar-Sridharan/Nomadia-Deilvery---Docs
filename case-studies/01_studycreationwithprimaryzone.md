@@ -9,7 +9,7 @@ Understanding these two core concepts will help you manage your delivery areas m
 
 ***
 
-### Setting Your Access
+## Setting Your Access
 
 Before you can create anything, you need the right permissions in the system.
 
@@ -21,7 +21,7 @@ Before you can create anything, you need the right permissions in the system.
 
 ***
 
-### How to Create a New Study
+## How to Create a New Study
 
 A study holds your seasonal delivery rules.
 
@@ -38,7 +38,7 @@ A study holds your seasonal delivery rules.
 
 ***
 
-### Adding a Primary Zone to Your Study
+## Adding a Primary Zone to Your Study
 
 Once your study is ready, you need to define the actual geographical area.
 
@@ -55,7 +55,7 @@ Once your study is ready, you need to define the actual geographical area.
 
 ***
 
-### Productivity Tips
+## Productivity Tips
 
 * **Bulk Uploading**: If you are setting up zones for an entire region, don't type them manually. Use the **Import** function to save hours of work.
 * **API Automation**: For technical teams, you can automate the creation of studies using the **create study endpoint**, which is perfect for onboarding new seasonal workflows programmatically.
