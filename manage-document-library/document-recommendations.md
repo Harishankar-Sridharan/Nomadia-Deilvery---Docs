@@ -6,7 +6,7 @@ The Document Recommendations feature ensures that all required paperwork is avai
 
 1. Open the Nomadia Delivery application and navigate to the Missions tab
 
-<figure><img src="../.gitbook/assets/image (73) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (72) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Click Actions and select Add (Beta).
 
@@ -14,7 +14,7 @@ The Document Recommendations feature ensures that all required paperwork is avai
 
 3. Enter the Agency name.
 
-<figure><img src="../.gitbook/assets/image (75) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (74) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. Click the Pencil icon in the top-right corner.
 
@@ -24,7 +24,7 @@ The Document Recommendations feature ensures that all required paperwork is avai
 
 <figure><img src="../.gitbook/assets/image (78) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (77) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 6. Enter the delivery address.
 
@@ -36,7 +36,7 @@ The Document Recommendations feature ensures that all required paperwork is avai
 
 Once the delivery address is added, the Document Recommendation list is automatically displayed based on the consignee’s country (delivery country). This helps users identify the mandatory documents that must be uploaded to meet legal requirements when transporting missions across countries.
 
-<figure><img src="../.gitbook/assets/image (81) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (80) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Recommendations While Editing the Document
 
@@ -64,10 +64,7 @@ To set up recommendations for Nomadia Delivery, follow the steps below.
     * Alternatively, a country can have both a general recommendation list and a country-specific recommendation list. In such cases, both lists are merged and displayed during mission creation or editing.
     * Links can be added to the recommendation list, allowing users to access online or cloud-hosted documents such as SharePoint.
 
-    <figure><img src="../.gitbook/assets/image (89) (1).png" alt=""><figcaption></figcaption></figure>
-
-
-
+    <figure><img src="../.gitbook/assets/image (88) (1).png" alt=""><figcaption></figcaption></figure>
 7. Enable the toggle to activate the recommendation list.
 
 <figure><img src="../.gitbook/assets/image (90) (1).png" alt=""><figcaption></figcaption></figure>

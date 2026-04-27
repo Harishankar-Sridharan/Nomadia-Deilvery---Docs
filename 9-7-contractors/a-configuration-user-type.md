@@ -41,7 +41,7 @@ To create a new Contractor user type, follow these steps.
 9. Contractor will receive an email with instructions to set a password and activate the account
 10. Click on the link to verify the account
 
-![](<../.gitbook/assets/image-15 (2).png>)
+![](../.gitbook/assets/image-5.png)
 
 Enter the verification code received by email and click Verify Code.
 
@@ -62,4 +62,3 @@ Review and accept the End User License Agreement (EULA), then click Continue.
 The new Contractor user can now access the application and begin performing tasks
 
 ![](<../.gitbook/assets/image-20 (2).png>)
-

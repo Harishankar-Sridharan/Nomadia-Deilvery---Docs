@@ -8,7 +8,7 @@
 
 4. **Save the mission:** the system automatically sets the priority to Highest based on these commitment dates.
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Recalculating Priorities during Optimization**
 

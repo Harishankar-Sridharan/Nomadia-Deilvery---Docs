@@ -27,7 +27,7 @@ Survey Creator / Form Builder is a visual design tool that allows you to create 
 
 ![](<../.gitbook/assets/image-4 (9).png>)
 
-6. For detailed guidance on creating a survey, refer to the documentation: [Create a simple  survey](https://surveyjs.io/form-library/documentation/design-survey/create-a-simple-survey)&#x20;
+6. For detailed guidance on creating a survey, refer to the documentation: [Create a simple survey](https://surveyjs.io/form-library/documentation/design-survey/create-a-simple-survey)
 7. Once the survey is complete, click Save to create it.
 
 ![](<../.gitbook/assets/image-5 (9).png>)
@@ -78,7 +78,7 @@ For Sub-Status
 
 4. Assign the appropriate Fulfillment survey from the drop-down and click Save.
 
-![](<../.gitbook/assets/image-15 (7).png>)
+![](../.gitbook/assets/image-3.png)
 
 5. When logged in as a transporter or subcontractor deliverer, attempting to fulfil a delivery/pickup will prompt the survey, which must be completed before proceeding.
 
@@ -100,4 +100,3 @@ Analysing Survey Responses
 6. Review and analyse survey responses in real time.
 
 ![](<../.gitbook/assets/image-19 (7).png>)
-

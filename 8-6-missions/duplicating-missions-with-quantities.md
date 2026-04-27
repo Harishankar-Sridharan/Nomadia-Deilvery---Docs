@@ -14,7 +14,7 @@ Steps to duplicate missions with quantities:
 
 3. In the mission wizard, complete the mandatory fields according to the mission type **(e.g., agency, pickup address, delivery address, etc.).**
 
-<figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
 4. Under the Parcel section, enter parcel details such as **length, width, height, weight, volume,** and **solver constraints**.
 

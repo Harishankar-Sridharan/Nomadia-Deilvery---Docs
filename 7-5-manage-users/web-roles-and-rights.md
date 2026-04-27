@@ -64,5 +64,4 @@ The password must include at least three of the following character types:
 * Numbers (0–9)
 * Symbols (special characters)
 
-![](../.gitbook/assets/image-19.png)
-
+![](../.gitbook/assets/image-18.png)

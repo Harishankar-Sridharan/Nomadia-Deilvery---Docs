@@ -29,7 +29,7 @@ To set up the rescheduling link in customer email communications, follow these s
 
 1. Launch the Nomadia Delivery application and go to the **Configuration** tab.
 
-![](<../.gitbook/assets/image-31 (3).png>)
+![](<../.gitbook/assets/image-26 (4).png>)
 
 2. From the drop-down menu, select **Configure Outgoing Messages**.
 

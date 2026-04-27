@@ -10,7 +10,7 @@ To create a ticket a contractor user should follow these steps:
 
 4. Open the **Help** tab and select Create a ticket to initiate a support ticket for the mission.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 5. Enter your query in the provided field and click **Send** to submit the ticket to the transporter.
 
@@ -18,7 +18,7 @@ To create a ticket a contractor user should follow these steps:
 
 6. The ticket is created, and the transporter will receive an email notification about the reported issue.
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 To reply to a ticket, the transporter should follow these steps:
 

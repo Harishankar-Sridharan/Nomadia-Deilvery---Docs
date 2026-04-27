@@ -7,7 +7,7 @@ Follow these steps to manage document templates:
 1. Open the Nomadia Delivery application and go to the **Configuration** tab.
 2. From the drop-down menu, select **Document Templates.**
 
-![](<../.gitbook/assets/image-1 (8).png>)
+![](../.gitbook/assets/image-2.png)
 
 The page will display all the default templates that Nomadia Delivery uses to generate PDFs, including routing sheets, loading sheets, eCMR, mission reports, sticker sheets, and visit reports.
 
@@ -119,7 +119,7 @@ Follow these steps to delete a template
 1. Open the Nomadia Delivery application and go to the **Configuration** tab.
 2. From the dropdown menu, select **Document Templates.**
 
-![](<../.gitbook/assets/image-22 (5).png>)
+![](../.gitbook/assets/image-2.png)
 
 3. In the table, choose any non-default template, then click the **Actions** menu.
 4. Select **Delete** to remove the template.
@@ -140,7 +140,7 @@ Template settings include the type of document the template is associated with�
 
 1. To modify the settings, click the **Edit** button next to the template name.
 
-![](<../.gitbook/assets/image-26 (5).png>)
+![](<../.gitbook/assets/image-25 (5).png>)
 
 2. You can update the document type and the agencies associated with the template.
 
@@ -185,7 +185,7 @@ Follow these steps to configure the type
 
 8. The table below illustrates how different configuration types, conditions, and rules influence auto-assignment of values in the mission object.
 
-<table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top"><p>Configuration</p><p>type</p></td><td valign="top"><p>Applicable</p><p>for</p></td><td valign="top">Rules</td><td valign="top"><p>Auto-assignment on</p><p>the mission object</p></td></tr><tr><td valign="top"><p>BASIC</p><p> </p></td><td valign="top">Substatus &#x26; Notification</td><td valign="top"><p>Package value &#x3C; 49€</p><p> </p><p>Priority = 4</p><p> </p><p>Follow all the rules = NO</p></td><td valign="top"><p>If Mission’s package</p><p>value = 39€</p><p> </p><p>Status configuration type = BASIC</p><p> </p><p>Notification configuration type =</p><p>BASIC</p></td></tr><tr><td valign="top">INTERMEDIATE</td><td valign="top">Sub status &#x26; Notification</td><td valign="top"><p>Package value &#x3C; 100€ Package value > 50€ Priority = 3</p><p>Follow all the rules = YES</p></td><td valign="top"><p>If Mission’s package</p><p>value = 99€</p><p> </p><p>Status configuration type = INTERMEDIATE</p><p> </p><p>Notification configuration type = INTERMEDIATE</p></td></tr><tr><td valign="top">ADVANCED</td><td valign="top">Substatus &#x26; Notification</td><td valign="top"><p>Package value &#x3C; 500€ Package value > 100€ Priority = 2</p><p>Follow all the rules = YES</p></td><td valign="top"><p>If Mission’s package</p><p>value = 499€</p><p> </p><p>Status configuration type = ADVANCED</p><p> </p><p>Notification configuration type = ADVANCED</p></td></tr><tr><td valign="top">LUXURY</td><td valign="top">Substatus &#x26; Notification</td><td valign="top"><p>Package value > 500€</p><p> </p><p>Priority = 1</p><p> </p><p>Follow all the rules = NO</p></td><td valign="top"><p>If Mission’s package</p><p>value = 500€</p><p> </p><p>Status configuration type = LUXURY</p><p> </p><p>Notification configuration type =</p><p>LUXURY</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top"><p>Configuration</p><p>type</p></td><td valign="top"><p>Applicable</p><p>for</p></td><td valign="top">Rules</td><td valign="top"><p>Auto-assignment on</p><p>the mission object</p></td></tr><tr><td valign="top">BASIC</td><td valign="top">Substatus &#x26; Notification</td><td valign="top"><p>Package value &#x3C; 49€</p><p>Priority = 4</p><p>Follow all the rules = NO</p></td><td valign="top"><p>If Mission’s package</p><p>value = 39€</p><p>Status configuration type = BASIC</p><p>Notification configuration type =</p><p>BASIC</p></td></tr><tr><td valign="top">INTERMEDIATE</td><td valign="top">Sub status &#x26; Notification</td><td valign="top"><p>Package value &#x3C; 100€ Package value > 50€ Priority = 3</p><p>Follow all the rules = YES</p></td><td valign="top"><p>If Mission’s package</p><p>value = 99€</p><p>Status configuration type = INTERMEDIATE</p><p>Notification configuration type = INTERMEDIATE</p></td></tr><tr><td valign="top">ADVANCED</td><td valign="top">Substatus &#x26; Notification</td><td valign="top"><p>Package value &#x3C; 500€ Package value > 100€ Priority = 2</p><p>Follow all the rules = YES</p></td><td valign="top"><p>If Mission’s package</p><p>value = 499€</p><p>Status configuration type = ADVANCED</p><p>Notification configuration type = ADVANCED</p></td></tr><tr><td valign="top">LUXURY</td><td valign="top">Substatus &#x26; Notification</td><td valign="top"><p>Package value > 500€</p><p>Priority = 1</p><p>Follow all the rules = NO</p></td><td valign="top"><p>If Mission’s package</p><p>value = 500€</p><p>Status configuration type = LUXURY</p><p>Notification configuration type =</p><p>LUXURY</p></td></tr></tbody></table>
 
 Note: The sub status configuration type assigned to the mission object takes the highest priority, unless a zone configuration explicitly overrides it.
 
@@ -200,6 +200,3 @@ If confirmed, the manual changes will be retained.
 If declined, the system will revert to auto-assigned configurations.
 
 ![](<../.gitbook/assets/image-32 (4).png>)
-
-
-

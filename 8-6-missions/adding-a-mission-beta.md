@@ -44,7 +44,7 @@ To arrange custom field groups in the desired order:
 
 * Open the Nomadia Delivery application and navigate to the **Configuration** tab.
 
-<figure><img src="../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Go to the **Missions** tab.
 
@@ -60,7 +60,7 @@ To arrange custom field groups in the desired order:
 
 * Click **Next**.
 
-<figure><img src="../.gitbook/assets/image (28) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (27) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Click the **Pencil** icon to edit the mission configuration.
 
@@ -72,17 +72,13 @@ To arrange custom field groups in the desired order:
     * Click a group to expand it.
     * Fields belonging to that group are listed.
 
-    <figure><img src="../.gitbook/assets/image (30) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
 *   Select the fields to display:
 
-
-
-    <figure><img src="../.gitbook/assets/image (31) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
 * The form dynamically updates based on selection.
 
 <figure><img src="../.gitbook/assets/image (32) (1).png" alt=""><figcaption></figcaption></figure>
-
-
 
 *   Use drag and drop to:
 
@@ -129,7 +125,7 @@ To group missions within a container:
     <figure><img src="../.gitbook/assets/image (38) (1).png" alt=""><figcaption></figcaption></figure>
 * Click **Save** to apply changes.
 
-<figure><img src="../.gitbook/assets/image (39) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (36) (1).png" alt=""><figcaption></figcaption></figure>
 
 To add documents right after mission creation:
 
@@ -144,7 +140,7 @@ To add documents right after mission creation:
 
 * Click **Save** to apply changes.
 
-<figure><img src="../.gitbook/assets/image (41) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (36) (1).png" alt=""><figcaption></figcaption></figure>
 
 * If enabled:
   * The system prompts to add documents immediately after mission creation.
@@ -161,4 +157,3 @@ To add documents right after mission creation:
 * Documents are successfully added to the mission.
 
 <figure><img src="../.gitbook/assets/image (44) (1).png" alt=""><figcaption></figcaption></figure>
-

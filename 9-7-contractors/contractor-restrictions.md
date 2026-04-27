@@ -67,7 +67,7 @@ To prevent contractors from editing missions after printing, follow the steps be
 
 10. After printing, click the Pencil icon to edit the mission.
 
-![](<../.gitbook/assets/image-80 (2).png>)
+![](<../.gitbook/assets/image-77 (2).png>)
 
 A warning appears in the mission editor, and mission editing is blocked because the user does not have permission to modify it after sticker printing.
 

@@ -93,7 +93,7 @@ Follow these steps to generate missions on the scheduled day of delivery or pick
 
 ![](<../.gitbook/assets/image-17 (6).png>)
 
-**Note**: If no missions are linked to the selected route plan, the system will display an error notification.&#x20;
+**Note**: If no missions are linked to the selected route plan, the system will display an error notification.
 
 3. If the transporter needs to create missions on behalf of the contractor:
    * Click **Generate the deliveries** to create delivery missions.
@@ -121,7 +121,7 @@ To validate the route plan:
 
 1. Open the Actions menu and select Apply the route plan.
 
-![](<../.gitbook/assets/image-21 (6).png>)
+![](<../.gitbook/assets/image-17 (6).png>)
 
 2. The system will enter Comparison Mode, allowing you to compare the predefined route plan with the missions created. This helps transporters assess the percentage of the route plan that will be executed in real time.
 

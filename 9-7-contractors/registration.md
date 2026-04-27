@@ -28,6 +28,6 @@ To create a new Contractor, follow these steps:
 
 8. Alternatively, contractors can be bulk imported using an Excel file, which helps save time and effort when adding multiple contractors simultaneously
 
-![](<../.gitbook/assets/image-6 (4).png>)
+![](<../.gitbook/assets/image-2 (4).png>)
 
 Once the contractor is registered, the transporter can create contractor access from the configuration section/module. This allows the contractor to access the system and perform their tasks.

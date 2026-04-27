@@ -8,9 +8,7 @@
 4. Click the **Actions** dropdown menu
 5. Click on **Add**
 
-<figure><img src="../.gitbook/assets/image (22) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/image (21) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 6. Enter the **Name** and **Translation**
 
@@ -23,4 +21,3 @@
 The article type has been created successfully
 
 <figure><img src="../.gitbook/assets/image (25) (1) (1).png" alt=""><figcaption></figcaption></figure>
-

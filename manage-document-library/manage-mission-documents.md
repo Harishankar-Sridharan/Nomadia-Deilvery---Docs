@@ -1,7 +1,5 @@
 # Manage Mission documents
 
-
-
 The "Manage Missions" documents specifically refer to guides and documentation that help users oversee and operate delivery-related missions within the logistics and field execution workflows.
 
 #### Import a Document from the Document Library
@@ -31,7 +29,7 @@ The mission documents will be imported successfully
 3. In the left-hand menu, select Documents.
 4. Click Browse Computer to open your file explorer.
 
-<figure><img src="../.gitbook/assets/image (117) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (114) (1).png" alt=""><figcaption></figcaption></figure>
 
 5. Select a valid document from your local system to upload.
 
@@ -39,7 +37,7 @@ The mission documents will be imported successfully
 
 6. The mission documents will be uploaded successfully.
 
-<figure><img src="../.gitbook/assets/image (119) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (118) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Download a Document
 
@@ -68,4 +66,3 @@ The mission documents will be imported successfully
 <figure><img src="../.gitbook/assets/image (123) (1).png" alt=""><figcaption></figcaption></figure>
 
 .
-

@@ -4,7 +4,7 @@
 
 1. Go to Configuration.
 
-<figure><img src="../.gitbook/assets/image (106) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (105) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Click on Configuration Menu
 3. Under Fulfillment and Client Experience, click on Configure Outgoing Messages

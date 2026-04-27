@@ -8,7 +8,7 @@
 6. Click on Add
 7. Click on Constraints
 
-![](<../.gitbook/assets/image-50 (1).png>)
+![](../.gitbook/assets/image-50.png)
 
 8. Choose which fields you want to display on the table.
 
@@ -16,8 +16,8 @@
 
 9. Click on Save
 
-![](<../.gitbook/assets/image-51 (1).png>)
+![](../.gitbook/assets/image-51.png)
 
 The Fields have been displayed successfully.
 
-![](<../.gitbook/assets/image-52 (1).png>)
+![](../.gitbook/assets/image-52.png)

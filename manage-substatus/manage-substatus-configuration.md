@@ -20,15 +20,15 @@ To configure and manage sub-status configuration types in Nomadia Delivery, foll
 
 1. Open the Nomadia Delivery application and go to the **Configuration** module.
 
-![](<../.gitbook/assets/image-94 (1).png>)
+![](../.gitbook/assets/image-94.png)
 
 2. Click on the **Actions** button, then choose **Add** to create a new sub-status.
 
-![](<../.gitbook/assets/image-95 (1).png>)
+![](../.gitbook/assets/image-95.png)
 
 3. Assign the created sub-status to one or more templates.
 
-![](<../.gitbook/assets/image-96 (1).png>)
+![](../.gitbook/assets/image-96.png)
 
 4. Define the required actions for each sub-status, such as making signature mandatory, requiring a photo, etc.
 
@@ -46,4 +46,3 @@ To configure and manage sub-status configuration types in Nomadia Delivery, foll
 8. Select the **status configuration template** for the chosen mission
 
 <figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-

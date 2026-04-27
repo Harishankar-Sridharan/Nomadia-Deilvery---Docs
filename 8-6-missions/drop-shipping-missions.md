@@ -7,15 +7,13 @@ To create a drop-shipping mission, users (contractors, transporters, or subcontr
 1. Open the Nomadia Delivery application and go to the **Missions** tab.
 2. Click on the **Actions menu** and select **Add**.
 
-<figure><img src="../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
 
 3. In the Mission Type drop-down, choose **Drop-Shipping.**
 
 <figure><img src="../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
 
 4. From the Contractor Identifier drop-down, select the **contractor** associated with the mission
-
-
 
 <figure><img src="../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
 
@@ -37,7 +35,7 @@ To create a drop-shipping mission, users (contractors, transporters, or subcontr
 
 * If needed, click the **Edit** button next to the address field to set a different pickup address.
 
-<figure><img src="../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
 
 8. Click **Next** to continue.
 
@@ -80,7 +78,7 @@ Deliveries are permitted only after all pickups are completed, preventing disrup
 
 <figure><img src="../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
 
-7. In the ‘**Routes’ panel**, select the routes you want to validate, open the ‘**Actions’ menu**, and click **Validate**.&#x20;
+7. In the ‘**Routes’ panel**, select the routes you want to validate, open the ‘**Actions’ menu**, and click **Validate**.
 
 <figure><img src="../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
 

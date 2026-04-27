@@ -11,19 +11,17 @@ The Manage Sub Statuses feature allows administrators to create, edit, and assig
 5. Click the **Actions** dropdown menu
 6. Click on **Delete**
 
-![](<../.gitbook/assets/image-85 (1).png>)
+![](../.gitbook/assets/image-85.png)
 
 You will see a confirmation pop-up message stating: "Do you want to delete the sub-status?"
 
 7. Click on **Yes**
 
-![](<../.gitbook/assets/image-86 (1).png>)
+![](../.gitbook/assets/image-86.png)
 
 Sub status has been deleted successfully
 
-![](<../.gitbook/assets/image-87 (1).png>)
-
-
+![](../.gitbook/assets/image-87.png)
 
 #### Coloring a Sub status
 
@@ -36,20 +34,13 @@ Apply conditions based on zone attributes such as type of mission (Delivery, Pic
 5. Click the **Actions** dropdown menu
 6. Click on **Coloring**
 
-![](<../.gitbook/assets/image-88 (1).png>)
+![](../.gitbook/assets/image-88.png)
 
 7. Choose a **Color**
 8. Click on **Save**
 
-![](<../.gitbook/assets/image-89 (1).png>)
+![](../.gitbook/assets/image-89.png)
 
 The selected color has been applied successfully.
 
-![](<../.gitbook/assets/image-90 (1).png>)
-
-
-
-
-
-
-
+![](../.gitbook/assets/image-90.png)

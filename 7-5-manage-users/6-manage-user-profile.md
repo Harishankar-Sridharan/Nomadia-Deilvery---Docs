@@ -4,7 +4,7 @@ Organizations with hundreds or thousands of users can take advantage of the User
 
 1. Navigate to **Configuration**
 
-![](<../.gitbook/assets/image-1 (2).png>)
+![](<../.gitbook/assets/image-1 (1).png>)
 
 2. From the list, select **Manage User Profiles.**
 
@@ -12,7 +12,7 @@ Organizations with hundreds or thousands of users can take advantage of the User
 
 3. Click the Actions drop-down and choose **Add**.
 
-![](<../.gitbook/assets/image-3 (2).png>)
+![](<../.gitbook/assets/image-3 (1).png>)
 
 * Enter the **Identifier** and **Profile Name.**
 * Enable **contractor profiles (Web access)** for contractor users and **sub-contractor profiles** for (Web or Mobile) for sub-contractor users.

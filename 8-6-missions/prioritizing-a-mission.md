@@ -6,11 +6,10 @@ Manual Priority Assignment
 
 1. Select the **mission(s)** to be prioritized.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Click the **Prioritize** button from the Actions menu
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Select the **Priority level: Normal, High**, or **Highest**.
-

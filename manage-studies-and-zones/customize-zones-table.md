@@ -9,7 +9,7 @@ Refer to 1.5.2. Import Postal Zones to have the complete list of available field
 5. Click the Actions dropdown menu.
 6. Click on Customize Limit
 
-![](<../.gitbook/assets/image-32 (1).png>)
+![](../.gitbook/assets/image-32.png)
 
 7. Choose which fields you want to display on the table.
 
@@ -19,8 +19,8 @@ navigate.
 
 8. Click on Save
 
-![](<../.gitbook/assets/image-33 (1).png>)
+![](../.gitbook/assets/image-33.png)
 
 The selected fields have been displayed on the table.
 
-![](<../.gitbook/assets/image-34 (1).png>)
+![](../.gitbook/assets/image-34.png)

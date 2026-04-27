@@ -12,7 +12,7 @@ You can group multiple containers together and track the quantity of each contai
 
 1. Go to Configuration.
 
-<figure><img src="../.gitbook/assets/image (96) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (58) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Click on Configuration Menu
 3. Under Customization, click on Container Types

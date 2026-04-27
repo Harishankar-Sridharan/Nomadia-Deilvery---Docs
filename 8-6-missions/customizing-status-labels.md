@@ -23,34 +23,34 @@ To customize status labels in Nomadia Delivery, follow the steps below.
 
 1. Open the Nomadia Delivery application and navigate to the **Configuration** tab.
 
-![](<../.gitbook/assets/image-72 (1).png>)
+![](../.gitbook/assets/image-72.png)
 
 2. Select **Customize Status Labels** from the list.
 
-![](<../.gitbook/assets/image-73 (1).png>)
+![](../.gitbook/assets/image-73.png)
 
 This page displays all statuses in Nomadia Delivery.
 
-![](<../.gitbook/assets/image-74 (1).png>)
+![](../.gitbook/assets/image-74.png)
 
 3. Click the **text box** next to the status and update the label to match your business workflow.
 
-![](<../.gitbook/assets/image-75 (1).png>)
+![](../.gitbook/assets/image-75.png)
 
 4. Click the **Other Languages accordion** to update labels for users in different languages or countries.
 
-![](<../.gitbook/assets/image-76 (1).png>)
+![](../.gitbook/assets/image-76.png)
 
 5. Click the **Color Picker** to change the background color of a status label. Ensure you choose a contrasting color that maintains text readability in the UI.
 
-![](<../.gitbook/assets/image-77 (1).png>)
+![](../.gitbook/assets/image-77.png)
 
 6. After making the changes, click **Save** to apply the label and color updates across both the web and mobile applications.
 
-![](<../.gitbook/assets/image-78 (1).png>)
+![](../.gitbook/assets/image-78.png)
 
 7. After saving the changes, return to the mission page to view the updated labels and colors in the pre-filter area
 
-![](<../.gitbook/assets/image-79 (1).png>)
+![](../.gitbook/assets/image-79.png)
 
 This provides a smooth, business-aligned experience for both planners and deliverers.

@@ -9,15 +9,15 @@
 5. Click on Actions
 6. Click on Add from the dropdown menu
 
-![](<../.gitbook/assets/image-47 (1).png>)
+![](../.gitbook/assets/image-47.png)
 
 7. Enter the Name
 
-![](<../.gitbook/assets/image-48 (1).png>)
+![](../.gitbook/assets/image-48.png)
 
 8. Click on Add
 
-![](<../.gitbook/assets/image-49 (1).png>)
+![](../.gitbook/assets/image-49.png)
 
 #### Delete a Vehicle
 
@@ -28,18 +28,16 @@
 5. Click on Actions
 6. Click on Delete from the dropdown menu
 
-![](<../.gitbook/assets/image-53 (1).png>)
+![](../.gitbook/assets/image-53.png)
 
 7. You will see a confirmation pop-up message stating: "Do you want to delete the Vehicle?"
 8. Click on Delete.
 
-![](<../.gitbook/assets/image-54 (1).png>)
+![](../.gitbook/assets/image-45.png)
 
 Vehicles have been deleted successfully
 
-![](<../.gitbook/assets/image-55 (1).png>)
-
-
+![](../.gitbook/assets/image-1.png)
 
 #### Export a Vehicle
 
@@ -50,11 +48,11 @@ Vehicles have been deleted successfully
 5. Click on Actions
 6. Click on Export from the dropdown menu
 
-![](<../.gitbook/assets/image-56 (1).png>)
+![](../.gitbook/assets/image-56.png)
 
 The vehicles have been exported successfully.
 
-![](<../.gitbook/assets/image-57 (1).png>)
+![](../.gitbook/assets/image-57.png)
 
 #### Color a Vehicle
 
@@ -65,16 +63,16 @@ The vehicles have been exported successfully.
 5. Click on Actions
 6. Click on Coloring from the dropdown menu
 
-![](<../.gitbook/assets/image-58 (1).png>)
+![](../.gitbook/assets/image-58.png)
 
 7. Choose a Color
 8. Click on Save
 
-![](<../.gitbook/assets/image-59 (1).png>)
+![](../.gitbook/assets/image-59.png)
 
 The color has been applied successfully.
 
-![](<../.gitbook/assets/image-60 (1).png>)
+![](../.gitbook/assets/image-60.png)
 
 #### Customize Vehicles table
 
@@ -85,7 +83,7 @@ The color has been applied successfully.
 5. Click on Actions
 6. Click on Customize the list from the dropdown menu
 
-![](<../.gitbook/assets/image-61 (1).png>)
+![](../.gitbook/assets/image-61.png)
 
 7. Choose which fields you want to display on the table.
 
@@ -95,15 +93,11 @@ navigate.
 
 8. Click on Save
 
-![](<../.gitbook/assets/image-62 (1).png>)
+![](../.gitbook/assets/image-62.png)
 
 The selected fields will be displayed on the table successfully
 
-![](<../.gitbook/assets/image-63 (1).png>)
-
-
-
-
+![](../.gitbook/assets/image-63.png)
 
 #### Customize Vehicles fleets table
 
@@ -114,7 +108,7 @@ The selected fields will be displayed on the table successfully
 5. Under My Fleets, click the Actions dropdown menu.
 6. Click on Customize the list
 
-![](<../.gitbook/assets/image-69 (1).png>)
+![](../.gitbook/assets/image-69.png)
 
 7. Choose which fields you want to display on the table.
 
@@ -122,9 +116,8 @@ The selected fields will be displayed on the table successfully
 
 8. Click on Save
 
-![](<../.gitbook/assets/image-70 (1).png>)
+![](../.gitbook/assets/image-62.png)
 
 The selected fields have been displayed on the table successfully
 
-![](<../.gitbook/assets/image-71 (1).png>)
-
+![](../.gitbook/assets/image-63.png)

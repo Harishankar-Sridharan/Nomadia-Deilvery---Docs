@@ -18,7 +18,7 @@ To configure Nomadia Delivery for the appointment booking portal, the transporte
 
 4. Open the Planning tab. This tab allows the transporter to define the time slots that will be available for booking in the appointment portal.
 
-![](<../.gitbook/assets/image-4 (5).png>)
+![](../.gitbook/assets/image-6.png)
 
 5. Click within the grey area to set the availability of your deliverers.
 
@@ -87,4 +87,3 @@ Once the slot is successfully booked, a notification will appear in the back off
 Return to the Missions tab to confirm that the tour has been created or updated for the selected date and time.
 
 ![](<../.gitbook/assets/image-16 (3).png>)
-

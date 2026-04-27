@@ -15,7 +15,7 @@ To set up a visit mission, users (contractors, transporters, or subcontractors) 
 1. Open the Nomadia Delivery application and go to the **Missions** tab.
 2. Click the ‘**Actions**’ menu and select ‘**Add**’.
 
-<figure><img src="../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
 
 3. In the Mission Type drop-down, choose the new mission type ‘**Visit**’ to create a visit mission.
 

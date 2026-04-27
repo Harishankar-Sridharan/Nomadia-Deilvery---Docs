@@ -30,8 +30,6 @@ The selected fields will be displayed on the table
 
 <figure><img src="../.gitbook/assets/image (213).png" alt=""><figcaption></figcaption></figure>
 
-
-
 #### Create a Filter
 
 1. Click on the Filter input field.
@@ -41,8 +39,6 @@ The selected fields will be displayed on the table
 5. Click on Save
 
 <figure><img src="../.gitbook/assets/image (182).png" alt=""><figcaption></figcaption></figure>
-
-
 
 #### Pin a Filter
 
@@ -58,4 +54,4 @@ The selected fields will be displayed on the table
 3. Click the filter option.
 4. Click the "Delete" icon to delete the selected status
 
-<figure><img src="../.gitbook/assets/image (185).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure>

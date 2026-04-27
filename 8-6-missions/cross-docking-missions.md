@@ -92,7 +92,7 @@ A new mission of type Cross-docking will now be added to the delivery management
 
 8. Once completed, the confirmation of the tour will be displayed in the Gantt chart with a green tick mark.
 
-<figure><img src="../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
 
 9. Missions for Leg 2 | Last-Mile Delivery Tour can only be planned once the goods are returned to the depot.
 
@@ -102,11 +102,11 @@ To create a cross-docking mission, follow these steps:
 
 1. Select the Returned to Depot mission, open the **Actions** menu, and choose **Assign**. Assign the **mission** to a deliverer.
 
-<figure><img src="../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
 
 2. Enter a name for the route, select the deliverer, and set the date and time for the delivery mission – Leg 2 | Last-Mile Delivery Tour. Click OK to create the tour.
 
-<figure><img src="../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
 
 3. The Leg 2 | Last-Mile Delivery Tour route will now be created in the delivery management system and will be ready for publishing to the deliverer’s mobile app.
 
@@ -114,20 +114,20 @@ To create a cross-docking mission, follow these steps:
 
 4. From the Actions menu, select **Publish** on mobile app.
 
-<figure><img src="../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
 
 5. Click **OK** to confirm and push the tour details to the mobile app.
 
-<figure><img src="../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
 
-6. The Leg 2 | Last-Mile Delivery Tour will now be published to the deliverer’s mobile app.&#x20;
+6. The Leg 2 | Last-Mile Delivery Tour will now be published to the deliverer’s mobile app.
 
 <figure><img src="../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 
 7. The deliverer must carry out the deliveries in real time to complete the Leg 2 | Last-Mile Delivery Tour.
 
-<figure><img src="../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
 
 8. Once completed, the tour confirmation will be displayed in the Gantt chart with a green tick mark.
 
-<figure><img src="../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>

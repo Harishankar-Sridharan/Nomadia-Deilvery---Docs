@@ -1,7 +1,5 @@
 # Attaching Documents to the Mission
 
-
-
 Nomadia Delivery now includes a feature that enables transporters and contractors to upload and link essential documents directly to missions. This ensures better compliance and safety throughout the transportation process.
 
 To build and manage a document library within Nomadia Delivery, follow these steps:
@@ -9,7 +7,7 @@ To build and manage a document library within Nomadia Delivery, follow these ste
 1. Open the Nomadia Delivery application and go to the Configuration tab.
 2. From the drop-down menu, select Document Library.
 
-<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 3. Click the Actions button and choose Import to upload a document from your computer.
 
@@ -34,15 +32,9 @@ Steps to attach a document to a mission:
 
 <figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
-
-
 3. Navigate to the Documents tab.
 
 <figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
-
-
-
-
 
 4. Choose the source of the document you want to upload:
    * The default Document Library within Nomadia Delivery

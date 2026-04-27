@@ -1,12 +1,10 @@
 # Activating the Ticket Module
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Click the **pencil** icon next to the user to edit a user.
 
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
-
-
 
 4. Go to the ‘**Roles & Rights’ tab**.
 5. Activate the necessary rights under the Tickets section.

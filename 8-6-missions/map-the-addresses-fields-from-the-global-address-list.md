@@ -22,7 +22,7 @@ Once the address list is created, navigate to the **Mission** page.
 
 4. From the mission table, select **Actions → Add (Beta).**
 
-<figure><img src="../.gitbook/assets/image (162).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>
 
 5. Select an **agency** from the dropdown list.
 
@@ -46,4 +46,3 @@ Click **Next**
 <figure><img src="../.gitbook/assets/image (168).png" alt=""><figcaption></figcaption></figure>
 
 This ensures a seamless and unified experience when entering mission addresses.
-

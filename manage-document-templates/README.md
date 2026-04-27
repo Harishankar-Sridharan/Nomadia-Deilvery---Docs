@@ -24,9 +24,7 @@ You can design your own templates to replace the default one.
 
 The document templates will be downloaded successfully.
 
-<figure><img src="../.gitbook/assets/image (47) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/image (121) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Edit a Document Template
 
@@ -47,8 +45,6 @@ The document templates will be downloaded successfully.
 
 <figure><img src="../.gitbook/assets/image (57) (1).png" alt=""><figcaption></figcaption></figure>
 
-
-
 #### Import a Document Template
 
 1. Go to Configuration.
@@ -67,7 +63,7 @@ The document templates will be downloaded successfully.
 
 6. Click on Browse Computer to upload the file.
 
-<figure><img src="../.gitbook/assets/image (61) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (60) (1).png" alt=""><figcaption></figcaption></figure>
 
 7. Select a Valid file from a local system
 
@@ -76,8 +72,6 @@ The document templates will be downloaded successfully.
 The document templates will be imported successfully.
 
 <figure><img src="../.gitbook/assets/image (63) (1).png" alt=""><figcaption></figcaption></figure>
-
-
 
 #### Enable/Disable a Document Template
 
