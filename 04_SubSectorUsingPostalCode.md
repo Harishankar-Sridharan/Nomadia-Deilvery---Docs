@@ -8,8 +8,6 @@ In many areas, postal codes are so detailed that they already represent the perf
 * **Precision**: Uses the exact, official boundaries of the postal codes.
 * **Simplicity**: One click creates all your subzones at once.
 
-💡 **Real-World Example**: If you have a primary zone for a city that includes 15 different postal codes, using this tool will automatically create 15 individual subzones—one for each code—ready for your delivery team.
-
 ***
 
 ### How to Subsector Your Zone
@@ -21,14 +19,14 @@ Follow these simple steps to transform your primary zone.
 1. Open the **Configuration** module in the platform.
 2. Select **Manage Studies and Zones**.
 
-![](../.gitbook/assets/04_SubSectorUsingPostalCode_timestamp_1_to_42–1_to_54.gif)
+![](.gitbook/assets/04_SubSectorUsingPostalCode_timestamp_1_to_42–1_to_54.gif)
 
 **Select Your Primary Zone**
 
 1. Once inside the study, click on the **Zone** tab at the top.
 2. Click on the **Primary Zone** you wish to break down.
 
-![](../.gitbook/assets/04_SubSectorUsingPostalCode_timestamp_1_to_54–2_to_01.gif)
+![](.gitbook/assets/04_SubSectorUsingPostalCode_timestamp_1_to_54–2_to_01.gif)
 
 **Run the Automatic Subsectoring**
 
@@ -36,7 +34,7 @@ Follow these simple steps to transform your primary zone.
 2. Look for the option labeled **Subsectorize based on zip codes** and click it.
 3. Clicking the option – Subzones appearing instantly in the table
 
-<figure><img src="../.gitbook/assets/04_SubSectorUsingPostalCode_timestamp_2_to_27–2_to_39.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/04_SubSectorUsingPostalCode_timestamp_2_to_27–2_to_39.gif" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -46,7 +44,7 @@ Immediately after clicking the button, you will see two major changes:
 
 * **The Table**: All your new subzones will be listed clearly in the zone table.
 
-![](../.gitbook/assets/04_SubSectorUsingPostalCode_timestamp_2_to_44–2_to_57.gif)
+![](.gitbook/assets/04_SubSectorUsingPostalCode_timestamp_2_to_44–2_to_57.gif)
 
 ***
 

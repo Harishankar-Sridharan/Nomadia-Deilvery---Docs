@@ -96,4 +96,4 @@
   * [Study Creation With Primary Zone](case-studies/01_studycreationwithprimaryzone.md)
   * [Subsectorize Primary Zone](case-studies/02_subsectorizeprimaryzone.md)
   * [Assigning Sub Zones](case-studies/03_assigningsubzones.md)
-  * [Sub Sector Using Postal Code](case-studies/04_subsectorusingpostalcode.md)
+  * [Sub Sector Using Postal Code](04_SubSectorUsingPostalCode.md)
