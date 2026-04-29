@@ -9,9 +9,8 @@ From the **Home page**,
 3. Choose up to five statuses of the Mission Stats on the Home page to display from the following options: **Waiting, Not Received, Not Delivered, To Be Delivered** and **Loaded**
 4. After selecting the desired statuses, click on **Save**.
 
-![](../.gitbook/assets/image-7.png)
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 5. Your home page will display the selected KPI’s.
 
 <figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-

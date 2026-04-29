@@ -33,8 +33,6 @@ Blocks or sections can be reordered using drag-and-drop functionality. Any chang
     * **Custom Fields**
 
     <figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-
 7. Configure fields within each block: Set fields as editable, read-only, or disabled.
 
 <figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
@@ -49,13 +47,10 @@ Blocks or sections can be reordered using drag-and-drop functionality. Any chang
        * Optional — The user is prompted with this option during mission creation.
 
        <figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-
 9. Expand or collapse blocks as needed.
 
 <figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 10. **Save** the new mission configuration.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
-
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

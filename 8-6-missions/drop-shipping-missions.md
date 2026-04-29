@@ -63,7 +63,7 @@ Deliveries are permitted only after all pickups are completed, preventing disrup
 
 2. Define the optimization scope by selecting the date range, team, and vehicles, then click ‘**Optimize**’.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Once you are satisfied with the results, click ‘**Stop and see the result**’.
 
