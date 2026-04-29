@@ -3,9 +3,9 @@
 #### Customize the Table Display
 
 1. Click on the **Table action** menu
-2. Click on **Generate Sticker Labels**.
+2. Click on **Actions - Customize the list**
 
-<figure><img src="../.gitbook/assets/image (174).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Nomadia_Layout_V1.png" alt=""><figcaption></figcaption></figure>
 
 3. Select the desired fields from the Available Fields list and click the arrow icon to move them to the Display Fields section.
 4. Click on **Save**
