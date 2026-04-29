@@ -20,5 +20,4 @@ From the **Home page,**
 
 6. Your homepage will display the chosen dashboard.
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
+<figure><img src="../.gitbook/assets/msedge_BX9pwwqFcH.png" alt=""><figcaption></figcaption></figure>
