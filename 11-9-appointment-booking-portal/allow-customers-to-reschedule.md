@@ -49,12 +49,12 @@ To set up the rescheduling link in customer email communications, follow these s
 
 6. Enable Outgoing Emails to allow communication with the end customer.
 
-<figure><img src="../.gitbook/assets/Nomadia_Layout_V1 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Nomadia_Layout_V1 (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 7. When composing the message, use the $ keyword to insert mission-specific links and values.
 
-<figure><img src="../.gitbook/assets/Nomadia_Layout_V1 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Nomadia_Layout_V1 (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 8. Click on **Save**
 
-<figure><img src="../.gitbook/assets/Nomadia_Layout_V1 (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Nomadia_Layout_V1 (4) (1).png" alt=""><figcaption></figcaption></figure>
