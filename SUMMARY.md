@@ -2,11 +2,10 @@
 
 * [Introduction](README.md)
 * [Home Page](readme-1/README.md)
+  * [Understanding the Home Screen](readme-1/understanding-the-home-screen.md)
   * [Configure the display of mission’s statuses](readme-1/configure-the-display-of-missions-statuses.md)
   * [Configure the Display of my KPI](readme-1/configure-the-display-of-my-kpi.md)
-  * [Key Areas of the Home Screen](readme-1/key-areas-of-the-home-screen.md)
   * [Refresh KPI date and Mission statuses](readme-1/refresh-kpi-date-and-mission-statuses.md)
-  * [Understanding the Home Screen](readme-1/understanding-the-home-screen.md)
 * [Subcontractor Management](10-8-subcontractor-management/README.md)
   * [Optimized Route Plan for Sub Contractors](10-8-subcontractor-management/optimized-route-plan-for-sub-contractors.md)
 * [Booking Portal](11-9-appointment-booking-portal/README.md)
