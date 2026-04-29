@@ -66,7 +66,7 @@ For Subcontractors
 
 4. When logged in as a subcontractor deliverer, completing the loading process will trigger the route start survey, which must be filled before starting the missions.
 
-<figure><img src="../.gitbook/assets/WINWORD_WVqA8vI5ZP.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/WINWORD_7C2W1qOSM5.png" alt=""><figcaption></figcaption></figure>
 
 For Sub-Status
 
