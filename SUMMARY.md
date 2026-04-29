@@ -38,6 +38,8 @@
   * [Custom Fields](8-6-missions/custom-fields.md)
     * [Creating Custom Fields while Importing](8-6-missions/custom-fields/creating-custom-fields-while-importing.md)
     * [Inherit mission data from contractor & address list](8-6-missions/custom-fields/inherit-mission-data-from-contractor-and-address-list.md)
+    * [Configuring Mission Visibility](8-6-missions/custom-fields/configuring-mission-visibility.md)
+    * [Grouping Custom Field](8-6-missions/custom-fields/grouping-custom-field.md)
   * [Customizing Status Labels](8-6-missions/customizing-status-labels.md)
   * [Drop Shipping Missions](8-6-missions/drop-shipping-missions.md)
   * [Duplicating Missions with Quantities](8-6-missions/duplicating-missions-with-quantities.md)
