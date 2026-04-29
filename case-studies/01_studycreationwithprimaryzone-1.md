@@ -14,6 +14,7 @@ To begin creating studies, ensure you have the appropriate administrative permis
 1. Click the **Configuration module** in the application banner.
    
 ![Frame at 1:51](../../images/01_StudyCreationWithPrimaryZone_timestamp_1_to_51.png "Configuration module – The main entry point for system settings.")
+
 2. Select the **Manage users** page.
 
 ![Frame at 1:59](../../images/01_StudyCreationWithPrimaryZone_timestamp_1_to_59.png "Manage users – List of configured application users.")
