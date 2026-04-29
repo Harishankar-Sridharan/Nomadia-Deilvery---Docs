@@ -29,7 +29,7 @@
   * [Web - Roles and Rights](7-5-manage-users/web-roles-and-rights.md)
   * [Auto-Assign Missions to Deliverers](7-5-manage-users/auto-assign-missions-to-deliverers.md)
 * [Missions](8-6-missions/README.md)
-  * [Adding a Mission Beta](8-6-missions/adding-a-mission-beta.md)
+  * [Adding a Mission](8-6-missions/adding-a-mission-beta.md)
   * [Automatic Priority via Delivery Dates](8-6-missions/automatic-priority-via-delivery-dates.md)
   * [Bulk Edit Mission Data](8-6-missions/bulk-edit-mission-data.md)
   * [Create a 'perform at once' mission](8-6-missions/create-a-perform-at-once-mission.md)

@@ -1,6 +1,6 @@
-# Adding a Mission Beta
+# Adding a Mission
 
-1. The Add (Beta) interface introduces a simplified, single-page mission creation experience in Nomadia Delivery. Designed to minimize repetitive steps and improve clarity, this interface replaces the traditional multi-step wizard with a unified view that brings together all mission parameters, constraints, and dependencies in one place.
+1. The Add interface introduces a simplified, single-page mission creation experience in Nomadia Delivery. Designed to minimize repetitive steps and improve clarity, this interface replaces the traditional multi-step wizard with a unified view that brings together all mission parameters, constraints, and dependencies in one place.
    * **Custom Field Grouping**: Custom fields can now be grouped under a defined group name. During mission creation, these fields are displayed together under their respective group.
    * **Group Ordering**: Custom field groups can be reordered using drag-and-drop while creating or editing a configuration.
    * **Sorting Fields Within Groups**: Custom fields can be sorted based on Name or Identifier for custom ordering.
@@ -50,7 +50,7 @@ To arrange custom field groups in the desired order:
 
 <figure><img src="../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
 
-* Click **Actions → Add (beta)**.
+* Click **Actions → Add**.
 
 <figure><img src="../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
 
