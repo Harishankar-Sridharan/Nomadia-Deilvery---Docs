@@ -1,4 +1,4 @@
-# Allow Customers to Reschedule
+# Reschedule Configuration
 
 This guide offers step-by-step instructions for transporters using Nomadia Delivery, enabling end customers to conveniently reschedule their delivery or pickup missions. These new features enhance customer convenience and communication by allowing them to select a time slot that suits their schedule.
 
@@ -50,8 +50,6 @@ To set up the rescheduling link in customer email communications, follow these s
 6. Enable Outgoing Emails to allow communication with the end customer.
 7. When composing the message, use the $ keyword to insert mission-specific links and values.
 8. Click on **Save**
-
-.
 
 ![](<../.gitbook/assets/image-36 (3).png>)
 
