@@ -7,6 +7,8 @@
   * [Configure the Display of my KPI](readme-1/configure-the-display-of-my-kpi.md)
   * [Refresh KPI date and Mission statuses](readme-1/refresh-kpi-date-and-mission-statuses.md)
 * [Subcontractor Management](10-8-subcontractor-management/README.md)
+  * [Register a Subcontractor](10-8-subcontractor-management/register-a-subcontractor.md)
+  * [Create a Subcontractor User](10-8-subcontractor-management/create-a-subcontractor-user.md)
   * [Optimized Route Plan for Sub Contractors](10-8-subcontractor-management/optimized-route-plan-for-sub-contractors.md)
 * [Booking Portal](11-9-appointment-booking-portal/README.md)
   * [Allow Customers to Reschedule](11-9-appointment-booking-portal/allow-customers-to-reschedule.md)
