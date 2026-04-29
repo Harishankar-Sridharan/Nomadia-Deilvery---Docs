@@ -21,4 +21,11 @@ Urgent missions follow a "Chained" model where a pickup is immediately followed 
 
 7. The new pickup mission will be dynamically added to the existing route
 
+When you create an urgent pickup mission, the system **automatically adds it to a driver’s current route** without needing manual planning.
+
+* The system checks:
+  * Which driver is nearby
+  * Which route can handle the new pickup
+* It then **inserts the pickup at the best position in the route**
+
 <figure><img src="../.gitbook/assets/image (133) (1).png" alt=""><figcaption></figcaption></figure>
