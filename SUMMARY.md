@@ -13,6 +13,7 @@
   * [Optimized Route Plan for Sub Contractors](10-8-subcontractor-management/optimized-route-plan-for-sub-contractors.md)
 * [Booking Portal](11-9-appointment-booking-portal/README.md)
   * [Reschedule Configuration](11-9-appointment-booking-portal/allow-customers-to-reschedule.md)
+  * [Rescheduling by Customer](11-9-appointment-booking-portal/rescheduling-by-customer.md)
   * [Booking slots](11-9-appointment-booking-portal/booking-slots.md)
   * [Configure the Portal](11-9-appointment-booking-portal/configure-the-portal.md)
 * [Custom Dashboards](14-12-custom-dashboards/README.md)
