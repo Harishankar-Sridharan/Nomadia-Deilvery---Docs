@@ -15,7 +15,7 @@ However, before subcontractors can create optimized routes, they must first be g
 
 4. Once these permissions are granted, subcontractors can log in and use the route optimization features.
 
-![](<../.gitbook/assets/image-20 (4).png>)
+<figure><img src="../.gitbook/assets/Nomadia_Layout_V1.png" alt=""><figcaption></figcaption></figure>
 
 Running Optimization with Subcontractor Login
 
