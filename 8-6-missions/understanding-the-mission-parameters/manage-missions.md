@@ -8,33 +8,42 @@ The following fields are available at the mission level, allowing you to configu
 
 Adding Mission allows users to create a mission by selecting a mission type, choosing a configuration, and entering mandatory mission information. The system enforces validations based on the selected mission type.
 
-1. Go to **Missions**
+1. Go to **Missions**\
+   &#xNAN;_&#x54;his is the main module where all missions are created and managed._
 
 <figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
-2. Click **Add** from the Actions menu
+2. Click **Add** from the **Actions** menu\
+   &#xNAN;_&#x54;his opens the mission creation screen._
 
-<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
-3. Select **Mission Type, (Pickup information - delivery) Delivery information -pickup), Agency.**
+3. Select **Mission Type**, **Agency**\
+   &#xNAN;_(Pickup → Delivery or Delivery → Pickup based on your requirement)_\
+   &#xNAN;_&#x54;his defines the workflow and responsible agency._
 
-<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
-4. Click **Next**.
+4. Click **Next**\
+   &#xNAN;_&#x4D;oves you to the configuration selection step._
 
-<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
-5.  Select a **Mission Configuration**:
-
-    * Default configuration
-    * Any custom configuration created earlier
-
-    <figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
-6. Enter **mandatory mission details** based on mission type.
+5. Select a **Mission Configuration**:
+   * Default configuration
+   * Any custom configuration created earlier\
+     &#xNAN;_&#x43;onfigurations help auto-fill or control mission behavior._
 
 <figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
-7. Click **Add** or **Add and Print.**
+6. Enter **mandatory mission details** based on mission type\
+   &#xNAN;_&#x46;ields will vary depending on whether it is Pickup or Delivery._
+
+<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+
+7. Click **Add** or **Add and Print**\
+   &#xNAN;_&#x41;dd → Saves the mission_\
+   &#xNAN;_&#x41;dd and Print → Saves and prints the mission details_
 
 <figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
