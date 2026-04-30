@@ -71,7 +71,7 @@
 * [Manage Container Types](manage-container-types/README.md)
   * [Container child missions](manage-container-types/container-child-missions.md)
   * [Group existing missions in one container](manage-container-types/group-existing-missions-in-one-container.md)
-  * [Group missions in one container](manage-container-types/group-missions-in-one-container.md)
+  * [Group missions while creation](manage-container-types/group-missions-in-one-container.md)
 * [Manage document library](manage-document-library/README.md)
   * [Attaching Documents to the Mission](manage-document-library/attaching-documents-to-the-mission.md)
   * [Document Recommendations](manage-document-library/document-recommendations.md)
