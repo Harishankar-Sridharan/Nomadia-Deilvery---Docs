@@ -17,10 +17,13 @@ To create and manage studies, ensure you have the correct administrative permiss
 
 ![Frame at 1:51](../.gitbook/assets/01_StudyCreationWithPrimaryZone_timestamp_1_to_51.png)
 
-1. Select the **Manage Users** page. ![Frame at 1:59](../.gitbook/assets/01_StudyCreationWithPrimaryZone_timestamp_1_to_59.png)
-2. Edit the specific user and click the **Roles and Rights** tab. ![Frame at 2:16](../.gitbook/assets/01_StudyCreationWithPrimaryZone_timestamp_2_to_16.png)
-3. Enable rights for **Create and update zones** and **List of zones**.
-4. Click the **Save** button to apply permissions. ![Frame at 3:00](../.gitbook/assets/Case-Studies-Study-creation-with-Primary-Zone_timestamp_3_to_00.png)
+1. Select the **Manage Users** page.
+
+&#x20;![Frame at 1:59](../.gitbook/assets/01_StudyCreationWithPrimaryZone_timestamp_1_to_59.png)
+
+1. Edit the specific user and click the **Roles and Rights** tab. ![Frame at 2:16](../.gitbook/assets/01_StudyCreationWithPrimaryZone_timestamp_2_to_16.png)
+2. Enable rights for **Create and update zones** and **List of zones**.
+3. Click the **Save** button to apply permissions. ![Frame at 3:00](../.gitbook/assets/Case-Studies-Study-creation-with-Primary-Zone_timestamp_3_to_00.png)
 
 #### Feature Overview
 
