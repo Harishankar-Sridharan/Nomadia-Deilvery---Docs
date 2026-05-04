@@ -9,8 +9,11 @@ Transform map shapes into operational territories by assigning them to specific 
 *   Confirm all internal and subcontractor deliverers are registered in the system.
 
 1.  Navigate to the **study table**.
+   
     ![Frame at 0:54](../images/Case-Studies-assigning_sub_zones_timestamp_0_to_54.png "Study table – The main list where created studies and their subzones are viewed.")
-2.  Select the specific study to assign.
+    
+2. Select the specific study to assign.
+   
     ![Flow 0:58 to 1:04](../images/Case-Studies-assigning_sub_zones_timestamp_0_to_58_to_1_to_04.gif "Study Selection – Selecting the desired study from the list to begin assignment.")
 
 ### Feature Overview
