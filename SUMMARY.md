@@ -101,3 +101,4 @@
   * [Customize the Constraints](manage-vehicle-fleets/customize-the-constraints.md)
 * [Case Studies](case-studies/README.md)
   * [Study Creation with Primary Zone](case-studies/01_studycreationwithprimaryzone-1.md)
+  * [Study Creation with Primary Zone](delivery/01_studycreationwithprimaryzone-1.md)
