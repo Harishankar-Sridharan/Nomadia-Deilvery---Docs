@@ -10,7 +10,7 @@ Prerequisites and initial setup:
 *   Administrative permissions to manage user roles and rights.
 
 1. Click the **Configuration module** in the application banner.
-![Frame at 1:51](../../images/Case-Studies-Study-creation-with-Primary-Zone_timestamp_1_to_51.png "Configuration Module – The main entry point for system settings.")
+![Frame at 1:51](../images/Case-Studies-Study-creation-with-Primary-Zone_timestamp_1_to_51.png "Configuration Module – The main entry point for system settings.")
 2. Go to the **Manage users** page.
 3. Edit the specific user and select the **Roles and rights** tab.
 ![Frame at 2:16](../../images/Case-Studies-Study-creation-with-Primary-Zone_timestamp_2_to_16.png "Roles and Rights Tab – Where user permissions for modules are assigned.")
