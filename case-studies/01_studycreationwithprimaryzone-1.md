@@ -1,4 +1,4 @@
-# Study Creation with Primary Zone - Duplicate
+# Study Creation with Primary Zone
 
 Studies are structured objects that define the organization of your delivery territories. They allow you to create geographical zones tied to postal codes that reflect real-world logistics needs. By using multiple studies, you can activate specific coverage plans based on seasonality or holiday campaigns.
 
@@ -37,7 +37,7 @@ To begin creating studies, ensure you have the appropriate administrative permis
 
 * **Actions Menu**: A dropdown in the top right used to trigger creation and import tasks.
 
-![Frame at 3:29](<../.gitbook/assets/01_StudyCreationWithPrimaryZone_timestamp_3_to_29 (1).png>)
+![Frame at 3:29](../.gitbook/assets/01_StudyCreationWithPrimaryZone_timestamp_3_to_29.png)
 
 * **Validity Start/End Date**: Fields defining the total lifespan of a study.
 
