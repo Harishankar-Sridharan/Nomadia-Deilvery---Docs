@@ -9,7 +9,7 @@ Studies allow you to organize delivery territories and manage seasonal volume ch
 *   User permissions for **List of zones**, **Create and update zones**, and **Delete studies**.
 
 1.  Open the **Configuration** module in the application banner.
-    ![Frame at 1:51](../images/Case%20Studies-Study%20creation%20with%20Primary%20Zone_timestamp_1_to_51.png "Configuration Module – The entry point for managing application settings and users.")
+    ![Frame at 1:51](../images/01_StudyCreationWithPrimaryZone_timestamp_1_to_51.png "Configuration Module – The entry point for managing application settings and users.")
 2.  Navigate to the **Manage Users** page.
     ![Frame at 1:59](../images/Case%20Studies-Study%20creation%20with%20Primary%20Zone_timestamp_1_to_59.png "Manage Users – The screen displaying all users configured in the application.")
 3.  Select and edit a specific user.
