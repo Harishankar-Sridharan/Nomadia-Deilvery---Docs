@@ -11,7 +11,7 @@ Before creating studies, you must have the correct user permissions enabled.
 *   Required Rights: **List of zones**, **Assign zones**, **Create and update zones**, **Access to the sectorization tool**, and **Delete zones and delete studies**.
 
 1. Go to the **Configuration** module in the application banner.
-![Frame at 1:51](../.images/Case Studies-Study creation with Primary Zone_timestamp_1_to_51.png "Configuration – The banner menu where you access system settings.")
+![Frame at 1:51](../images/Case Studies-Study creation with Primary Zone_timestamp_1_to_51.png "Configuration – The banner menu where you access system settings.")
 2. Select the **Manage Users** page.
 ![Frame at 1:59](../images/Case Studies-Study creation with Primary Zone_timestamp_1_to_59.png "Manage Users – The list of configured users in the application.")
 3. Edit the specific user to modify their access.
