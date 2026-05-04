@@ -11,13 +11,17 @@ To create and manage studies, ensure you have the correct administrative permiss
 *   Permission for **Create and update zones** and **Create and update studies**.
 
 1.  Click the **Configuration** module in the top banner.
+
     ![Frame at 1:51](../images/Case-Studies-Study-creation-with-Primary-Zone_timestamp_1_to_51.png "Banner – The Configuration module is located in the top banner.")
-2.  Select the **Manage Users** page.
+    
+2. Select the **Manage Users** page.
+   
     ![Frame at 1:59](../images/Case-Studies-Study-creation-with-Primary-Zone_timestamp_1_to_59.png "Manage Users – List of application users.")
-3.  Edit the specific user and click the **Roles and Rights** tab.
+   
+3. Edit the specific user and click the **Roles and Rights** tab.
     ![Frame at 2:16](../images/Case-Studies-Study-creation-with-Primary-Zone_timestamp_2_to_16.png "Roles and Rights – Access settings for the study module.")
-4.  Enable rights for **Create and update zones** and **List of zones**.
-5.  Click the **Save** button to apply permissions.
+5.  Enable rights for **Create and update zones** and **List of zones**.
+6.  Click the **Save** button to apply permissions.
     ![Frame at 3:00](../images/Case-Studies-Study-creation-with-Primary-Zone_timestamp_3_to_00.png "Save Button – Applying user permissions.")
 
 ### Feature Overview
