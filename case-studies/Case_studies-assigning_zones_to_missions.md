@@ -1,70 +1,63 @@
-# Case_studies-assigning_zones_to_missions
-# Case-Studies
+# Assigning\_zones\_to\_missions
+
+## Case\_studies-assigning\_zones\_to\_missions
+
+## Case-Studies
 
 This feature automatically associates new missions with predefined delivery sectors the moment they enter the system. It eliminates the need for manual postal code lookups or dispatcher intervention. You will achieve an efficient, fully automated workflow from mission creation to sector assignment in seconds.
 
-### Getting Started
+#### Getting Started
 
 Before using automatic sector assignment, ensure your operational infrastructure is configured:
 
-*   Create your studies.
-*   Map primary zones.
-*   Build and balance subzones.
-*   Assign deliverers to their specific territories.
+* Create your studies.
+* Map primary zones.
+* Build and balance subzones.
+* Assign deliverers to their specific territories.
 
 To begin the setup:
 
 1. Navigate to the **Mission tab**.
-
 2. Click the **Actions menu**.
 
-### Feature Overview
+#### Feature Overview
 
-*   **Geocoding**: This process converts address data into latitude and longitude coordinates for geographical map display.
+* **Geocoding**: This process converts address data into latitude and longitude coordinates for geographical map display.
+* **Sector Field**: This column displays mission assignments using the format "Study Name | Subzone Name".
+* **Zone icon**: Use this map control to toggle the visibility of subzone boundaries.
 
-*   **Sector Field**: This column displays mission assignments using the format "Study Name | Subzone Name".
-
-*   **Zone icon**: Use this map control to toggle the visibility of subzone boundaries.
-
-### How To: Import Missions and Assign Sectors
+#### How To: Import Missions and Assign Sectors
 
 Follow these steps to import missions via Excel and trigger automatic assignment.
 
 1. Click the **Import button** in the **Actions menu**.
 
-![Flow 1:40 to 1:50](../images/Case-Studies-assigning_zones_to_missions_timestamp_1_to_40_to_1_to_50.gif "Import Button – Initiating the file import process.")
+![Flow 1:40 to 1:50](../.gitbook/assets/Case-Studies-assigning_zones_to_missions_timestamp_1_to_40_to_1_to_50.gif)
 
 2. Select the mission file from your computer and click **Open**.
-
 3. Select the desired tab and click the **Validate button**.
-
 4. Review the geocoded mission locations on the map.
-
 5. Click the **Import button** to push the data into **Nomadia Delivery**.
 
-![Flow 2:41 to 2:50](../images/Case-Studies-assigning_zones_to_missions_timestamp_2_to_41_to_2_to_50.gif "Data Push – Finalizing mission creation and triggering automatic sector links.")
+![Flow 2:41 to 2:50](../.gitbook/assets/Case-Studies-assigning_zones_to_missions_timestamp_2_to_41_to_2_to_50.gif)
 
-### How To: Surface the Sector Column
+#### How To: Surface the Sector Column
 
 If the sector information is hidden, follow these steps to display it in your table.
 
 1. Click the **Actions menu**.
-
 2. Select **Customize the list item**.
 
-![Flow 4:41 to 4:47](../images/Case-Studies-assigning_zones_to_missions_timestamp_4_to_41_to_4_to_47.gif "Customize List – Opening the panel to manage table columns.")
+![Flow 4:41 to 4:47](../.gitbook/assets/Case-Studies-assigning_zones_to_missions_timestamp_4_to_41_to_4_to_47.gif)
 
 3. Locate the **Sector** field within the **Available fields** column.
-
 4. Click the **Arrow button** to move it to the **Displayed fields** column.
 
-![Flow 5:01 to 5:04](../images/Case-Studies-assigning_zones_to_missions_timestamp_5_to_01_to_5_to_04.gif "Move Column – Shifting the sector field into the active display list.")
+![Flow 5:01 to 5:04](../.gitbook/assets/Case-Studies-assigning_zones_to_missions_timestamp_5_to_01_to_5_to_04.gif)
 
 5. Click **Save** to update the mission table.
 
+#### Productivity Tips
 
-### Productivity Tips
-
-- 💡 **Operational Reviews**: Activate zone boundaries on the map to spot overloaded territories or uneven mission distributions.
-- ⚠️ **Static Boundaries**: Avoid using outdated boundaries when demand changes; update your configuration to keep operations dynamic.
-
+* 💡 **Operational Reviews**: Activate zone boundaries on the map to spot overloaded territories or uneven mission distributions.
+* ⚠️ **Static Boundaries**: Avoid using outdated boundaries when demand changes; update your configuration to keep operations dynamic.
