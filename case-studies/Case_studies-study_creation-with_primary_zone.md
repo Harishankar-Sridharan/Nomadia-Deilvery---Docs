@@ -19,38 +19,74 @@ To create and manage studies, ensure you have the correct administrative permiss
 2.  Select the **Manage Users** page.
 
     ![Frame at 1:59](../.gitbook/assets/Case-Studies-Study-creation-with-Primary-Zone_timestamp_1_to_59.png)
-3. Edit the specific user and click the **Roles and Rights** tab. ![Frame at 2:16](../.gitbook/assets/Case-Studies-Study-creation-with-Primary-Zone_timestamp_2_to_16.png)
-4. Enable rights for **Create and update zones** and **List of zones**.
-5. Click the **Save** button to apply permissions. ![Frame at 3:00](<../.gitbook/assets/Case-Studies-Study-creation-with-Primary-Zone_timestamp_3_to_00 (1).png>)
+    
+4. Edit the specific user and click the **Roles and Rights** tab.
+  
+   ![Frame at 2:16](../.gitbook/assets/Case-Studies-Study-creation-with-Primary-Zone_timestamp_2_to_16.png)
+   
+5. Enable rights for **Create and update zones** and **List of zones**.
+6. 
+7. Click the **Save** button to apply permissions.
+  
+   ![Frame at 3:00](<../.gitbook/assets/Case-Studies-Study-creation-with-Primary-Zone_timestamp_3_to_00 (1).png>)
 
 #### Feature Overview
 
-* **Study**: A structured object defining how delivery territories are organized. ![Frame at 0:45](<../.gitbook/assets/Case-Studies-Study-creation-with-Primary-Zone_timestamp_0_to_45 (1).png>)
-* **Primary Zone**: A top-level geographical area assigned to a team and tied to postal codes. ![Frame at 1:06](<../.gitbook/assets/Case-Studies-Study-creation-with-Primary-Zone_timestamp_1_to_06 (1).png>)
-* **Study Management Page**: Your central hub for creating and editing studies and zones. ![Frame at 3:21](../.gitbook/assets/Case-Studies-Study-creation-with-Primary-Zone_timestamp_3_to_21.png)
+* **Study**: A structured object defining how delivery territories are organized.
+
+  ![Frame at 0:45](<../.gitbook/assets/Case-Studies-Study-creation-with-Primary-Zone_timestamp_0_to_45 (1).png>)
+  
+* **Primary Zone**: A top-level geographical area assigned to a team and tied to postal codes.
+* 
+  ![Frame at 1:06](<../.gitbook/assets/Case-Studies-Study-creation-with-Primary-Zone_timestamp_1_to_06 (1).png>)
+  
+* **Study Management Page**: Your central hub for creating and editing studies and zones.
+
+  ![Frame at 3:21](../.gitbook/assets/Case-Studies-Study-creation-with-Primary-Zone_timestamp_3_to_21.png)
 
 #### How To: Create a Study
 
-1. Navigate to the **Studies and Zones** page under the **Delivery** section in **Configuration**. ![Flow 3:08 to 3:21](<../.gitbook/assets/Case-Studies-Study-creation-with-Primary-Zone_timestamp_3_to_08_to_3_to_21 (1).gif>)
-2. Click the **Actions** menu in the top right. ![Frame at 3:29](../.gitbook/assets/Case-Studies-Study-creation-with-Primary-Zone_timestamp_3_to_29.png)
-3. Select **Create Empty Study**.
-4. Enter the **Identifier**, **Name**, and **Agency**.
-5. Set the **Validity Start Date** and **Validity End Date**.
-6. Toggle the study to **Enable**.
-7. Select the active days of the week for this plan.
-8. Define the specific seasonal activation period.
-9. Click the **Save** button. ![Frame at 5:00](../.gitbook/assets/Case-Studies-Study-creation-with-Primary-Zone_timestamp_5_to_00.png)
+1. Navigate to the **Studies and Zones** page under the **Delivery** section in **Configuration**.
+
+![Flow 3:08 to 3:21](<../.gitbook/assets/Case-Studies-Study-creation-with-Primary-Zone_timestamp_3_to_08_to_3_to_21 (1).gif>)
+
+3. Click the **Actions** menu in the top right.
+  
+5. ![Frame at 3:29](../.gitbook/assets/Case-Studies-Study-creation-with-Primary-Zone_timestamp_3_to_29.png)
+   
+7. Select **Create Empty Study**.
+8. Enter the **Identifier**, **Name**, and **Agency**.
+9. Set the **Validity Start Date** and **Validity End Date**.
+10. Toggle the study to **Enable**.
+11. Select the active days of the week for this plan.
+12. Define the specific seasonal activation period.
+13. Click the **Save** button.
+
+    ![Frame at 5:00](../.gitbook/assets/Case-Studies-Study-creation-with-Primary-Zone_timestamp_5_to_00.png)
 
 #### How To: Create a Primary Zone
 
-1. Open the **Zone** tab within your new study. ![Frame at 5:31](../.gitbook/assets/Case-Studies-Study-creation-with-Primary-Zone_timestamp_5_to_31.png)
-2. Open the **Actions** menu.
-3. Select **Add a Postal Code Zone**. ![Frame at 5:44](<../.gitbook/assets/Case-Studies-Study-creation-with-Primary-Zone_timestamp_5_to_44 (1).png>)
-4. Fill in the **Identifier**, **Name**, and **Agency**.
-5. Select the **Country** and set the **Postal Code Normalized Length**.
-6. Select **Primary Zone** in the **Assignment Mode** field. ![Frame at 6:26](../.gitbook/assets/Case-Studies-Study-creation-with-Primary-Zone_timestamp_6_to_26.png)
-7. Enter postal codes manually using the **Plus** button. ![Frame at 6:50](<../.gitbook/assets/Case-Studies-Study-creation-with-Primary-Zone_timestamp_6_to_50 (1).png>)
-8. Click the **Save** button. ![Frame at 7:13](../.gitbook/assets/Case-Studies-Study-creation-with-Primary-Zone_timestamp_7_to_13.png)
+1. Open the **Zone** tab within your new study.
+  
+ ![Frame at 5:31](../.gitbook/assets/Case-Studies-Study-creation-with-Primary-Zone_timestamp_5_to_31.png)
+ 
+4. Open the **Actions** menu.
+   
+6. Select **Add a Postal Code Zone**.
+
+   ![Frame at 5:44](<../.gitbook/assets/Case-Studies-Study-creation-with-Primary-Zone_timestamp_5_to_44 (1).png>)
+   
+8. Fill in the **Identifier**, **Name**, and **Agency**.
+9. Select the **Country** and set the **Postal Code Normalized Length**.
+10. Select **Primary Zone** in the **Assignment Mode** field.
+
+    ![Frame at 6:26](../.gitbook/assets/Case-Studies-Study-creation-with-Primary-Zone_timestamp_6_to_26.png)
+12. Enter postal codes manually using the **Plus** button.
+   
+14. ![Frame at 6:50](<../.gitbook/assets/Case-Studies-Study-creation-with-Primary-Zone_timestamp_6_to_50 (1).png>)
+15. Click the **Save** button.
+
+    ![Frame at 7:13](../.gitbook/assets/Case-Studies-Study-creation-with-Primary-Zone_timestamp_7_to_13.png)
 
 #### Productivity Tips
 
