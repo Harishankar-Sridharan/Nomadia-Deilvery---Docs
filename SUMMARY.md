@@ -102,4 +102,5 @@
 * [Case Studies](case-studies/README.md)
   * [Study Creation with Primary Zone](case-studies/Case_studies-study_creation-with_primary_zone.md)
   * [Assigning Sub Zones](case-studies/Case_studies-assigning_sub_zones.md)
+  * [Subsector_using_postal_code](case-studies/Case_studies-sub-sector_using_postal_code.md)
 
