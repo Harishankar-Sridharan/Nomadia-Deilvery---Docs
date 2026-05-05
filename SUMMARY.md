@@ -105,4 +105,5 @@
   * [Subsector_using_postal_code](case-studies/Case_studies-sub-sector_using_postal_code.md)
   * [Subsectorize_primary_zone](case-studies/Case_studies-Subsectorize_Primary_Zone.md)
   * [Assigning_zones_to_missions](case-studies/Case_studies-assigning_zones_to_missions.md)
+  * [Optimizing_missions_for_Agency](case-studies/Case_studies-optimizing_missions_for_agency.md)
 
