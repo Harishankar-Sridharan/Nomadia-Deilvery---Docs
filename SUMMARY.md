@@ -101,6 +101,7 @@
   * [Customize the Constraints](manage-vehicle-fleets/customize-the-constraints.md)
 * [Case Studies](case-studies/README.md)
   * [Study Creation with Primary Zone](case-studies/Case_studies-study_creation-with_primary_zone.md)
+  * [Optimizing_missions_for_agency](case-studies/Case_studies-optimizing_missions_for_agency.md)
   * [Assigning Sub Zones](case-studies/Case_studies-assigning_sub_zones.md)
   * [Subsector_using_postal_code](case-studies/Case_studies-sub-sector_using_postal_code.md)
   * [Subsectorize_primary_zone](case-studies/Case_studies-Subsectorize_Primary_Zone.md)
