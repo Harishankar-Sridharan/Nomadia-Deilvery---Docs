@@ -106,4 +106,5 @@
   * [Subsectorize_primary_zone](case-studies/Case_studies-Subsectorize_Primary_Zone.md)
   * [Assigning_zones_to_missions](case-studies/Case_studies-assigning_zones_to_missions.md)
   * [Optimizing_missions_for_Agency](case-studies/Case_studies-optimizing_missions_for_agency.md)
+  * [Reduced_fixed_duration](case-studies/Case_studies-Reduced_Fixed_Duration.md)
 
