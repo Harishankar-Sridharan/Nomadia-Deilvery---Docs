@@ -69,7 +69,7 @@ Follow these initial steps:
 
 5. Select the **automation button** located at the top left of the map.
 
-![Frame at 3:52](../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_3_to_52.png)
+![](../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_3_to_52.png)
 
 6. Select **balance points** as the balancing method and click **start**.
 
