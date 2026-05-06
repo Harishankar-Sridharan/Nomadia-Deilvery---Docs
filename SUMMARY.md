@@ -103,7 +103,7 @@
   * [Study Creation with Primary Zone](case-studies/Case_studies-study_creation-with_primary_zone.md)
   * [Assigning Sub Zones](case-studies/Case_studies-assigning_sub_zones.md)
   * [Subsector using postal code](case-studies/Case_studies-sub-sector_using_postal_code.md)
-  * [Subsectorize\_primary\_zone](case-studies/Case_studies-Subsectorize_Primary_Zone.md)
+  * [Sub sectorize primary zone](case-studies/Case_studies-Subsectorize_Primary_Zone.md)
   * [Assigning\_zones\_to\_missions](case-studies/Case_studies-assigning_zones_to_missions.md)
   * [Optimizing\_missions\_for\_Agency](case-studies/Case_studies-optimizing_missions_for_agency.md)
   * [Reduced\_fixed\_duration](case-studies/Case_studies-Reduced_Fixed_Duration.md)
