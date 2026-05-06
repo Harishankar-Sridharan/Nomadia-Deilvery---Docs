@@ -14,7 +14,7 @@ Nomadia Delivery automates the process from mission selection to optimized route
 
 1. Navigate to the **Mission tab**.
 
-![Frame at 1:22](<../.gitbook/assets/Case-Studies-optimizing_missions_for_agency_timestamp_1_to_22 (1).png>)
+![Frame at 1:22](../.gitbook/assets/Case-Studies-optimizing_missions_for_agency_timestamp_1_to_22.png)
 
 2. Click the **Action menu**.
 
@@ -28,7 +28,7 @@ Nomadia Delivery automates the process from mission selection to optimized route
 
 * **From date** and **To date**: Define the specific time window for missions.
 
-![Frame at 1:53](<../.gitbook/assets/Case-Studies-optimizing_missions_for_agency_timestamp_1_to_53 (1).png>)
+![Frame at 1:53](../.gitbook/assets/Case-Studies-optimizing_missions_for_agency_timestamp_1_to_53.png)
 
 * **Agency** selection: Choose the specific agency to optimize.
 
@@ -62,7 +62,7 @@ Nomadia Delivery automates the process from mission selection to optimized route
 
 3. Set the **From date** and **To date** for your missions.
 
-![Frame at 1:53](<../.gitbook/assets/Case-Studies-optimizing_missions_for_agency_timestamp_1_to_53 (1).png>)
+![Frame at 1:53](../.gitbook/assets/Case-Studies-optimizing_missions_for_agency_timestamp_1_to_53.png)
 
 4. Select your agency from the **Agency** list.
 
