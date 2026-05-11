@@ -109,3 +109,4 @@
   * [Reduced fixed duration](case-studies/Case_studies-Reduced_Fixed_Duration.md)
   * [Route Blocking Settings](case-studies/Case_studies-route_blocking_Settings.md)
   * [Creating Backup Zone](case-studies/Case_studies-creating_backup_zone.md)
+  * [Pudo_configuration](case-studies/Case_studies-PUDO_Configuration.md)
