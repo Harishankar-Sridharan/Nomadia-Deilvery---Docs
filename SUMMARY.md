@@ -102,6 +102,7 @@
 * [Case Studies](case-studies/README.md)
   * [Study Creation with Primary Zone](case-studies/Case_studies-study_creation-with_primary_zone.md)
   * [Assigning Sub Zones](case-studies/Case_studies-assigning_sub_zones.md)
+  * [Route_Blocking_Settings](case-studies/Case_studies-route_blocking_Settings.md)
   * [Subsector using postal code](case-studies/Case_studies-sub-sector_using_postal_code.md)
   * [Sub sectorize primary zone](case-studies/Case_studies-Subsectorize_Primary_Zone.md)
   * [Assigning zones to missions](case-studies/Case_studies-assigning_zones_to_missions.md)
