@@ -1,7 +1,5 @@
 # Route Blocking Settings
 
-##
-
 Route blocking systematically prevents drivers from starting routes containing high-value items until a planner reviews them. This feature minimizes financial risks like cargo theft and ensures security protocols are followed every day. Users achieve a proactive, documented compliance process for every delivery.
 
 #### Getting Started
