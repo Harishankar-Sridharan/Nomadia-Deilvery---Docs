@@ -10,12 +10,13 @@ The Manage Postal Zones feature allows administrators and logistics managers to 
 
 
 
-2. Under My data section, click on Manage Zones
+2. Under Delivery, click on Manage studies and zones
 
-![](<../.gitbook/assets/image-8 (2).png>)
+<figure><img src="../.gitbook/assets/Z 1 (1).png" alt=""><figcaption></figcaption></figure>
 
-4. Click the Actions dropdown menu.
-5. Click on Import
+3. Click the **Pencil** icon next to the study to open the zone table.
+4. Open the **Actions** menu dropdown
+5. Click on **Import**
 
 ![](<../.gitbook/assets/image-9 (2).png>)
 
@@ -34,8 +35,8 @@ Postal Zones will be imported successfully.
 #### Add a Postal Zone
 
 1. Click on Configuration Tab
-2. Click on Configuration Menu
-3. Under My data section, click on Manage Zones
+2. Under Delivery, click on Manage studies and zones
+3. Click the **Pencil** icon next to the study to open the zone table.
 4. Click the Actions dropdown menu.
 5. Click on Add a Postal Zone.
 
@@ -58,8 +59,8 @@ Postal Zones will be added successfully
 #### Delete a Postal Zone
 
 1. Click on Configuration Tab
-2. Click on Configuration Menu
-3. Under My data section, click on Manage Zones
+2. Under Delivery, click on Manage studies and zones
+3. Click the **Pencil** icon next to the study to open the zone table.
 4. Select a Zone
 
 ![](<../.gitbook/assets/image-23 (1).png>)
@@ -81,13 +82,12 @@ Postal Zone will be deleted successfully
 #### Export a Postal Zone
 
 1. Click on Configuration Tab
-2. Click on Configuration Menu
-3. Under My data section, click on Manage Zones
-4. Select a Zone
-5. Click the Actions dropdown menu.
-6. Click on Export
+2. Under Delivery, click on Manage studies and zones
+3. Select a Zone
+4. Click the Actions dropdown menu.
+5. Click on Export
 
-![](../.gitbook/assets/image-27.png)
+<figure><img src="../.gitbook/assets/Z 5.png" alt=""><figcaption></figcaption></figure>
 
 Postal Zone will be exported successfully
 
@@ -98,18 +98,17 @@ Postal Zone will be exported successfully
 Apply conditions based on zone attributes such as type of mission (Delivery, Pickup), Zone priority, Assigned deliverer, Postal code prefix, etc.
 
 1. Click on Configuration Tab
-2. Click on Configuration Menu
-3. Under My data section, click on Manage Zones
-4. Select a Zone
-5. Click the Actions dropdown menu.
-6. Click on Coloring
+2. Under Delivery, click on Manage studies and zones
+3. Select a Zone
+4. Click the Actions dropdown menu.
+5. Click on Coloring
 
-![](../.gitbook/assets/image-29.png)
+<figure><img src="../.gitbook/assets/Z 6.png" alt=""><figcaption></figcaption></figure>
 
-7. Choose a Color
-8. Click on Save
+6. Choose a Color
+7. Click on Save
 
-![](../.gitbook/assets/image-30.png)
+<figure><img src="../.gitbook/assets/Z 7.png" alt=""><figcaption></figcaption></figure>
 
 The selected color has been applied successfully.
 
