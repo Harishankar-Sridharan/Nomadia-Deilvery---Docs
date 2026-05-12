@@ -21,11 +21,13 @@ To use this feature, ensure you have a user account with permissions for your sp
 #### Feature Overview
 
 * **Agency**: Displays the current location of the mission and determines user visibility.
-  ![Frame at 1:43](../.gitbook/assets/Case-Studies-Multi_Leg_Missions_timestamp_1_to_43.png)
+
+![Frame at 1:43](../.gitbook/assets/Case-Studies-Multi_Leg_Missions_timestamp_1_to_43.png)
 * **Origin Agency**: Marks the hub where the first-mile pickup begins.
 * **Destination Agency**: Marks the final hub from which the customer receives the parcel.
 * **Leg**: Indicates the current phase: Collection, Distribution, or Delivery.
-  ![Frame at 2:20](../.gitbook/assets/Case-Studies-Multi_Leg_Missions_timestamp_2_to_20.png)
+  
+![Frame at 2:20](../.gitbook/assets/Case-Studies-Multi_Leg_Missions_timestamp_2_to_20.png)
 
 #### How To: Create a Multi-Leg Mission
 
