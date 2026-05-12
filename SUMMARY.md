@@ -109,5 +109,5 @@
   * [Reduced fixed duration](case-studies/Case_studies-Reduced_Fixed_Duration.md)
   * [Route Blocking Settings](case-studies/Case_studies-route_blocking_Settings.md)
   * [Creating Backup Zone](case-studies/Case_studies-creating_backup_zone.md)
-  * [Pudo configuration](case-studies/Case_studies-PUDO_Configuration.md)
-  * [Delivery_at_PUDO](case-studies/Case_studies-Delivery_at_PUDO.md)
+  * [Pudo configuration](case-studies/case_studies-pudo_configuration/README.md)
+    * [Delivery at PUDO](case-studies/case_studies-pudo_configuration/case_studies-delivery_at_pudo.md)
