@@ -1,7 +1,5 @@
 # Customize Zones Table
 
-Refer to 1.5.2. Import Postal Zones to have the complete list of available fields.
-
 1. Click on Configuration Tab
 2. Click on Manage studies and zones
 3. The available missions are displayed in a list.
