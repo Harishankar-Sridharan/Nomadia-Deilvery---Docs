@@ -3,9 +3,9 @@
 Refer to 1.5.2. Import Postal Zones to have the complete list of available fields.
 
 1. Click on Configuration Tab
-2. Click on Configuration Menu
-3. Under My data section, click on Manage Zones
-4. Select a Zone
+2. Click on Manage studies and zones
+3. The available missions are displayed in a list.
+4. Select a Mission
 5. Click the Actions dropdown menu.
 6. Click on Customize Limit
 
