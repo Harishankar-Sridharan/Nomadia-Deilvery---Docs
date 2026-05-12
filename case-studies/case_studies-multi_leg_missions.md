@@ -1,8 +1,4 @@
-# Multi\_Leg\_Missions
-
-## Case\_studies-Multi\_Leg\_Missions
-
-## Case-Studies
+# Multi Leg Missions
 
 **Nomadia Delivery** uses multi-leg missions to track parcels across multiple hubs and agencies from first-mile pickup to last-mile delivery. This feature provides end-to-end visibility for complex supply chain operations by following a mission through every touchpoint. You will achieve a complete, trackable chain of custody for every parcel in your network.
 
@@ -16,70 +12,71 @@ To use this feature, ensure you have a user account with permissions for your sp
 
 1. Log in to **Nomadia Delivery** as a user from the **Origin Agency**.
 
-![Frame at 3:06](../.gitbook/assets/Case-Studies-Multi_Leg_Missions_timestamp_3_to_06.png)
+![](../.gitbook/assets/Case-Studies-Multi_Leg_Missions_timestamp_3_to_06.png)
 
 #### Feature Overview
 
 * **Agency**: Displays the current location of the mission and determines user visibility.
 
-![Frame at 1:43](../.gitbook/assets/Case-Studies-Multi_Leg_Missions_timestamp_1_to_43.png)
+![](../.gitbook/assets/Case-Studies-Multi_Leg_Missions_timestamp_1_to_43.png)
+
 * **Origin Agency**: Marks the hub where the first-mile pickup begins.
 * **Destination Agency**: Marks the final hub from which the customer receives the parcel.
 * **Leg**: Indicates the current phase: Collection, Distribution, or Delivery.
-  
-![Frame at 2:20](../.gitbook/assets/Case-Studies-Multi_Leg_Missions_timestamp_2_to_20.png)
+
+![](../.gitbook/assets/Case-Studies-Multi_Leg_Missions_timestamp_2_to_20.png)
 
 #### How To: Create a Multi-Leg Mission
 
 1. Click on the **Mission** tab.
 
-![Flow 3:13 to 3:23](../.gitbook/assets/Case-Studies-Multi_Leg_Missions_timestamp_3_to_13_to_3_to_23.gif)
+![](../.gitbook/assets/Case-Studies-Multi_Leg_Missions_timestamp_3_to_13_to_3_to_23.gif)
 
 2. Select **Add** from the **Actions** menu.
 3. Choose the **Agency** and click **Next**.
 
-![Flow 3:30 to 3:38](../.gitbook/assets/Case-Studies-Multi_Leg_Missions_timestamp_3_to_30_to_3_to_38.gif)
+![](../.gitbook/assets/Case-Studies-Multi_Leg_Missions_timestamp_3_to_30_to_3_to_38.gif)
 
 4. Switch the **Configuration** from **Default** to **Multi-leg**.
 
-![Frame at 3:38](../.gitbook/assets/Case-Studies-Multi_Leg_Missions_timestamp_3_to_38.png)
+![](../.gitbook/assets/Case-Studies-Multi_Leg_Missions_timestamp_3_to_38.png)
 
 5. Select the **Origin Agency** and the **Destination Agency**.
 6. Set the **Leg** to **Collection**.
 7. Enter the pickup and delivery location details.
 8. Click **Add** to save the mission.
 
-![Frame at 4:30](../.gitbook/assets/Case-Studies-Multi_Leg_Missions_timestamp_4_to_30.png)
+![](../.gitbook/assets/Case-Studies-Multi_Leg_Missions_timestamp_4_to_30.png)
 
 #### How To: Update Mission Legs and Visibility
 
 1. Use the **Update multi-leg status information** endpoint to transition between legs.
 2. Set the **Leg** to **Distribution** when the item is ready for mid-mile transit.
 
-![Flow 7:09 to 7:36](../.gitbook/assets/Case-Studies-Multi_Leg_Missions_timestamp_7_to_09_to_7_to_36.gif)
+![](../.gitbook/assets/Case-Studies-Multi_Leg_Missions_timestamp_7_to_09_to_7_to_36.gif)
 
 3. Navigate to the **Configuration** module to manage user visibility.
 4. Select **Edit** for a specific user on the **Manage Users** page.
 5. Open the **Rules and Rights** tab.
 
-![Flow 8:22 to 8:28](../.gitbook/assets/Case-Studies-Multi_Leg_Missions_timestamp_8_to_22_to_8_to_28.gif)
+![](../.gitbook/assets/Case-Studies-Multi_Leg_Missions_timestamp_8_to_22_to_8_to_28.gif)
 
 6. Activate the **Manage missions in transit** right.
 7. Click **Save** to allow the user to see missions that have left their hub.
 
-![Frame at 8:35](../.gitbook/assets/Case-Studies-Multi_Leg_Missions_timestamp_8_to_35.png)
+![](../.gitbook/assets/Case-Studies-Multi_Leg_Missions_timestamp_8_to_35.png)
 
 8. Update the **Leg** to **Delivery** when the mission arrives at the final hub.
 9. Set the **Status** to **Received** for the destination agency user.
 
-![Flow 9:12 to 9:58](../.gitbook/assets/Case-Studies-Multi_Leg_Missions_timestamp_9_to_12_to_9_to_58.gif)
+![](../.gitbook/assets/Case-Studies-Multi_Leg_Missions_timestamp_9_to_12_to_9_to_58.gif)
 
 #### How To: Audit Mission History
 
 1. Open a mission in the **Editor**.
 2. Select the **Logs** tab to view every status change and agency transition.
 
-![Frame at 10:53](../.gitbook/assets/Case-Studies-Multi_Leg_Missions_timestamp_10_to_53.png)
+![](../.gitbook/assets/Case-Studies-Multi_Leg_Missions_timestamp_10_to_53.png)
 
 #### Productivity Tips
 
