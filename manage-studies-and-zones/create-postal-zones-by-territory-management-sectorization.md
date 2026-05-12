@@ -2,9 +2,9 @@
 
 1\. Click on Configuration Tab
 
-2\. Click on Configuration Menu
+2\. Click on Manage studies & zones
 
-3\. Under My data section, click on Manage Zones
+3\. The available missions are displayed in a list.
 
 4\. Select a Mission
 

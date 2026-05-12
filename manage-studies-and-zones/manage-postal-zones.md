@@ -8,8 +8,9 @@ The Manage Postal Zones feature allows administrators and logistics managers to 
 
 ![](../.gitbook/assets/image-35.png)
 
-2. Click on Configuration Menu
-3. Under My data section, click on Manage Zones
+
+
+2. Under My data section, click on Manage Zones
 
 ![](<../.gitbook/assets/image-8 (2).png>)
 
