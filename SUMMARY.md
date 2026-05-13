@@ -112,3 +112,4 @@
   * [Pudo configuration](case-studies/case_studies-pudo_configuration/README.md)
     * [Delivery at PUDO](case-studies/case_studies-pudo_configuration/case_studies-delivery_at_pudo.md)
   * [Multi Leg Missions](case-studies/case_studies-multi_leg_missions.md)
+  * [Dividing_Sub_Zones](case-studies/Case_studies-Dividing_Sub_Zones.md)
