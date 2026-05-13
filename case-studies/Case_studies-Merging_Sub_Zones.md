@@ -24,18 +24,23 @@ Merging sub-zones recombines divided territories once a demand surge has passed.
 ### Feature Overview
 
 *   **Primary Zone**: The high-level territory required to view and manage all contained sub-zones simultaneously.
+  
 ![Frame at 2:03](../images/Case-Studies-Merging_Sub_Zones_timestamp_2_to_03.png "Primary Zone – Selection of the parent territory for merging.")
 
 *   **Subsectorize**: The action button used to launch the **Territory Manager** for the selected zone.
+  
 ![Frame at 2:09](../images/Case-Studies-Merging_Sub_Zones_timestamp_2_to_09.png "Subsectorize – Button to initiate territorial realignment.")
 
 *   **Territory Manager**: A workspace showing the map and zone table for active modifications.
+  
 ![Frame at 2:23](../images/Case-Studies-Merging_Sub_Zones_timestamp_2_to_23.png "Territory Manager – Full map view of all sub-zones within the primary zone.")
 
 *   **Merge Territories**: The command that combines two selected sub-zones into a single contiguous geography.
+  
 ![Frame at 3:04](../images/Case-Studies-Merging_Sub_Zones_timestamp_3_to_04.png "Merge Territories – Action to join selected sub-zones.")
 
 *   **Identifier**: The unique name or label assigned to the newly merged sub-zone.
+  
 ![Frame at 3:12](../images/Case-Studies-Merging_Sub_Zones_timestamp_3_to_12.png "Identifier Selection – Choosing the permanent name for the merged zone.")
 
 ### How To: Merge Sub-Zones
