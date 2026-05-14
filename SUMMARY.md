@@ -116,4 +116,4 @@
   * [Multi Leg Missions](case-studies/case_studies-multi_leg_missions.md)
   * [Dividing Sub Zones](case-studies/Case_studies-Dividing_Sub_Zones.md)
   * [Merging Sub Zones](case-studies/Case_studies-Merging_Sub_Zones.md)
-  * [Reassign_Zones_Manually](case-studies/Case_Studies-Reassign_Zones_Manually.md)
+  * [Reassign Zones Manually](case-studies/Case_Studies-Reassign_Zones_Manually.md)
