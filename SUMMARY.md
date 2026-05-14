@@ -109,6 +109,7 @@
   * [Reduced fixed duration](case-studies/Case_studies-Reduced_Fixed_Duration.md)
   * [Route Blocking Settings](case-studies/Case_studies-route_blocking_Settings.md)
   * [Creating Backup Zone](case-studies/Case_studies-creating_backup_zone.md)
+  * [Subcontractor_Swap_to_Backup_Zone](case-studies/Case_studies-Subcontractor_Swap_to_Backup_Zone.md)
   * [Pudo configuration](case-studies/case_studies-pudo_configuration/README.md)
     * [Delivery at PUDO](case-studies/case_studies-pudo_configuration/case_studies-delivery_at_pudo.md)
   * [Multi Leg Missions](case-studies/case_studies-multi_leg_missions.md)
