@@ -110,7 +110,7 @@
   * [Route Blocking Settings](case-studies/Case_studies-route_blocking_Settings.md)
   * [Creating Backup Zone](case-studies/Case_studies-creating_backup_zone.md)
   * [Subcontractor Swap to Backup Zone](case-studies/Case_studies-Subcontractor_Swap_to_Backup_Zone.md)
-  * [Subcontractor_Swap_to_Primary_Zone](case-studies/Case_studies-Subcontractor_Swap_to_Primary_Zone.md)
+  * [Subcontractor Swap to Primary Zone](case-studies/Case_studies-Subcontractor_Swap_to_Primary_Zone.md)
   * [Pudo configuration](case-studies/case_studies-pudo_configuration/README.md)
     * [Delivery at PUDO](case-studies/case_studies-pudo_configuration/case_studies-delivery_at_pudo.md)
   * [Multi Leg Missions](case-studies/case_studies-multi_leg_missions.md)
