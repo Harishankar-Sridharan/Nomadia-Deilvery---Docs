@@ -8,31 +8,41 @@
    * **Group Missions in a Container**: Duplicated missions can be grouped within a parent container.
    * **Immediate Document Attachment**: The Add Document page appears immediately after mission creation to attach documents.
 
-
-
 To arrange custom field groups in the desired order:
 
-* Open the Nomadia Delivery application and navigate to the **Configuration** tab.
+* **Open Nomadia Delivery → Go to Configuration**
+  * Launch the Nomadia Delivery application.
+  * Click on the **Configuration** tab from the top navigation bar.
 
 <figure><img src="../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
-* Go to the **Missions** tab.
+* **Navigate to Missions**
+  * Inside Configuration, select the **Missions** tab.
+  * This section displays all mission-related settings.
 
 <figure><img src="../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
 
-* Click **Actions → Add**.
+* **Click Actions → Add**
+  * Click the **Actions** button (top right or toolbar).
+  * Select **Add** to create a new mission configuration.
 
 <figure><img src="../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
 
-* Choose the **mission type** and **agency**
+* **Choose Mission Type and Agency**
+  * Select the appropriate **Mission Type** from the dropdown.
+  * Choose the relevant **Agency** for which the mission applies.
 
 <figure><img src="../.gitbook/assets/image (27) (1).png" alt=""><figcaption></figcaption></figure>
 
-* Click **Next**.
+* **Click Next**
+  * Review the selected details.
+  * Click **Next** to proceed to configuration settings.
 
 <figure><img src="../.gitbook/assets/image (27) (1).png" alt=""><figcaption></figcaption></figure>
 
-* Click the **Pencil** icon to edit the mission configuration.
+* **Edit Mission Configuration**
+  * Click the **Pencil (Edit) icon** in the configuration screen.
+  * This enables editing of fields and display settings.
 
 <figure><img src="../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -43,10 +53,14 @@ To arrange custom field groups in the desired order:
     * Fields belonging to that group are listed.
 
     <figure><img src="../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
-*   Select the fields to display:
+*   **Select Fields to Display**
+
+    * Choose the required fields (e.g., address, contact, delivery notes).
+
+
 
     <figure><img src="../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
-* The form dynamically updates based on selection.
+* The mission form updates automatically based on selected fields.
 
 <figure><img src="../.gitbook/assets/image (32) (1).png" alt=""><figcaption></figcaption></figure>
 
