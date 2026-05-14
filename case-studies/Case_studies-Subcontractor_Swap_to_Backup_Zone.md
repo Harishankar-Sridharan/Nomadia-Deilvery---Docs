@@ -17,14 +17,17 @@ Before starting, ensure the following requirements are met:
 ### Feature Overview
 
 *   **Filter panel**: Use this to isolate missions belonging to a specific subzone.
+  
 ![Frame at 2:04](../images/Case-Studies-Subcontractor_Swap_to_Backup_Zone_timestamp_2_to_04.png "Filter panel – The panel allows searching for missions by sector.")
 
 *   **Mission table**: Displays the filtered list of missions requiring reassignment.
+  
 ![Frame at 2:22](../images/Case-Studies-Subcontractor_Swap_to_Backup_Zone_timestamp_2_to_22.png "Mission table – A list of missions associated with the selected subzone is shown.")
 
 *   **Actions menu**: Contains the tool to reassign multiple missions at once.
 
 *   **Assign to subcontractor**: Opens the pop-up to change mission ownership and zones.
+  
 ![Frame at 2:48](../images/Case-Studies-Subcontractor_Swap_to_Backup_Zone_timestamp_2_to_48.png "Assign to subcontractor pop-up – The window for reassigning missions to new subcontractors appears.")
 
 *   **Assign primary zones**: A toggle to assign missions to the subcontractor’s main territory.
