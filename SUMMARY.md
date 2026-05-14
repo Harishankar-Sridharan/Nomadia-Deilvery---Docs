@@ -59,7 +59,7 @@
     * [Search for a Mission](8-6-missions/understanding-the-missions-page/search-for-a-mission.md)
     * [View a Mission information](8-6-missions/understanding-the-missions-page/view-a-mission-information.md)
 * [Contractors](9-7-contractors/README.md)
-  * [Registration](9-7-contractors/registration.md)
+  * [Register a Contractor](9-7-contractors/registration.md)
   * [Create a Contractor User](9-7-contractors/a-configuration-user-type.md)
   * [Manage Address List](9-7-contractors/manage-address-list.md)
   * [Coloring and Filter](9-7-contractors/coloring-and-filter.md)
