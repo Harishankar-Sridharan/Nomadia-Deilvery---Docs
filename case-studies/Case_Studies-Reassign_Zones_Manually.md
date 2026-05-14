@@ -1,9 +1,5 @@
 # Reassign Zones Manually
 
-## Case\_Studies-Reassign\_Zones\_Manually
-
-## Case-Studies
-
 Manual zone reassignment allows you to move missions to a new territory layout on your own terms. Use this when switching between different studies or seasonal configurations where automatic triggers do not apply. You will achieve accurate mission records and uninterrupted planning cycles.
 
 #### Getting Started
