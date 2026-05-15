@@ -37,6 +37,10 @@ Follow these steps to import missions via Excel and trigger automatic assignment
 
 ![](../.gitbook/assets/Case-Studies-assigning_zones_to_missions_timestamp_2_to_41_to_2_to_50.gif)
 
+6. The **Sector** and **Scheduled Deliverer** fields are automatically populated based on the configured zone settings.
+
+<figure><img src="../.gitbook/assets/ApplicationFrameHost_4CNHYZNXlj.png" alt=""><figcaption></figcaption></figure>
+
 #### How To: Surface the Sector Column
 
 If the sector information is hidden, follow these steps to display it in your table.
