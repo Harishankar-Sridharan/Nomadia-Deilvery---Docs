@@ -18,7 +18,7 @@ Transform map shapes into operational territories by assigning them to specific 
 
 * **Actions menu**: Access the core assignment tools for your selected study.
 
-![](../.gitbook/assets/Case-Studies-assigning_sub_zones_timestamp_1_to_04.png)
+<figure><img src="../.gitbook/assets/ApplicationFrameHost_hsFJsH9Iu3.png" alt=""><figcaption></figcaption></figure>
 
 * **Assignment page**: The workspace where you define ownership for every individual subzone row.
 
