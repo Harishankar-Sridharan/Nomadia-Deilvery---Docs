@@ -54,7 +54,7 @@ The Reduced Fixed Duration feature optimizes bulk deliveries by adjusting time e
 
 1. Open the **Mission** tab.
 
-![](../.gitbook/assets/Case-Studies-Reduced_Fixed_Duration_timestamp_4_to_05.png)
+<figure><img src="../.gitbook/assets/ApplicationFrameHost_jMVBExGzN2.png" alt=""><figcaption></figcaption></figure>
 
 2. Select the missions you want to optimize.
 
@@ -65,9 +65,12 @@ The Reduced Fixed Duration feature optimizes bulk deliveries by adjusting time e
 ![](../.gitbook/assets/Case-Studies-Reduced_Fixed_Duration_timestamp_4_to_28.png)
 
 4. Select your preferred optimization algorithm.
+
+<figure><img src="../.gitbook/assets/ApplicationFrameHost_A5mz0QjO5U.png" alt=""><figcaption></figcaption></figure>
+
 5. Review the updated durations in the **Simulation** module.
 
-![](../.gitbook/assets/Case-Studies-Reduced_Fixed_Duration_timestamp_4_to_42.png)
+<figure><img src="../.gitbook/assets/ApplicationFrameHost_usxrb4BWl6.png" alt=""><figcaption></figcaption></figure>
 
 #### Productivity Tips
 
