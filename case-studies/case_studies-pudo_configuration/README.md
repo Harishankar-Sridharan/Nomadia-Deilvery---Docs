@@ -18,25 +18,25 @@ PUDO (Pickup and Drop-off Points) allows drivers to leave packages at secure loc
 
 3. Navigate to the **PUDO** page to upload your physical locations.
 
-![](../../.gitbook/assets/Case-Studies-PUDO_Configuration_timestamp_3_to_29.png)
+<figure><img src="../../.gitbook/assets/ApplicationFrameHost_Gj3xW03P8B.png" alt=""><figcaption></figcaption></figure>
 
 #### Feature Overview
 
 * **PUDO Types**: Categories like stores or lockers with specific handling requirements.
 
-![](../../.gitbook/assets/Case-Studies-PUDO_Configuration_timestamp_1_to_23.png)
+<figure><img src="../../.gitbook/assets/ApplicationFrameHost_ZmLb3LgaVp.png" alt=""><figcaption></figcaption></figure>
 
 * **PUDO List**: The database of actual locations and addresses your operation uses.
 
-![](../../.gitbook/assets/Case-Studies-PUDO_Configuration_timestamp_1_to_23.png)
+<figure><img src="../../.gitbook/assets/ApplicationFrameHost_EpruDImivj.png" alt=""><figcaption></figcaption></figure>
 
 * **PUDO Substatus**: Custom labels for the mobile app that apply only during PUDO interactions.
 
-![](../../.gitbook/assets/Case-Studies-PUDO_Configuration_timestamp_1_to_23.png)
+<figure><img src="../../.gitbook/assets/ApplicationFrameHost_VjIQ0nJE2T.png" alt=""><figcaption></figcaption></figure>
 
 * **Fallback PUDO**: A mission-level field that determines if a PUDO drop is permitted.
 
-![](../../.gitbook/assets/Case-Studies-PUDO_Configuration_timestamp_1_to_23.png)
+<figure><img src="../../.gitbook/assets/ApplicationFrameHost_wtscOXmXIC.png" alt=""><figcaption></figcaption></figure>
 
 #### How To: Configure PUDO Types
 
@@ -82,10 +82,7 @@ PUDO (Pickup and Drop-off Points) allows drivers to leave packages at secure loc
 ![](../../.gitbook/assets/Case-Studies-PUDO_Configuration_timestamp_5_to_24.png)
 
 2. Click the **Edit** button to open the **Mission Editor**.
-
-![](../../.gitbook/assets/Case-Studies-PUDO_Configuration_timestamp_5_to_52_to_5_to_56.gif)
-
-3. Select the **Delivery information** section.
+3. Select the **Delivery information** **section**.
 4. Set the fallback characteristic to **Allow**, **Deny**, or **After retry**.
 
 ![](../../.gitbook/assets/Case-Studies-PUDO_Configuration_timestamp_6_to_08.png)
