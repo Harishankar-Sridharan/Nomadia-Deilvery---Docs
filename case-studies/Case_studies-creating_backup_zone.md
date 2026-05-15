@@ -46,12 +46,9 @@ The Backup Zone feature allows you to handle emergency subcontractor no-shows by
 
 2. Open the **actions menu**.
 
-![](../.gitbook/assets/Case-Studies-Creating_Backup_Zone_timestamp_2_to_50.png)
+<figure><img src="../.gitbook/assets/ApplicationFrameHost_YBu0fNj8ur.png" alt=""><figcaption></figcaption></figure>
 
 3. Select **create a backup zone**.
-
-![](../.gitbook/assets/Case-Studies-Creating_Backup_Zone_timestamp_2_to_50.png)
-
 4. Enter a new **identifier** and **name**.
 
 ![](../.gitbook/assets/Case-Studies-Creating_Backup_Zone_timestamp_2_to_59_to_3_to_17.gif)
@@ -62,27 +59,15 @@ The Backup Zone feature allows you to handle emergency subcontractor no-shows by
 
 #### How To: Assigning a Backup Subcontractor
 
-1. Open the **actions menu** from the **study table**.
-
-![](../.gitbook/assets/Case-Studies-Creating_Backup_Zone_timestamp_3_to_55.png)
-
-2. Click **assign**.
-
-![](../.gitbook/assets/Case-Studies-Creating_Backup_Zone_timestamp_3_to_59.png)
-
-3. Choose the relevant study.
+1. Choose the relevant study.
 
 ![](../.gitbook/assets/Case-Studies-Creating_Backup_Zone_timestamp_4_to_08.png)
 
-4. Click **actions** and select **assign** again.
+2. Click **actions** and select **assign** again.
 
 ![](../.gitbook/assets/Case-Studies-Creating_Backup_Zone_timestamp_4_to_09.png)
 
-5. Pick a different subcontractor and driver for the backup zone.
-
-![](../.gitbook/assets/Case-Studies-Creating_Backup_Zone_timestamp_4_to_23_to_4_to_28.gif)
-
-6. Click **assign** to link the territory.
+3. Click **assign** to link the territory.
 
 ![](../.gitbook/assets/Case-Studies-Creating_Backup_Zone_timestamp_4_to_29.png)
 
