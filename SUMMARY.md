@@ -117,4 +117,4 @@
   * [Dividing Sub Zones](case-studies/Case_studies-Dividing_Sub_Zones.md)
   * [Merging Sub Zones](case-studies/Case_studies-Merging_Sub_Zones.md)
   * [Reassign Zones Manually](case-studies/Case_Studies-Reassign_Zones_Manually.md)
-  * [Reverse_Logistics](case-studies/Case_studies-Reverse_Logistics.md)
+  * [Reverse Logistics](case-studies/Case_studies-Reverse_Logistics.md)
