@@ -28,16 +28,8 @@ Manage delivery territories effectively during peak seasons and fluctuating volu
 #### Feature Overview
 
 * **Study**: A structured object defining how delivery territories are organized.
-
-![](../.gitbook/assets/Case-Studies-Study-creation-with-Primary-Zone_timestamp_0_to_45.png)
-
 * **Primary Zone**: A top-level geographical area assigned to a team and tied to postal codes.
-
-![](../.gitbook/assets/Case-Studies-Study-creation-with-Primary-Zone_timestamp_1_to_06.png)
-
 * **Study Management Page**: Your central hub for creating and editing studies and zones.
-
-![](../.gitbook/assets/01_StudyCreationWithPrimaryZone_timestamp_3_to_21.png)
 
 #### How To: Create a Study
 
@@ -47,7 +39,7 @@ Manage delivery territories effectively during peak seasons and fluctuating volu
 
 2. Click the **Actions** menu in the top right.
 
-![](../.gitbook/assets/01_StudyCreationWithPrimaryZone_timestamp_3_to_29.png)
+<figure><img src="../.gitbook/assets/ApplicationFrameHost_M9TUEJn4t8.png" alt=""><figcaption></figcaption></figure>
 
 3. Select **Create Empty Study**.
 4. Enter the **Identifier**, **Name**, and **Agency**.
