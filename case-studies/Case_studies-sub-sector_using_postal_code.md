@@ -15,13 +15,13 @@ Subsectorization automatically splits a primary zone into individual subzones ba
 
 2. Find the study you are working with and click the **Edit** button.
 
-![](../.gitbook/assets/Case-Studies-sub_sector_using_postal_code_timestamp_1_to_54.png)
+<figure><img src="../.gitbook/assets/ApplicationFrameHost_C8RpeX1DyG.png" alt=""><figcaption></figcaption></figure>
 
 #### Feature Overview
 
 * **Zone tab**: The area within a study where you manage primary zones and subzones.
 
-![](../.gitbook/assets/Case-Studies-sub_sector_using_postal_code_timestamp_1_to_54.png)
+<figure><img src="../.gitbook/assets/ApplicationFrameHost_tk6Ygg4ERm.png" alt=""><figcaption></figcaption></figure>
 
 * **Actions menu**: This menu contains tools to modify your selected primary zone.
 
