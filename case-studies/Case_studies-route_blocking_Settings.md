@@ -47,7 +47,7 @@ Steps:
 
 * **Log section**: Review the history of who approved a route and when it occurred for compliance.
 
-![](../.gitbook/assets/Case-Studies-Route_Blocking_Settings_timestamp_7_to_09.png)
+<figure><img src="../.gitbook/assets/ApplicationFrameHost_NBosKi9VMM.png" alt=""><figcaption></figcaption></figure>
 
 #### How To: Optimize and Identify Blocked Routes
 
@@ -59,15 +59,15 @@ Steps:
 
 ![](../.gitbook/assets/Case-Studies-Route_Blocking_Settings_timestamp_3_to_28_to_3_to_46.gif)
 
-3. Click **optimize**.
+3. Click **actions** & select **optimize** (or any optimization workflow).
 
 ![](../.gitbook/assets/Case-Studies-Route_Blocking_Settings_timestamp_3_to_55.png)
 
-4. Select the new route and click **validate**.
+4. Once the optimization process is complete, select the new route & click validate.
 
 ![](../.gitbook/assets/Case-Studies-Route_Blocking_Settings_timestamp_4_to_21_to_4_to_30.gif)
 
-5. Look for the **lock symbol** in the **mission tab** to confirm the block is active.
+5. Check for the **lock** icon on the route to verify that the block is active..
 
 ![](../.gitbook/assets/Case-Studies-Route_Blocking_Settings_timestamp_4_to_40.png)
 
