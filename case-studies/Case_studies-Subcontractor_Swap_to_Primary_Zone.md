@@ -31,7 +31,7 @@ Reversing a subcontractor swap allows you to quickly restore missions to their o
 
 #### How To: Restore Missions to the Primary Zone
 
-1. Open the **Filter Panel**.
+1. Navigate to the **Filter Panel**.
 
 ![](../.gitbook/assets/Case-Studies-Subcontractor_Swap_to_Primary_Zone_timestamp_0_to_54_to_1_to_01.gif)
 
