@@ -26,11 +26,11 @@ Transform map shapes into operational territories by assigning them to specific 
 
 * **Team dropdown**: Choose between an in-house team or a subcontractor team for a specific territory.
 
-![](../.gitbook/assets/Case-Studies-assigning_sub_zones_timestamp_1_to_33.png)
+<figure><img src="../.gitbook/assets/ApplicationFrameHost_yHaOSs4wr7.png" alt=""><figcaption></figcaption></figure>
 
 * **Deliverer dropdown**: Link a specific individual on the ground to a geographical boundary.
 
-![](../.gitbook/assets/Case-Studies-assigning_sub_zones_timestamp_1_to_40.png)
+<figure><img src="../.gitbook/assets/ApplicationFrameHost_qxp0Fd69vl.png" alt=""><figcaption></figcaption></figure>
 
 #### How To: Assign Subzones and Verify Synchronization
 
@@ -57,7 +57,7 @@ Transform map shapes into operational territories by assigning them to specific 
 
 7. Click **edit** on the deliverer and view the **agencies and zones tab**.
 
-![](../.gitbook/assets/03_AssigningSubZones_timestamp_4_to_31.png)
+<figure><img src="../.gitbook/assets/ApplicationFrameHost_sICsBjTqsQ.png" alt=""><figcaption></figcaption></figure>
 
 8. Check the **subcontractor module** to confirm the assignment is reflected in their **profile**.
 
