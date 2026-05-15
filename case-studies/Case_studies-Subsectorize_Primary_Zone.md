@@ -23,7 +23,7 @@ Follow these initial steps:
 
 * **Actions menu**: Provides access to the sub-sectorization tool for the selected zone.
 
-![](../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_1_to_43.png)
+<figure><img src="../.gitbook/assets/ApplicationFrameHost_fZka2nACfC.png" alt=""><figcaption></figcaption></figure>
 
 * **Sectorization parameters pop-up**: Allows you to filter which missions the system uses for balancing.
 
