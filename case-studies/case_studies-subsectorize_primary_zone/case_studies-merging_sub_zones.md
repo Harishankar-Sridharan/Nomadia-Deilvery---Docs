@@ -12,13 +12,13 @@ Merging sub-zones recombines divided territories once a demand surge has passed.
 
 ![](../../.gitbook/assets/Case-Studies-Merging_Sub_Zones_timestamp_1_to_57.png)
 
-2. Select **Manage zones and studies** from the menu.
+2. Select **Manage studies and zones** from the menu.
 
-![](../../.gitbook/assets/Case-Studies-Merging_Sub_Zones_timestamp_1_to_58.png)
+<figure><img src="../../.gitbook/assets/msedge_8t8fJmjs0a.png" alt=""><figcaption></figcaption></figure>
 
-3. Click **Edit** on the specific study containing your sub-zones.
+2. Click **Edit** on the specific study containing your sub-zones.
 
-![](../../.gitbook/assets/Case-Studies-Merging_Sub_Zones_timestamp_2_to_01.png)
+<figure><img src="../../.gitbook/assets/msedge_N0jhAIrqNM.png" alt=""><figcaption></figcaption></figure>
 
 #### Feature Overview
 
@@ -57,9 +57,9 @@ Merging sub-zones recombines divided territories once a demand surge has passed.
 
 ![](../../.gitbook/assets/Case-Studies-Merging_Sub_Zones_timestamp_2_to_14.png)
 
-5. Click **Assign** to open the map view.
+5. Click **Assign** **territories** to open the map view.
 
-![](../../.gitbook/assets/Case-Studies-Merging_Sub_Zones_timestamp_2_to_17.png)
+<figure><img src="../../.gitbook/assets/msedge_xDzr6mJWCy.png" alt=""><figcaption></figcaption></figure>
 
 6. In the table next to the map, select the two sub-zones you want to merge.
 
