@@ -61,8 +61,12 @@ To use this feature, ensure you have a user account with permissions for your sp
 
 ![](../.gitbook/assets/Case-Studies-Multi_Leg_Missions_timestamp_8_to_35.png)
 
-8. Update the **Leg** to **Delivery** when the mission arrives at the final hub.
-9. Set the **Status** to **Received** for the destination agency user.
+8. The in-transit missions are now displayed in the **Missions** tab.
+
+<figure><img src="../.gitbook/assets/ApplicationFrameHost_G1ljOR0YxV.png" alt=""><figcaption></figcaption></figure>
+
+9. Update the **Leg** to **Delivery** when the mission arrives at the final hub.
+10. Set the **Status** to **Received** for the destination agency user.
 
 ![](../.gitbook/assets/Case-Studies-Multi_Leg_Missions_timestamp_9_to_12_to_9_to_58.gif)
 
