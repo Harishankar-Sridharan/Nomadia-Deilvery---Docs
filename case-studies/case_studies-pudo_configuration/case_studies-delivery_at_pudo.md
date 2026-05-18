@@ -17,7 +17,7 @@ Before using this feature, ensure the following requirements are met:
 
 3. Click the **actions** button.
 
-![](../../.gitbook/assets/Case-Studies-Delivery_at_PUDO_timestamp_0_to_41.png)
+<figure><img src="../../.gitbook/assets/msedge_E5lHjjPgfE.png" alt=""><figcaption></figcaption></figure>
 
 4. Select **publish on mobile app**.
 
@@ -43,7 +43,7 @@ Before using this feature, ensure the following requirements are met:
 
 * **Mission logs tab**: Tracks every action from the first delivery attempt to the final PUDO deposit.
 
-![](../../.gitbook/assets/Case-Studies-Delivery_at_PUDO_timestamp_4_to_24.png)
+<figure><img src="../../.gitbook/assets/I6FbOxmXRq.png" alt=""><figcaption></figcaption></figure>
 
 #### How To: Manage Failed Deliveries
 
