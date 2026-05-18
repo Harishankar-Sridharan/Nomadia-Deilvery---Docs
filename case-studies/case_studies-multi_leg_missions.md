@@ -17,9 +17,6 @@ To use this feature, ensure you have a user account with permissions for your sp
 #### Feature Overview
 
 * **Agency**: Displays the current location of the mission and determines user visibility.
-
-![](../.gitbook/assets/Case-Studies-Multi_Leg_Missions_timestamp_1_to_43.png)
-
 * **Origin Agency**: Marks the hub where the first-mile pickup begins.
 * **Destination Agency**: Marks the final hub from which the customer receives the parcel.
 * **Leg**: Indicates the current phase: Collection, Distribution, or Delivery.
@@ -33,22 +30,20 @@ To use this feature, ensure you have a user account with permissions for your sp
 ![](../.gitbook/assets/Case-Studies-Multi_Leg_Missions_timestamp_3_to_13_to_3_to_23.gif)
 
 2. Select **Add** from the **Actions** menu.
-3. Choose the **Agency** and click **Next**.
+3. Select **Cross-Docking** as the mission type, choose the required agency, and click **Next**.
 
 ![](../.gitbook/assets/Case-Studies-Multi_Leg_Missions_timestamp_3_to_30_to_3_to_38.gif)
 
-4. Switch the **Configuration** from **Default** to **Multi-leg**.
 
-![](../.gitbook/assets/Case-Studies-Multi_Leg_Missions_timestamp_3_to_38.png)
 
-5. Select the **Origin Agency** and the **Destination Agency**.
-6. Set the **Leg** to **Collection**.
-7. Enter the pickup and delivery location details.
-8. Click **Add** to save the mission.
+4. Select the **Origin Agency** and the **Destination Agency**.
+5. Set the **Leg** to **Collection**.
+6. Enter the pickup and delivery location details.
+7. Click **Add** to save the mission.
 
 ![](../.gitbook/assets/Case-Studies-Multi_Leg_Missions_timestamp_4_to_30.png)
 
-#### How To: Update Mission Legs and Visibility
+#### How To: Update Mission Legs and Visibility (API /updateMultiLegStatusInformation)
 
 1. Use the **Update multi-leg status information** endpoint to transition between legs.
 2. Set the **Leg** to **Distribution** when the item is ready for mid-mile transit.
@@ -76,7 +71,7 @@ To use this feature, ensure you have a user account with permissions for your sp
 1. Open a mission in the **Editor**.
 2. Select the **Logs** tab to view every status change and agency transition.
 
-![](../.gitbook/assets/Case-Studies-Multi_Leg_Missions_timestamp_10_to_53.png)
+<figure><img src="../.gitbook/assets/msedge_bIBOxerQnR.png" alt=""><figcaption></figcaption></figure>
 
 #### Productivity Tips
 
