@@ -13,91 +13,91 @@ Follow these initial steps:
 
 1. Open your **study** and navigate to the **zone tab**.
 
-![](../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_1_to_35.png)
+![](../../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_1_to_35.png)
 
 2. Select your **primary zone** from the list.
 
-![](../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_1_to_42.png)
+![](../../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_1_to_42.png)
 
 #### Feature Overview
 
 * **Actions menu**: Provides access to the sub-sectorization tool for the selected zone.
 
-<figure><img src="../.gitbook/assets/ApplicationFrameHost_fZka2nACfC.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ApplicationFrameHost_fZka2nACfC.png" alt=""><figcaption></figcaption></figure>
 
 * **Sectorization parameters pop-up**: Allows you to filter which missions the system uses for balancing.
 
-![](../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_1_to_49.png)
+![](../../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_1_to_49.png)
 
 * **Naming pattern toggle**: Automatically names new sub-zones based on the primary zone's name to maintain consistency.
 
-![](../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_2_to_38.png)
+![](../../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_2_to_38.png)
 
 * **Assign territories button**: Launches the territory manager module with your filtered mission data.
 
-![](../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_3_to_16.png)
+![](../../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_3_to_16.png)
 
 * **Automation button**: Opens the territory assignment wizard to start the automated balancing process.
 
-![](../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_3_to_52.png)
+![](../../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_3_to_52.png)
 
 * **Balance points**: A balancing method that distributes missions evenly based on the number of delivery points.
 
-![](../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_4_to_03.png)
+![](../../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_4_to_03.png)
 
 * **Validate territory management button**: Finalizes the automated split and moves you to the assignment stage.
 
-![](../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_5_to_52.png)
+![](../../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_5_to_52.png)
 
 #### How To: Create Balanced Sub-zones
 
 1. Open the **Actions menu** and select **subsectorize**.
 
-![](../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_1_to_43_to_1_to_48.gif)
+![](../../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_1_to_43_to_1_to_48.gif)
 
 2. Use the filters to narrow mission data by **agency**, **subcontractor**, **period**, or **day of the week**.
 
-![](../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_2_to_07.png)
+![](../../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_2_to_07.png)
 
 3. Toggle on the **naming pattern** to automate sub-zone naming.
 
-![](../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_2_to_41.png)
+![](../../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_2_to_41.png)
 
 4. Click **assign territories** to load the filtered missions onto the map.
 
-![](../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_3_to_16.png)
+![](../../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_3_to_16.png)
 
 5. Select the **automation button** located at the top left of the map.
 
-![](../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_3_to_52.png)
+![](../../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_3_to_52.png)
 
 6. Select **balance points** as the balancing method and click **start**.
 
-![](../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_4_to_03.png)
+![](../../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_4_to_03.png)
 
 7. Navigate to the **number of territories tab** and enter your target count (e.g., 3).
 
-![](../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_4_to_23.png)
+![](../../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_4_to_23.png)
 
 8. Move to the **balance the territories on tab** and select your indicator, such as **number of points**.
 
-![](../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_4_to_32.png)
+![](../../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_4_to_32.png)
 
 9. Click **let's go** to start the automated balancing.
 
-![](../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_5_to_00_to_5_to_12.gif)
+![](../../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_5_to_00_to_5_to_12.gif)
 
 10. Review the map split and click **validate territory management**.
 
-![](../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_5_to_52.png)
+![](../../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_5_to_52.png)
 
 11. Link each sub-zone to an **agency** or **subagency** using the drop-down menu.
 
-![](../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_6_to_10.png)
+![](../../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_6_to_10.png)
 
 12. Click **save and assign** to go live immediately, or click **save** to finalize later.
 
-![](../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_6_to_39.png)
+![](../../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_6_to_39.png)
 
 #### Productivity Tips
 
