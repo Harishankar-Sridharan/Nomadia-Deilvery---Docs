@@ -4,24 +4,24 @@ Manage delivery territories effectively during peak seasons and fluctuating volu
 
 #### Getting Started
 
-1. To create and manage studies, ensure you have the correct administrative permissions:
-   * Access to the Configuration module
-   * Permission for Create and update zones
-   * Permission for Create and update studies
-2. Click the Configuration module in the top banner.
+* To create and manage studies, ensure you have the correct administrative permissions:
+  * Access to the Configuration module
+  * Permission for Create and update zones
+  * Permission for Create and update studies
+* Click the Configuration module in the top banner.
 
 ![](../.gitbook/assets/01_StudyCreationWithPrimaryZone_timestamp_1_to_51.png)
 
-3. Select the **Manage Users** page.
+* Select the **Manage Users** page.
 
 ![](../.gitbook/assets/01_StudyCreationWithPrimaryZone_timestamp_1_to_59.png)
 
-4. Edit the specific user and click the **Roles and Rights** tab.
+* Edit the specific user and click the **Roles and Rights** tab.
 
 ![](../.gitbook/assets/01_StudyCreationWithPrimaryZone_timestamp_2_to_16.png)
 
-5. Enable rights for **Create and update zones** and **List of zones**.
-6. Click the **Save** button to apply permissions.
+* Enable rights for **Create and update zones** and **List of zones**.
+* Click the **Save** button to apply permissions.
 
 ![](../.gitbook/assets/Case-Studies-Study-creation-with-Primary-Zone_timestamp_3_to_00.png)
 
