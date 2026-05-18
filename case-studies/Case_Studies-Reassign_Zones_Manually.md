@@ -8,9 +8,6 @@ Manual zone reassignment allows you to move missions to a new territory layout o
 * A set of active missions needing reassignment.
 
 1. Navigate to the **Configuration** module.
-
-![](../.gitbook/assets/Case-Studies-Reassign_Zones_Manually_timestamp_2_to_20.png)
-
 2. Click on **Manage studies and zones**.
 
 ![](../.gitbook/assets/Case-Studies-Reassign_Zones_Manually_timestamp_2_to_23.png)
@@ -31,7 +28,7 @@ Manual zone reassignment allows you to move missions to a new territory layout o
 
 #### How To: Switch Mission Studies
 
-1. Find the current active study and click the **Edit** button.
+1. Click the **edit** button and select **Settings** tab.
 
 ![](../.gitbook/assets/Case-Studies-Reassign_Zones_Manually_timestamp_2_to_28.png)
 
@@ -49,7 +46,7 @@ Manual zone reassignment allows you to move missions to a new territory layout o
 
 5. Head to the **Missions** tab.
 
-![](../.gitbook/assets/Case-Studies-Reassign_Zones_Manually_timestamp_3_to_10.png)
+<figure><img src="../.gitbook/assets/msedge_AkVi2K5j5I.png" alt=""><figcaption></figcaption></figure>
 
 6. Apply a **Filter** to isolate missions assigned to the old study.
 
@@ -66,6 +63,10 @@ Manual zone reassignment allows you to move missions to a new territory layout o
 9. Click **Yes** to confirm the reassignment.
 
 ![](../.gitbook/assets/Case-Studies-Reassign_Zones_Manually_timestamp_3_to_48.png)
+
+10. The selected missions are reassigned to the chosen study.
+
+<figure><img src="../.gitbook/assets/ApplicationFrameHost_6K4eeR7hp3.png" alt=""><figcaption></figcaption></figure>
 
 #### Productivity Tips
 
