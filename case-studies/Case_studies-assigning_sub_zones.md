@@ -4,13 +4,13 @@ Transform map shapes into operational territories by assigning them to specific 
 
 #### Getting Started
 
-1. Navigate to the study table:
-   * Ensure subzones are created and geographically balanced
-   * Confirm all internal and subcontractor deliverers are registered in the system
+* Navigate to the study table:
+  * Ensure subzones are created and geographically balanced
+  * Confirm all internal and subcontractor deliverers are registered in the system
 
 ![](../.gitbook/assets/Case-Studies-assigning_sub_zones_timestamp_0_to_54.png)
 
-2. Select the specific study to assign.
+* Select the specific study to assign.
 
 ![](../.gitbook/assets/Case-Studies-assigning_sub_zones_timestamp_0_to_58_to_1_to_04.gif)
 
