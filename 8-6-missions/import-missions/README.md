@@ -33,4 +33,5 @@ From the Missions page
 
 8. Missions will be imported successfully.
 
-<figure><img src="../../.gitbook/assets/image (153).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ChatGPT Image May 19, 2026, 01_14_18 PM.png" alt=""><figcaption></figcaption></figure>
+
