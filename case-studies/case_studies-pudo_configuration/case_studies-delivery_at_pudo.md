@@ -10,20 +10,20 @@ Before using this feature, ensure the following requirements are met:
 * The **fallback delivery in PUDO** field is enabled for the specific mission.
 * Sub-statuses for failed PUDO drops (e.g., "PUDO full") are defined in the **configuration menu**.
 
-1. Create a route in the back-office.
-2. Select the checkbox for the route you want to share in the **route table**.
+- Create a route in the back-office.
+- Select the checkbox for the route you want to share in the **route table**.
 
 ![](../../.gitbook/assets/Case-Studies-Delivery_at_PUDO_timestamp_0_to_38.png)
 
-3. Click the **actions** button.
+* Click the **actions** button.
 
 <figure><img src="../../.gitbook/assets/msedge_E5lHjjPgfE.png" alt=""><figcaption></figcaption></figure>
 
-4. Select **publish on mobile app**.
+* Select **publish on mobile app**.
 
 ![](../../.gitbook/assets/Case-Studies-Delivery_at_PUDO_timestamp_0_to_45.png)
 
-5. Click **OK** to confirm the publication.
+* Click **OK** to confirm the publication.
 
 ![](../../.gitbook/assets/Case-Studies-Delivery_at_PUDO_timestamp_0_to_52.png)
 
