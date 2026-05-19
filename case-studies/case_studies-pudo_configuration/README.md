@@ -8,15 +8,15 @@ PUDO (Pickup and Drop-off Points) allows drivers to leave packages at secure loc
 * Defined categories for your network, such as lockers or retail stores.
 * Access to the **Configuration** module in Nomadia Delivery.
 
-1. Open the **Configuration** module.
+- Open the **Configuration** module.
 
 ![](../../.gitbook/assets/Case-Studies-PUDO_Configuration_timestamp_2_to_32.png)
 
-2. Select the **PUDO type** page to define your categories.
+* Select the **PUDO type** page to define your categories.
 
 ![](../../.gitbook/assets/Case-Studies-PUDO_Configuration_timestamp_2_to_36.png)
 
-3. Navigate to the **PUDO** page to upload your physical locations.
+* Navigate to the **PUDO** page to upload your physical locations.
 
 <figure><img src="../../.gitbook/assets/ApplicationFrameHost_Gj3xW03P8B.png" alt=""><figcaption></figcaption></figure>
 
