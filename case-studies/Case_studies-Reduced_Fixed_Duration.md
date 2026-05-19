@@ -4,22 +4,18 @@ The Reduced Fixed Duration feature optimizes bulk deliveries by adjusting time e
 
 #### Getting Started
 
-**Prerequisites**:
-
 * Missions sharing a **Delivery Address**, **Pickup Address**, or **Group Identifier**.
-* Operational data regarding realistic delivery times for first and subsequent packages.
+* Operational data regarding realistic delivery times for first and subsequent packages.**Steps**:
 
-**Steps**:
-
-1. Open the **Configuration** module.
+- Open the **Configuration** module.
 
 ![](../.gitbook/assets/Case-Studies-Reduced_Fixed_Duration_timestamp_2_to_57.png)
 
-2. Find the **Route** section in the left panel.
+* Find the **Route** section in the left panel.
 
 ![](../.gitbook/assets/Case-Studies-Reduced_Fixed_Duration_timestamp_3_to_00.png)
 
-3. Click on **Settings**.
+* Click on **Settings**.
 
 ![](../.gitbook/assets/Case-Studies-Reduced_Fixed_Duration_timestamp_3_to_03.png)
 
