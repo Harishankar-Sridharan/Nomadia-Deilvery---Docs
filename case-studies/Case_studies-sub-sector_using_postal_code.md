@@ -4,12 +4,9 @@ Subsectorization automatically splits a primary zone into individual subzones ba
 
 #### Getting Started
 
-**Prerequisites and initial setup:**
-
 * An existing primary zone with multiple associated postal codes
 * Access to the Configuration module
-
-- Head to the Configuration module and open Manage Studies and Zones.
+* Head to the Configuration module and open Manage Studies and Zones.
 
 ![](../.gitbook/assets/Case-Studies-sub_sector_using_postal_code_timestamp_1_to_49.png)
 
