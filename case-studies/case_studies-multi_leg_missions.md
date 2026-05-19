@@ -10,7 +10,7 @@ To use this feature, ensure you have a user account with permissions for your sp
 * User account assigned to an **Origin Agency**.
 * Configured routing infrastructure for automated zone assignment.
 
-1. Log in to **Nomadia Delivery** as a user from the **Origin Agency**.
+- Log in to **Nomadia Delivery** as a user from the **Origin Agency**.
 
 ![](../.gitbook/assets/Case-Studies-Multi_Leg_Missions_timestamp_3_to_06.png)
 
