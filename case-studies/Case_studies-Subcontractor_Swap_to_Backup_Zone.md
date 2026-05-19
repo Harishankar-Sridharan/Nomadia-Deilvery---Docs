@@ -10,7 +10,7 @@ Before starting, ensure the following requirements are met:
 * A replacement subcontractor is assigned to that backup zone.
 * You have identified the primary subzone that needs coverage.
 
-1. Open the **Missions** tab to begin the swap.
+- Open the **Missions** tab to begin the swap.
 
 ![](../.gitbook/assets/Case-Studies-Subcontractor_Swap_to_Backup_Zone_timestamp_1_to_51.png)
 
