@@ -8,8 +8,8 @@ Nomadia Delivery integrates reverse logistics directly into your standard missio
 * The **Mission Identifier** of the failed or uncollected delivery.
 * API access to the **Reverse Logistics** endpoint.
 
-1. Open the **Back Office** and locate the specific route containing the mission to return.
-2. Identify if the item needs to go to the original sender or just the agency.
+- Open the **Back Office** and locate the specific route containing the mission to return.
+- Identify if the item needs to go to the original sender or just the agency.
 
 #### Feature Overview
 
