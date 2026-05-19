@@ -7,8 +7,8 @@ Manual zone reassignment allows you to move missions to a new territory layout o
 * At least two studies configured for the same area.
 * A set of active missions needing reassignment.
 
-1. Navigate to the **Configuration** module.
-2. Click on **Manage studies and zones**.
+- Navigate to the **Configuration** module.
+- Click on **Manage studies and zones**.
 
 ![](../.gitbook/assets/Case-Studies-Reassign_Zones_Manually_timestamp_2_to_23.png)
 
