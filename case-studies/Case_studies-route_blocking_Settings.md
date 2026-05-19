@@ -4,26 +4,21 @@ Route blocking systematically prevents drivers from starting routes containing h
 
 #### Getting Started
 
-Requirements:
-
 * Missions must include a **package value** field.
 * Access to the **configuration module** is required.
-
-Steps:
-
-1. Open the **configuration module**.
+* Open the **configuration module**.
 
 ![](../.gitbook/assets/Case-Studies-Route_Blocking_Settings_timestamp_2_to_21.png)
 
-2. Select **settings** under the **route** section.
+* Select **settings** under the **route** section.
 
 ![](../.gitbook/assets/Case-Studies-Route_Blocking_Settings_timestamp_2_to_25.png)
 
-3. Enter a numerical threshold in the **package value condition** field.
+* Enter a numerical threshold in the **package value condition** field.
 
 ![](../.gitbook/assets/Case-Studies-Route_Blocking_Settings_timestamp_2_to_51.png)
 
-4. Click **save** to apply the configuration.
+* Click **save** to apply the configuration.
 
 ![](../.gitbook/assets/Case-Studies-Route_Blocking_Settings_timestamp_3_to_00.png)
 
