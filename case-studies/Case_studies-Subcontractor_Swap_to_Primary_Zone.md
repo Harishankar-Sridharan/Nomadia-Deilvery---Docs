@@ -7,7 +7,7 @@ Reversing a subcontractor swap allows you to quickly restore missions to their o
 * Access to the **Mission** tab.
 * Missions must be currently assigned to a secondary (backup) zone.
 
-1. Navigate to the **Mission** tab.
+- Navigate to the **Mission** tab.
 
 ![](../.gitbook/assets/Case-Studies-Subcontractor_Swap_to_Primary_Zone_timestamp_0_to_44.png)
 
