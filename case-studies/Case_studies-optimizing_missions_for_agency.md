@@ -8,15 +8,15 @@ Nomadia Delivery automates the process from mission selection to optimized route
 * Deliverers must be mapped and configured in the system.
 * Missions must be geocoded and loaded.
 
-1. Navigate to the **Mission tab**.
+- Navigate to the **Mission tab**.
 
 ![](../.gitbook/assets/Case-Studies-optimizing_missions_for_agency_timestamp_1_to_22.png)
 
-2. Click the **Action menu**.
+* Click the **Action menu**.
 
 <figure><img src="../.gitbook/assets/ApplicationFrameHost_YYdcpykWLc.png" alt=""><figcaption></figcaption></figure>
 
-3. Select **Automatic optimization by agencies**.
+* Select **Automatic optimization by agencies**.
 
 ![](../.gitbook/assets/Case-Studies-optimizing_missions_for_agency_timestamp_1_to_35_to_1_to_46.gif)
 
