@@ -8,15 +8,15 @@ The Backup Zone feature allows you to handle emergency subcontractor no-shows by
 * An existing primary subzone requiring backup.
 * A replacement subcontractor available for assignment.
 
-1. Navigate to the **configuration module**.
+- Navigate to the **configuration module**.
 
 ![](../.gitbook/assets/Case-Studies-Creating_Backup_Zone_timestamp_2_to_07.png)
 
-2. Click **manage studies and zones**.
+* Click **manage studies and zones**.
 
 ![](../.gitbook/assets/Case-Studies-Creating_Backup_Zone_timestamp_2_to_09.png)
 
-3. Select the **pencil icon** next to the relevant study.
+* Select the **pencil icon** next to the relevant study.
 
 ![](../.gitbook/assets/Case-Studies-Creating_Backup_Zone_timestamp_2_to_17.png)
 
