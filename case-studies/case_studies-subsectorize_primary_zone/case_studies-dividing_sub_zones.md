@@ -9,15 +9,15 @@ Before dividing a territory, ensure your setup meets these requirements:
 * A primary zone must already be sub sectorized through the territory manager.
 * Target subzones must have an established link to a primary zone.
 
-1. Open the **Configuration module**.
+- Open the **Configuration module**.
 
 ![](../../.gitbook/assets/Case-Studies-Dividing_Sub_Zones_timestamp_2_to_32.png)
 
-2. Click on **Manage studies and zones**.
+* Click on **Manage studies and zones**.
 
 <figure><img src="../../.gitbook/assets/msedge_4AgwKLqaES.png" alt=""><figcaption></figcaption></figure>
 
-2. Select the **Edit** icon for the study containing the overloaded zone.
+* Select the **Edit** icon for the study containing the overloaded zone.
 
 #### Feature Overview
 

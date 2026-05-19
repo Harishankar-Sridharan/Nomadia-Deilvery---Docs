@@ -8,15 +8,15 @@ Merging sub-zones recombines divided territories once a demand surge has passed.
 * Identify the **Primary Zone** containing the sub-zones you want to merge.
 * The **Primary Zone** must have the assignment mode set to **primary sector**.
 
-1. Click on the **Configuration** module in the main navigation.
+- Click on the **Configuration** module in the main navigation.
 
 ![](../../.gitbook/assets/Case-Studies-Merging_Sub_Zones_timestamp_1_to_57.png)
 
-2. Select **Manage studies and zones** from the menu.
+* Select **Manage studies and zones** from the menu.
 
 <figure><img src="../../.gitbook/assets/msedge_8t8fJmjs0a.png" alt=""><figcaption></figcaption></figure>
 
-2. Click **Edit** on the specific study containing your sub-zones.
+* Click **Edit** on the specific study containing your sub-zones.
 
 <figure><img src="../../.gitbook/assets/msedge_N0jhAIrqNM.png" alt=""><figcaption></figcaption></figure>
 

@@ -9,13 +9,11 @@ Before you begin sub-sectoring, ensure your system meets these requirements:
 * A primary zone must be built with mapped postal codes and defined geography.
 * Historical mission data, including delivery points and coordinates, must be loaded into the mission page.
 
-Follow these initial steps:
-
-1. Open your **study** and navigate to the **zone tab**.
+- Open your **study** and navigate to the **zone tab**.
 
 ![](../../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_1_to_35.png)
 
-2. Select your **primary zone** from the list.
+* Select your **primary zone** from the list.
 
 ![](../../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_1_to_42.png)
 
