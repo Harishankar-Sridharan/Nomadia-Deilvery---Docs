@@ -21,7 +21,7 @@ To set up a visit mission, users (contractors, transporters, or subcontractors) 
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-3. Since a visit mission does not involve pickups or deliveries, the wizard includes only the Visit address and opening hours.
+4. Since a visit mission does not involve pickups or deliveries, the wizard includes only the Visit address and opening hours.
 
 <figure><img src="../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
 
