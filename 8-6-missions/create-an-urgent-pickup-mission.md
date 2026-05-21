@@ -18,7 +18,7 @@ This feature allows an unplanned pickup mission to be inserted into an existing,
 
 <figure><img src="../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
 
-7. Assign at **End**: Adds the pickup to the end of the current route.
-8. Click **Replace**
+6. Assign at **End**: Adds the pickup to the end of the current route.
+7. Click **Replace**
 
 These grouped missions will be executed only once on the mobile application, significantly reducing field execution time. Additionally, even if missions are not grouped beforehand, the mobile app automatically groups missions that share the same address information.
