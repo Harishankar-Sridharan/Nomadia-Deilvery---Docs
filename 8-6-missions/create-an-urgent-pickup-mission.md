@@ -14,9 +14,7 @@ This feature allows an unplanned pickup mission to be inserted into an existing,
 
 5. Choose the insertion point of the driver:
 
-<figure><img src="../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
-
-6. **Assign After**: Adds the pickup as the very next stop.
+**Assign After**: Adds the pickup as the very next stop.
 
 <figure><img src="../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
 
