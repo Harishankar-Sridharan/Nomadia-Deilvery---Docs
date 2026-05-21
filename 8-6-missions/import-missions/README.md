@@ -31,7 +31,7 @@ From the Missions page
 
 <figure><img src="../../.gitbook/assets/msedge_rS5AKwA574.png" alt=""><figcaption></figcaption></figure>
 
-8. Missions will be imported successfully.
+9. Missions will be imported successfully.
 
 <figure><img src="../../.gitbook/assets/ChatGPT Image May 19, 2026, 01_14_18 PM.png" alt=""><figcaption></figcaption></figure>
 
