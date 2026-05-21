@@ -8,7 +8,7 @@ These parameters provide both operational and logistical information used by
 
 coordinators, dispatchers, and deliverers.
 
-#### 1.4.1. Access Mission Parameters
+#### Access Mission Parameters
 
 From the **Mission page**
 
