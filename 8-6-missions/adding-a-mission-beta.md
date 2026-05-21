@@ -31,9 +31,6 @@ To arrange custom field groups in the desired order:
 * **Choose Mission Type and Agency**
   * Select the appropriate **Mission Type** from the dropdown.
   * Choose the relevant **Agency** for which the mission applies.
-
-<figure><img src="../.gitbook/assets/image (27) (1).png" alt=""><figcaption></figcaption></figure>
-
 * **Click Next**
   * Review the selected details.
   * Click **Next** to proceed to configuration settings.
@@ -46,18 +43,13 @@ To arrange custom field groups in the desired order:
 
 <figure><img src="../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
 
-*   Expand the **Custom fields** accordion:
-
-    * All custom field groups are displayed as separate accordions.
-    * Click a group to expand it.
-    * Fields belonging to that group are listed.
-
-    <figure><img src="../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
+* Expand the **Custom fields** accordion:
+  * All custom field groups are displayed as separate accordions.
+  * Click a group to expand it.
+  * Fields belonging to that group are listed.
 *   **Select Fields to Display**
 
     * Choose the required fields (e.g., address, contact, delivery notes).
-
-
 
     <figure><img src="../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
 * The mission form updates automatically based on selected fields.
