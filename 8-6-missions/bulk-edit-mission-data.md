@@ -4,29 +4,28 @@
 
 Bulk editing mission data enables large-scale updates to mission information, reducing manual effort and saving time by avoiding repetitive tasks.
 
-To edit mission data in bulk, follow the steps below.
-
-1. From the main header, click the **Missions** page.
+1. Follow the steps below to edit mission data in bulk..
+2. From the main header, click the **Missions** page.
 
 <figure><img src="../.gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>
 
-2. Choose the missions you’re interested in from the mission table.
+3. Choose the missions you’re interested in from the mission table.
 
 <figure><img src="../.gitbook/assets/image (193).png" alt=""><figcaption></figcaption></figure>
 
-3. Enter a **Name** for the bulk edit configuration in the Bulk Edit pop-up.
+4. Enter a **Name** for the bulk edit configuration in the Bulk Edit pop-up.
 
 <figure><img src="../.gitbook/assets/image (194).png" alt=""><figcaption></figcaption></figure>
 
-4. Select the fields to be enabled for bulk editing and use the arrow button to move them to the right-hand side.
+5. Select the fields to be enabled for bulk editing and use the arrow button to move them to the right-hand side.
 
 <figure><img src="../.gitbook/assets/image (214).png" alt=""><figcaption></figcaption></figure>
 
-5. Repeat the same steps for the custom fields in the Bulk Edit pop-up.
+6. Repeat the same steps for the custom fields in the Bulk Edit pop-up.
 
 <figure><img src="../.gitbook/assets/image (196).png" alt=""><figcaption></figcaption></figure>
 
-6. Click the ‘**Save**’ button to save the bulk edit configuration.
+7. Click the ‘**Save**’ button to save the bulk edit configuration.
 
 <figure><img src="../.gitbook/assets/image (197).png" alt=""><figcaption></figcaption></figure>
 
