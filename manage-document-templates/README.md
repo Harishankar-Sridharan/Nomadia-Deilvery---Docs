@@ -41,7 +41,7 @@ The document templates will be downloaded successfully.
 
 <figure><img src="../.gitbook/assets/image (56) (1).png" alt=""><figcaption></figcaption></figure>
 
-7. Click on Save
+8. Click on Save
 
 <figure><img src="../.gitbook/assets/image (57) (1).png" alt=""><figcaption></figcaption></figure>
 
