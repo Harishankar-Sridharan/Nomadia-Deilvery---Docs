@@ -1,5 +1,8 @@
 # Activating the Ticket Module
 
+1. Go to **Configuration**
+2. Click **Manage Users**
+
 <figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Click the **pencil** icon next to the user to edit a user.
