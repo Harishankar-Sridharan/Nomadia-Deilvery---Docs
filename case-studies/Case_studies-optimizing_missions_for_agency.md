@@ -7,8 +7,7 @@ Nomadia Delivery automates the process from mission selection to optimized route
 * Zones must be built and sectors assigned.
 * Deliverers must be mapped and configured in the system.
 * Missions must be geocoded and loaded.
-
-- Navigate to the **Mission tab**.
+* Navigate to the **Mission tab**.
 
 ![](../.gitbook/assets/Case-Studies-optimizing_missions_for_agency_timestamp_1_to_22.png)
 
@@ -105,9 +104,6 @@ Nomadia Delivery automates the process from mission selection to optimized route
 ![](../.gitbook/assets/Case-Studies-optimizing_missions_for_agency_timestamp_6_to_43.png)
 
 2. Click the **Open the route plan button** to analyze simulations.
-
-![](../.gitbook/assets/Case-Studies-optimizing_missions_for_agency_timestamp_6_to_58.png)
-
 3. Review routes in a **draft state** if publishing was left off.
 
 ![](../.gitbook/assets/Case-Studies-optimizing_missions_for_agency_timestamp_7_to_36.png)
