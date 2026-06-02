@@ -15,9 +15,6 @@ Ensure your file is in one of these supported formats before proceeding: XLSX, D
 <figure><img src="../.gitbook/assets/image (70) (1).png" alt=""><figcaption></figcaption></figure>
 
 5. Select a Valid file from a local system.
-
-<figure><img src="../.gitbook/assets/image (70) (1).png" alt=""><figcaption></figcaption></figure>
-
 6. The documents will be imported successfully.
 
 <figure><img src="../.gitbook/assets/image (72) (1).png" alt=""><figcaption></figcaption></figure>
