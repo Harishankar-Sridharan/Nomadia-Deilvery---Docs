@@ -47,7 +47,7 @@ The proof of delivery may include:
 * Driver or worker signature
 * Delivery photographs
 
-<figure><img src="../.gitbook/assets/msedge_fKi9MlceZl.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Mission Logs 1.png" alt=""><figcaption></figcaption></figure>
 
 ### Understanding Mission Log Information
 
