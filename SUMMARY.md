@@ -120,3 +120,4 @@
   * [Multi Leg Missions](case-studies/case_studies-multi_leg_missions.md)
   * [Reassign Zones Manually](case-studies/Case_Studies-Reassign_Zones_Manually.md)
   * [Reverse Logistics](case-studies/Case_studies-Reverse_Logistics.md)
+  * [No Route Mode](images/images/noroute.md)
