@@ -9,7 +9,7 @@ No-Route mode is designed for companies that prioritize mission management and t
 * Sign in using your No-Route account credentials.
 * Verify the navigation bar shows only essential modules such as Home, Missions, Dashboard and Configuration.
 
-![](../../.gitbook/assets/noroute-noroute_timestamp_0_to_40.png)
+<figure><img src="../../.gitbook/assets/noroute-noroute_timestamp_0_to_21 (2).png" alt=""><figcaption></figcaption></figure>
 
 #### Feature Overview
 
@@ -26,7 +26,7 @@ No-Route mode is designed for companies that prioritize mission management and t
 2. Click the **Maps** tab to visualize machine locations.
 3. Tap the **Details** tab to inspect mission-specific data.
 
-![](../../.gitbook/assets/noroute-noroute_timestamp_1_to_24.png)
+<figure><img src="../../.gitbook/assets/noroute-noroute_timestamp_1_to_20 (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Productivity Tips
 
