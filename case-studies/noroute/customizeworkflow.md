@@ -14,7 +14,7 @@ The customized workflow feature allows you to define how mission statuses progre
 
 * Click the **Workflow** tab.
 
-![Frame at 0:15](../../.gitbook/assets/customizeworkflow-customizeworkflow_timestamp_0_to_15.png)
+<figure><img src="../../.gitbook/assets/msedge_9ldIAXlwgI.png" alt=""><figcaption></figcaption></figure>
 
 #### Feature Overview
 
@@ -32,7 +32,7 @@ The customized workflow feature allows you to define how mission statuses progre
 
 **Note**: The **Workflow** page allows users to configure the mission status flow. they can define which statuses a mission can transition between and specify the **user profiles** that are authorized to perform each status change. This provides complete control over the delivery workflow by ensuring that only designated profiles can execute specific status transitions.
 
-![](../../.gitbook/assets/customizeworkflow-customizeworkflow_timestamp_0_to_59.png)
+<figure><img src="../../.gitbook/assets/msedge_lDhxFtHrRp.png" alt=""><figcaption></figcaption></figure>
 
 #### Productivity Tips
 
