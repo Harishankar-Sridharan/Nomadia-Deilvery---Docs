@@ -9,6 +9,9 @@ The customized workflow feature allows you to define how mission statuses progre
 * Open the **Configuration** page.
 * Click on **Customize Status Tables and Workflow**.
 * To learn more about customizing labels, refer to the following link
+
+[https://app.gitbook.com/o/oWGpSeZsFYIlc5oQ3d3d/s/OZAbiFSFd1RKuejzxr5e/8-6-missions/customizing-status-labels](../../8-6-missions/customizing-status-labels.md)
+
 * Click the **Workflow** tab.
 
 ![Frame at 0:15](../../.gitbook/assets/customizeworkflow-customizeworkflow_timestamp_0_to_15.png)
@@ -26,6 +29,8 @@ The customized workflow feature allows you to define how mission statuses progre
 3. Select which target statuses the mission can transition to, such as **DAIS collected** or **EXP log collected**.
 4. Configure the next transition, such as allowing a **Dispatch User** to scan a mission and change it to **Delivered**.
 5. Click on **Save** to modify the changes.
+
+**Note**: The **Workflow** page allows users to configure the mission status flow. they can define which statuses a mission can transition between and specify the **user profiles** that are authorized to perform each status change. This provides complete control over the delivery workflow by ensuring that only designated profiles can execute specific status transitions.
 
 ![](../../.gitbook/assets/customizeworkflow-customizeworkflow_timestamp_0_to_59.png)
 
