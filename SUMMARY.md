@@ -121,4 +121,3 @@
   * [Reassign Zones Manually](case-studies/Case_Studies-Reassign_Zones_Manually.md)
   * [Reverse Logistics](case-studies/Case_studies-Reverse_Logistics.md)
   * [No Route Mode](images/images/noroute.md)
-  * [Customizing Workflow](images/images/customizeworkflow.md)
