@@ -122,3 +122,4 @@
   * [Reverse Logistics](case-studies/Case_studies-Reverse_Logistics.md)
   * [No Route Mode](case-studies/noroute/README.md)
     * [Customizing Workflow](case-studies/noroute/customizeworkflow.md)
+    * [Manage the Depots](images/images/managethedepots.md)
