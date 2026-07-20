@@ -26,7 +26,7 @@ The customized workflow feature allows you to define how mission statuses progre
 
 1. Select a starting status in the workflow grid, such as **Created**.
 2. Assign a user role from the **Profile** dropdown to control who can change the status.
-3. Select which target statuses the mission can transition to, such as **DAIS collected** or **EXP log collected**.
+3. Select which target statuses the mission can transition to, such as **DIS collected** or **EXP log collected**.
 4. Configure the next transition, such as allowing a **Dispatch User** to scan a mission and change it to **Delivered**.
 5. Click on **Save** to modify the changes.
 
