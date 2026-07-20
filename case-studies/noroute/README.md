@@ -1,6 +1,6 @@
 # No Route Mode
 
-No-Route mode is designed for companies that prioritize mission management and traceability over complex route optimization. This mode simplifies the user interface by automatically hiding all features related to route planning. You will achieve a more efficient workflow focused entirely on monitoring delivery missions and machines.
+No-Route mode is designed for companies that prioritize mission management and traceability over complex route optimization. This mode simplifies the user interface by automatically hiding all features related to route planning. You will achieve a more efficient workflow focused entirely on monitoring delivery missions and missions
 
 #### Getting Started
 
