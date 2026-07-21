@@ -124,5 +124,5 @@
     * [Customizing Workflow](case-studies/noroute/customizeworkflow.md)
     * [Manage the Depots](images/images/managethedepots.md)
     * [Shuttle Management](images/shuttlemanagement.md)
-    * [Assign to Subcontractors](case-studies/noroute/assign-to-subcontractors.md)
-    * [Iframe Configuration](images/images/iframeconfiguration.md)
+    * [Assign to Subcontractors](case-studies/noroute/assign-to-subcontractors/README.md)
+      * [Iframe Configuration](case-studies/noroute/assign-to-subcontractors/iframeconfiguration.md)
