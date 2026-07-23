@@ -1,6 +1,6 @@
-# Manage the Depots
+# Manage the Depots / Buildings
 
-Manage Depots allows you to control building access and visibility for your team. This feature ensures dispatchers and employees see only the relevant locations for their daily operations. You will achieve a streamlined workflow by mapping specific buildings to the right users.
+Manage Depots / Buildings allows you to control building access and visibility for your team. This feature ensures dispatchers and employees see only the relevant locations for their daily operations. You will achieve a streamlined workflow by mapping specific buildings to the right users.
 
 #### Getting Started
 
@@ -15,12 +15,12 @@ Prerequisites and initial setup steps:
 
 #### Feature Overview
 
-* **Manage the Depots**: This option under the **Delivery** section allows you to view and organize building assignments.
+* **Manage the Depots /** **Buildings**: This option under the **Delivery** section allows you to view and organize building assignments.
 * **Roles and Rights**: A sub-menu within a user profile where you toggle specific feature permissions.
 * **Location Dropdown**: A selection menu in the user profile used to map a specific building to an employee.
 * **Quick Access Building Selector**: A tool in the top right corner for rapid building switching.
 
-#### How To: Enable Depot Management
+#### How To: Enable Depot / Building Management
 
 1. Navigate to the **Configuration** page and click **Manage Users**.
 

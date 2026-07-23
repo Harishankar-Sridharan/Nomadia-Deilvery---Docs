@@ -122,7 +122,7 @@
   * [Reverse Logistics](case-studies/Case_studies-Reverse_Logistics.md)
   * [No Route Mode](case-studies/noroute/README.md)
     * [Customizing Workflow](case-studies/noroute/customizeworkflow.md)
-    * [Manage the Depots](images/images/managethedepots.md)
+    * [Manage the Depots / Buildings](images/images/managethedepots.md)
     * [Shuttle Management](images/shuttlemanagement.md)
     * [Assign to Subcontractors](case-studies/noroute/assign-to-subcontractors/README.md)
       * [Iframe Configuration](case-studies/noroute/assign-to-subcontractors/iframeconfiguration.md)
