@@ -6,8 +6,11 @@ Configure iFrame settings for subcontractors within Nomadia Delivery to embed ex
 
 * Access to the Nomadia Delivery dashboard.
 * A valid machine URL or mission ID.
-* Navigate to the **Subcontractors** menu.
-* Locate the list of users on the screen.
+
+#### Steps
+
+1. Navigate to the **Subcontractors** menu.
+2. Locate the list of users on the screen.
 
 <figure><img src="../../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
 
