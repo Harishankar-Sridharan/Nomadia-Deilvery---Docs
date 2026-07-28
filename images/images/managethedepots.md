@@ -1,6 +1,6 @@
 # Manage the Depots / Buildings
 
-Manage Depots / Buildings allows you to control building access and visibility for your team. This feature ensures dispatchers and employees see only the relevant locations for their daily operations. You will achieve a streamlined workflow by mapping specific buildings to the right users.
+Manage the Depots / Buildings allows you to control building access and visibility for your team. This feature ensures dispatchers and employees see only the relevant locations for their daily operations. You will achieve a streamlined workflow by mapping specific buildings to the right users.
 
 #### Getting Started
 
@@ -8,8 +8,11 @@ Prerequisites and initial setup steps:
 
 * Administrative access to the **Configuration** page.
 * Active user accounts created in the system.
-* Open the **Configuration** page.
-* Select **Manage Users**.
+
+#### Steps
+
+1. Open the **Configuration** page.
+2. Select **Manage Users**.
 
 ![](../../.gitbook/assets/managethedepots-managethedepots_timestamp_0_to_10.png)
 
@@ -44,11 +47,11 @@ Prerequisites and initial setup steps:
 ![](../../.gitbook/assets/managethedepots-managethedepots_timestamp_1_to_07.png)
 
 3. Select the building from the list.
-4. Refresh the page to confirm the mapping reflects in the **Manage Users** table.
+4. Refresh the page to confirm the mapping is reflected in the **Manage Users** table.
 
 ![](../../.gitbook/assets/managethedepots-managethedepots_timestamp_1_to_22_to_1_to_41.gif)
 
 #### Productivity Tips
 
 * 💡 **Quick Access**: Use the top right corner selector to switch buildings instantly without entering user settings.
-* ⚠️ **Mobile Sync**: Changes made in the mobile application will automatically update the back office settings.
+* 💡**Mobile Sync**: Changes made in the mobile application will automatically update the back office settings.
