@@ -6,10 +6,13 @@ This feature allows you to communicate directly with subcontractors through an i
 
 * Access to the **Missions** page.
 * A pre-configured subcontractor URL set in your system settings.
-* Navigate to the **Missions** page.
-* Select the desired **Mission** from the list.
-* Click on **Actions**.
-* Click on **Assign to subcontractor**.
+
+#### Steps
+
+1. Navigate to the **Missions** page.
+2. Select the desired **Mission** from the list.
+3. Click on **Actions**.
+4. Click on **Assign to subcontractor**.
 
 ![](../../.gitbook/assets/intractingwithiframe-interactingwithiframe_timestamp_0_to_08_to_0_to_12.gif)
 
