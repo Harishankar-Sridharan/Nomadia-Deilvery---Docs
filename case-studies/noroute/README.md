@@ -1,13 +1,16 @@
 # No Route Mode
 
-No-Route mode is designed for companies that prioritize mission management and traceability over complex route optimization. This mode simplifies the user interface by automatically hiding all features related to route planning. You will achieve a more efficient workflow focused entirely on monitoring delivery missions and missions
+No-Route mode is designed for companies that prioritize mission management and traceability over complex route optimization. This mode simplifies the user interface by automatically hiding all features related to route planning. You will achieve a more efficient workflow focused entirely on monitoring delivery missions.&#x20;
 
 #### Getting Started
 
 * Active **Nomadia Delivery** account.
-* User profile configured for No-Route access.
-* Sign in using your No-Route account credentials.
-* Verify the navigation bar shows only essential modules such as Home, Missions, Dashboard and Configuration.
+* User profile configured for No Route access.
+
+#### **Steps**
+
+1. Sign in using your No Route account credentials.
+2. Verify the navigation bar shows only essential modules such as Home, Missions, Dashboard and Configuration.
 
 <figure><img src="../../.gitbook/assets/noroute-noroute_timestamp_0_to_21 (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -23,7 +26,7 @@ No-Route mode is designed for companies that prioritize mission management and t
 #### How To: Track Missions
 
 1. Select the **Missions** module from the main navigation menu.
-2. Click the **Maps** tab to visualize machine locations.
+2. Click the **Maps** tab to visualize mission locations.
 3. Tap the **Details** tab to inspect mission-specific data.
 
 <figure><img src="../../.gitbook/assets/noroute-noroute_timestamp_1_to_20 (1).png" alt=""><figcaption></figcaption></figure>
@@ -31,4 +34,4 @@ No-Route mode is designed for companies that prioritize mission management and t
 #### Productivity Tips
 
 * 💡 **Operational Efficiency**: Hiding route planning features provides a cleaner interface to focus on mission monitoring.
-* ⚠️ **Feature Limitations**: Avoid seeking **Road Simulation** or **Fulfillment** tabs, as these are exclusive to route optimization accounts.
+* ⚠️ **Feature Limitations**: Note that the Road Simulation and Fulfillment tabs are not available in No-Route mode.&#x20;
