@@ -6,11 +6,14 @@ The customized workflow feature allows you to define how mission statuses progre
 
 * Access to the **Configuration** page.
 * Administrative permissions to modify system tables.
-* Open the **Configuration** page.
-* Click on **Customize Status Tables and Workflow**.
-* To learn more about customizing labels, refer to the following link
 
-[https://app.gitbook.com/o/oWGpSeZsFYIlc5oQ3d3d/s/OZAbiFSFd1RKuejzxr5e/8-6-missions/customizing-status-labels](../../8-6-missions/customizing-status-labels.md)
+#### Steps
+
+1. Open the **Configuration** page.
+2. Click on **Customize Status Tables and Workflow**.
+3. To learn more about customizing labels, refer to the following link
+
+[customizing-status-labels](https://app.gitbook.com/o/oWGpSeZsFYIlc5oQ3d3d/s/OZAbiFSFd1RKuejzxr5e/8-6-missions/customizing-status-labels)
 
 * Click the **Workflow** tab.
 
@@ -28,12 +31,12 @@ The customized workflow feature allows you to define how mission statuses progre
 2. Assign a user role from the **Profile** dropdown to control who can change the status.
 3. Select which target statuses the mission can transition to, such as **DIS collected** or **EXP log collected**.
 4. Configure the next transition, such as allowing a **Dispatch User** to scan a mission and change it to **Delivered**.
-5. Click on **Save** to modify the changes.
+5. Click on **Save** to apply the changes.
 
-**Note**: The **Workflow** page allows users to configure the mission status flow. they can define which statuses a mission can transition between and specify the **user profiles** that are authorized to perform each status change. This provides complete control over the delivery workflow by ensuring that only designated profiles can execute specific status transitions.
+**Note**: The **Workflow** page allows users to configure the mission status flow. They can define which statuses a mission can transition between and specify the **user profiles** that are authorized to perform each status change. This provides complete control over the delivery workflow by ensuring that only designated profiles can execute specific status transitions.
 
 <figure><img src="../../.gitbook/assets/msedge_lDhxFtHrRp.png" alt=""><figcaption></figcaption></figure>
 
 #### Productivity Tips
 
-* ⚠️ **Unsaved Changes**: Always click the Save button after making adjustments to ensure the mission workflow updates.
+* ⚠️ **Unsaved Changes**: Always click the Save button after making adjustments to ensure the workflow changes are saved
