@@ -6,7 +6,11 @@ Shuttle management allows you to organize and name your transportation fleet res
 
 * Access to the **Nomadia Delivery** dashboard.
 * Administrative permissions to edit **Custom Fields** and **Missions**.
-* Log in to your account and navigate to the **Configuration** menu.
+
+#### Steps
+
+1. Log in to your account.&#x20;
+2. Navigate to the **Configuration** menu.
 
 ![](../.gitbook/assets/shuttlemanagement-shuttlemanagement_timestamp_0_to_14.png)
 
@@ -17,7 +21,7 @@ Shuttle management allows you to organize and name your transportation fleet res
 * **Pencil Icon**: The edit button used to modify the names of existing shuttles.
 * **Missions**: The module where all fleet units and hardware are listed and managed.
 * **Actions**: A button that opens a menu of mass-management tools for selected items.
-* **Bulk Edit**: A tool to apply the same change to multiple machines simultaneously.
+* **Bulk Edit**: A tool to apply the same change to multiple missions simultaneously.
 
 #### How To: Update Shuttle Names
 
@@ -51,11 +55,11 @@ Shuttle management allows you to organize and name your transportation fleet res
 
 ![](../.gitbook/assets/shuttlemanagement-shuttlemanagement_timestamp_1_to_02_to_1_to_07.gif)
 
-7. Select one shuttle name from the list.
-8. Click on **Save**.
+6. Select one shuttle name from the list.
+7. Click on **Save**.
 
 ![](../.gitbook/assets/shuttlemanagement-shuttlemanagement_timestamp_1_to_12_to_1_to_20.gif)
 
 #### Productivity Tips
 
-* 💡 **Bulk Updates**: Save time by using the **Bulk Edit** feature to assign the same shuttle to multiple machines at once.
+* 💡 **Bulk Updates**: Save time by using the **Bulk Edit** feature to assign the same shuttle to multiple missions at once.
