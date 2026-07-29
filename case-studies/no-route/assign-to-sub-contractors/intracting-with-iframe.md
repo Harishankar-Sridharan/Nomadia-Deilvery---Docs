@@ -14,7 +14,7 @@ This feature allows you to communicate directly with subcontractors through an i
 3. Click on **Actions**.
 4. Click on **Assign to subcontractor**.
 
-![](../../.gitbook/assets/intractingwithiframe-interactingwithiframe_timestamp_0_to_08_to_0_to_12.gif)
+![](../../../.gitbook/assets/intractingwithiframe-interactingwithiframe_timestamp_0_to_08_to_0_to_12.gif)
 
 #### Feature Overview
 
@@ -31,7 +31,7 @@ This feature allows you to communicate directly with subcontractors through an i
 3. Click **Send Message**.
 4. Review the "subcontractor has been passed" popup.
 
-![](../../.gitbook/assets/intractingwithiframe-interactingwithiframe_timestamp_0_to_47.png)
+![](../../../.gitbook/assets/intractingwithiframe-interactingwithiframe_timestamp_0_to_47.png)
 
 **Sending a Warning**
 
@@ -40,7 +40,7 @@ This feature allows you to communicate directly with subcontractors through an i
 3. Click **Send message only**.
 4. Review the "Check the email once again" popup.
 
-<figure><img src="../../.gitbook/assets/msedge_yRIqPdB2XL.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/msedge_yRIqPdB2XL.png" alt=""><figcaption></figcaption></figure>
 
 **Sending an Error**&#x20;
 
@@ -49,7 +49,7 @@ This feature allows you to communicate directly with subcontractors through an i
 3. Click **Send message only**.
 4. Review the Error message popup.
 
-<figure><img src="../../.gitbook/assets/msedge_kcVhfukPpx.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/msedge_kcVhfukPpx.png" alt=""><figcaption></figcaption></figure>
 
 **Finalizing a Successful Assignment**
 
@@ -58,14 +58,14 @@ This feature allows you to communicate directly with subcontractors through an i
 3. Click **Send message only**.
 4. Review the "subcontractor has been successful" popup.
 
-![](../../.gitbook/assets/intractingwithiframe-interactingwithiframe_timestamp_2_to_15.png)
+![](../../../.gitbook/assets/intractingwithiframe-interactingwithiframe_timestamp_2_to_15.png)
 
 **Exiting the Interface**
 
 1. Refresh the page once tasks are complete.
 2. Close the popup.
 
-![](../../.gitbook/assets/intractingwithiframe-interactingwithiframe_timestamp_2_to_19_to_2_to_30.gif)
+![](../../../.gitbook/assets/intractingwithiframe-interactingwithiframe_timestamp_2_to_19_to_2_to_30.gif)
 
 #### Productivity Tips
 

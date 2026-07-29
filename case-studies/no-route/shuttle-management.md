@@ -12,7 +12,7 @@ Shuttle management allows you to organize and name your transportation fleet res
 1. Log in to your account.&#x20;
 2. Navigate to the **Configuration** menu.
 
-![](../.gitbook/assets/shuttlemanagement-shuttlemanagement_timestamp_0_to_14.png)
+![](../../.gitbook/assets/shuttlemanagement-shuttlemanagement_timestamp_0_to_14.png)
 
 #### Feature Overview
 
@@ -27,38 +27,38 @@ Shuttle management allows you to organize and name your transportation fleet res
 
 1. Go to **Configuration**.
 
-![](../.gitbook/assets/shuttlemanagement-shuttlemanagement_timestamp_0_to_00_to_0_to_14.gif)
+![](../../.gitbook/assets/shuttlemanagement-shuttlemanagement_timestamp_0_to_00_to_0_to_14.gif)
 
 2. Click **Custom Fields**.
 3. Click the **Pencil Icon** next to the shuttle field name.
 
-![](../.gitbook/assets/shuttlemanagement-shuttlemanagement_timestamp_0_to_23.png)
+![](../../.gitbook/assets/shuttlemanagement-shuttlemanagement_timestamp_0_to_23.png)
 
 4. Modify the list of shuttle names as needed.
 5. Click on **Save**.
 
-![](../.gitbook/assets/shuttlemanagement-shuttlemanagement_timestamp_0_to_28_to_0_to_38.gif)
+![](../../.gitbook/assets/shuttlemanagement-shuttlemanagement_timestamp_0_to_28_to_0_to_38.gif)
 
 #### How To: Assign Shuttles to Missions
 
 1. Go to **Missions**.
 2. Select the checkbox for the missions you want to update.
 
-![](../.gitbook/assets/shuttlemanagement-shuttlemanagement_timestamp_0_to_38_to_0_to_50.gif)
+![](../../.gitbook/assets/shuttlemanagement-shuttlemanagement_timestamp_0_to_38_to_0_to_50.gif)
 
 3. Click on **Actions**.
 4. Click on **Bulk Edit**.
 
-![](../.gitbook/assets/shuttlemanagement-shuttlemanagement_timestamp_1_to_02.png)
+![](../../.gitbook/assets/shuttlemanagement-shuttlemanagement_timestamp_1_to_02.png)
 
 5. Click the drop-down menu next to **Shuttle Names**.
 
-![](../.gitbook/assets/shuttlemanagement-shuttlemanagement_timestamp_1_to_02_to_1_to_07.gif)
+![](../../.gitbook/assets/shuttlemanagement-shuttlemanagement_timestamp_1_to_02_to_1_to_07.gif)
 
 6. Select one shuttle name from the list.
 7. Click on **Save**.
 
-![](../.gitbook/assets/shuttlemanagement-shuttlemanagement_timestamp_1_to_12_to_1_to_20.gif)
+![](../../.gitbook/assets/shuttlemanagement-shuttlemanagement_timestamp_1_to_12_to_1_to_20.gif)
 
 #### Productivity Tips
 
