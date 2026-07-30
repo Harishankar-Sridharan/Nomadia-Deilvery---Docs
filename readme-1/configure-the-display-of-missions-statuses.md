@@ -6,7 +6,7 @@ From the **Home page**,
 
 1. Click the **Account icon** located at the top-right corner of the screen.
 2. From the dropdown menu, select **My Preferences**.
-3. Choose up to five statuses of the Mission Stats on the Home page to display from the following options: **Waiting, Not Received, Not Delivered, To Be Delivered** and **Loaded**
+3. Choose up to five statuses of the Mission Stats on the Home page to display from the following options: **Created, Loaded, Delivered, Not delivered and Pickup**
 4. After selecting the desired statuses, click on **Save**.
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
