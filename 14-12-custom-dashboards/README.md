@@ -29,8 +29,6 @@ To set up a custom dashboard, users (transporters or subcontractors) should foll
 
 ![](<../.gitbook/assets/image-3 (10).png>)
 
-![](<../.gitbook/assets/image-4 (10).png>)
-
 4. Optionally, set the dashboard as your home page dashboard by activating the toggle. This can later be accessed via Profile → My Preferences.
 
 **Note**: Home page dashboards can include a maximum of 10 KPIs. The selected dashboard will dis
@@ -76,9 +74,6 @@ To set up a custom dashboard, users (transporters or subcontractors) should foll
 ![](<../.gitbook/assets/image-14 (8).png>)
 
 15. To edit a widget, click it, select the KPI (e.g., Missions Delivered), update the title (e.g., Mission Delivered by Users), and choose the representation (e.g., Horizontal Bar).
-
-![](<../.gitbook/assets/image-15 (8).png>)
-
 16. Set aggregation options (e.g., Aggregated by Users) to display data according to mobile users.
 17. Continue adding all required KPIs, applying different representations and aggregations, to complete the dashboard.
 18. Once finalized, click ‘Save’ to save all changes.
