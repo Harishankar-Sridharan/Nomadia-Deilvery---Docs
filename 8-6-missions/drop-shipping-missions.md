@@ -95,9 +95,6 @@ Deliveries are permitted only after all pickups are completed, preventing disrup
 <figure><img src="../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
 
 11. If conflicts occur, the popup will list all problems detected. In such cases, click ‘**Force**’ to proceed with validation.
-
-<figure><img src="../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
-
 12. The validated route with drop-shipping missions is then published to the mobile app.
 
 <figure><img src="../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
