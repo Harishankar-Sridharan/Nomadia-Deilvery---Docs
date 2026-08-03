@@ -53,9 +53,6 @@ To arrange custom field groups in the desired order:
 
     <figure><img src="../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
 * The mission form updates automatically based on selected fields.
-
-<figure><img src="../.gitbook/assets/image (32) (1).png" alt=""><figcaption></figcaption></figure>
-
 *   Use drag and drop to:
 
     * Reorder custom field groups.
