@@ -65,7 +65,7 @@ Deliveries are permitted only after all pickups are completed, preventing disrup
 
 <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-3. Once you are satisfied with the results, click ‘**Stop and see the result**’.
+3. Once you are satisified, **"click stop to see the result"**
 
 <figure><img src="../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
 
