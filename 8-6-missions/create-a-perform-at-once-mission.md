@@ -13,4 +13,4 @@
 
 4. The system generates a Grouping Key for the selected missions.
 
-<figure><img src="../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/msedge_q4LQpjn95n.png" alt=""><figcaption></figcaption></figure>
