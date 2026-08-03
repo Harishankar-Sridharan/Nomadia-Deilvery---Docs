@@ -21,7 +21,7 @@ Each log entry displays important information, including:
 * Manual scan indicator
 * Additional proof of execution data
 
-<figure><img src="../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
 
 ### Expanding Event Details
 
@@ -35,7 +35,7 @@ The expanded view may include:
 * Manual scan status
 * Additional operational details
 
-<figure><img src="../.gitbook/assets/msedge_74TsbS55tT.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
 
 ### Viewing Delivery Proof
 
