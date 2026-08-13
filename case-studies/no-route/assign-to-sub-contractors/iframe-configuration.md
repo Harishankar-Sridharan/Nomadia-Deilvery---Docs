@@ -27,13 +27,13 @@ Configure iFrame settings for subcontractors within Nomadia Delivery to embed ex
 
 ![](../../../.gitbook/assets/iframeconfiguration-iframeconfiguration_timestamp_0_to_10_to_0_to_18.gif)
 
-3. Replace the existing URL with your machine URL or mission ID.
+2. Replace the existing URL with your machine URL or mission ID.
 
 ![](../../../.gitbook/assets/iframeconfiguration-iframeconfiguration_timestamp_0_to_18_to_0_to_30.gif)
 
-4. Set the **iFrame width** value.
-5. Set the **iFrame height** value.
-6. Click on **save** to save the modifications.
+3. Set the **iFrame width** value.
+4. Set the **iFrame height** value.
+5. Click on **save** to save the modifications.
 
 ![](../../../.gitbook/assets/iframeconfiguration-iframeconfiguration_timestamp_0_to_37.png)
 
