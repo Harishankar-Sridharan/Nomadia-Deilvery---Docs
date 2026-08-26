@@ -127,4 +127,4 @@
     * [Assign to Subcontractors](case-studies/no-route/assign-to-sub-contractors/README.md)
       * [Iframe Configuration](case-studies/no-route/assign-to-sub-contractors/iframe-configuration.md)
       * [Interacting with Iframe](case-studies/no-route/assign-to-sub-contractors/intracting-with-iframe.md)
-      * [Customize the Status Hierarchy](customizethestatushierarchy/customizethestatushierarchy.md)
+    * [Customize the Status Hierarchy](case-studies/no-route/customizethestatushierarchy.md)
