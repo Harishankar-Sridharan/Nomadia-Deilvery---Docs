@@ -31,7 +31,11 @@ The customized workflow feature allows you to define how mission statuses progre
 2. Assign a user role from the **Profile** dropdown to control who can change the status.
 3. Select which target statuses the mission can transition to, such as **DIS collected** or **EXP log collected**.
 4. Configure the next transition, such as allowing a **Dispatch User** to scan a mission and change it to **Delivered**.
-5. Click on **Save** to apply the changes.
+5. When transitioning from one status to another, the **Reset Custom Fields** option must be set to **null**.
+
+<figure><img src="../../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
+
+6. Click on **Save** to apply the changes.
 
 **Note**: The **Workflow** page allows users to configure the mission status flow. They can define which statuses a mission can transition between and specify the **user profiles** that are authorized to perform each status change. This provides complete control over the delivery workflow by ensuring that only designated profiles can execute specific status transitions.
 
