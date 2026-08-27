@@ -85,6 +85,7 @@
 * [Manage Notifications](manage-notifications/README.md)
   * [Email](manage-notifications/email.md)
   * [Customize Email Templates](manage-notifications/customize-email-templates.md)
+  * [Custom Templates](customtemplates/customtemplates.md)
   * [Custom Templates](customtemplates)
   * [SMS](manage-notifications/sms.md)
 * [Manage Studies & Zones:](manage-studies-and-zones/README.md)
