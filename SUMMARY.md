@@ -84,7 +84,7 @@
   * [Accessing eCMR](manage-document-templates/accessing-ecmr.md)
 * [Manage Notifications](manage-notifications/README.md)
   * [Email](manage-notifications/email.md)
-  * [custom Templates](customtemplates/customtemplates.md)
+  * [Custom Templates](customtemplates/customtemplates.md)
   * [Customize Email Templates](manage-notifications/customize-email-templates.md)
   * [SMS](manage-notifications/sms.md)
 * [Manage Studies & Zones:](manage-studies-and-zones/README.md)
