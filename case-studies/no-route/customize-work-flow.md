@@ -13,7 +13,7 @@ The customized workflow feature allows you to define how mission statuses progre
 2. Click on **Customize Status Tables and Workflow**.
 3. To learn more about customizing labels, refer to the following link
 
-[customizing-status-labels](https://app.gitbook.com/o/oWGpSeZsFYIlc5oQ3d3d/s/OZAbiFSFd1RKuejzxr5e/8-6-missions/customizing-status-labels)
+[customizing-status-labels](../../8-6-missions/customizing-status-labels.md)
 
 * Click the **Workflow** tab.
 
@@ -21,8 +21,8 @@ The customized workflow feature allows you to define how mission statuses progre
 
 #### Feature Overview
 
-* **Workflow Mapping**: Define which status can be changed to a specific next status.&#x20;
-* **Proximity Toggle**: Check if a deliverer is at the expected location by toggling **Yes** or **No**.&#x20;
+* **Workflow Mapping**: Define which status can be changed to a specific next status.
+* **Proximity Toggle**: Check if a deliverer is at the expected location by toggling **Yes** or **No**.
 * **Profile Definition**: Restrict specific status changes to authorized roles, such as a **Dispatch User**.
 
 #### How To: Customize a Mission Workflow
