@@ -1,8 +1,6 @@
 # Customize Email Templates
 
-### Customize Email Templates
-
-In Nomadia Delivery, custom notification templates enable planners to personalize communication with end customers according to mission parameters such as customer type or package value. This capability improves operational transparency and boosts customer satisfaction by ensuring timely and relevant messages are delivered.
+In Nomadia Delivery, custom email templates enable planners to personalize communication with end customers according to mission parameters such as customer type or package value. This capability improves operational transparency and boosts customer satisfaction by ensuring timely and relevant messages are delivered.
 
 Default templates
 
