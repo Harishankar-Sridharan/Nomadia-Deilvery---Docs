@@ -75,6 +75,7 @@
   * [Container child missions](manage-container-types/container-child-missions.md)
   * [Group existing missions in one container](manage-container-types/group-existing-missions-in-one-container.md)
   * [Group missions while creation](manage-container-types/group-missions-in-one-container.md)
+  * [Parent to Child Inheritance](parenttochildinheritance/parenttochildinheritance.md)
   * [Group notifications for container missions](groupnotificationsforthecontainermissions/groupnotificationsforthecontainermissions.md)
 * [Manage document library](manage-document-library/README.md)
   * [Manage Mission documents](manage-document-library/manage-mission-documents.md)
