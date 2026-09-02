@@ -13,15 +13,15 @@ Initial Setup Steps:
 
 1. Go to **Configuration**.
 
-![](<../../.gitbook/assets/customtemplates-customtemplates_timestamp_0_to_07_to_0_to_21 (1).gif>)
+![](../../.gitbook/assets/customtemplates-customtemplates_timestamp_0_to_07_to_0_to_21.gif)
 
 2. Scroll down and click **Configure outgoing messages**.
 
-![](<../../.gitbook/assets/customtemplates-customtemplates_timestamp_0_to_07_to_0_to_21 (1).gif>)
+![](../../.gitbook/assets/customtemplates-customtemplates_timestamp_0_to_07_to_0_to_21.gif)
 
 3. Click **Email templates** on the left side of the screen.
 
-![](<../../.gitbook/assets/customtemplates-customtemplates_timestamp_0_to_21_to_0_to_28 (1).gif>)
+![](../../.gitbook/assets/customtemplates-customtemplates_timestamp_0_to_21_to_0_to_28.gif)
 
 #### Feature Overview
 
@@ -38,47 +38,47 @@ Initial Setup Steps:
 
 1. Go to **Configuration**.
 
-![](<../../.gitbook/assets/customtemplates-customtemplates_timestamp_0_to_07_to_0_to_21 (1).gif>)
+![](../../.gitbook/assets/customtemplates-customtemplates_timestamp_0_to_07_to_0_to_21.gif)
 
 2. Scroll down and click **Configure outgoing messages**.
 
-![](<../../.gitbook/assets/customtemplates-customtemplates_timestamp_0_to_07_to_0_to_21 (1).gif>)
+![](../../.gitbook/assets/customtemplates-customtemplates_timestamp_0_to_07_to_0_to_21.gif)
 
 3. Click **Email templates** on the left side of the screen.
 
-![](<../../.gitbook/assets/customtemplates-customtemplates_timestamp_0_to_21_to_0_to_28 (1).gif>)
+![](../../.gitbook/assets/customtemplates-customtemplates_timestamp_0_to_21_to_0_to_28.gif)
 
 4. Click **Actions**.
 
-![](<../../.gitbook/assets/customtemplates-customtemplates_timestamp_0_to_28_to_0_to_31 (1).gif>)
+![](../../.gitbook/assets/customtemplates-customtemplates_timestamp_0_to_28_to_0_to_31.gif)
 
 5. Click **Add**.
 
-![](<../../.gitbook/assets/customtemplates-customtemplates_timestamp_0_to_31_to_0_to_36 (1).gif>)
+![](../../.gitbook/assets/customtemplates-customtemplates_timestamp_0_to_31_to_0_to_36.gif)
 
 6. Click **Custom template** to select your custom template.
 
-![](<../../.gitbook/assets/customtemplates-customtemplates_timestamp_0_to_36_to_0_to_46 (1).gif>)
+![](../../.gitbook/assets/customtemplates-customtemplates_timestamp_0_to_36_to_0_to_46.gif)
 
 7. Enter a unique template name in the **Identifier** field.
 
-![](<../../.gitbook/assets/customtemplates-customtemplates_timestamp_1_to_04 (1).png>)
+![](../../.gitbook/assets/customtemplates-customtemplates_timestamp_1_to_04.png)
 
 8. Enter your subject line in the **Email subject** field.
 
-![](<../../.gitbook/assets/customtemplates-customtemplates_timestamp_1_to_14 (1).png>)
+![](../../.gitbook/assets/customtemplates-customtemplates_timestamp_1_to_14.png)
 
 9. Toggle the mode switch from **Standard mode** to **Advanced mode** if desired.
 
-![](<../../.gitbook/assets/customtemplates-customtemplates_timestamp_1_to_14_to_1_to_22 (1).gif>)
+![](../../.gitbook/assets/customtemplates-customtemplates_timestamp_1_to_14_to_1_to_22.gif)
 
 10. Type your template text in the **Message** field.
 
-![](<../../.gitbook/assets/customtemplates-customtemplates_timestamp_1_to_29 (1).png>)
+![](../../.gitbook/assets/customtemplates-customtemplates_timestamp_1_to_29.png)
 
 11. Click **Save** in the top right corner to save your changes.
 
-![](<../../.gitbook/assets/customtemplates-customtemplates_timestamp_1_to_29_to_2_to_01 (1).gif>)
+![](../../.gitbook/assets/customtemplates-customtemplates_timestamp_1_to_29_to_2_to_01.gif)
 
 #### Productivity Tips
 
