@@ -43,6 +43,15 @@ The vehicle fleets have been imported successfully.
 ![](../.gitbook/assets/image-41.png)
 
 6. Enter the Name and Agency name
+
+When adding a vehicle, enable the **Dedicated start address** toggle to edit the **Start address** and **End address** fields.
+
+<figure><img src="../.gitbook/assets/image (179).png" alt=""><figcaption></figcaption></figure>
+
+The address field have been enabled to modify it.&#x20;
+
+<figure><img src="../.gitbook/assets/image (184).png" alt=""><figcaption></figcaption></figure>
+
 7. Click on Add
 
 ![](../.gitbook/assets/image-42.png)
