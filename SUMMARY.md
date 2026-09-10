@@ -62,6 +62,7 @@
     * [View a Mission information](8-6-missions/understanding-the-missions-page/view-a-mission-information.md)
 * [Routes](8-6-missions-1/README.md)
   * [Manual Route Creation](8-6-missions-1/manualroutecreation.md)
+  * [Finish the Route](finishtheroute.md)
 * [Contractors](9-7-contractors/README.md)
   * [Register a Contractor](9-7-contractors/registration.md)
   * [Create a Contractor User](9-7-contractors/a-configuration-user-type.md)
