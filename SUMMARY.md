@@ -66,6 +66,7 @@
   * [Finish the Route](finishtheroute.md)
   * [Table view](tableview.md)
   * [Gantt View](ganttview.md)
+  * [Route Editor](routeeditor.md)
 * [Contractors](9-7-contractors/README.md)
   * [Register a Contractor](9-7-contractors/registration.md)
   * [Create a Contractor User](9-7-contractors/a-configuration-user-type.md)
