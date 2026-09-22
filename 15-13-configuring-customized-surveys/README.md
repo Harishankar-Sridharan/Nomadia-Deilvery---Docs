@@ -100,3 +100,14 @@ Analysing Survey Responses
 6. Review and analyse survey responses in real time.
 
 ![](<../.gitbook/assets/image-19 (7).png>)
+
+Configure Vehicle Photos
+
+1. Go to **Configuration** and select **Configure the surveys**.
+2. Click the **pencil icon** to modify the required survey.
+3. Enable the **Capture vehicle photos** option.
+4. Specify the **number of photos** to be displayed.
+
+<figure><img src="../.gitbook/assets/image (185).png" alt=""><figcaption></figcaption></figure>
+
+The configured photo fields are displayed on the **Survey** page of the route.
