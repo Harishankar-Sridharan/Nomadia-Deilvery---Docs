@@ -99,6 +99,7 @@
   * [Email](manage-notifications/email.md)
   * [Customize Email Templates](manage-notifications/customize-email-templates/README.md)
     * [Custom Templates](manage-notifications/customize-email-templates/customtemplates.md)
+    * [Alert Management](alertmanagement.md)
   * [SMS](manage-notifications/sms.md)
 * [Manage Studies & Zones:](manage-studies-and-zones/README.md)
   * [Manage Postal Zones](manage-studies-and-zones/manage-postal-zones.md)
