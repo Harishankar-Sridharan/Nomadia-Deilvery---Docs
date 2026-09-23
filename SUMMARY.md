@@ -51,6 +51,7 @@
   * [Prioritizing a mission](8-6-missions/prioritizing-a-mission.md)
   * [Automatic Priority via Delivery Dates](8-6-missions/automatic-priority-via-delivery-dates.md)
   * [Visit – A New Mission Type](8-6-missions/visit-a-new-mission-type.md)
+  * [Customize Mission Block Labels](customizemissionblocklabels.md)
   * [Import Missions](8-6-missions/import-missions/README.md)
     * [Improve the Missions addresses geocoding](8-6-missions/import-missions/improve-the-missions-addresses-geocoding.md)
   * [Understanding the Mission Parameters](8-6-missions/understanding-the-mission-parameters/README.md)
