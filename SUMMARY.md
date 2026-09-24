@@ -30,6 +30,7 @@
   * [Auto-Assign Missions to Deliverers](7-5-manage-users/auto-assign-missions-to-deliverers.md)
 * [Missions](8-6-missions/README.md)
   * [Adding a Mission](8-6-missions/adding-a-mission-beta.md)
+  * [Customize the Validation of Mission form fields](customizethevalidationofmissionformfields.md)
   * [Mission Logs](8-6-missions/mission-logs.md)
   * [Select Missions from the map](8-6-missions/select-missions-from-the-map.md)
   * [Bulk Edit Mission Data](8-6-missions/bulk-edit-mission-data.md)
