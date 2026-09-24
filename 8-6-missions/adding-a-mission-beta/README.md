@@ -14,19 +14,19 @@ To arrange custom field groups in the desired order:
   * Launch the Nomadia Delivery application.
   * Click on the **Configuration** tab from the top navigation bar.
 
-<figure><img src="../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Navigate to Missions**
   * Inside Configuration, select the **Missions** tab.
   * This section displays all mission-related settings.
 
-<figure><img src="../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Click Actions → Add**
   * Click the **Actions** button (top right or toolbar).
   * Select **Add** to create a new mission configuration.
 
-<figure><img src="../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Choose Mission Type and Agency**
   * Select the appropriate **Mission Type** from the dropdown.
@@ -35,13 +35,13 @@ To arrange custom field groups in the desired order:
   * Review the selected details.
   * Click **Next** to proceed to configuration settings.
 
-<figure><img src="../.gitbook/assets/image (27) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (27) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Edit Mission Configuration**
   * Click the **Pencil (Edit) icon** in the configuration screen.
   * This enables editing of fields and display settings.
 
-<figure><img src="../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Expand the **Custom fields** accordion:
   * All custom field groups are displayed as separate accordions.
@@ -51,27 +51,27 @@ To arrange custom field groups in the desired order:
 
     * Choose the required fields (e.g., address, contact, delivery notes).
 
-    <figure><img src="../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
 * The mission form updates automatically based on selected fields.
 *   Use drag and drop to:
 
     * Reorder custom field groups.
     * Control how they appear in the mission creation form.
 
-    <figure><img src="../.gitbook/assets/image (33) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (33) (1).png" alt=""><figcaption></figcaption></figure>
 *   To change field order within a group:
 
     * Enable fields using identifier or name.
 
-    <figure><img src="../.gitbook/assets/image (34) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (34) (1).png" alt=""><figcaption></figcaption></figure>
 *   Configure mandatory fields:
 
     * Toggle required fields as needed.
 
-    <figure><img src="../.gitbook/assets/image (35) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (35) (1).png" alt=""><figcaption></figcaption></figure>
 * Click **Save** to apply changes.
 
-<figure><img src="../.gitbook/assets/image (36) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (36) (1).png" alt=""><figcaption></figcaption></figure>
 
 * The same procedure can be used to activate custom fields for parcels.
 
@@ -87,7 +87,7 @@ To group missions within a container:
     * **Yes**: Automatically group missions when multiple parcels are added.
     * **No**: Do not group missions.
 
-    <figure><img src="../.gitbook/assets/image (37) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (37) (1).png" alt=""><figcaption></figcaption></figure>
 
     * **Optional**: Let the user decide during mission creation.
 *   If **Yes** is selected:
@@ -95,10 +95,10 @@ To group missions within a container:
     * Choose the default container type.
     * Only aggregable containers will be displayed.
 
-    <figure><img src="../.gitbook/assets/image (38) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (38) (1).png" alt=""><figcaption></figcaption></figure>
 * Click **Save** to apply changes.
 
-<figure><img src="../.gitbook/assets/image (36) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (36) (1).png" alt=""><figcaption></figcaption></figure>
 
 To add documents right after mission creation:
 
@@ -109,11 +109,11 @@ To add documents right after mission creation:
 * Click the **Pencil icon** to edit the configuration.
 * Enable the **Add documents** toggle.
 
-<figure><img src="../.gitbook/assets/image (40) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (40) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Click **Save** to apply changes.
 
-<figure><img src="../.gitbook/assets/image (36) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (36) (1).png" alt=""><figcaption></figcaption></figure>
 
 * If enabled:
   * The system prompts to add documents immediately after mission creation.
@@ -122,11 +122,11 @@ To add documents right after mission creation:
       * Local computer
       * Document library
 
-      <figure><img src="../.gitbook/assets/image (42) (1).png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../../.gitbook/assets/image (42) (1).png" alt=""><figcaption></figcaption></figure>
 * Click **Save** to attach documents.
 
-<figure><img src="../.gitbook/assets/image (43) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (43) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Documents are successfully added to the mission.
 
-<figure><img src="../.gitbook/assets/image (44) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (44) (1).png" alt=""><figcaption></figcaption></figure>
