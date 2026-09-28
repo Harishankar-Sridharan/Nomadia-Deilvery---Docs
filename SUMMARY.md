@@ -31,6 +31,7 @@
 * [Missions](8-6-missions/README.md)
   * [Adding a Mission](8-6-missions/adding-a-mission-beta/README.md)
     * [Customize the Validation of Mission form fields](8-6-missions/adding-a-mission-beta/customizethevalidationofmissionformfields.md)
+    * [Declaring Parcel for a container mmission](declaringaparcelforacontainermission.md)
   * [Mission Logs](8-6-missions/mission-logs.md)
   * [Select Missions from the map](8-6-missions/select-missions-from-the-map.md)
   * [Bulk Edit Mission Data](8-6-missions/bulk-edit-mission-data.md)
