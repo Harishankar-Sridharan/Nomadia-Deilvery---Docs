@@ -1,2 +1,0 @@
-# Manage Global Address List
-
