@@ -23,10 +23,10 @@ Nomadia Delivery allows you to manage an address list that serves as a master re
 
 8. Map the additional data fields in the address list, such as First Name, Last Name, Designation, Email, etc.
 
-![](<.gitbook/assets/image-27 (2).png>)
+<figure><img src=".gitbook/assets/image (216).png" alt=""><figcaption></figcaption></figure>
 
 9. After mapping all the required fields, click ‘Import’ to upload the address list to Nomadia Delivery.
 
-![](<.gitbook/assets/image-28 (2).png>)
+<figure><img src=".gitbook/assets/image (217).png" alt=""><figcaption></figcaption></figure>
 
 The address list shows all customers on a map according to their geographical location.
