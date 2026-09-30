@@ -14,3 +14,5 @@ From the Missions page:
 ![](<../../../.gitbook/assets/image-2 (3).png>)
 
 4. The filtered missions will be displayed on your Missions page.
+
+<figure><img src="../../../.gitbook/assets/image (224).png" alt=""><figcaption></figcaption></figure>
