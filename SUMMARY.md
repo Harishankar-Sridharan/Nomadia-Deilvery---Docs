@@ -62,7 +62,7 @@
     * [Manage Missions](8-6-missions/understanding-the-mission-parameters/manage-missions.md)
   * [Understanding the Missions Page](8-6-missions/understanding-the-missions-page/README.md)
     * [Pre-filters](8-6-missions/understanding-the-missions-page/pre-filters/README.md)
-      * [Page 1](8-6-missions/understanding-the-missions-page/pre-filters/page-1.md)
+      * [Set missions display (prefilter)](8-6-missions/understanding-the-missions-page/pre-filters/set-missions-display-prefilter.md)
     * [Change the order of mission status shortcuts](8-6-missions/understanding-the-missions-page/change-the-order-of-mission-status-shortcuts.md)
     * [Filter the Table using Criteria](8-6-missions/understanding-the-missions-page/filter-the-table-using-criteria.md)
     * [Search for a Mission](8-6-missions/understanding-the-missions-page/search-for-a-mission.md)
