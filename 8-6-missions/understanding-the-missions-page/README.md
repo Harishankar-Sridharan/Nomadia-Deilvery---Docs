@@ -27,12 +27,6 @@ From the Missions page:
 
 ![](<../../.gitbook/assets/image-3 (3).png>)
 
-### Pre-filters
-
-The Pre-filters on the Missions Page are dynamic sections that provide users with detailed and contextual information based on their current selection or interaction. These pre-filters enhance navigation and productivity by allowing quick access to relevant data without switching screens.
-
-![](<../../.gitbook/assets/image-4 (3).png>)
-
 ### Default Delivery statuses
 
 Below are an overview of the various mission statuses and their significance:

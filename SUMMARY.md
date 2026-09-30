@@ -61,6 +61,7 @@
   * [Understanding the Mission Parameters](8-6-missions/understanding-the-mission-parameters/README.md)
     * [Manage Missions](8-6-missions/understanding-the-mission-parameters/manage-missions.md)
   * [Understanding the Missions Page](8-6-missions/understanding-the-missions-page/README.md)
+    * [Page 1](8-6-missions/understanding-the-missions-page/page-1.md)
     * [Change the order of mission status shortcuts](8-6-missions/understanding-the-missions-page/change-the-order-of-mission-status-shortcuts.md)
     * [Filter the Table using Criteria](8-6-missions/understanding-the-missions-page/filter-the-table-using-criteria.md)
     * [Search for a Mission](8-6-missions/understanding-the-missions-page/search-for-a-mission.md)
