@@ -30,3 +30,17 @@ Nomadia Delivery allows you to manage an address list that serves as a master re
 <figure><img src=".gitbook/assets/image (217).png" alt=""><figcaption></figcaption></figure>
 
 The address list shows all customers on a map according to their geographical location.
+
+### **Setting the address type**
+
+1. Go to **Configuration**.
+2. Click **Address list**.
+3. Click the **pencil icon** next to the address you want to edit.
+4. Under **Contact**, select the **Address type**.
+
+<figure><img src=".gitbook/assets/image (219).png" alt=""><figcaption></figcaption></figure>
+
+**Note:** If you select **Pick up and delivery**, the address appears in both the pickup and delivery address lists. If you select only **Pick up** or only **Delivery**, the address appears only in the matching list when you enter an address.
+
+<figure><img src=".gitbook/assets/image (220).png" alt=""><figcaption></figcaption></figure>
+
