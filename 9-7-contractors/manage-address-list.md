@@ -39,3 +39,17 @@ The address list shows all customers on a map according to their geographical lo
 
 ![](<../.gitbook/assets/image-29 (2).png>)
 
+### **Setting the address type for a contractor**
+
+1. Go to **Contractors**.
+2. Click the **pencil icon** next to the **Contractor Identifier**.
+3. Click **Address list**.
+4. Click the **pencil icon** next to the address you want to edit.
+5. Under **Contact**, select the **Address type**.
+
+<figure><img src="../.gitbook/assets/image (221).png" alt=""><figcaption></figcaption></figure>
+
+**Note:** If you select **Pick up and delivery**, the address appears in both the pickup and delivery address lists. If you select only **Pick up** or only **Delivery**, the address appears only in the matching list when you enter an address.
+
+<figure><img src="../.gitbook/assets/image (222).png" alt=""><figcaption></figcaption></figure>
+
