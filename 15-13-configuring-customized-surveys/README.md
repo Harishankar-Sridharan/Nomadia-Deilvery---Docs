@@ -36,9 +36,9 @@ Survey Creator / Form Builder is a visual design tool that allows you to create 
 
 ![](<../.gitbook/assets/image-6 (9).png>)
 
-Additional Survey Configurations
+### Additional Survey Configurations
 
-For Contractors
+### For Contractors
 
 1. Open the Contractors tab in Nomadia Delivery.
 2. Edit a contractor by clicking the Pencil icon.
@@ -53,7 +53,7 @@ For Contractors
 
 ![](<../.gitbook/assets/image-9 (7).png>)
 
-For Subcontractors
+### For Subcontractors
 
 1. Open the Contractors tab.
 2. Edit a subcontractor by clicking the Pencil icon.
@@ -84,7 +84,7 @@ For Sub-Status
 
 ![](<../.gitbook/assets/image-16 (7).png>)
 
-Analysing Survey Responses
+### Analysing Survey Responses
 
 1. Open the Nomadia Delivery application and go to the Configuration tab.
 2. Select Configure the surveys from the drop-down.
@@ -101,7 +101,7 @@ Analysing Survey Responses
 
 ![](<../.gitbook/assets/image-19 (7).png>)
 
-Configure Vehicle Photos
+### Configure Vehicle Photos
 
 1. Go to **Configuration** and select **Configure the surveys**.
 2. Click the **pencil icon** to modify the required survey.
