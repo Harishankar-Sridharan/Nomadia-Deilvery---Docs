@@ -8,11 +8,11 @@
 | 2   | Customize Workflow            | [Customize Workflow > Reset Specific Custom Fields on Status Changes](../case-studies/no-route/customize-work-flow.md)                                           |
 | 3   | Manage Container Types        | [Manage Container Types > Group Notifications for Container Missions](../groupnotificationsforthecontainermissions/groupnotificationsforthecontainermissions.md) |
 | 4   | Manage Notifications          | [Manage Notifications > Customize Email Templates > Custom Templates](../manage-notifications/customize-email-templates/customtemplates.md)                      |
-| 5   | Manage Container Types        | Manage Container Types > Edit a Container Type                                                                                                                   |
-| 6   | Manage Container Types        | Manage Container Types > Parent to Child Inheritance                                                                                                             |
-| 7   | Manage Container Types        | Manage Container Types > Child to Parent Inheritance                                                                                                             |
-| 8   | Contractors                   | Contractors > Reception Management                                                                                                                               |
-| 9   | Contractors                   | Contractors > Customize the Address Visibility                                                                                                                   |
+| 5   | Manage Container Types        | [Manage Container Types > Edit a Container Type](../manage-container-types/edit-a-container-type.md)                                                             |
+| 6   | Manage Container Types        | [Manage Container Types > Parent to Child Inheritance](../parenttochildinheritance/parenttochildinheritance.md)                                                  |
+| 7   | Manage Container Types        | [Manage Container Types > Child to Parent Inheritance](../childtoparentinheritance/childtoparentinheritance.md)                                                  |
+| 8   | Contractors                   | [Contractors > Reception Management](../receptionmanagement/receptionmanagement.md)                                                                              |
+| 9   | Contractors                   | [Contractors > Customize the Address Visibility](../customizetheaddresslistvisibility/customizetheaddresslistvisibility.md)                                      |
 | 10  | Manage Vehicle Fleets         | Manage Vehicle Fleets > Add a Vehicle > Dedicate Start/End Address for Vehicles                                                                                  |
 | 11  | Routes                        | Routes > Manual Route Creation                                                                                                                                   |
 | 12  | Routes                        | Routes > Finish the Routes                                                                                                                                       |
