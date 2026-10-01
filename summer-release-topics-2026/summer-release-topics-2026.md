@@ -20,7 +20,7 @@
 | 14  | Routes                        | [Routes > Table View](../tableview.md)                                                                                                                           |
 | 15  | Routes                        | [Routes > Gantt View](../ganttview.md)                                                                                                                           |
 | 16  | Routes                        | [Routes > Route Editor](../routeeditor.md)                                                                                                                       |
-| 17  | Configuring Customized Survey | Configuring Customized Survey > Capture Vehicle Photos and Maximum Number of Pictures                                                                            |
+| 17  | Configuring Customized Survey | [Configuring Customized Survey > Capture Vehicle Photos and Maximum Number of Pictures](../15-13-configuring-customized-surveys/#configure-vehicle-photos)       |
 | 18  | Missions                      | Missions > Customize Mission Block Labels                                                                                                                        |
 | 19  | Alert Management              | Alert Management                                                                                                                                                 |
 | 20  | Missions                      | Missions > Adding a Mission > Customize the Validation of Mission Form Fields                                                                                    |
