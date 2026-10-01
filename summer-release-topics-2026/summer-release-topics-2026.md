@@ -29,6 +29,6 @@
 | 23  | Manage Global Address List    | [Manage Global Address List > Setting the Address Type](../manage-global-address-list.md)                                                                           |
 | 24  | Contractors                   | [Contractors > Manage Address List > Setting the Address Type for a Contractor](../9-7-contractors/manage-address-list.md)                                          |
 | 25  | Booking Slots                 | Booking Slots > Rescheduling by Customer > Rescheduling Prebooked Slots - **Pending / Bug**                                                                         |
-| 26  | Missions                      | Missions > Understanding the Missions Page > Pre-filters > Configure Missions Pre-filters                                                                           |
+| 26  | Missions                      | [Missions > Understanding the Missions Page > Pre-filters > Configure Missions Pre-filters](../configuremissionprefilters.md)                                       |
 |     |                               |                                                                                                                                                                     |
 
