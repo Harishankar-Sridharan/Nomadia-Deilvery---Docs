@@ -7,7 +7,7 @@
 | 1   | No Route Mode                 | [No Route Mode > Customize the Status Hierarchy](../case-studies/no-route/customizethestatushierarchy.md)                                                        |
 | 2   | Customize Workflow            | [Customize Workflow > Reset Specific Custom Fields on Status Changes](../case-studies/no-route/customize-work-flow.md)                                           |
 | 3   | Manage Container Types        | [Manage Container Types > Group Notifications for Container Missions](../groupnotificationsforthecontainermissions/groupnotificationsforthecontainermissions.md) |
-| 4   | Manage Notifications          | Manage Notifications > Customize Email Templates > Custom Templates                                                                                              |
+| 4   | Manage Notifications          | [Manage Notifications > Customize Email Templates > Custom Templates](../manage-notifications/customize-email-templates/customtemplates.md)                      |
 | 5   | Manage Container Types        | Manage Container Types > Edit a Container Type                                                                                                                   |
 | 6   | Manage Container Types        | Manage Container Types > Parent to Child Inheritance                                                                                                             |
 | 7   | Manage Container Types        | Manage Container Types > Child to Parent Inheritance                                                                                                             |
