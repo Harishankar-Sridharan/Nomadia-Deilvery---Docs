@@ -13,13 +13,13 @@
 | 7   | Manage Container Types        | [Manage Container Types > Child to Parent Inheritance](../childtoparentinheritance/childtoparentinheritance.md)                                                  |
 | 8   | Contractors                   | [Contractors > Reception Management](../receptionmanagement/receptionmanagement.md)                                                                              |
 | 9   | Contractors                   | [Contractors > Customize the Address Visibility](../customizetheaddresslistvisibility/customizetheaddresslistvisibility.md)                                      |
-| 10  | Manage Vehicle Fleets         | Manage Vehicle Fleets > Add a Vehicle > Dedicate Start/End Address for Vehicles                                                                                  |
-| 11  | Routes                        | Routes > Manual Route Creation                                                                                                                                   |
-| 12  | Routes                        | Routes > Finish the Routes                                                                                                                                       |
-| 13  | Routes                        | Routes > Assign Pickup and Delivery Missions                                                                                                                     |
-| 14  | Routes                        | Routes > Table View                                                                                                                                              |
-| 15  | Routes                        | Routes > Gantt View                                                                                                                                              |
-| 16  | Routes                        | Routes > Route Editor                                                                                                                                            |
+| 10  | Manage Vehicle Fleets         | [Manage Vehicle Fleets > Add a Vehicle > Dedicate Start/End Address for Vehicles](../manage-vehicle-fleets/manage-vehicle-fleets.md#add-a-vehicles-fleets)       |
+| 11  | Routes                        | [Routes > Manual Route Creation](../8-6-missions-1/manualroutecreation.md)                                                                                       |
+| 12  | Routes                        | [Routes > Finish the Routes](../finishtheroute.md)                                                                                                               |
+| 13  | Routes                        | [Routes > Assign Pickup and Delivery Missions](../assignpickupanddelivery.md)                                                                                    |
+| 14  | Routes                        | [Routes > Table View](../tableview.md)                                                                                                                           |
+| 15  | Routes                        | [Routes > Gantt View](../ganttview.md)                                                                                                                           |
+| 16  | Routes                        | [Routes > Route Editor](../routeeditor.md)                                                                                                                       |
 | 17  | Configuring Customized Survey | Configuring Customized Survey > Capture Vehicle Photos and Maximum Number of Pictures                                                                            |
 | 18  | Missions                      | Missions > Customize Mission Block Labels                                                                                                                        |
 | 19  | Alert Management              | Alert Management                                                                                                                                                 |
