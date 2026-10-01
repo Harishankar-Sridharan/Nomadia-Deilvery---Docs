@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Summer Release 2026](summer-release-topics-2026.md)
+* [Latest updates](summer-release-topics-2026/README.md)
+  * [Summer Release 2026](summer-release-topics-2026/summer-release-topics-2026.md)
 * [Home Page](readme-1/README.md)
   * [Understanding the Home Screen](readme-1/understanding-the-home-screen.md)
   * [Configure the display of mission’s statuses](readme-1/configure-the-display-of-missions-statuses.md)

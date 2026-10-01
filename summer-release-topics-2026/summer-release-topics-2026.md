@@ -1,5 +1,7 @@
 # Summer Release 2026
 
+
+
 | No. | Section                       | Navigation                                                                                |
 | --- | ----------------------------- | ----------------------------------------------------------------------------------------- |
 | 1   | No Route Mode                 | No Route Mode > Customize the Status Hierarchy                                            |
