@@ -36,6 +36,7 @@
     * [Declaring Parcel for a container mission](declaringaparcelforacontainermission.md)
     * [Adhoc Address Creation](adhocaddresscreation.md)
   * [Mission Logs](8-6-missions/mission-logs.md)
+  * [Audit Logs](auditlogs.md)
   * [Select Missions from the map](8-6-missions/select-missions-from-the-map.md)
   * [Bulk Edit Mission Data](8-6-missions/bulk-edit-mission-data.md)
   * [Create a 'perform at once' mission](8-6-missions/create-a-perform-at-once-mission.md)
