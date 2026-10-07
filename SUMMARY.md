@@ -19,6 +19,7 @@
     * [Configure the Portal](11-9-appointment-booking-portal/booking-slots/configure-the-portal.md)
   * [Reschedule Configuration](11-9-appointment-booking-portal/allow-customers-to-reschedule.md)
   * [Rescheduling by Customer](11-9-appointment-booking-portal/rescheduling-by-customer.md)
+  * [Rescheduling Pre-Booking Slots Multiple times](prebookingtheslotmultipletimes.md)
 * [Custom Dashboards](14-12-custom-dashboards/README.md)
 * [Configuring Customized Surveys](15-13-configuring-customized-surveys/README.md)
 * [Manage Users](7-5-manage-users/README.md)
