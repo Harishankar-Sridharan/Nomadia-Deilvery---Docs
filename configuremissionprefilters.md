@@ -32,7 +32,7 @@ Initial setup steps:
 * **Delete Language Button**: Removes an added language translation entry. It deletes unneeded language fields from the query.
 * **Manage Usage Option**: Opens user access assignment settings for pre-filters. It controls which users receive restricted mission views.
 
-#### How To: Create and Customize a Machine Pre-Filter
+#### How To: Create and Customize a Mission Pre-Filter
 
 1. Open **Configuration** and click **Mission Pre-Filters**.
 
