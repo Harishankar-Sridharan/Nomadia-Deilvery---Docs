@@ -1,4 +1,4 @@
-# Summer Release 2026272
+# Summer Release 2026
 
 
 
@@ -32,4 +32,4 @@
 | 26  | Missions                      | [Missions > Understanding the Missions Page > Pre-filters > Configure Missions Pre-filters](../configuremissionprefilters.md)                                       |
 | 27  | Missions                      | [Understanding the Mission Page > Selection Dashboard](../8-6-missions/understanding-the-missions-page/#selection-dashboard)                                        |
 | 28  | Missions                      | [Missions > Custom fields > Color coding the custom fields](../colorcodingthecustomfields.md)                                                                       |
-
+| 29  | Missions                      | [Missions > Audit Logs](../auditlogs.md)                                                                                                                            |
