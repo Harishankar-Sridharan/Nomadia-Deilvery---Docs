@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Chat Bot](chatbot.md)
+* [Nomadbot](chatbot.md)
 * [Latest updates](summer-release-topics-2026/README.md)
   * [Summer Release 2026](summer-release-topics-2026/summer-release-topics-2026.md)
 * [Home Page](readme-1/README.md)

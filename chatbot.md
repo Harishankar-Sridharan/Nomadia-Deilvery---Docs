@@ -1,6 +1,6 @@
-# Chat Bot
+# Nomadbot
 
-The **chatbot** feature in **Nomadia Delivery** provides an automated virtual assistant for dispatchers and planners. You can select predefined questions or type custom queries directly in the typing window. This helps you resolve operational questions quickly without leaving the platform.
+The **Nomadbot** feature in **Nomadia Delivery** provides an automated virtual assistant for dispatchers and planners. You can select predefined questions or type custom queries directly in the typing window. This helps you resolve operational questions quickly without leaving the platform.
 
 #### Getting Started
 
@@ -10,7 +10,7 @@ Ensure you meet all system requirements before accessing the feature.
 * Supported web browser with an active internet connection.
 
 1. Log into **Nomadia Delivery**.
-2. Locate the top right navigation bar next to **Management**.
+2. Locate the top right navigation bar.&#x20;
 
 ![](.gitbook/assets/chatbot-chatbot_timestamp_0_to_12.png)
 
@@ -18,18 +18,12 @@ Ensure you meet all system requirements before accessing the feature.
 
 ![](.gitbook/assets/chatbot-chatbot_timestamp_0_to_12_to_0_to_14.gif)
 
-4. Select **Hello, I am your virtual assistant**.
-
-![](.gitbook/assets/chatbot-chatbot_timestamp_0_to_18_to_0_to_20.gif)
-
 #### Feature Overview
 
 * **Chatbot icon**: Opens the virtual assistant interface from the top navigation bar.
-* **Virtual Assistant option**: Banner displaying "Hello, I am your virtual assistant" to start interaction.
 * **Predefined Questions**: List of ready-to-use questions and answers for quick self-service.
 * **Typing Window**: Input field where you enter custom inquiries.
 * **Send button**: Submits your typed question to the virtual assistant.
-* **Typing Indicator**: Displays animated feedback while the assistant generates an answer.
 
 #### How To: Access Predefined Questions
 
@@ -37,11 +31,7 @@ Ensure you meet all system requirements before accessing the feature.
 
 ![](.gitbook/assets/chatbot-chatbot_timestamp_0_to_12_to_0_to_14.gif)
 
-2. Click **Hello, I am your virtual assistant**.
-
-![](.gitbook/assets/chatbot-chatbot_timestamp_0_to_18_to_0_to_20.gif)
-
-3. Review the listed **Predefined Questions and Answers**.
+2. Review the listed **Predefined Questions and Answers**.
 
 ![](.gitbook/assets/chatbot-chatbot_timestamp_0_to_20_to_0_to_26.gif)
 
@@ -53,7 +43,7 @@ Ensure you meet all system requirements before accessing the feature.
 
 2. Type your question into the **Typing Window**.
 
-![Enter Question – Typing query text into input area.](.gitbook/assets/chatbot-chatbot_timestamp_0_to_33_to_0_to_47.gif)
+![](.gitbook/assets/chatbot-chatbot_timestamp_0_to_33_to_0_to_47.gif)
 
 3. Click **Send**.
 
