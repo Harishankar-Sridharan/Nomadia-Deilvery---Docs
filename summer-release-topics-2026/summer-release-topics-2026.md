@@ -33,4 +33,5 @@
 | 27  | Missions                      | [Understanding the Mission Page > Selection Dashboard](../8-6-missions/understanding-the-missions-page/#selection-dashboard)                                                             |
 | 28  | Missions                      | [Missions > Custom fields > Color coding the custom fields](../colorcodingthecustomfields.md)                                                                                            |
 | 29  | Missions                      | [Missions > Audit Logs](../auditlogs.md)                                                                                                                                                 |
-| 30  | Chat Bot                      | [Chat Bot](../chatbot.md)                                                                                                                                                                |
+| 30  | Nomadbot                      | [Nomadbot](../chatbot.md)                                                                                                                                                                |
+
