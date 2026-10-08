@@ -6,6 +6,8 @@ This feature allows dispatchers to manage how status changes on child missions a
 
 Before you begin, ensure you meet the following prerequisites:
 
+This feature is enabled exclusively for accounts configured in No Route mode.
+
 * Create a parent container in the system.
 * Create a child container.
 
@@ -13,7 +15,7 @@ Before you begin, ensure you meet the following prerequisites:
 
 * **Container types**: Selects the container category you want to configure.
 * **Identifier name**: Specifies the unique name to identify the container type.
-* **Fetch status from side missions**: Enables retrieving status updates from child machines.
+* **Fetch status from child missions**: Enables retrieving status updates from child machines.
 * **Manage status hierarchy**: Opens the status prioritize interface to arrange priorities.
 
 Follow these initial setup steps:
@@ -22,11 +24,11 @@ Follow these initial setup steps:
 
 ![](../../.gitbook/assets/customizethestatushierarchy-customizethestatushierarchy_timestamp_0_to_14.png)
 
-2. Select **Container types.**&#x20;
+2. Select **Container types.**
 
 ![](../../.gitbook/assets/customizethestatushierarchy-customizethestatushierarchy_timestamp_0_to_14.png)
 
-3. Scroll down to select the correct **Identifier name.**&#x20;
+3. Scroll down to select the correct **Identifier name.**
 
 <figure><img src="../../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
 
@@ -49,6 +51,9 @@ Follow these initial setup steps:
 ![](../../.gitbook/assets/customizethestatushierarchy-customizethestatushierarchy_timestamp_0_to_43.png)
 
 2. Drag the desired status to the top priority position.
+
+* The status on top is considered as the priority status for the container if the child has several different statuses
+
 3. Click on **Done**.
 
 ![](../../.gitbook/assets/customizethestatushierarchy-customizethestatushierarchy_timestamp_0_to_53_to_1_to_07.gif)
@@ -73,12 +78,13 @@ Follow these initial setup steps:
 
 ![](../../.gitbook/assets/customizethestatushierarchy-customizethestatushierarchy_timestamp_1_to_40.png)
 
-9. Verify that the parent container status changes successfully.
+9. The container's status is determined by the status hierarchy defined on its container type.
+
+**Example**: Only statuses that are part of the hierarchy are passed to the parent. If a status is not in the hierarchy, the mission keeps its previous status.
 
 ![](../../.gitbook/assets/customizethestatushierarchy-customizethestatushierarchy_timestamp_1_to_47.png)
 
 #### Productivity Tips
 
 * 💡 **Status Prioritization**: Drag any status to the top of the list to easily set its priority.
-* ⚠️ **Enable Fetch Status**: Enable **Fetch status from side missions** first, or the **Manage status hierarchy** option will not be visible.
-
+* ⚠️ **Enable Fetch Status**: Enable **Fetch status from child missions** first, or the **Manage status hierarchy** option will not be visible.
