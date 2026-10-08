@@ -4,8 +4,9 @@ The customized workflow feature allows you to define how mission statuses progre
 
 #### Getting Started
 
+This feature is enabled exclusively for accounts configured in No Route mode.
+
 * Access to the **Configuration** page.
-* Administrative permissions to modify system tables.
 
 #### Steps
 
@@ -22,16 +23,16 @@ The customized workflow feature allows you to define how mission statuses progre
 #### Feature Overview
 
 * **Workflow Mapping**: Define which status can be changed to a specific next status.
-* **Proximity Toggle**: Check if a deliverer is at the expected location by toggling **Yes** or **No**.
-* **Profile Definition**: Restrict specific status changes to authorized roles, such as a **Dispatch User**.
+* **Proximity Toggle**: Enable this option to require the user to be close to the customer's address when this status is applied in the mobile app.
+* **Profile Definition**: Only users who have the appropriate rights can move a mission from one status to another.
 
 #### How To: Customize a Mission Workflow
 
-1. Select a starting status in the workflow grid, such as **Created**.
+1. Select a starting status in the workflow grid, such as **Waiting**.
 2. Assign a user role from the **Profile** dropdown to control who can change the status.
 3. Select which target statuses the mission can transition to, such as **DIS collected** or **EXP log collected**.
 4. Configure the next transition, such as allowing a **Dispatch User** to scan a mission and change it to **Delivered**.
-5. When transitioning from one status to another, the **Reset Custom Fields** option must be set to **null**.
+5. Select the custom fields, if you want to nullify the field Suring the status transition
 
 <figure><img src="../../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
 
