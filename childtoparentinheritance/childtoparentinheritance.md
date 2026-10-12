@@ -2,6 +2,13 @@
 
 Child-to-parent inheritance automatically syncs data from child containers to parent containers. This feature saves dispatchers time by eliminating manual data entry. You will achieve real-time visibility of consolidated package statuses and aggregate cargo dimensions.
 
+#### Getting Started
+
+Before using this feature, ensure you meet the following requirements:
+
+* An active user account for **Nomadia Delivery** with administrative privileges.
+* Pre-configured parent and child container profiles.
+
 #### Feature Overview
 
 * **Fetch status from child missions**: This setting enables parent containers to inherit progress status from child containers. It ensures automatic updates.
@@ -10,13 +17,6 @@ Child-to-parent inheritance automatically syncs data from child containers to pa
 * **Partial status attainment**: The parent mission shows the percentage of child missions/parcels that have reached the status.
 * **Aggregate dimensions**: This configuration defines which physical dimensions sum up from child to parent containers. It aggregates size details.
 * **Aggregate quantities**: This configuration defines which quantitative measurements sum up to the parent container. It aggregates weight and volume.
-
-#### Getting Started
-
-Before using this feature, ensure you meet the following requirements:
-
-* An active user account for **Nomadia Delivery** with administrative privileges.
-* Pre-configured parent and child container profiles.
 
 #### How To: Configure
 
@@ -153,9 +153,7 @@ The partial status attainment is updated based on the number of child missions t
 
 6. Click **Missions**.
 
-![](../.gitbook/assets/childtoparentinheritance-childtoparentinheritance_timestamp_4_to_56.png)
-
-**\[TODO: Replace screenshot]**
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 7. Enter the **length, height, quantity, weight (kg)**, and **volume values** for the first child container.
 
@@ -175,9 +173,9 @@ The partial status attainment is updated based on the number of child missions t
 
 11. Open the parent container to view the calculated totals.
 
-![](../.gitbook/assets/childtoparentinheritance-childtoparentinheritance_timestamp_6_to_49.png)
+<figure><img src="../.gitbook/assets/image (239).png" alt=""><figcaption></figcaption></figure>
 
-**\[TODO: Replace screenshot]**
+
 
 #### Productivity Tips
 
@@ -186,4 +184,3 @@ The partial status attainment is updated based on the number of child missions t
 * ⚠️ **Parent Display Only**: The overall mission status is updated only on the parent mission. Sub-statuses are not passed from child missions to the parent, because each child mission can have a different sub-status.
 
 ***
-

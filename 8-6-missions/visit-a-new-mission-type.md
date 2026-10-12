@@ -19,7 +19,7 @@ To set up a visit mission, users (contractors, transporters, or subcontractors) 
 
 3. In the Mission Type drop-down, choose the new mission type ‘**Visit**’ to create a visit mission.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. Since a visit mission does not involve pickups or deliveries, the wizard includes only the Visit address and opening hours.
 
@@ -33,7 +33,7 @@ To set up a visit mission, users (contractors, transporters, or subcontractors) 
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 7. Enter the **visit address** of the end customer in the address field.
 
