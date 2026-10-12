@@ -19,12 +19,12 @@ Steps:
 #### Feature Overview
 
 * **Inherit sub status to child missions:** This toggle switch automatically passes parent container status to child containers.
-* **Pallet:** This icon opens configuration options for a specific container type.
-* **Pencil icon**: This edit button opens the configuration mode for a mission.
+* **Sub status inheritance:** Sub statuses can be inherited by child containers in the same way as statuses.
+* **Pallet and Pencil icons:** The pallet icon opens configuration options for a specific container type, and the pencil icon opens the configuration mode for a mission.
 * **Inherit attributes to child missions:** This setting automatically copies parent details to child containers.
 * **Inherit documents to child missions**: This option automatically shares parent documents with child containers.
 
-#### How To: Enable and Inherit Mission Sub Statuses
+#### How To: Status/sub-status
 
 1. Navigate to the **Configuration** menu.
 
@@ -32,45 +32,27 @@ Steps:
 
 2. Click on **Container Types**.
 3. Scroll down to see the correct identifier.
-4. Click the **Pallet** icon.
+4. Edit any container type from the list.
 5. Toggle **Inherit sub status to child missions** to **Yes**.
-6. Click on the **Save** button.
+6. Select the status that needs to be inherited, such as **Out for delivery** and **To be loaded**.
+
+![](../.gitbook/assets/parenttochildinheritance-parenttochildinheritance_timestamp_2_to_12.png)
+
+7. Click on the **Save** button.
 
 ![](../.gitbook/assets/parenttochildinheritance-parenttochildinheritance_timestamp_0_to_39.png)
 
-4. Go to **Missions**.
-5. Click the **Pencil icon** next to the parent container mission.
-6. Change the **Mission status**.
-7. Click on **Save**.
+8. Go to **Missions**.
+9. Click the **Pencil icon** next to the parent container mission.
+10. Change the **Mission status** to the status configured in container types, such as **Out for delivery**.
+
+![](../.gitbook/assets/parenttochildinheritance-parenttochildinheritance_timestamp_2_to_39.png)
+
+11. Click on **Save**.
 
 The status has been updated for all child missions.
 
 ![](../.gitbook/assets/parenttochildinheritance-parenttochildinheritance_timestamp_1_to_38.png)
-
-#### How To: Select and Inherit Custom Mission Statuses
-
-1. Go to **Configuration**.
-2. Click **Container Types**.
-3. Scroll down to see the current identifier.
-4. Select specific child status options like **Out for delivery** and **To be loaded**.
-
-![](../.gitbook/assets/parenttochildinheritance-parenttochildinheritance_timestamp_2_to_12.png)
-
-5. Click the **Save button**.
-
-![](../.gitbook/assets/parenttochildinheritance-parenttochildinheritance_timestamp_2_to_19.png)
-
-6. Go to **Missions**.
-7. Click the **Parent container**.
-8. Select the status configured in container types, such as **Out for delivery**.
-
-![](../.gitbook/assets/parenttochildinheritance-parenttochildinheritance_timestamp_2_to_39.png)
-
-9. Click on **Save**.
-
-The status has been updated for all child missions.
-
-![](../.gitbook/assets/parenttochildinheritance-parenttochildinheritance_timestamp_2_to_49.png)
 
 #### How To: Inherit Attributes to Child Containers
 
@@ -88,7 +70,7 @@ The status has been updated for all child missions.
 
 ![](../.gitbook/assets/parenttochildinheritance-parenttochildinheritance_timestamp_3_to_53.png)
 
-The status has been updated for all child missions.
+Only the address has been updated for all child missions. The status is not updated when attributes are inherited.
 
 <figure><img src="../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
 
@@ -114,15 +96,7 @@ The status has been updated for all child missions.
 
 ![](../.gitbook/assets/parenttochildinheritance-parenttochildinheritance_timestamp_4_to_44_to_4_to_57.gif)
 
-**Troubleshooting: Unsaved Changes Warning**
-
-If you attempt to go back without saving after uploading documents, a pop-up window will display.
-
-9. Click **No** on the pop-up window to stay on the page.
-
-![](../.gitbook/assets/parenttochildinheritance-parenttochildinheritance_timestamp_5_to_19.png)
-
-10. Click the **Save button** to complete the upload.
+9. Click the **Save button** to complete the upload.
 
 ![](../.gitbook/assets/parenttochildinheritance-parenttochildinheritance_timestamp_5_to_23.png)
 
@@ -134,5 +108,4 @@ The document will be reflected in the child container.
 
 #### Productivity Tips
 
-* 💡 **Automatic Syncing**: Updating parent container status, address, or documents automatically updates child containers.
-* ⚠️ **Avoid Unsaved Documents**: Do not click the back button before saving uploaded PDF files to prevent data loss.
+* 💡 **Automatic Syncing**: Updating parent container status, sub-status, address, or documents automatically updates child containers.
