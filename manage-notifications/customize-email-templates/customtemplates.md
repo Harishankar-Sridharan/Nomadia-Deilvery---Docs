@@ -12,9 +12,6 @@ Prerequisites & System Requirements:
 Initial Setup Steps:
 
 1. Go to **Configuration**.
-
-![](../../.gitbook/assets/customtemplates-customtemplates_timestamp_0_to_07_to_0_to_21.gif)
-
 2. Scroll down and click **Configure outgoing messages**.
 
 ![](../../.gitbook/assets/customtemplates-customtemplates_timestamp_0_to_07_to_0_to_21.gif)
@@ -28,7 +25,7 @@ Initial Setup Steps:
 * **Email templates**: Left-side menu where all your configured templates are listed.
 * **Actions**: Dropdown button that opens commands to manage your email templates.
 * **Add**: Menu option to start creating a new email template.
-* **Customer template**: Selection box used to choose the template type.
+* **Custom template**: Selection box used to choose the template type.
 * **Identifier**: Text input field where you define a unique template name.
 * **Email subject**: Text field where you enter the subject line for the email.
 * **Standard mode to advanced**: Switch that toggles the editor interface between standard and advanced editing.
@@ -37,9 +34,6 @@ Initial Setup Steps:
 #### How To: Configure a Custom Customer Email Template
 
 1. Go to **Configuration**.
-
-![](../../.gitbook/assets/customtemplates-customtemplates_timestamp_0_to_07_to_0_to_21.gif)
-
 2. Scroll down and click **Configure outgoing messages**.
 
 ![](../../.gitbook/assets/customtemplates-customtemplates_timestamp_0_to_07_to_0_to_21.gif)
@@ -65,14 +59,13 @@ Initial Setup Steps:
 ![](../../.gitbook/assets/customtemplates-customtemplates_timestamp_1_to_04.png)
 
 8. Enter your subject line in the **Email subject** field.
-
-![](../../.gitbook/assets/customtemplates-customtemplates_timestamp_1_to_14.png)
-
 9. Toggle the mode switch from **Standard mode** to **Advanced mode** if desired.
 
 ![](../../.gitbook/assets/customtemplates-customtemplates_timestamp_1_to_14_to_1_to_22.gif)
 
 10. Type your template text in the **Message** field.
+
+Use the **$** keyword to add the appropriate fields.
 
 ![](../../.gitbook/assets/customtemplates-customtemplates_timestamp_1_to_29.png)
 
