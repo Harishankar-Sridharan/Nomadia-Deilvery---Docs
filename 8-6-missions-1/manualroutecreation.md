@@ -46,29 +46,17 @@ Initial setup steps:
 
 6. Tap the **Route Field**.
 7. Choose to create a new route or select an existing route.
-
-![](../.gitbook/assets/manualroutecreation-manualroutecreation_timestamp_0_to_37_to_0_to_41.gif)
-
 8. Enter the route name in the **Route Name Field**.
 
 ![](../.gitbook/assets/manualroutecreation-manualroutecreation_timestamp_0_to_46.png)
 
 9. Tap the **Clock Icon** to select the time.
-
-![](../.gitbook/assets/manualroutecreation-manualroutecreation_timestamp_0_to_46_to_0_to_57.gif)
-
 10. Select the **Deliverer** to assign to the route.
 
 ![](../.gitbook/assets/manualroutecreation-manualroutecreation_timestamp_0_to_57_to_1_to_08.gif)
 
 11. Select the **Start Point** and **End Point**.
-
-![](../.gitbook/assets/manualroutecreation-manualroutecreation_timestamp_1_to_08_to_1_to_23.gif)
-
 12. Enable **Automatically Order Missions** if needed.
-
-![](../.gitbook/assets/manualroutecreation-manualroutecreation_timestamp_1_to_23_to_1_to_32.gif)
-
 13. Select **Ignore** or **Replace** for conflict handling.
 
 ![](../.gitbook/assets/manualroutecreation-manualroutecreation_timestamp_1_to_32_to_1_to_36.gif)
@@ -76,6 +64,10 @@ Initial setup steps:
 14. Click **Force Assignment** to finalize the route assignment.
 
 ![](../.gitbook/assets/manualroutecreation-manualroutecreation_timestamp_1_to_36_to_1_to_47.gif)
+
+The Route has been successfully created
+
+<figure><img src="../.gitbook/assets/image (241).png" alt=""><figcaption></figcaption></figure>
 
 #### Productivity Tips
 
