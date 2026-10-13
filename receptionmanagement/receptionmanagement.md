@@ -63,21 +63,9 @@ If you attempt to navigate away without saving, a popup warning will appear.
 
 #### How To: Scan and Receive Containers in the Mobile Application
 
-1. Open the mobile application on your field device.
-2. Click the **+** icon at the bottom
-3. Enter the **Reception name** and **Reception ID** when prompted and click **validate**
+Refer to the Mobile documentation using the below link:
 
-<figure><img src="../.gitbook/assets/image (165).png" alt="" width="540"><figcaption></figcaption></figure>
-
-4. Scan the **Parent container form**.
-
-![](../.gitbook/assets/receptionmanagement-receptionmanagement_timestamp_2_to_11.png)
-
-5. Tap the Tick mark at the bottom.&#x20;
-6. You will get a pop up stating "Are you sure you want to finish receiving scanned messages"
-7. Click **confirm**
-
-<figure><img src="../.gitbook/assets/shared image (2).jpg" alt="" width="540"><figcaption></figcaption></figure>
+[https://nomadia-docs.gitbook.io/delivery/delivery-mobile/main\_actions/deposit/receipt](https://nomadia-docs.gitbook.io/delivery/delivery-mobile/main_actions/deposit/receipt)
 
 #### How To: Display Reception IDs in the Back-Office List
 
