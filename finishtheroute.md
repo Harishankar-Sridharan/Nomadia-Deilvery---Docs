@@ -37,7 +37,7 @@ The **Finish the Route** feature lets dispatchers' complete delivery routes from
 
 ![](.gitbook/assets/finishtheroute-finishtheroute_timestamp_0_to_39_to_0_to_45.gif)
 
-5. The message "Route has been finished successfully" is displayed.
+The Route has been finished successfully.&#x20;
 
 When you finish the route, any missions that were not completed are updated automatically, so you do not need to change them manually:
 
