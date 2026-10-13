@@ -39,6 +39,8 @@ The **Finish the Route** feature lets dispatchers' complete delivery routes from
 
 The Route has been finished successfully.&#x20;
 
+<figure><img src=".gitbook/assets/image (242).png" alt=""><figcaption></figcaption></figure>
+
 When you finish the route, any missions that were not completed are updated automatically, so you do not need to change them manually:
 
 * Missions still in **Loading** status are automatically changed to **Not delivered**.
