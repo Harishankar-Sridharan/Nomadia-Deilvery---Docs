@@ -20,8 +20,8 @@ Initial setup steps:
 
 #### Feature Overview
 
-* **Mission**: Selected machine item designated for route assignment.
-* **Actions**: Dropdown menu containing operational commands for the machine.
+* **Mission**: Selected missions designated for route assignment.
+* **Actions**: Dropdown menu containing operational commands for the missions.
 * **Assign**: Button that launches the manual route setup form.
 * **Calendar Icon**: Date picker tool used to set the route schedule date.
 * **Route Field**: Input field to select a new or existing route.
@@ -29,7 +29,7 @@ Initial setup steps:
 * **Clock Icon**: Time selector tool used to set route timing.
 * **Deliverer**: Selection dropdown to assign a specific driver.
 * **Start Point and End Point**: Location fields setting route boundaries.
-* **Force Assignment**: Confirmation button committing the final route assignment.
+* **Force Assignment**: Confirmation button committing the final route assignment. Force assignment works even when there are conflicts.
 
 #### How To: Create and Assign a Route Manually
 
@@ -79,5 +79,5 @@ Initial setup steps:
 
 #### Productivity Tips
 
-* 💡 **Automatic Machine Ordering**: Enable automatic machine ordering to sequence machines along the route automatically.
+* 💡 **Automatic Missions Ordering**: Enable automatic missions ordering to sequence missions along the route automatically.
 * ⚠️ **Conflict Handling Settings**: Select whether to ignore or replace conflicts before clicking **Force Assignment** to avoid unexpected route overwrites.
