@@ -1,7 +1,5 @@
 # Reception Management
 
-#### Feature Overview
-
 The **reception management** feature allows dispatchers to manage, verify, and track container deliveries from the field. When a driver receives a container on the mobile application, the scans are logged against a reception, so you can monitor progress in real time and keep an accurate record of what was received.
 
 It is used by dispatchers and back-office administrators, who configure the feature and follow receptions in the portal, and by field drivers, who scan and receive containers on the mobile application. Once enabled, complete reports are sent automatically to your contractors, which keeps inventory accurate and communication clear.
@@ -20,7 +18,7 @@ Then complete the setup in this order:
 2. Configure a sub-status for scanning all items in the container.
 3. Configure the reception report.
 
-#### Key Interface Elements
+#### Feature Overview
 
 The following UI elements control your reception tracking workflow:
 
@@ -75,8 +73,6 @@ Drivers must now scan every item in the container before the **Received** sub-st
 1. Go to **Configure Outgoing Messages**.
 2. Create an email template for the reception report.
 3. As soon as the mobile user ends the reception, the email is automatically sent to the contractor's email address.
-
-\[Screenshot to be added]
 
 #### How To: Scan and Receive Containers in the Mobile Application
 
