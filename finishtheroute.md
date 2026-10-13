@@ -37,6 +37,15 @@ The **Finish the Route** feature lets dispatchers' complete delivery routes from
 
 ![](.gitbook/assets/finishtheroute-finishtheroute_timestamp_0_to_39_to_0_to_45.gif)
 
+5. The message "Route has been finished successfully" is displayed.
+
+When you finish the route, any missions that were not completed are updated automatically, so you do not need to change them manually:
+
+* Missions still in **Loading** status are automatically changed to **Not delivered**.
+* Missions still in **To be picked up** status are automatically changed to **Not picked**.
+
+This ensures that no unfinished mission stays open once the route is closed.
+
 #### Productivity Tips
 
 * 💡 **Remote Route Closure**: Finish open routes directly from the back office when drivers forget to complete them after loading.
