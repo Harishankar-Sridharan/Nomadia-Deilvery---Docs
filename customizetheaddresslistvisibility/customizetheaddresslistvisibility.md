@@ -37,7 +37,7 @@ Steps:
 
 ![](../.gitbook/assets/customizetheaddresslistvisibility-customizetheaddresslistvisibility_timestamp_0_to_31_to_0_to_47.gif)
 
-3. Locate the **Contact information** section.
+3. Locate the **Contact information** fields.
 4. Select the checkbox to set fields to **Editable** by default.
 5. Enable the checkbox to make fields **Mandatory**.
 
