@@ -21,6 +21,8 @@ Initial setup steps:
 
 #### Feature Overview
 
+The **Pickup & Delivery mission** is also known as a **Drop shipping mission** or a **Chained pickup & delivery mission**.
+
 * **Driver Name and Vehicle Name**: Displays driver identity and vehicle info to track active units.
 * **Available Missions**: Lists unassigned missions ready for route assignments.
 * **Authorizations**: Indicates driver skills and permissions to ensure task compatibility.
@@ -33,10 +35,10 @@ Initial setup steps:
 * **Acceptance Status**: Displays whether driver accepts or denies assigned route.
 * **Accept Timeout Minutes**: Sets duration in minutes allowed for driver route decision.
 
-#### How To: Assign Drop Shipping Route
+#### How To: Assign Pickup & Delivery Mission Route
 
 1. Go to **Missions**.
-2. Select **Drop shipping machine**.
+2. Select **Pickup & delivery missions**.
 
 ![](.gitbook/assets/assignpickupanddelivery-assignpickupanddelivery_timestamp_0_to_05_to_0_to_13.gif)
 
@@ -45,27 +47,28 @@ Initial setup steps:
 
 ![](.gitbook/assets/assignpickupanddelivery-assignpickupanddelivery_timestamp_0_to_18_to_0_to_21.gif)
 
-5. Click **Assign**.
-6. Click **Confirm**.
+5. Review the assignment page:
+   * The assignment page displays all routes planned for the day. You can choose any of these routes to insert the pickup & delivery mission request.
+   * You can also display the routes and their mission stops on the map, to make an informed decision about where to insert the new pickup & delivery mission.
+6. Click **Assign** and choose one of the assignment options:
+   * **Assign optimal**: Use this to insert both the pickup and delivery steps at the optimal positions within an existing route.
+   * **Assign after**: Use this when the mission is an emergency and must be performed immediately after the current mission.
+   * **Assign at the end**: Use this when the mission is not an immediate priority and can be completed any time before the end of the route.
+7. Click **Confirm**.
 
 ![](.gitbook/assets/assignpickupanddelivery-assignpickupanddelivery_timestamp_1_to_31_to_1_to_37.gif)
 
-#### How To: Assign Pickup and Delivery mission Route
+Once the back-office user confirms the assignment, the request is sent to the deliverer's mobile app for acceptance.
 
-1. Go to **Missions**.
-2. Select a **Chained Pick and Delivery Mission**
-3. Select **Assign pickup and delivery** mission.
-4. Click **Actions**.
-5. Click **Assign pickup and delivery machine**.
-
-![](.gitbook/assets/assignpickupanddelivery-assignpickupanddelivery_timestamp_1_to_49.png)
-
-5. Select **Assign Optimal** to modify the existing route.
-
-![](.gitbook/assets/assignpickupanddelivery-assignpickupanddelivery_timestamp_2_to_04_to_2_to_31.gif)
+* The deliverer can accept the mission until the acceptance timeout expires.
+* The acceptance status can be tracked in two places, with the values **Pending** / **Accepted** / **Not Accepted**:
+  * **Mission table**: the **Acceptance status** column.
+  * **Mission log**: expand the log entry to view the acceptance status.
+* A mission with the status **Not Accepted** can be reassigned from the **Acceptance status** column.
+* If the mission is not accepted before the timeout, it is automatically removed from the route. It can then be reassigned to the same deliverer or to a different deliverer.
 
 #### Productivity Tips
 
 * 💡 **Optimal Route Sequencing**: Select **Assign Optimal** to re-sequence unstarted routes and accelerate delivery schedules.
-* ⚠️ **Started Route Lock**: Avoid selecting **Assign Optimal** for active drivers who have already started their route because changes will fail.
 * 💡 **Driver Response Limits**: Set **Accept Timeout Minutes** to enforce response deadlines for driver route acceptance.
+* ⚠️ **Reorder Option**: The Reorder option is deactivated for routes that contain dynamic pickup & delivery locations, as this feature is not compatible with this mode.
