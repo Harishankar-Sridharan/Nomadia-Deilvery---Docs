@@ -21,8 +21,6 @@ Initial setup steps:
 
 #### Feature Overview
 
-The **Pickup & Delivery mission** is also known as a **Drop shipping mission** or a **Chained pickup & delivery mission**.
-
 * **Driver Name and Vehicle Name**: Displays driver identity and vehicle info to track active units.
 * **Available Missions**: Lists unassigned missions ready for route assignments.
 * **Authorizations**: Indicates driver skills and permissions to ensure task compatibility.
@@ -35,7 +33,7 @@ The **Pickup & Delivery mission** is also known as a **Drop shipping mission** o
 * **Acceptance Status**: Displays whether driver accepts or denies assigned route.
 * **Accept Timeout Minutes**: Sets duration in minutes allowed for driver route decision.
 
-#### How To: Assign Pickup & Delivery Mission Route
+#### How To: Assign Pickup & Delivery Mission
 
 1. Go to **Missions**.
 2. Select **Pickup & delivery missions**.
