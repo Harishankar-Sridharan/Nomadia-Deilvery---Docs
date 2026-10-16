@@ -1,8 +1,8 @@
-# Customize the Status Hierarchy
+# Customize the status hierarchy
 
 This feature allows dispatchers to manage how status changes on child missions affect parent containers. It ensures accurate real-time tracking across your logistics operations. Customize status priorities easily to streamline container state synchronization.
 
-#### Getting Started
+#### Getting started
 
 Before you begin, ensure you meet the following prerequisites:
 
@@ -11,44 +11,44 @@ This feature is enabled exclusively for accounts configured in No Route mode.
 * Create a parent container in the system.
 * Create a child container.
 
-#### Feature Overview
+#### Feature overview
 
 * **Container types**: Selects the container category you want to configure.
 * **Identifier name**: Specifies the unique name to identify the container type.
-* **Fetch status from child missions**: Enables retrieving status updates from child machines.
+* **Fetch status from child missions**: Enables retrieving status updates from child missions.
 * **Manage status hierarchy**: Opens the status prioritize interface to arrange priorities.
 
 Follow these initial setup steps:
 
 1. Navigate to the **Configuration** menu.
 
-![](../../.gitbook/assets/customizethestatushierarchy-customizethestatushierarchy_timestamp_0_to_14.png)
+![Navigate to the Configuration menu](../../.gitbook/assets/customizethestatushierarchy-customizethestatushierarchy_timestamp_0_to_14.png)
 
 2. Select **Container types.**
 
-![](../../.gitbook/assets/customizethestatushierarchy-customizethestatushierarchy_timestamp_0_to_14.png)
+![Select Container types](../../.gitbook/assets/customizethestatushierarchy-customizethestatushierarchy_timestamp_0_to_14.png)
 
 3. Scroll down to select the correct **Identifier name.**
 
-<figure><img src="../../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (74).png" alt="Scroll down to select the correct Identifier name"><figcaption></figcaption></figure>
 
 4. Locate the **Fetch status from child missions** option in the bottom right corner.
 
-![](../../.gitbook/assets/customizethestatushierarchy-customizethestatushierarchy_timestamp_0_to_36.png)
+![Locate the Fetch status from child missions option in the bottom right corner](../../.gitbook/assets/customizethestatushierarchy-customizethestatushierarchy_timestamp_0_to_36.png)
 
 5. Check if the option is enabled.
 
-![](../../.gitbook/assets/customizethestatushierarchy-customizethestatushierarchy_timestamp_0_to_39.png)
+![Check if the option is enabled](../../.gitbook/assets/customizethestatushierarchy-customizethestatushierarchy_timestamp_0_to_39.png)
 
 6. Click on **Manage status hierarchy** once the option is enabled.
 
-![](../../.gitbook/assets/customizethestatushierarchy-customizethestatushierarchy_timestamp_0_to_43.png)
+![Click on Manage status hierarchy once the option is enabled](../../.gitbook/assets/customizethestatushierarchy-customizethestatushierarchy_timestamp_0_to_43.png)
 
-#### How To: Customize Status Hierarchy
+#### Customize status hierarchy
 
 1. Open the status hierarchy configuration window.
 
-![](../../.gitbook/assets/customizethestatushierarchy-customizethestatushierarchy_timestamp_0_to_43.png)
+![Open the status hierarchy configuration window](../../.gitbook/assets/customizethestatushierarchy-customizethestatushierarchy_timestamp_0_to_43.png)
 
 2. Drag the desired status to the top priority position.
 
@@ -56,35 +56,40 @@ Follow these initial setup steps:
 
 3. Click on **Done**.
 
-![](../../.gitbook/assets/customizethestatushierarchy-customizethestatushierarchy_timestamp_0_to_53_to_1_to_07.gif)
+![Click on Done](../../.gitbook/assets/customizethestatushierarchy-customizethestatushierarchy_timestamp_0_to_53_to_1_to_07.gif)
 
 4. Click **Save**.
 
-![](../../.gitbook/assets/customizethestatushierarchy-customizethestatushierarchy_timestamp_1_to_13.png)
+![Click Save](../../.gitbook/assets/customizethestatushierarchy-customizethestatushierarchy_timestamp_1_to_13.png)
 
 5. Go to **Missions**.
 
-![](../../.gitbook/assets/customizethestatushierarchy-customizethestatushierarchy_timestamp_1_to_21.png)
+![Go to Missions](../../.gitbook/assets/customizethestatushierarchy-customizethestatushierarchy_timestamp_1_to_21.png)
 
 6. Click any **Child container** (individual missions connected to the parent container).
 
-![](../../.gitbook/assets/customizethestatushierarchy-customizethestatushierarchy_timestamp_1_to_33.png)
+![Click any Child container](../../.gitbook/assets/customizethestatushierarchy-customizethestatushierarchy_timestamp_1_to_33.png)
 
 7. Change the status.
 
-![](../../.gitbook/assets/customizethestatushierarchy-customizethestatushierarchy_timestamp_1_to_36.png)
+![Change the status](../../.gitbook/assets/customizethestatushierarchy-customizethestatushierarchy_timestamp_1_to_36.png)
 
 8. Click on Save.
 
-![](../../.gitbook/assets/customizethestatushierarchy-customizethestatushierarchy_timestamp_1_to_40.png)
+![Click on Save](../../.gitbook/assets/customizethestatushierarchy-customizethestatushierarchy_timestamp_1_to_40.png)
 
 9. The container's status is determined by the status hierarchy defined on its container type.
 
 **Example**: Only statuses that are part of the hierarchy are passed to the parent. If a status is not in the hierarchy, the mission keeps its previous status.
 
-![](../../.gitbook/assets/customizethestatushierarchy-customizethestatushierarchy_timestamp_1_to_47.png)
+![Example: Only statuses that are part of the hierarchy are passed to the parent](../../.gitbook/assets/customizethestatushierarchy-customizethestatushierarchy_timestamp_1_to_47.png)
 
-#### Productivity Tips
+#### Productivity tips
 
-* 💡 **Status Prioritization**: Drag any status to the top of the list to easily set its priority.
-* ⚠️ **Enable Fetch Status**: Enable **Fetch status from child missions** first, or the **Manage status hierarchy** option will not be visible.
+{% hint style="info" %}
+**Status Prioritization**: Drag any status to the top of the list to easily set its priority.
+{% endhint %}
+
+{% hint style="warning" %}
+**Enable Fetch Status**: Enable **Fetch status from child missions** first, or the **Manage status hierarchy** option will not be visible.
+{% endhint %}

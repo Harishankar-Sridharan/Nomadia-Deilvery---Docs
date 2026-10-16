@@ -1,8 +1,8 @@
-# Assign Pick up and Delivery Missions
+# Assign pickup and delivery missions
 
 The **Assign Pickup and Delivery Missions** feature lets dispatchers assign pickup and delivery routes to drivers and vehicles. You need it to optimize route placement and manage driver assignments in real time. By using this feature, you will achieve faster deliveries and manage driver acceptance timeouts.
 
-#### Getting Started
+#### Getting started
 
 Prerequisites:
 
@@ -17,9 +17,9 @@ Initial setup steps:
 3. Enter minutes in **Accept Timeout Minutes**.
 4. Click **Save**.
 
-![](.gitbook/assets/assignpickupanddelivery-assignpickupanddelivery_timestamp_3_to_01.png)
+![Click Save](.gitbook/assets/assignpickupanddelivery-assignpickupanddelivery_timestamp_3_to_01.png)
 
-#### Feature Overview
+#### Feature overview
 
 * **Driver Name and Vehicle Name**: Displays driver identity and vehicle info to track active units.
 * **Available Missions**: Lists unassigned missions ready for route assignments.
@@ -33,17 +33,17 @@ Initial setup steps:
 * **Acceptance Status**: Displays whether driver accepts or denies assigned route.
 * **Accept Timeout Minutes**: Sets duration in minutes allowed for driver route decision.
 
-#### How To: Assign Pickup & Delivery Mission
+#### Assign pickup & delivery mission
 
 1. Go to **Missions**.
 2. Select **Pickup & delivery missions**.
 
-![](.gitbook/assets/assignpickupanddelivery-assignpickupanddelivery_timestamp_0_to_05_to_0_to_13.gif)
+![Select Pickup & delivery missions](.gitbook/assets/assignpickupanddelivery-assignpickupanddelivery_timestamp_0_to_05_to_0_to_13.gif)
 
 3. Click **Actions**.
 4. Click **Assign pickup and delivery mission**.
 
-![](.gitbook/assets/assignpickupanddelivery-assignpickupanddelivery_timestamp_0_to_18_to_0_to_21.gif)
+![Click Assign pickup and delivery mission](.gitbook/assets/assignpickupanddelivery-assignpickupanddelivery_timestamp_0_to_18_to_0_to_21.gif)
 
 5. Review the assignment page:
    * The assignment page displays all routes planned for the day. You can choose any of these routes to insert the pickup & delivery mission request.
@@ -54,7 +54,7 @@ Initial setup steps:
    * **Assign at the end**: Use this when the mission is not an immediate priority and can be completed any time before the end of the route.
 7. Click **Confirm**.
 
-![](.gitbook/assets/assignpickupanddelivery-assignpickupanddelivery_timestamp_1_to_31_to_1_to_37.gif)
+![Click Confirm](.gitbook/assets/assignpickupanddelivery-assignpickupanddelivery_timestamp_1_to_31_to_1_to_37.gif)
 
 Once the back-office user confirms the assignment, the request is sent to the deliverer's mobile app for acceptance.
 
@@ -65,8 +65,16 @@ Once the back-office user confirms the assignment, the request is sent to the de
 * A mission with the status **Not Accepted** can be reassigned from the **Acceptance status** column.
 * If the mission is not accepted before the timeout, it is automatically removed from the route. It can then be reassigned to the same deliverer or to a different deliverer.
 
-#### Productivity Tips
+#### Productivity tips
 
-* 💡 **Optimal Route Sequencing**: Select **Assign Optimal** to re-sequence unstarted routes and accelerate delivery schedules.
-* 💡 **Driver Response Limits**: Set **Accept Timeout Minutes** to enforce response deadlines for driver route acceptance.
-* ⚠️ **Reorder Option**: The Reorder option is deactivated for routes that contain dynamic pickup & delivery locations, as this feature is not compatible with this mode.
+{% hint style="info" %}
+**Optimal Route Sequencing**: Select **Assign Optimal** to re-sequence unstarted routes and accelerate delivery schedules.
+{% endhint %}
+
+{% hint style="info" %}
+**Driver Response Limits**: Set **Accept Timeout Minutes** to enforce response deadlines for driver route acceptance.
+{% endhint %}
+
+{% hint style="warning" %}
+**Reorder Option**: The Reorder option is deactivated for routes that contain dynamic pickup & delivery locations, as this feature is not compatible with this mode.
+{% endhint %}

@@ -1,4 +1,4 @@
-# Edit a Container Type
+# Edit a container type
 
 1. Go to **Configuration**.
 2. Click on **Configuration Menu**
@@ -7,6 +7,6 @@
 5. Edit the information as needed
 6. Click on **Save**
 
-<figure><img src="../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (90).png" alt="Click on Save"><figcaption></figcaption></figure>
 
 <br>

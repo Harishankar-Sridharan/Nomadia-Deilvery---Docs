@@ -2,7 +2,7 @@
 
 The **table view** feature provides a structured tabular view for managing route information in **Nomadia Delivery**. Planners need it to monitor route fulfillment, driver assignments, and mission counts in a consolidated format. You will gain full control over displayed route columns, stop views, and summary footer calculations.
 
-#### Getting Started
+#### Getting started
 
 Prerequisites and system requirements:
 
@@ -16,9 +16,9 @@ Initial setup steps:
 3. Locate the **Table View Menu** next to **Actions**.
 4. Click **Table View Menu** to change the **Routes** display to table view.
 
-![](.gitbook/assets/tableview-tableview_timestamp_0_to_18_to_0_to_28.gif)
+![Click Table View Menu to change the Routes display to table view](.gitbook/assets/tableview-tableview_timestamp_0_to_18_to_0_to_28.gif)
 
-#### Feature Overview
+#### Feature overview
 
 * **Eye Icon**: View assigned routes directly on the interactive map.
 * **Filter View**: Hide or show the column filter row across the table.
@@ -26,73 +26,81 @@ Initial setup steps:
 * **Route Name**: Displays the designated route name and its assigned date.
 * **Route Fulfillment**: Indicates route fulfillment status with a yes or no value.
 * **Deliverer Name**: Displays the name of the assigned driver or deliverer.
-* **Assigned Missions**: Displays the total count of machines assigned to the route.
+* **Assigned Missions**: Displays the total count of missions assigned to the route.
 * **Working Time**: Displays the calculated working time required for the route.
 * **Mission Breakdown Counts**: Displays breakdown totals for deliveries, pickups, visits, cross docking, drop shipping, and signed pickups.
 * **Customize List**: Configures which fields display in the route or stop section.
-* **Footer**: Selects table columns to compute summary calculations like machine totals.
+* **Footer**: Selects table columns to compute summary calculations like mission totals.
 
-#### How To: Customize Route View Fields
+#### Customize route view fields
 
 1. Click **Actions** in the route menu.
 
-![](.gitbook/assets/tableview-tableview_timestamp_1_to_42.png)
+![Click Actions in the route menu](.gitbook/assets/tableview-tableview_timestamp_1_to_42.png)
 
 2. Select **Customize List** from the menu options.
 
-![](.gitbook/assets/tableview-tableview_timestamp_1_to_46_to_1_to_52.gif)
+![Select Customize List from the menu options](.gitbook/assets/tableview-tableview_timestamp_1_to_46_to_1_to_52.gif)
 
 3. Select the fields you want to display in the route section.
 4. Click the **Right Arrow** to add selected fields to the display list.
 5. Click **Save** to apply your route field selections.
 
-![](.gitbook/assets/tableview-tableview_timestamp_2_to_02.png)
+![Click Save to apply your route field selections](.gitbook/assets/tableview-tableview_timestamp_2_to_02.png)
 
-#### How To: View Route Stops
+#### View route stops
 
 1. Click any **Route** row in the table.
 2. Review individual stop details for the selected route.
 3. Click **Back** to return to the main route view.
 
-![](.gitbook/assets/tableview-tableview_timestamp_2_to_26.png)
+![Click Back to return to the main route view](.gitbook/assets/tableview-tableview_timestamp_2_to_26.png)
 
-#### How To: Customize Stop View Fields
+#### Customize stop view fields
 
 1. Click **Actions** and select **Customizer List**.
 2. Select **Stops** from the customization panel.
 
-![](.gitbook/assets/tableview-tableview_timestamp_2_to_34_to_2_to_40.gif)
+![Select Stops from the customization panel](.gitbook/assets/tableview-tableview_timestamp_2_to_34_to_2_to_40.gif)
 
 3. Select the fields to display in the stop view.
 4. Click **Save** to confirm your stop view settings.
 
-![](.gitbook/assets/tableview-tableview_timestamp_2_to_40.png)
+![Click Save to confirm your stop view settings](.gitbook/assets/tableview-tableview_timestamp_2_to_40.png)
 
-#### How To: Calculate Column Sums in the Footer
+#### Calculate column sums in the footer
 
 1. Click **Footer** inside the **Customizer List** window.
 
-![](.gitbook/assets/tableview-tableview_timestamp_2_to_48_to_2_to_54.gif)
+![Click Footer inside the Customizer List window](.gitbook/assets/tableview-tableview_timestamp_2_to_48_to_2_to_54.gif)
 
 2. Select a target column, such as **Assigned Machine Number**.
 
-![](.gitbook/assets/tableview-tableview_timestamp_3_to_00.png)
+![Select a target column, such as Assigned Machine Number](.gitbook/assets/tableview-tableview_timestamp_3_to_00.png)
 
 3. Click **Sum** to enable total calculation.
 
-![](.gitbook/assets/tableview-tableview_timestamp_3_to_04.png)
+![Click Sum to enable total calculation](.gitbook/assets/tableview-tableview_timestamp_3_to_04.png)
 
 4. Click **Save** to apply footer settings.
 
-![](.gitbook/assets/tableview-tableview_timestamp_3_to_12_to_3_to_14.gif)
+![Click Save to apply footer settings](.gitbook/assets/tableview-tableview_timestamp_3_to_12_to_3_to_14.gif)
 
 5. View the calculated total sum in the table footer row.
 
-![](.gitbook/assets/tableview-tableview_timestamp_3_to_14.png)
+![View the calculated total sum in the table footer row](.gitbook/assets/tableview-tableview_timestamp_3_to_14.png)
 
-#### Productivity Tips
+#### Productivity tips
 
-* 💡 **Filter View Toggle**: Click **Filter View** to hide the filter row and maximize table viewing area.
-* 💡 **Automatic Sum Calculations**: Use **Footer** sum options to calculate total assigned missions across rows instantly.
-* 💡 **Direct Stop Access**: Click any route row directly to open stop view without navigating secondary menus.
+{% hint style="info" %}
+**Filter View Toggle**: Click **Filter View** to hide the filter row and maximize table viewing area.
+{% endhint %}
+
+{% hint style="info" %}
+**Automatic Sum Calculations**: Use **Footer** sum options to calculate total assigned missions across rows instantly.
+{% endhint %}
+
+{% hint style="info" %}
+**Direct Stop Access**: Click any route row directly to open stop view without navigating secondary menus.
+{% endhint %}
 
