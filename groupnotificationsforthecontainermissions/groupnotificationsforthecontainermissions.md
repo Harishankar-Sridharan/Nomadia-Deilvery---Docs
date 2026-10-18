@@ -2,7 +2,7 @@
 
 Group notifications for container missions aggregate alerts for several missions simultaneously. Dispatchers use this feature to streamline communications with contractors or other recipients during missions. This setup ensures automated, reliable status updates are delivered directly to stakeholders based on scanning milestones.
 
-#### Getting started
+#### Getting Started
 
 To use this feature, make sure the following requirements are met:
 
@@ -13,23 +13,23 @@ Follow these initial steps to access the settings:
 
 1. Navigate to the **Configuration** screen.
 
-![Navigate to the Configuration screen](../.gitbook/assets/groupnotificationsforthecontainermissions-groupnotificationsforthecontainermissions_timestamp_0_to_35.png)
+![](../.gitbook/assets/groupnotificationsforthecontainermissions-groupnotificationsforthecontainermissions_timestamp_0_to_35.png)
 
 2. Select **Container Types**.
 
-![Select Container Types](../.gitbook/assets/groupnotificationsforthecontainermissions-groupnotificationsforthecontainermissions_timestamp_0_to_45.png)
+![](../.gitbook/assets/groupnotificationsforthecontainermissions-groupnotificationsforthecontainermissions_timestamp_0_to_45.png)
 
 3. Scroll down to find the correct identifier.
 
-![Scroll down to find the correct identifier](../.gitbook/assets/groupnotificationsforthecontainermissions-groupnotificationsforthecontainermissions_timestamp_0_to_51.png)
+![](../.gitbook/assets/groupnotificationsforthecontainermissions-groupnotificationsforthecontainermissions_timestamp_0_to_51.png)
 
 4. Enable the **Can Aggregate Several Missions** toggle and Status inheritance from child to parent is enabled.
 
-![Enable the Can Aggregate Several Missions toggle and Status inheritance](../.gitbook/assets/groupnotificationsforthecontainermissions-groupnotificationsforthecontainermissions_timestamp_0_to_51_to_1_to_03.gif)
+![](../.gitbook/assets/groupnotificationsforthecontainermissions-groupnotificationsforthecontainermissions_timestamp_0_to_51_to_1_to_03.gif)
 
 ***
 
-#### Feature overview
+#### Feature Overview
 
 * **Can Aggregate Several Missions**: Turn a mission into a parent container that can hold several other missions.
 * **Customer Messages**: Section containing recipient and message configurations. This controls your notification preferences.
@@ -42,60 +42,55 @@ Follow these initial steps to access the settings:
 * **First scan:** Triggers the message when the first mission in the container is scanned.
 * **Last scan:** Triggers the message when the last mission in the container is scanned.
 
-#### Configure group notifications
+#### How To: Configure Group Notifications
 
 1. Scroll down to the **Customer Messages** section.
 
-![Scroll down to the Customer Messages section](../.gitbook/assets/groupnotificationsforthecontainermissions-groupnotificationsforthecontainermissions_timestamp_1_to_17.png)
+![](../.gitbook/assets/groupnotificationsforthecontainermissions-groupnotificationsforthecontainermissions_timestamp_1_to_17.png)
 
 2. Select a **Recipient**.
 
-![Select a Recipient](../.gitbook/assets/groupnotificationsforthecontainermissions-groupnotificationsforthecontainermissions_timestamp_1_to_17.png)
+![](../.gitbook/assets/groupnotificationsforthecontainermissions-groupnotificationsforthecontainermissions_timestamp_1_to_17.png)
 
 3. Choose SMS or email in **Message Type**.
 
-<figure><img src="../.gitbook/assets/image (238).png" alt="Choose SMS or email in Message Type"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (238).png" alt=""><figcaption></figcaption></figure>
 
 4. Select your pre-created **Message Template**.
 5. Choose the target status to change to in **Status**.
 6. Select the **Notification Configuration Type**.
 7. Enter additional emails in **Other Recipient Email**.
 
-![Enter additional emails in Other Recipient Email](../.gitbook/assets/groupnotificationsforthecontainermissions-groupnotificationsforthecontainermissions_timestamp_2_to_01.png)
+![](../.gitbook/assets/groupnotificationsforthecontainermissions-groupnotificationsforthecontainermissions_timestamp_2_to_01.png)
 
 8. Click **Save** to complete setup.
 
-![Click Save to complete setup](../.gitbook/assets/groupnotificationsforthecontainermissions-groupnotificationsforthecontainermissions_timestamp_2_to_17.png)
+![](../.gitbook/assets/groupnotificationsforthecontainermissions-groupnotificationsforthecontainermissions_timestamp_2_to_17.png)
 
 ***
 
-#### Trigger group notifications
+#### How To: Trigger Group Notifications
 
 1. Go to the **Configuration** and click **Container types**
 2. Click the **Pencil Icon** next to your container type.
 
-<figure><img src="../.gitbook/assets/image (237).png" alt="Click the Pencil Icon next to your container type"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (237).png" alt=""><figcaption></figcaption></figure>
 
 3. Change the status from **Created** to a different status.
 
-<figure><img src="../.gitbook/assets/image (236).png" alt="Change the status from Created to a different status"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (236).png" alt=""><figcaption></figcaption></figure>
 
 4. Click **Save** to send the notification.
 
-![Click Save to send the notification](../.gitbook/assets/groupnotificationsforthecontainermissions-groupnotificationsforthecontainermissions_timestamp_2_to_45.png)
+![](../.gitbook/assets/groupnotificationsforthecontainermissions-groupnotificationsforthecontainermissions_timestamp_2_to_45.png)
 
 Contractor will receive the notification email successfully.
 
-<figure><img src="../.gitbook/assets/image (84).png" alt="Contractor will receive the notification email successfully"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-#### Productivity tips
+#### Productivity Tips
 
-{% hint style="info" %}
-**Child-Parent Relationships**: Pre-configuring child-parent relationships ensures grouped notifications work correctly.
-{% endhint %}
-
-{% hint style="info" %}
-**Scan Timing Selection**: Choosing first or last scan delivery optimizes the notification timing based on customer needs.
-{% endhint %}
+* **Child-Parent Relationships**: Pre-configuring child-parent relationships ensures grouped notifications work correctly.
+* **Scan Timing Selection**: Choosing first or last scan delivery optimizes the notification timing based on customer needs.

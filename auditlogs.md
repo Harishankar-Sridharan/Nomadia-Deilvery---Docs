@@ -1,8 +1,8 @@
-# Audit logs
+# Audit Logs
 
 The **auditlogs** feature in Nomadia Delivery tracks and records system activity and recent changes made across the platform. Dispatchers and planners need it to maintain operational oversight, verify modifications, and audit configuration actions. Using this tool, you can review change history, filter logs by agent or timeframe, and export records to Excel.
 
-#### Getting started
+#### Getting Started
 
 Prerequisites and system requirements:
 
@@ -14,9 +14,9 @@ Initial setup steps:
 1. Navigate to **Configuration** in the main navigation menu.
 2. Scroll down and click **History of Changes**.
 
-![Scroll down and click History of Changes](.gitbook/assets/auditlogs-auditlogs_timestamp_0_to_12.png)
+![](.gitbook/assets/auditlogs-auditlogs_timestamp_0_to_12.png)
 
-#### Feature overview
+#### Feature Overview
 
 * **Date and Time**: Displays the exact timestamp when a change occurred.
 * **Login Details**: Shows the user account responsible for the modification.
@@ -28,58 +28,50 @@ Initial setup steps:
 * **Reload**: Refreshes the log table to display recent changes if loading fails.
 * **Prefilter**: Opens options to filter log entries by agent or time period.
 
-#### View and export audit logs
+#### How To: View and Export Audit Logs
 
 1. Navigate to **Configuration** and scroll down to click **History of Changes**.
 
-![Navigate to Configuration and scroll down to click History of Changes](.gitbook/assets/auditlogs-auditlogs_timestamp_0_to_05_to_0_to_12.gif)
+![](.gitbook/assets/auditlogs-auditlogs_timestamp_0_to_05_to_0_to_12.gif)
 
 2. Review the table showing **Date and Time**, **Login Details**, **Object Name**, **Type**, **Report**, **Profile**, and **Object ID**.
 
-![Review the table showing Date and Time, Login Details, Object Name, Type](.gitbook/assets/auditlogs-auditlogs_timestamp_0_to_17.png)
+![](.gitbook/assets/auditlogs-auditlogs_timestamp_0_to_17.png)
 
 3. Click **Action** above the recent changes table.
 
-![Click Action above the recent changes table](.gitbook/assets/auditlogs-auditlogs_timestamp_0_to_44.png)
+![](.gitbook/assets/auditlogs-auditlogs_timestamp_0_to_44.png)
 
 4. Select export to download the log data into an Excel spreadsheet.
 
-![Select export to download the log data into an Excel spreadsheet](.gitbook/assets/auditlogs-auditlogs_timestamp_0_to_48.png)
+![](.gitbook/assets/auditlogs-auditlogs_timestamp_0_to_48.png)
 
 **Troubleshooting**
 
 * **Logs or file fail to load**: Click **Reload** to fetch the most recent system changes.
 
-![Logs or file fail to load: Click Reload to fetch the most recent system changes](.gitbook/assets/auditlogs-auditlogs_timestamp_0_to_53.png)
+![](.gitbook/assets/auditlogs-auditlogs_timestamp_0_to_53.png)
 
-#### Filter audit logs by agent and time period
+#### How To: Filter Audit Logs by Agent and Time Period
 
 1. Click **Refilter** on the **History of Changes** screen.
 
-![Click Refilter on the History of Changes screen](.gitbook/assets/auditlogs-auditlogs_timestamp_1_to_08.png)
+![](.gitbook/assets/auditlogs-auditlogs_timestamp_1_to_08.png)
 
 2. Select the target agent or agency from the **Agent** dropdown menu.
 
-![Select the target agent or agency from the Agent dropdown menu](.gitbook/assets/auditlogs-auditlogs_timestamp_1_to_13.png)
+![](.gitbook/assets/auditlogs-auditlogs_timestamp_1_to_13.png)
 
 3. Choose a time range under **Period**, such as last hours, twenty-four hours, seven days, or twenty-four days.
 
-![Choose a time range under Period, such as last hours, twenty-four hours, seven](.gitbook/assets/auditlogs-auditlogs_timestamp_1_to_29.png)
+![](.gitbook/assets/auditlogs-auditlogs_timestamp_1_to_29.png)
 
 4. Select **Custom** to set a specific custom date range.
 
-![Select Custom to set a specific custom date range](.gitbook/assets/auditlogs-auditlogs_timestamp_1_to_35.png)
+![](.gitbook/assets/auditlogs-auditlogs_timestamp_1_to_35.png)
 
-#### Productivity tips
+#### Productivity Tips
 
-{% hint style="info" %}
-**Reload Failed Logs**: Click reload whenever log entries fail to load to display recent system changes immediately.
-{% endhint %}
-
-{% hint style="info" %}
-**Custom Date Search**: Select the custom period option to isolate specific timeframe windows during audits.
-{% endhint %}
-
-{% hint style="warning" %}
-**Unloaded Data Assumption**: Avoid assuming no changes occurred if the list is blank; click reload to fetch missing logs.
-{% endhint %}
+* 💡 **Reload Failed Logs**: Click reload whenever log entries fail to load to display recent system changes immediately.
+* 💡 **Custom Date Search**: Select the custom period option to isolate specific timeframe windows during audits.
+* ⚠️ **Unloaded Data Assumption**: Avoid assuming no changes occurred if the list is blank; click reload to fetch missing logs.

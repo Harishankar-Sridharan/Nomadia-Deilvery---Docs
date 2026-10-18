@@ -1,25 +1,25 @@
-# Customize the validation of mission form fields
+# Customize the Validation of Mission form fields
 
 Customizing mandatory validation enforces required data entries on mission form fields in **Nomadia Delivery**. Dispatchers require mandatory fields to prevent incomplete mission form submissions during daily operations. Configure mandatory fields to ensure accurate field reporting and complete data compliance.
 
-#### Getting started
+#### Getting Started
 
 Administrative requirements and setup steps:
 
 * Administrative access to **Nomadia Delivery** configuration settings.
-* Active mission form profile with field identifiers.
+* Active machine form profile with field identifiers.
 
 Initial setup steps:
 
 1. Select **Configuration** from the main menu.
 
-![Select Configuration from the main menu](../../.gitbook/assets/customizethevalidationofmissionformfields-customizethevalidationofmissionformfields_timestamp_0_to_07_to_0_to_12.gif)
+![](../../.gitbook/assets/customizethevalidationofmissionformfields-customizethevalidationofmissionformfields_timestamp_0_to_07_to_0_to_12.gif)
 
 2. Click **Custom fields** to manage form fields.
 
-![Click Custom fields to manage form fields](../../.gitbook/assets/customizethevalidationofmissionformfields-customizethevalidationofmissionformfields_timestamp_0_to_12_to_0_to_21.gif)
+![](../../.gitbook/assets/customizethevalidationofmissionformfields-customizethevalidationofmissionformfields_timestamp_0_to_12_to_0_to_21.gif)
 
-#### Feature overview
+#### Feature Overview
 
 Key user interface elements:
 
@@ -28,68 +28,68 @@ Key user interface elements:
 * **Identifier**: Represents a specific mission field selected for validation settings.
 * **Mandatory**: Toggles required validation status to force data input before saving.
 * **Assign Help**: Defines mandatory field assistance guidelines for field operators.
-* **Missions**: Displays the mission database to test updated field validations.
+* **Missions**: Displays the fleet machinery database to test updated field validations.
 
-#### Configure mandatory validation rules
+#### How To: Configure Mandatory Validation Rules
 
-Configure mandatory validation for mission form fields:
+Configure mandatory validation for machine form fields:
 
 1. Click **Configuration**.
 
-![Click Configuration](../../.gitbook/assets/customizethevalidationofmissionformfields-customizethevalidationofmissionformfields_timestamp_0_to_07_to_0_to_12.gif)
+![](../../.gitbook/assets/customizethevalidationofmissionformfields-customizethevalidationofmissionformfields_timestamp_0_to_07_to_0_to_12.gif)
 
 2. Click **Custom fields**.
 
-![Click Custom fields](../../.gitbook/assets/customizethevalidationofmissionformfields-customizethevalidationofmissionformfields_timestamp_0_to_12_to_0_to_21.gif)
+![](../../.gitbook/assets/customizethevalidationofmissionformfields-customizethevalidationofmissionformfields_timestamp_0_to_12_to_0_to_21.gif)
 
 3. Select any **Identifier**.
 
-![Select any Identifier](../../.gitbook/assets/customizethevalidationofmissionformfields-customizethevalidationofmissionformfields_timestamp_0_to_21_to_0_to_27.gif)
+![](../../.gitbook/assets/customizethevalidationofmissionformfields-customizethevalidationofmissionformfields_timestamp_0_to_21_to_0_to_27.gif)
 
 4. Toggle **Mandatory** to enable mandatory field validation.
 
-![Toggle Mandatory to enable mandatory field validation](../../.gitbook/assets/customizethevalidationofmissionformfields-customizethevalidationofmissionformfields_timestamp_0_to_27_to_0_to_37.gif)
+![](../../.gitbook/assets/customizethevalidationofmissionformfields-customizethevalidationofmissionformfields_timestamp_0_to_27_to_0_to_37.gif)
 
 5. Click **Save**.
 
-![Click Save](../../.gitbook/assets/customizethevalidationofmissionformfields-customizethevalidationofmissionformfields_timestamp_0_to_44.png)
+![](../../.gitbook/assets/customizethevalidationofmissionformfields-customizethevalidationofmissionformfields_timestamp_0_to_44.png)
 
 6. Select **Assign Hub** and make it mandatory.
 
-![Select Assign Hub and make it mandatory](../../.gitbook/assets/customizethevalidationofmissionformfields-customizethevalidationofmissionformfields_timestamp_0_to_44_to_0_to_52.gif)
+![](../../.gitbook/assets/customizethevalidationofmissionformfields-customizethevalidationofmissionformfields_timestamp_0_to_44_to_0_to_52.gif)
 
 7. Click **Save**.
 
-![Click Save](../../.gitbook/assets/customizethevalidationofmissionformfields-customizethevalidationofmissionformfields_timestamp_0_to_55.png)
+![](../../.gitbook/assets/customizethevalidationofmissionformfields-customizethevalidationofmissionformfields_timestamp_0_to_55.png)
 
-#### Apply validation to mission records
+#### How To: Apply Validation to Mission Records
 
-Apply mandatory validation rules when editing mission profiles:
+Apply mandatory validation rules when editing machine profiles:
 
 1. Navigate to **Missions**.
 
-![Navigate to Missions](../../.gitbook/assets/customizethevalidationofmissionformfields-customizethevalidationofmissionformfields_timestamp_0_to_55_to_1_to_04.gif)
+![](../../.gitbook/assets/customizethevalidationofmissionformfields-customizethevalidationofmissionformfields_timestamp_0_to_55_to_1_to_04.gif)
 
 2. Click **Actions**.
 
-![Click Actions](../../.gitbook/assets/customizethevalidationofmissionformfields-customizethevalidationofmissionformfields_timestamp_1_to_04_to_1_to_06.gif)
+![](../../.gitbook/assets/customizethevalidationofmissionformfields-customizethevalidationofmissionformfields_timestamp_1_to_04_to_1_to_06.gif)
 
 3. Click **Add**.
 4. Click **Agency**.
 
-![Click Agency](../../.gitbook/assets/customizethevalidationofmissionformfields-customizethevalidationofmissionformfields_timestamp_1_to_10_to_1_to_13.gif)
+![](../../.gitbook/assets/customizethevalidationofmissionformfields-customizethevalidationofmissionformfields_timestamp_1_to_10_to_1_to_13.gif)
 
 5. Click **Next**.
 
-![Click Next](../../.gitbook/assets/customizethevalidationofmissionformfields-customizethevalidationofmissionformfields_timestamp_1_to_13_to_1_to_15.gif)
+![](../../.gitbook/assets/customizethevalidationofmissionformfields-customizethevalidationofmissionformfields_timestamp_1_to_13_to_1_to_15.gif)
 
 6. Select **Edit**.
 
-![Select Edit](../../.gitbook/assets/customizethevalidationofmissionformfields-customizethevalidationofmissionformfields_timestamp_1_to_15_to_1_to_21.gif)
+![](../../.gitbook/assets/customizethevalidationofmissionformfields-customizethevalidationofmissionformfields_timestamp_1_to_15_to_1_to_21.gif)
 
 7. Click **Custom fields** and check if the Hub A is Mandatory.
 
-![Click Custom fields and check if the Hub A is Mandatory](../../.gitbook/assets/customizethevalidationofmissionformfields-customizethevalidationofmissionformfields_timestamp_1_to_21_to_1_to_23.gif)
+![](../../.gitbook/assets/customizethevalidationofmissionformfields-customizethevalidationofmissionformfields_timestamp_1_to_21_to_1_to_23.gif)
 
 **Troubleshooting**
 
@@ -97,16 +97,11 @@ Troubleshoot form submission errors:
 
 * **Cannot Save Mission Entry**: Unselected mandatory fields block submission. Select **Assign Hub** before saving.
 
-![Cannot Save Mission Entry: Unselected mandatory fields block submission](../../.gitbook/assets/customizethevalidationofmissionformfields-customizethevalidationofmissionformfields_timestamp_1_to_47.png)
+![](../../.gitbook/assets/customizethevalidationofmissionformfields-customizethevalidationofmissionformfields_timestamp_1_to_47.png)
 
-#### Productivity tips
+#### Productivity Tips
 
 Best practices and operational warnings:
 
-{% hint style="info" %}
-**Automatic Mandatory Updates**: Toggle mandatory field validation to update mandatory rules across mission forms instantly.
-{% endhint %}
-
-{% hint style="warning" %}
-**Unselected Mandatory Fields**: Do not leave mandatory fields unselected, or the system prevents saving the mission entry.
-{% endhint %}
+* 💡 **Automatic Mandatory Updates**: Toggle mandatory field validation to update mandatory rules across mission forms instantly.
+* ⚠️ **Unselected Mandatory Fields**: Do not leave mandatory fields unselected, or the system prevents saving the mission entry.
