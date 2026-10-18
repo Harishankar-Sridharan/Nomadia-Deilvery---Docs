@@ -85,3 +85,8 @@ Initial setup steps:
 {% hint style="warning" %}
 **Unloaded Data Assumption**: Avoid assuming no changes occurred if the list is blank; click reload to fetch missing logs.
 {% endhint %}
+
+## Related topics
+
+* [Mission Logs](8-6-missions/mission-logs.md)
+* [Understanding the Missions Page](8-6-missions/understanding-the-missions-page/README.md)

@@ -66,3 +66,8 @@ Ensure you meet all system requirements before accessing the feature.
 {% hint style="info" %}
 **Specific Queries**: Type clear questions in the typing window to receive targeted answers.
 {% endhint %}
+
+## Related topics
+
+* [Understanding the Home Screen](readme-1/understanding-the-home-screen.md)
+* [Introduction](README.md)

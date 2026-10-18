@@ -100,3 +100,9 @@ Setup Steps:
 {% hint style="warning" %}
 **Unsaved Configurations**: Avoid navigating away without clicking save when configuring thresholds or changes will be lost.
 {% endhint %}
+
+## Related topics
+
+* [Route Editor](routeeditor.md)
+* [Gantt View](ganttview.md)
+* [Table view](tableview.md)

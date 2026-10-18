@@ -95,3 +95,9 @@ Follow these initial setup steps:
 {% hint style="warning" %}
 **Enable Fetch Status**: Enable **Fetch status from child missions** first, or the **Manage status hierarchy** option will not be visible.
 {% endhint %}
+
+## Related topics
+
+* [Customizing Workflow](customize-work-flow.md)
+* [No Route Mode](README.md)
+* [Child to Parent Inheritance](../../childtoparentinheritance/childtoparentinheritance.md)

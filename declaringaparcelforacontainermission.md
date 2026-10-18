@@ -133,3 +133,9 @@ Setup steps:
 {% hint style="info" %}
 **Action Panel Convenience**: Add extra parcels directly from the action panel without re-entering the mission creation workflow.
 {% endhint %}
+
+## Related topics
+
+* [Container child missions](manage-container-types/container-child-missions.md)
+* [Child to Parent Inheritance](childtoparentinheritance/childtoparentinheritance.md)
+* [Adding a Mission](8-6-missions/adding-a-mission-beta/README.md)

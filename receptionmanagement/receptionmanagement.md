@@ -114,3 +114,9 @@ Drivers must now scan every item in the container before the **Received** sub-st
 {% hint style="info" %}
 **\[Forced Verification]**: Enable **Scan all the items in the container** under **Received** sub-status to prevent drivers from skipping verification.
 {% endhint %}
+
+## Related topics
+
+* [Custom Templates](../manage-notifications/customize-email-templates/customtemplates.md)
+* [Manage Substatus](../manage-substatus/README.md)
+* [Child to Parent Inheritance](../childtoparentinheritance/childtoparentinheritance.md)

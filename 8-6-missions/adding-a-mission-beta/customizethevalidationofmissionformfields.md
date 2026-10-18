@@ -112,3 +112,9 @@ Best practices and operational warnings:
 {% hint style="warning" %}
 **Unselected Mandatory Fields**: Do not leave mandatory fields unselected, or the system prevents saving the mission entry.
 {% endhint %}
+
+## Related topics
+
+* [Adding a Mission](README.md)
+* [Adhoc Address Creation](../../adhocaddresscreation.md)
+* [Declaring Parcel for a container mission](../../declaringaparcelforacontainermission.md)

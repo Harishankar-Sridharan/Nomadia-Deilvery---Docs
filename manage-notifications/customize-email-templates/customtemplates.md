@@ -78,3 +78,9 @@ Use the **$** keyword to add the appropriate fields.
 {% hint style="info" %}
 **Mode Toggle**: Toggle **Standard mode** to **Advanced mode** if you want to use advanced editing options.
 {% endhint %}
+
+## Related topics
+
+* [Email](../email.md)
+* [SMS](../sms.md)
+* [Group notifications for container missions](../../groupnotificationsforthecontainermissions/groupnotificationsforthecontainermissions.md)

@@ -75,3 +75,9 @@
 {% hint style="warning" %}
 **Variable Field Scope**: Avoid assuming all label updates appear everywhere, as certain predefined changes apply exclusively to the mission creator.
 {% endhint %}
+
+## Related topics
+
+* [Customizing Status Labels](8-6-missions/customizing-status-labels.md)
+* [Customize the Validation of Mission form fields](8-6-missions/adding-a-mission-beta/customizethevalidationofmissionformfields.md)
+* [Mission Creation Configuration](8-6-missions/mission-creation-configuration.md)

@@ -103,3 +103,9 @@ Initial setup steps:
 {% hint style="info" %}
 **Direct Stop Access**: Click any route row directly to open stop view without navigating secondary menus.
 {% endhint %}
+
+## Related topics
+
+* [Gantt View](ganttview.md)
+* [Route Editor](routeeditor.md)
+* [Manual Route Creation](8-6-missions-1/manualroutecreation.md)

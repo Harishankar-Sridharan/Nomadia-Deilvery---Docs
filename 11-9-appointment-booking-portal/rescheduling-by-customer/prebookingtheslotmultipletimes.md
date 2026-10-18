@@ -51,3 +51,9 @@ Initial Setup Steps:
 {% hint style="info" %}
 **Reuse Original Booking Links**: Re-open the same booking link received during initial reservation to quickly change slot timings without generating new requests.
 {% endhint %}
+
+## Related topics
+
+* [Rescheduling by Customer](README.md)
+* [Reschedule Configuration](../allow-customers-to-reschedule.md)
+* [Booking slots](../booking-slots/README.md)

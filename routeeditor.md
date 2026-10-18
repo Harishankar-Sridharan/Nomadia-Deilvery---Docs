@@ -140,3 +140,10 @@ If the **delivery name** field is locked, check the route assignment status. Sys
 {% hint style="info" %}
 **Custom Field Views**: Use the right arrow during list customization to control which sample fields display.
 {% endhint %}
+
+## Related topics
+
+* [Gantt View](ganttview.md)
+* [Table view](tableview.md)
+* [Configuring Customized Surveys](15-13-configuring-customized-surveys/README.md)
+* [Finish the Route](finishtheroute.md)

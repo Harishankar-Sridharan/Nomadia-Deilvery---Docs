@@ -113,3 +113,9 @@ Initial Setup Steps:
 {% hint style="warning" %}
 **Unsaved Configuration Rules**: Click Save after editing color ranges or your custom background rules will not apply.
 {% endhint %}
+
+## Related topics
+
+* [Custom Fields](8-6-missions/custom-fields.md)
+* [Grouping Custom Field](8-6-missions/custom-fields/grouping-custom-field.md)
+* [Configuring Mission Visibility](8-6-missions/custom-fields/configuring-mission-visibility.md)

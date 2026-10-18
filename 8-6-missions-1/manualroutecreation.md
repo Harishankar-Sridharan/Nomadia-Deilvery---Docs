@@ -80,3 +80,10 @@ The Route has been successfully created
 {% hint style="warning" %}
 **Conflict Handling Settings**: Select whether to ignore or replace conflicts before clicking **Force Assignment** to avoid unexpected route overwrites.
 {% endhint %}
+
+## Related topics
+
+* [Assign Pick up and Delivery Missions](../assignpickupanddelivery.md)
+* [Route Editor](../routeeditor.md)
+* [Gantt View](../ganttview.md)
+* [Table view](../tableview.md)

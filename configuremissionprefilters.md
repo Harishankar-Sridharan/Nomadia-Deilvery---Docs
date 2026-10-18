@@ -145,3 +145,9 @@ Initial setup steps:
 {% hint style="warning" %}
 **Hidden Fleet Visibility**: Leaving a pre-filter assigned prevents dispatchers from viewing the full fleet until the assignment is removed.
 {% endhint %}
+
+## Related topics
+
+* [Pre-filters](8-6-missions/understanding-the-missions-page/pre-filters/README.md)
+* [Set missions display (prefilter)](8-6-missions/understanding-the-missions-page/pre-filters/set-missions-display-prefilter.md)
+* [Understanding the Missions Page](8-6-missions/understanding-the-missions-page/README.md)

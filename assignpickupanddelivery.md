@@ -80,3 +80,9 @@ Once the back-office user confirms the assignment, the request is sent to the de
 {% hint style="warning" %}
 **Reorder Option**: The Reorder option is deactivated for routes that contain dynamic pickup & delivery locations, as this feature is not compatible with this mode.
 {% endhint %}
+
+## Related topics
+
+* [Drop Shipping Missions](8-6-missions/drop-shipping-missions.md)
+* [Manual Route Creation](8-6-missions-1/manualroutecreation.md)
+* [Route Editor](routeeditor.md)

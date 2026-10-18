@@ -101,3 +101,5 @@ Contractor will receive the notification email successfully.
 ## Related topics
 
 * [Edit a Container Type](../manage-container-types/edit-a-container-type.md)
+* [Child to Parent Inheritance](../childtoparentinheritance/childtoparentinheritance.md)
+* [Custom Templates](../manage-notifications/customize-email-templates/customtemplates.md)

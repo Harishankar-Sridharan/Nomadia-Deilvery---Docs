@@ -12,6 +12,22 @@ The Selection dashboard gives you a quick summary of the missions you have selec
 
 In the screenshots below, no missions are selected, so every counter shows 0. When you select missions, the dashboard reflects your selection.
 
+### Before you begin
+
+* Select the missions you want to review on the **Missions** page. The dashboard reflects your selection.
+
+### Features
+
+* [Read the dashboard header](#read-the-dashboard-header)
+* [Use the dashboard controls](#use-the-dashboard-controls)
+* [Read the summary widgets](#read-the-summary-widgets)
+* [Check missions by delivery deadline](#check-missions-by-delivery-deadline)
+* [Check the mission type widgets](#check-the-mission-type-widgets)
+* [Review the Problems list](#review-the-problems-list)
+* [Check the selection radius](#check-the-selection-radius)
+* [Scroll to see all widgets](#scroll-to-see-all-widgets)
+* [Remove a widget](#remove-a-widget)
+
 ### Read the dashboard header
 
 1. Look at the title bar of the dashboard. It is called Selection dashboard. Use the small arrow on the left to expand or collapse the panel.
@@ -113,6 +129,17 @@ The **Widgets configuration** window lets you choose which widgets appear on the
 
 * **Available widgets**: widgets that are not currently shown on the dashboard.
 * **Displayed widgets**: widgets that are currently shown on the dashboard.
+
+### Before you begin
+
+* Open the **Selection dashboard**. See [Selection dashboard](#selection-dashboard).
+
+### Features
+
+* [Available widgets](#available-widgets)
+* [Displayed widgets](#displayed-widgets)
+* [Add or remove a widget](#add-or-remove-a-widget)
+* [Default Delivery statuses](#default-delivery-statuses)
 
 ### Available widgets
 

@@ -59,3 +59,9 @@ This ensures that no unfinished mission stays open once the route is closed.
 {% hint style="warning" %}
 **Unclosed Routes**: Avoid leaving completed routes open in the system to prevent inaccurate route status tracking.
 {% endhint %}
+
+## Related topics
+
+* [Manual Route Creation](8-6-missions-1/manualroutecreation.md)
+* [Route Editor](routeeditor.md)
+* [Assign Pick up and Delivery Missions](assignpickupanddelivery.md)

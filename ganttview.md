@@ -81,3 +81,9 @@ Initial setup steps:
 {% hint style="warning" %}
 **Blocked Route Warning**: Avoid dispatching routes that display a block symbol alongside the publish symbol.
 {% endhint %}
+
+## Related topics
+
+* [Table view](tableview.md)
+* [Route Editor](routeeditor.md)
+* [Manual Route Creation](8-6-missions-1/manualroutecreation.md)

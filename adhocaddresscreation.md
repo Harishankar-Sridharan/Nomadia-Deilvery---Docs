@@ -95,3 +95,9 @@ Review the saved address entries.
 {% hint style="info" %}
 **Saved Address Review**: Navigate through **Contractors** to **Address List** to quickly verify newly created addresses.
 {% endhint %}
+
+## Related topics
+
+* [Manage Global Address List](manage-global-address-list.md)
+* [Manage Address List](9-7-contractors/manage-address-list.md)
+* [Customize the Address Visibility](customizetheaddresslistvisibility/customizetheaddresslistvisibility.md)
