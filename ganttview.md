@@ -2,7 +2,7 @@
 
 The **Gantt view** displays complete route information within Nomadia Delivery. Access this feature to manage driver schedules and monitor active deliveries efficiently. Use this interface to inspect route progress and view assigned delivery paths.
 
-#### Getting Started
+## Before you begin
 
 Prerequisites:
 
@@ -15,9 +15,9 @@ Initial setup steps:
 2. Navigate to the **Missions** section.
 3. Scroll down to locate the **Route** section.
 
-![](.gitbook/assets/ganttview-ganttview_timestamp_0_to_17.png)
+![Scroll down to locate the Route section](.gitbook/assets/GanttView_BeforeBegin_001.png)
 
-#### Feature Overview
+## Feature overview
 
 * **Route Selector**: Allows selection of a specific route to execute management actions.
 * **Eye Icon**: Opens the map view to display the selected route geographically.
@@ -31,48 +31,53 @@ Initial setup steps:
 * **Start and End Time**: Shows the scheduled start time and end time for the route.
 * **Route Type**: Identifies the specific classification type of the route.
 
-![](.gitbook/assets/ganttview-ganttview_timestamp_1_to_47.png)
+![Route Type: Identifies the specific classification type of the route](.gitbook/assets/GanttView_FeatureOverview_001.png)
 
-#### How To: View a Route on the Map
+## How To: View a Route on the Map
 
 1. Select the desired route from the **Route** list.
 
-![](.gitbook/assets/ganttview-ganttview_timestamp_0_to_31.png)
+![Select the desired route from the Route list](.gitbook/assets/GanttView_ViewRouteMap_001.png)
 
 2. Click the **Eye Icon** next to the route.
 
-![](.gitbook/assets/ganttview-ganttview_timestamp_0_to_31_to_0_to_43.gif)
+![Click the Eye Icon next to the route](.gitbook/assets/GanttView_ViewRouteMap_002.gif)
 
 3. View the full route layout on the map.
 
-![](.gitbook/assets/ganttview-ganttview_timestamp_0_to_43.png)
+![View the full route layout on the map](.gitbook/assets/GanttView_ViewRouteMap_003.png)
 
-#### How To: Edit a Route
+## How To: Edit a Route
 
 1. Select the target route in the **Route** section.
 
-![](.gitbook/assets/ganttview-ganttview_timestamp_0_to_31.png)
+![Select the target route in the Route section](.gitbook/assets/GanttView_ViewRouteMap_001.png)
 
 2. Click the **Edit Icon**.
 3. Modify the necessary route details.
 
-![](.gitbook/assets/ganttview-ganttview_timestamp_0_to_43_to_0_to_52.gif)
+![Modify the necessary route details](.gitbook/assets/GanttView_EditRoute_001.gif)
 
-#### How To: Inspect Route Details
+## How To: Inspect Route Details
 
 1. Click on the specific route entry.
 
-![](.gitbook/assets/ganttview-ganttview_timestamp_1_to_48_to_1_to_54.gif)
+![Click on the specific route entry](.gitbook/assets/GanttView_InspectRouteDetails_001.gif)
 
 2. Review event status, duration, start time, end time, drive duration, total distance, building, and floor details.
 
-![](.gitbook/assets/ganttview-ganttview_timestamp_2_to_03.png)
+![Review event status, duration, start time, end time, drive duration, total](.gitbook/assets/GanttView_InspectRouteDetails_002.png)
 
 3. Click the **Back Button** to return to the route list.
 
-![](.gitbook/assets/ganttview-ganttview_timestamp_2_to_04_to_2_to_09.gif)
+![Click the Back Button to return to the route list](.gitbook/assets/GanttView_InspectRouteDetails_003.gif)
 
-#### Productivity Tips
+## Tips
 
-* 💡 **Granted Route Identification**: Look for the green button symbol to instantly verify that a route has been granted.
-* ⚠️ **Blocked Route Warning**: Avoid dispatching routes that display a block symbol alongside the publish symbol.
+{% hint style="info" %}
+**Granted Route Identification**: Look for the green button symbol to instantly verify that a route has been granted.
+{% endhint %}
+
+{% hint style="warning" %}
+**Blocked Route Warning**: Avoid dispatching routes that display a block symbol alongside the publish symbol.
+{% endhint %}

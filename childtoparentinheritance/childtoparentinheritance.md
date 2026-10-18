@@ -2,14 +2,14 @@
 
 Child-to-parent inheritance automatically syncs data from child containers to parent containers. This feature saves dispatchers time by eliminating manual data entry. You will achieve real-time visibility of consolidated package statuses and aggregate cargo dimensions.
 
-#### Getting Started
+## Before you begin
 
 Before using this feature, ensure you meet the following requirements:
 
 * An active user account for **Nomadia Delivery** with administrative privileges.
 * Pre-configured parent and child container profiles.
 
-#### Feature Overview
+## Feature overview
 
 * **Fetch status from child missions**: This setting enables parent containers to inherit progress status from child containers. It ensures automatic updates.
 * **Scan all the items in the container**: This toggle forces operators to scan every child item before executing delivery. It guarantees delivery accuracy.
@@ -18,169 +18,180 @@ Before using this feature, ensure you meet the following requirements:
 * **Aggregate dimensions**: This configuration defines which physical dimensions sum up from child to parent containers. It aggregates size details.
 * **Aggregate quantities**: This configuration defines which quantitative measurements sum up to the parent container. It aggregates weight and volume.
 
-#### How To: Configure
+## How To: Configure
 
 Set up child-to-parent inheritance using these steps:
 
 1. Go to **Configuration**.
 
-![](../.gitbook/assets/childtoparentinheritance-childtoparentinheritance_timestamp_0_to_00_to_0_to_06.gif)
+![Go to Configuration](../.gitbook/assets/ChildToParentInheritance_Configure_001.gif)
 
 2. Click **Container Types**.
 
-![](../.gitbook/assets/childtoparentinheritance-childtoparentinheritance_timestamp_0_to_10.png)
+![Click Container Types](../.gitbook/assets/ChildToParentInheritance_Configure_002.png)
 
 3. Scroll down to find the correct identifier.
 
-![](../.gitbook/assets/childtoparentinheritance-childtoparentinheritance_timestamp_0_to_10_to_0_to_22.gif)
+![Scroll down to find the correct identifier](../.gitbook/assets/ChildToParentInheritance_Configure_003.gif)
 
 4. Click the correct identifier.
 
-![](../.gitbook/assets/childtoparentinheritance-childtoparentinheritance_timestamp_0_to_22.png)
+![Click the correct identifier](../.gitbook/assets/ChildToParentInheritance_Configure_004.png)
 
 5. Locate the **Fetch status from child missions** toggle.
 6. Toggle the setting to **Yes** if it is disabled.
 7. Click **Save**.
 
-![](../.gitbook/assets/childtoparentinheritance-childtoparentinheritance_timestamp_0_to_35.png)
+![Click Save](../.gitbook/assets/ChildToParentInheritance_Configure_005.png)
 
-#### How To: Enable Scanning of All Items in the Container for a Specific Sub-Status
+## How To: Enable Scanning of All Items in the Container for a Specific Sub-Status
 
 1. Click **Sub status**.
 
-![](../.gitbook/assets/childtoparentinheritance-childtoparentinheritance_timestamp_0_to_52_to_1_to_03.gif)
+![Click Sub status](../.gitbook/assets/ChildToParentInheritance_EnableScanningAllItems_001.gif)
 
 2. Edit the sub-status for which you want to allow the mobile user to scan all the items in the container.
 
-![](../.gitbook/assets/childtoparentinheritance-childtoparentinheritance_timestamp_1_to_11.png)
+![Edit the sub-status for which you want to allow the mobile user to scan all](../.gitbook/assets/ChildToParentInheritance_EnableScanningAllItems_002.png)
 
 3. Check if **Scan all the items in the container** is enabled.
 4. Toggle the option to **Yes** if it is disabled.
 
-![](../.gitbook/assets/childtoparentinheritance-childtoparentinheritance_timestamp_1_to_22.png)
+![Toggle the option to Yes if it is disabled](../.gitbook/assets/ChildToParentInheritance_EnableScanningAllItems_003.png)
 
 5. Click **Save**.
 
-![](../.gitbook/assets/childtoparentinheritance-childtoparentinheritance_timestamp_1_to_30.png)
+![Click Save](../.gitbook/assets/ChildToParentInheritance_EnableScanningAllItems_004.png)
 
-#### How To: Update Child Container Delivery Status
+## How To: Update Child Container Delivery Status
 
 1. Click **Missions** on the main navigation panel.
 
-![](../.gitbook/assets/childtoparentinheritance-childtoparentinheritance_timestamp_1_to_30_to_1_to_36.gif)
+![Click Missions on the main navigation panel](../.gitbook/assets/ChildToParentInheritance_UpdateChildContainerDelivery_001.gif)
 
 2. Click on the **child container**.
 
-![](../.gitbook/assets/childtoparentinheritance-childtoparentinheritance_timestamp_1_to_51.png)
+![Click on the child container](../.gitbook/assets/ChildToParentInheritance_UpdateChildContainerDelivery_002.png)
 
 3. Change the **Mission status** to **Delivered**.
 
-![](../.gitbook/assets/childtoparentinheritance-childtoparentinheritance_timestamp_2_to_00.png)
+![Change the Mission status to Delivered](../.gitbook/assets/ChildToParentInheritance_UpdateChildContainerDelivery_003.png)
 
 4. Click **Save**.
 
-![](../.gitbook/assets/childtoparentinheritance-childtoparentinheritance_timestamp_2_to_08.png)
+![Click Save](../.gitbook/assets/ChildToParentInheritance_UpdateChildContainerDelivery_004.png)
 
 5. Updating the status of a child mission also updates the status of its parent mission.
 
-#### How To: Customize the List to View Parcel Status Attainment
+## How To: Customize the List to View Parcel Status Attainment
 
 1. Click **Customize the list** from the **Actions** menu.
 
-![](../.gitbook/assets/childtoparentinheritance-childtoparentinheritance_timestamp_2_to_47.png)
+![Click Customize the list from the Actions menu](../.gitbook/assets/ChildToParentInheritance_CustomizeListViewParcel_001.png)
 
 2. Verify **Parcel status attainment** is in the display fields list.
 3. Click **Save**.
 
-![](../.gitbook/assets/childtoparentinheritance-childtoparentinheritance_timestamp_2_to_58.png)
+![Click Save](../.gitbook/assets/ChildToParentInheritance_CustomizeListViewParcel_002.png)
 
 4. Click the **Pencil icon** to edit another child mission.
 
-![](../.gitbook/assets/childtoparentinheritance-childtoparentinheritance_timestamp_3_to_09.png)
+![Click the Pencil icon to edit another child mission](../.gitbook/assets/ChildToParentInheritance_CustomizeListViewParcel_003.png)
 
 5. Change the status to **Delivered**.
 
-![](../.gitbook/assets/childtoparentinheritance-childtoparentinheritance_timestamp_3_to_16.png)
+![Change the status to Delivered](../.gitbook/assets/ChildToParentInheritance_CustomizeListViewParcel_004.png)
 
 6. Click **Save**.
 
-![](../.gitbook/assets/childtoparentinheritance-childtoparentinheritance_timestamp_3_to_25.png)
+![Click Save](../.gitbook/assets/ChildToParentInheritance_CustomizeListViewParcel_005.png)
 
 7. The percentage of parcel attainment shown on the parent mission changes to reflect the update.
 
-#### How To: Track Damaged Items and Not-Delivered Reasons
+## How To: Track Damaged Items and Not-Delivered Reasons
 
 1. Click the **Pencil icon** of the damaged child container to edit it.
 
-![](../.gitbook/assets/childtoparentinheritance-childtoparentinheritance_timestamp_3_to_09.png)
+![Click the Pencil icon of the damaged child container to edit it](../.gitbook/assets/ChildToParentInheritance_CustomizeListViewParcel_003.png)
 
 2. Change the status to **Not Delivered**.
 
-![](../.gitbook/assets/childtoparentinheritance-childtoparentinheritance_timestamp_3_to_43.png)
+![Change the status to Not Delivered](../.gitbook/assets/ChildToParentInheritance_TrackDamagedItemsNot_001.png)
 
 3. Enter the specific reason in the **Reason** field.
 
-![](../.gitbook/assets/childtoparentinheritance-childtoparentinheritance_timestamp_3_to_56.png)
+![Enter the specific reason in the Reason field](../.gitbook/assets/ChildToParentInheritance_TrackDamagedItemsNot_002.png)
 
 4. Click **Save**.
 
-![](../.gitbook/assets/childtoparentinheritance-childtoparentinheritance_timestamp_4_to_44.png)
+![Click Save](../.gitbook/assets/ChildToParentInheritance_TrackDamagedItemsNot_003.png)
+
+### Result
 
 The status will be reflected in the parent container. Please note that only positive statuses will be updated in the parent container.
 
 The partial status attainment is updated based on the number of child missions that have a positive status.
 
-<figure><img src="../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ChildToParentInheritance_TrackDamagedItemsNot_004.png" alt="The partial status attainment is updated based on the number of child missions"><figcaption></figcaption></figure>
 
-#### How To: Configure and View Aggregated Dimensions and Quantities
+## How To: Configure and View Aggregated Dimensions and Quantities
 
 1. Click **Configuration** on the top menu.
 
-![](../.gitbook/assets/childtoparentinheritance-childtoparentinheritance_timestamp_4_to_19.png)
+![Click Configuration on the top menu](../.gitbook/assets/ChildToParentInheritance_ConfigureViewAggregatedDimensions_001.png)
 
 2. Edit any container type from the list.
 3. Choose your desired size metrics in **Aggregate dimensions**, such as length or height.
 
-![](../.gitbook/assets/childtoparentinheritance-childtoparentinheritance_timestamp_4_to_41.png)
+![Choose your desired size metrics in Aggregate dimensions, such as length](../.gitbook/assets/ChildToParentInheritance_ConfigureViewAggregatedDimensions_002.png)
 
 4. Choose your desired quantity metrics in **Aggregate quantities**, such as kg or volume.
 
-![](../.gitbook/assets/childtoparentinheritance-childtoparentinheritance_timestamp_4_to_48.png)
+![Choose your desired quantity metrics in Aggregate quantities, such as kg](../.gitbook/assets/ChildToParentInheritance_ConfigureViewAggregatedDimensions_003.png)
 
 5. Click **Save**.
 
-![](../.gitbook/assets/childtoparentinheritance-childtoparentinheritance_timestamp_4_to_54.png)
+![Click Save](../.gitbook/assets/ChildToParentInheritance_ConfigureViewAggregatedDimensions_004.png)
 
 6. Click **Missions**.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ChildToParentInheritance_ConfigureViewAggregatedDimensions_005.png" alt="Click Missions"><figcaption></figcaption></figure>
 
 7. Enter the **length, height, quantity, weight (kg)**, and **volume values** for the first child container.
 
-![](../.gitbook/assets/childtoparentinheritance-childtoparentinheritance_timestamp_5_to_24.png)
+![Enter the length, height, quantity, weight (kg), and volume values](../.gitbook/assets/ChildToParentInheritance_ConfigureViewAggregatedDimensions_006.png)
 
 8. Click **Save**.
 
-![](../.gitbook/assets/childtoparentinheritance-childtoparentinheritance_timestamp_5_to_49.png)
+![Click Save](../.gitbook/assets/ChildToParentInheritance_ConfigureViewAggregatedDimensions_007.png)
 
 9. Select the second child container and enter its metrics.
 
-![](../.gitbook/assets/childtoparentinheritance-childtoparentinheritance_timestamp_6_to_11.png)
+![Select the second child container and enter its metrics](../.gitbook/assets/ChildToParentInheritance_ConfigureViewAggregatedDimensions_008.png)
 
 10. Click **Save**.
 
-![](../.gitbook/assets/childtoparentinheritance-childtoparentinheritance_timestamp_6_to_35.png)
+![Click Save](../.gitbook/assets/ChildToParentInheritance_ConfigureViewAggregatedDimensions_009.png)
 
 11. Open the parent container to view the calculated totals.
 
-<figure><img src="../.gitbook/assets/image (239).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ChildToParentInheritance_ConfigureViewAggregatedDimensions_010.png" alt="Open the parent container to view the calculated totals"><figcaption></figcaption></figure>
 
+## Tips
 
+{% hint style="info" %}
+**Mobile Synchronization**: Use the mobile application to experience the same automatic child-to-parent data inheritance on the go.
+{% endhint %}
 
-#### Productivity Tips
+{% hint style="info" %}
+**Detailed Tracking**: Enter specific reasons when marking containers as not delivered to ensure accurate fleet reporting.
+{% endhint %}
 
-* 💡 **Mobile Synchronization**: Use the mobile application to experience the same automatic child-to-parent data inheritance on the go.
-* 💡 **Detailed Tracking**: Enter specific reasons when marking containers as not delivered to ensure accurate fleet reporting.
-* ⚠️ **Parent Display Only**: The overall mission status is updated only on the parent mission. Sub-statuses are not passed from child missions to the parent, because each child mission can have a different sub-status.
+{% hint style="warning" %}
+**Parent Display Only**: The overall mission status is updated only on the parent mission. Sub-statuses are not passed from child missions to the parent, because each child mission can have a different sub-status.
+{% endhint %}
 
-***
+## Related topics
+
+* [Parent to Child Inheritance](../parenttochildinheritance/parenttochildinheritance.md)
+* [Edit a Container Type](../manage-container-types/edit-a-container-type.md)

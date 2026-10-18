@@ -1,8 +1,8 @@
 # Customize Mission Block Labels
 
-**Customized Machine Block Labels** allow dispatchers to modify default field labels within Nomadia Delivery. Customize predefined field names to align with your fleet operations and terminology. Achieve consistent label formatting across mission creation and editing interfaces.
+**Customized Mission Block Labels** allow dispatchers to modify default field labels within Nomadia Delivery. Customize predefined field names to align with your fleet operations and terminology. Achieve consistent label formatting across mission creation and editing interfaces.
 
-#### Getting Started
+## Before you begin
 
 **Prerequisites**
 
@@ -13,36 +13,36 @@
 
 1. Navigate to **Configuration** in the main menu.
 
-![](.gitbook/assets/customizemissionblocklabels-customizemissionblocklabels_timestamp_0_to_05_to_0_to_08.gif)
+![Navigate to Configuration in the main menu](.gitbook/assets/MissionBlockLabels_BeforeBegin_001.gif)
 
 2. Select **Customization** from the options menu.
 3. Click **Customized Mission Block Labels** to open label settings.
 
-![](.gitbook/assets/customizemissionblocklabels-customizemissionblocklabels_timestamp_0_to_14_to_0_to_17.gif)
+![Click Customized Mission Block Labels to open label settings](.gitbook/assets/MissionBlockLabels_BeforeBegin_002.gif)
 
-#### Feature Overview
+## Feature overview
 
 * **Predefined Information**: Displays default label fields available when creating or editing a Mission.
 * **General Information**: Allows users to enter custom label names for Mission block fields.
 * **Mission Creator**: Displays customized labels when adding new Missions.
 * **Mission Editor**: Displays customized labels when editing existing mission entries.
 
-#### How To: Customize and Verify Block Labels
+## How To: Customize and Verify Block Labels
 
 **Customizing Mission Block Labels**
 
 1. Click **General Information** in the customized block labels menu.
 
-![](.gitbook/assets/customizemissionblocklabels-customizemissionblocklabels_timestamp_0_to_52_to_0_to_57.gif)
+![Click General Information in the customized block labels menu](.gitbook/assets/MissionBlockLabels_CustomizeVerifyBlockLabels_001.gif)
 
 2. Enter new text in the label fields.
 3. Click **Save** to apply your changes.
 
-![](.gitbook/assets/customizemissionblocklabels-customizemissionblocklabels_timestamp_1_to_04_to_1_to_15.gif)
+![Click Save to apply your changes](.gitbook/assets/MissionBlockLabels_CustomizeVerifyBlockLabels_002.gif)
 
 4. Confirm updated names appear in the list.
 
-![](.gitbook/assets/customizemissionblocklabels-customizemissionblocklabels_timestamp_1_to_25.png)
+![Confirm updated names appear in the list](.gitbook/assets/MissionBlockLabels_CustomizeVerifyBlockLabels_003.png)
 
 **Verifying Labels in Mission Creator**
 
@@ -50,24 +50,28 @@
 2. Click **Add** to open the Mission creator.
 3. Verify updated labels display in the form.
 
-![](.gitbook/assets/customizemissionblocklabels-customizemissionblocklabels_timestamp_1_to_58.png)
+![Verify updated labels display in the form](.gitbook/assets/MissionBlockLabels_CustomizeVerifyBlockLabels_004.png)
 
 **Verifying Labels in Mission Editor**
 
 1. Select a Mission and click **Edit**.
 
-![](.gitbook/assets/customizemissionblocklabels-customizemissionblocklabels_timestamp_1_to_58_to_2_to_01.gif)
+![Select a Mission and click Edit](.gitbook/assets/MissionBlockLabels_CustomizeVerifyBlockLabels_005.gif)
 
 2. Verify updated labels display in the editor form.
 
-![](.gitbook/assets/customizemissionblocklabels-customizemissionblocklabels_timestamp_2_to_07.png)
+![Verify updated labels display in the editor form](.gitbook/assets/MissionBlockLabels_CustomizeVerifyBlockLabels_006.png)
 
 4. Click **Edit** again to re-verify custom labels.
 
-![](.gitbook/assets/customizemissionblocklabels-customizemissionblocklabels_timestamp_2_to_13_to_2_to_19.gif)
+![Click Edit again to re-verify custom labels](.gitbook/assets/MissionBlockLabels_CustomizeVerifyBlockLabels_007.gif)
 
-#### Productivity Tips
+## Tips
 
-* 💡 **Automated Synchronization**: Updating predefined information automatically syncs label changes across both the mission creator and mission editor.
-* ⚠️ **Variable Field Scope**: Avoid assuming all label updates appear everywhere, as certain predefined changes apply exclusively to the mission creator.
+{% hint style="info" %}
+**Automated Synchronization**: Updating predefined information automatically syncs label changes across both the mission creator and mission editor.
+{% endhint %}
 
+{% hint style="warning" %}
+**Variable Field Scope**: Avoid assuming all label updates appear everywhere, as certain predefined changes apply exclusively to the mission creator.
+{% endhint %}

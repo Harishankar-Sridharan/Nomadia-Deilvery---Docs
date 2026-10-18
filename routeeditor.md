@@ -2,7 +2,7 @@
 
 The **Route Edior** feature allows dispatchers to manage route details and survey configurations. Use this tool to adjust route schedules, track survey responses, view logs, and manage vehicle photos. You will achieve complete control over route settings and driver inspection data.
 
-#### Getting Started
+## Before you begin
 
 **Requirements**
 
@@ -13,17 +13,17 @@ The **Route Edior** feature allows dispatchers to manage route details and surve
 
 1. Log into **Nomadia Delivery**.
 
-![](.gitbook/assets/{IMAGE_BASE_PATH}routeeditor-routeeditor_timestamp_0_to_07_to_0_to_14.gif)
+![Log into Nomadia Delivery](.gitbook/assets/RouteEditor_BeforeBegin_001.gif)
 
 2. Go to **missions** and scroll down to access the **route section**.
 
-![](.gitbook/assets/{IMAGE_BASE_PATH}routeeditor-routeeditor_timestamp_0_to_14.png)
+![Go to missions and scroll down to access the route section](.gitbook/assets/RouteEditor_BeforeBegin_002.png)
 
 3. Click the **edit icon** next to the **delivery name**.
 
-![](.gitbook/assets/{IMAGE_BASE_PATH}routeeditor-routeeditor_timestamp_0_to_14_to_0_to_21.gif)
+![Click the edit icon next to the delivery name](.gitbook/assets/RouteEditor_BeforeBegin_003.gif)
 
-#### Feature Overview
+## Feature overview
 
 * **Date**: Sets the scheduled execution date for the route.
 * **Start hour**: Defines the official daily start time for the route.
@@ -36,94 +36,107 @@ The **Route Edior** feature allows dispatchers to manage route details and surve
 * **Photos**: Loads vehicle photos and manages sample calculations.
 * **Route sheet**: Downloads the printable route summary sheet.
 
-#### How To: Modify Route Details
+## How To: Modify Route Details
 
 1. Click the **edit icon** next to the **delivery name**.
 
-![](.gitbook/assets/{IMAGE_BASE_PATH}routeeditor-routeeditor_timestamp_0_to_14_to_0_to_21.gif)
+![Click the edit icon next to the delivery name](.gitbook/assets/RouteEditor_BeforeBegin_003.gif)
 
 2. Update the **date** and **start hour** fields.
 3. Select **departure allowed** permissions to set blocking rules.
 4. Adjust **vehicle usage** settings as needed.
 5. Click **Save** to apply modifications.
 
-![](.gitbook/assets/{IMAGE_BASE_PATH}routeeditor-routeeditor_timestamp_3_to_54.png)
+![Click Save to apply modifications](.gitbook/assets/RouteEditor_ModifyRouteDetails_001.png)
 
-#### How To: Configure and View Vehicle Surveys
+## How To: Configure and View Vehicle Surveys
 
 1. Click **Configuration** to open survey options.
 
-![](.gitbook/assets/{IMAGE_BASE_PATH}routeeditor-routeeditor_timestamp_1_to_42_to_1_to_47.gif)
+![Click Configuration to open survey options](.gitbook/assets/RouteEditor_ConfigureViewVehicleSurveys_001.gif)
 
 2. Click **Configure the survey**.
 3. Click the **pencil icon** next to **vehicle checking survey**.
 
-![](.gitbook/assets/{IMAGE_BASE_PATH}routeeditor-routeeditor_timestamp_1_to_51_to_1_to_54.gif)
+![Click the pencil icon next to vehicle checking survey](.gitbook/assets/RouteEditor_ConfigureViewVehicleSurveys_002.gif)
 
 3. Enable **store all responses** and **capture** options.
 4. Click **Save** to store survey settings.
 
-![](.gitbook/assets/{IMAGE_BASE_PATH}routeeditor-routeeditor_timestamp_2_to_10.png)
+![Click Save to store survey settings](.gitbook/assets/RouteEditor_ConfigureViewVehicleSurveys_003.png)
 
 6. Click **Survey responses** in the top left corner.
 
-![](.gitbook/assets/{IMAGE_BASE_PATH}routeeditor-routeeditor_timestamp_1_to_04_to_1_to_09.gif)
+![Click Survey responses in the top left corner](.gitbook/assets/RouteEditor_ConfigureViewVehicleSurveys_004.gif)
 
 7. Select **Vehicle checking survey** and click **Load**.
 
-![](.gitbook/assets/{IMAGE_BASE_PATH}routeeditor-routeeditor_timestamp_1_to_09_to_1_to_22.gif)
+![Select Vehicle checking survey and click Load](.gitbook/assets/RouteEditor_ConfigureViewVehicleSurveys_005.gif)
 
-#### How To: View Route Modification Logs
+## How To: View Route Modification Logs
 
 1. Click **Logs** in the top menu.
 
-![](.gitbook/assets/{IMAGE_BASE_PATH}routeeditor-routeeditor_timestamp_2_to_17_to_2_to_22.gif)
+![Click Logs in the top menu](.gitbook/assets/RouteEditor_ViewRouteModificationLogs_001.gif)
 
 2. Review all past route modifications and change details.
 
-![](.gitbook/assets/{IMAGE_BASE_PATH}routeeditor-routeeditor_timestamp_2_to_22_to_2_to_29.gif)
+![Review all past route modifications and change details](.gitbook/assets/RouteEditor_ViewRouteModificationLogs_002.gif)
 
-#### How To: Manage Vehicle Photos and Samples
+## How To: Manage Vehicle Photos and Samples
 
 1. Click **Photos** to open photo settings and view the Vehicle photos
 
-![](.gitbook/assets/{IMAGE_BASE_PATH}routeeditor-routeeditor_timestamp_2_to_33_to_2_to_40.gif)
+![Click Photos to open photo settings and view the Vehicle photos](.gitbook/assets/RouteEditor_ManageVehiclePhotosSamples_001.gif)
 
-#### How to customize the list
+## How to customize the list
 
 1. Click **Customize the list** at the top.
 
-![](.gitbook/assets/{IMAGE_BASE_PATH}routeeditor-routeeditor_timestamp_2_to_44_to_2_to_52.gif)
+![Click Customize the list at the top](.gitbook/assets/RouteEditor_CustomizeList_001.gif)
 
 2. Select fields and click the **right arrow** to display them.
 
-![](.gitbook/assets/{IMAGE_BASE_PATH}routeeditor-routeeditor_timestamp_2_to_52_to_3_to_05.gif)
+![Select fields and click the right arrow to display them](.gitbook/assets/RouteEditor_CustomizeList_002.gif)
 
 3. Select the footer and choose the **type of sample**.
 
-![](.gitbook/assets/{IMAGE_BASE_PATH}routeeditor-routeeditor_timestamp_3_to_05_to_3_to_15.gif)
+![Select the footer and choose the type of sample](.gitbook/assets/RouteEditor_CustomizeList_003.gif)
 
 4. Click **Save** and return to view calculations.
 
-![](.gitbook/assets/{IMAGE_BASE_PATH}routeeditor-routeeditor_timestamp_3_to_15_to_3_to_28.gif)
+![Click Save and return to view calculations](.gitbook/assets/RouteEditor_CustomizeList_004.gif)
 
-#### How To: Download Route Sheets and the Loading sheets
+## How To: Download Route Sheets and the Loading sheets
 
 1. Click **Route sheet** and **Loading sheet** to generate the document.
 
-![](.gitbook/assets/{IMAGE_BASE_PATH}routeeditor-routeeditor_timestamp_3_to_48_to_3_to_54.gif)
+![Click Route sheet and Loading sheet to generate the document](.gitbook/assets/RouteEditor_DownloadRouteSheetsLoading_001.gif)
 
 2. Save the downloaded file to your local computer.
+
+### Result
 
 **Troubleshooting**
 
 If the **delivery name** field is locked, check the route assignment status. System status prevents modifications to assigned routes.
 
-![](.gitbook/assets/{IMAGE_BASE_PATH}routeeditor-routeeditor_timestamp_0_to_33_to_0_to_42.gif)
+![If the delivery name field is locked, check the route assignment status](.gitbook/assets/RouteEditor_DownloadRouteSheetsLoading_002.gif)
 
-#### Productivity Tips
+## Tips
 
-* 💡 **Survey Pre-configuration**: Configure survey settings initially so mobile submissions appear correctly in the survey viewer.
-* ⚠️ **Assigned Route Edits**: Avoid trying to rename assigned routes because assigned status locks the delivery name field.
-* 💡 **Audit Tracking**: Review the logs tab to verify all past route edits and maintain operational accountability.
-* 💡 **Custom Field Views**: Use the right arrow during list customization to control which sample fields display.
+{% hint style="info" %}
+**Survey Pre-configuration**: Configure survey settings initially so mobile submissions appear correctly in the survey viewer.
+{% endhint %}
+
+{% hint style="warning" %}
+**Assigned Route Edits**: Avoid trying to rename assigned routes because assigned status locks the delivery name field.
+{% endhint %}
+
+{% hint style="info" %}
+**Audit Tracking**: Review the logs tab to verify all past route edits and maintain operational accountability.
+{% endhint %}
+
+{% hint style="info" %}
+**Custom Field Views**: Use the right arrow during list customization to control which sample fields display.
+{% endhint %}

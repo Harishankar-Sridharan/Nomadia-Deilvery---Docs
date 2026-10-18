@@ -2,7 +2,7 @@
 
 **Custom Templates** is a feature in **Nomadia Delivery** to customize customer notification emails. Custom templates provide clear, branded updates directly to your clients. This improves customer communication and streamlines your delivery operations.
 
-#### Getting Started
+## Before you begin
 
 Prerequisites & System Requirements:
 
@@ -14,13 +14,13 @@ Initial Setup Steps:
 1. Go to **Configuration**.
 2. Scroll down and click **Configure outgoing messages**.
 
-![](../../.gitbook/assets/customtemplates-customtemplates_timestamp_0_to_07_to_0_to_21.gif)
+![Scroll down and click Configure outgoing messages](../../.gitbook/assets/EmailTemplates_BeforeBegin_001.gif)
 
 3. Click **Email templates** on the left side of the screen.
 
-![](../../.gitbook/assets/customtemplates-customtemplates_timestamp_0_to_21_to_0_to_28.gif)
+![Click Email templates on the left side of the screen](../../.gitbook/assets/EmailTemplates_BeforeBegin_002.gif)
 
-#### Feature Overview
+## Feature overview
 
 * **Email templates**: Left-side menu where all your configured templates are listed.
 * **Actions**: Dropdown button that opens commands to manage your email templates.
@@ -31,48 +31,50 @@ Initial Setup Steps:
 * **Standard mode to advanced**: Switch that toggles the editor interface between standard and advanced editing.
 * **Message**: Text editor where you type the email body content.
 
-#### How To: Configure a Custom Customer Email Template
+## How To: Configure a Custom Customer Email Template
 
 1. Go to **Configuration**.
 2. Scroll down and click **Configure outgoing messages**.
 
-![](../../.gitbook/assets/customtemplates-customtemplates_timestamp_0_to_07_to_0_to_21.gif)
+![Scroll down and click Configure outgoing messages](../../.gitbook/assets/EmailTemplates_BeforeBegin_001.gif)
 
 3. Click **Email templates** on the left side of the screen.
 
-![](../../.gitbook/assets/customtemplates-customtemplates_timestamp_0_to_21_to_0_to_28.gif)
+![Click Email templates on the left side of the screen](../../.gitbook/assets/EmailTemplates_BeforeBegin_002.gif)
 
 4. Click **Actions**.
 
-![](../../.gitbook/assets/customtemplates-customtemplates_timestamp_0_to_28_to_0_to_31.gif)
+![Click Actions](../../.gitbook/assets/EmailTemplates_ConfigureCustomCustomerEmail_001.gif)
 
 5. Click **Add**.
 
-![](../../.gitbook/assets/customtemplates-customtemplates_timestamp_0_to_31_to_0_to_36.gif)
+![Click Add](../../.gitbook/assets/EmailTemplates_ConfigureCustomCustomerEmail_002.gif)
 
 6. Click **Custom template** to select your custom template.
 
-![](../../.gitbook/assets/customtemplates-customtemplates_timestamp_0_to_36_to_0_to_46.gif)
+![Click Custom template to select your custom template](../../.gitbook/assets/EmailTemplates_ConfigureCustomCustomerEmail_003.gif)
 
 7. Enter a unique template name in the **Identifier** field.
 
-![](../../.gitbook/assets/customtemplates-customtemplates_timestamp_1_to_04.png)
+![Enter a unique template name in the Identifier field](../../.gitbook/assets/EmailTemplates_ConfigureCustomCustomerEmail_004.png)
 
 8. Enter your subject line in the **Email subject** field.
 9. Toggle the mode switch from **Standard mode** to **Advanced mode** if desired.
 
-![](../../.gitbook/assets/customtemplates-customtemplates_timestamp_1_to_14_to_1_to_22.gif)
+![Toggle the mode switch from Standard mode to Advanced mode if desired](../../.gitbook/assets/EmailTemplates_ConfigureCustomCustomerEmail_005.gif)
 
 10. Type your template text in the **Message** field.
 
 Use the **$** keyword to add the appropriate fields.
 
-![](../../.gitbook/assets/customtemplates-customtemplates_timestamp_1_to_29.png)
+![Use the $ keyword to add the appropriate fields](../../.gitbook/assets/EmailTemplates_ConfigureCustomCustomerEmail_006.png)
 
 11. Click **Save** in the top right corner to save your changes.
 
-![](../../.gitbook/assets/customtemplates-customtemplates_timestamp_1_to_29_to_2_to_01.gif)
+![Click Save in the top right corner to save your changes](../../.gitbook/assets/EmailTemplates_ConfigureCustomCustomerEmail_007.gif)
 
-#### Productivity Tips
+## Tips
 
-* 💡 **Mode Toggle**: Toggle **Standard mode** to **Advanced mode** if you want to use advanced editing options.
+{% hint style="info" %}
+**Mode Toggle**: Toggle **Standard mode** to **Advanced mode** if you want to use advanced editing options.
+{% endhint %}
