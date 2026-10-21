@@ -2,6 +2,12 @@
 
 The Add interface introduces a simplified, single-page mission creation experience in Nomadia Delivery. It is designed to minimize repetitive steps and improve clarity. It replaces the traditional multi-step wizard with a unified view that brings together all mission parameters, constraints, and dependencies in one place.
 
+## Before you begin
+
+* Sign in to **Nomadia Delivery** with a user profile that has access to the **Configuration** tab.
+* Identify the **Mission Type** and the **Agency** for which you want to configure mission creation.
+* Create the custom fields you want to display in the mission form, if you plan to arrange custom field groups.
+
 ## Feature overview
 
 * **Custom Field Grouping**: Custom fields can now be grouped under a defined group name. During mission creation, these fields are displayed together under their respective group.
@@ -111,6 +117,16 @@ You can use the same procedure to activate custom fields for parcels.
 Documents are successfully added to the mission.
 
 <figure><img src="../../.gitbook/assets/image (44) (1).png" alt=""><figcaption></figcaption></figure>
+
+## Tips
+
+{% hint style="info" %}
+**Same procedure for parcels**: You can use the same procedure that arranges custom field groups to activate custom fields for parcels.
+{% endhint %}
+
+{% hint style="warning" %}
+**Aggregable containers only**: When you group missions in a container, only aggregable containers are displayed as the default container type.
+{% endhint %}
 
 ## Related topics
 

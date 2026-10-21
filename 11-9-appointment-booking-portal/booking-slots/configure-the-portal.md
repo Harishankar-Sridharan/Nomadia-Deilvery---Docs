@@ -2,6 +2,12 @@
 
 The appointment booking portal in Nomadia Delivery enables you to schedule optimized slots for missions, ensuring alignment with the deliverers’ existing tour plans. Use this guide to improve scheduling efficiency.
 
+## Before you begin
+
+* Sign in to **Nomadia Delivery** with a user profile that has access to the **Configuration** tab and the **Missions** tab.
+* Know the days and times your deliverers are available, because you set them in the **Planning** tab.
+* Have an existing standard pickup or delivery mission if you want to reserve a slot, because **Appointment Booking** is disabled for cross-docking and chained pickup and delivery missions.
+
 ## Feature overview
 
 * **Planning tab**: Defines the time slots that are available for booking in the appointment portal.

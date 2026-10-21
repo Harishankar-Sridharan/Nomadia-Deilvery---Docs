@@ -2,6 +2,13 @@
 
 The Trigger Notifications for Sub-Status Changes feature enables accurate, real-time communication with all stakeholders involved in parcel movement. It improves transparency, coordination, and overall service quality across first-mile, mid-mile, and last-mile operations.
 
+## Before you begin
+
+* Sign in to **Nomadia Delivery** with a user profile that has access to the **Configuration** tab.
+* Make sure the sub-status you want to edit already exists in the **Sub-statuses** list.
+* Prepare a custom message template, because only custom message templates are supported.
+* Have the email addresses or mobile numbers ready if you notify **Other Recipients**.
+
 ## Feature overview
 
 Notifications can be made for the following recipients:

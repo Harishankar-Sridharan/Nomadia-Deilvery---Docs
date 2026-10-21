@@ -2,6 +2,13 @@
 
 Cross-docking missions improve efficiency and ensure full traceability across both mid-mile and last-mile logistics. The same mission ID (Barcode) is maintained throughout the process, allowing transporters to seamlessly manage parcel movements from the point of pickup to final delivery.
 
+## Before you begin
+
+* Sign in to **Nomadia Delivery** with a user profile that has access to the **Missions** tab.
+* Identify the contractor linked to the cross-docking mission.
+* Identify the agency from which deliverers start Leg 1 | Mid-Mile Pickup Tour.
+* Have the delivery address of the end customer ready.
+
 ## Feature overview
 
 A cross-docking mission is divided into two main legs.

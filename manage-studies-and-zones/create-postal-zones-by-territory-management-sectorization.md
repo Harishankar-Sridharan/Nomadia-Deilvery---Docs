@@ -2,6 +2,20 @@
 
 Use sectorization to generate sectors automatically from the missions listed under Manage studies & zones, balancing territories according to rules you set and aligning them to postal code boundaries.
 
+## Before you begin
+
+* Sign in to **Nomadia Delivery** with a user profile that has access to the **Configuration** tab.
+* Have missions available under **Manage studies & zones**, because sectors are generated from the missions listed there.
+
+## Feature overview
+
+* **New Sectorization**: Starts a sectorization for the mission you select.
+* **Indicators** and **Time Period**: Define what the sectorization is based on.
+* **Assign Territories** > **Automation**: Opens the automatic balancing options.
+* **Balancing Points**: The section where you click **Start** to prepare the system for automatic balancing.
+* **Let's go!**: Launches the automated balancing of territories.
+* **Administrative Borders**: Aligns the sectors to boundaries such as **Postal Code**.
+
 ## Create postal zones by sectorization
 
 1. Click the **Configuration** tab.

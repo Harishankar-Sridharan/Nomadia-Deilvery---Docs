@@ -2,6 +2,18 @@
 
 The Nomadia Delivery application allows you to dynamically add new fields during the import process. You can link these custom fields to various objects, including Contractors, Missions, and Addresses, and create them in different data types such as Number, Text, list of values, Date, URL, and Boolean.
 
+## Before you begin
+
+* Sign in to **Nomadia Delivery** as a transporter user.
+* Have the file ready that you want to import for Missions, Contractors, or Address lists.
+
+## Feature overview
+
+* **Fields mapping**: The import step where you map file columns to fields, and where you can click any unmapped field.
+* **Add a custom field**: The button in the **My data** section that creates a new field during the import.
+* **Field type**: The data type of the custom field: Number, Text, list of values, Date, URL, or Boolean.
+* **Validate**: The button that creates the custom field after you enter its name and type.
+
 ## Create a custom field while importing
 
 1. Open the Nomadia Delivery application as a transporter user and navigate to any of the import processes: Missions, Contractors, or Address lists.
@@ -24,6 +36,16 @@ The Nomadia Delivery application allows you to dynamically add new fields during
 The newly created field is now available for mapping.
 
 ![](<../../.gitbook/assets/image-33 (2).png>)
+
+## Tips
+
+{% hint style="info" %}
+**Linked objects**: You can link custom fields created during import to Contractors, Missions, and Addresses.
+{% endhint %}
+
+{% hint style="info" %}
+**Ready for mapping**: After you click **Validate**, the new field is available for mapping.
+{% endhint %}
 
 ## Related topics
 

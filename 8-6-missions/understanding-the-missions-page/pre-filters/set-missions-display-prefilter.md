@@ -2,6 +2,11 @@
 
 Set the missions display by choosing prefilter options on the Missions page.
 
+## Before you begin
+
+* Sign in to **Nomadia Delivery** with a user profile that has access to the **Missions** page.
+* Know which agencies, reference date, and period you want to display.
+
 ## Feature overview
 
 * **Agency**: Select one or more agencies.
@@ -24,6 +29,16 @@ From the Missions page:
 The filtered missions are displayed on your Missions page.
 
 <figure><img src="../../../.gitbook/assets/image (224).png" alt=""><figcaption></figcaption></figure>
+
+## Tips
+
+{% hint style="info" %}
+**Include deleted missions when needed**: Enable **Display Deleted Missions** to include deleted missions in the display.
+{% endhint %}
+
+{% hint style="info" %}
+**Screen resolution**: The display of the **Prefiltered On** section may vary based on screen resolution.
+{% endhint %}
 
 ## Related topics
 

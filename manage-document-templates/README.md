@@ -4,6 +4,12 @@
 
 The Manage Document Templates feature allows administrators and back-office users to create, configure, and maintain reusable templates for documents such as delivery slips, invoices, proof of delivery, and task reports. These templates standardize documentation across operations and ensure consistency in branding, structure, and required information. You can design your own templates to replace the default one.
 
+## Before you begin
+
+* Sign in to **Nomadia Delivery** with a user profile that has access to the **Configuration** page.
+* Open **Configuration**, click **Configuration Menu**, and under **Customization**, click **Document Templates**.
+* To import a template, have a valid file available on your local system.
+
 ## Feature overview
 
 <table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">Templates</td><td valign="top">Associated Variables</td></tr><tr><td valign="top">Route sheet</td><td valign="top">Mission, Route</td></tr><tr><td valign="top">Loading sheet</td><td valign="top">Mission, Route</td></tr><tr><td valign="top">Mission sheet</td><td valign="top">Mission</td></tr><tr><td valign="top">Sticker sheet</td><td valign="top">Mission</td></tr><tr><td valign="top">Consignment notes</td><td valign="top">Mission, Agency, Contractor, Company, Vehicle, Delivery Man, Custom Data, Documents, Status Changes</td></tr><tr><td valign="top">Visit Report</td><td valign="top">Mission Open Order</td></tr><tr><td valign="top">Small Stickers Sheet</td><td valign="top">Mission</td></tr></tbody></table>
@@ -116,6 +122,16 @@ The document templates are deleted successfully.
 6. Click **Show/Hide Default Template**.
 
 <figure><img src="../.gitbook/assets/image (67) (1).png" alt=""><figcaption></figcaption></figure>
+
+## Tips
+
+{% hint style="info" %}
+**Replace the default**: You can design your own templates to replace the default one, which keeps branding, structure, and required information consistent across operations.
+{% endhint %}
+
+{% hint style="warning" %}
+**Default templates**: Default templates are enabled by default and cannot be disabled, modified, or deleted. To customize one, download it and edit the copy, as described in [Customizing Word Templates](customizing-word-templates.md).
+{% endhint %}
 
 ## Related topics
 

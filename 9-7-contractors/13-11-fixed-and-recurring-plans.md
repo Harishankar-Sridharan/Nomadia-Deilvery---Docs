@@ -2,6 +2,12 @@
 
 This guide offers step-by-step instructions for transporters on creating fixed and recurring plans for Nomadia Delivery. These features are designed to support contractors with long-term delivery and pick-up commitments by simplifying the planning process, improving accuracy, and providing flexibility for managing routes over extended periods.
 
+## Before you begin
+
+* Sign in to **Nomadia Delivery** with a user profile that has access to the **Contractors** tab.
+* Make sure the contractor you want to plan for exists and has addresses in its **Address List**.
+* Know the start and end dates of the optimization period and the vehicles for which the routes need to be created.
+
 ## Feature overview
 
 The route plan details are:

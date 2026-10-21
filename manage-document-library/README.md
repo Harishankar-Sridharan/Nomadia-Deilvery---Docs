@@ -6,6 +6,14 @@ The Manage Document Library feature provides a centralized repository to store, 
 
 * Ensure your file is in one of these supported formats: XLSX, DOCX, PDF, JPG, or PNG.
 
+## Feature overview
+
+* **Document Library**: Stores commonly used documents such as safety instructions, compliance guidelines, operating procedures, and training manuals for back-office staff and field agents.
+* **Browse Computer**: Uploads a file from your local system into the library.
+* **Manage Mission documents**: Covers importing, uploading, downloading, and deleting mission documents.
+* **Document Recommendations**: Ensures the required paperwork is available for each international shipment.
+* **Attaching Documents to the Mission**: Links documents from the library, your computer, or cloud storage to a mission.
+
 ## Import a document into the library
 
 1. Go to **Configuration**.
@@ -31,3 +39,15 @@ The documents are imported successfully.
 * [Manage Mission documents](manage-mission-documents.md)
 * [Document Recommendations](document-recommendations.md)
 * [Attaching Documents to the Mission](attaching-documents-to-the-mission.md)
+
+## Tips
+
+{% hint style="info" %}
+**Supported formats**: Make sure your file is in one of these supported formats before you import it: XLSX, DOCX, PDF, JPG, or PNG.
+{% endhint %}
+
+## Related topics
+
+* [Manage Mission documents](manage-mission-documents.md)
+* [Document Recommendations](document-recommendations.md)
+* [Manage Document Templates](../manage-document-templates/README.md)

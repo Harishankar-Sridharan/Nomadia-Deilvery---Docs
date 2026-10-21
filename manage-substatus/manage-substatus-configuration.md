@@ -2,6 +2,12 @@
 
 Nomadia Delivery provides three types of sub-status templates that enable users to personalize the delivery workflow according to the customer type or category. These templates are Basic, Intermediate, and Advanced.
 
+## Before you begin
+
+* Sign in to **Nomadia Delivery** with a user profile that has access to the **Configuration** module.
+* Decide which template type (Basic, Intermediate, or Advanced) fits each customer type or category.
+* Make sure the missions that need a sub-status template exist in the **Missions** tab.
+
 ## Feature overview
 
 * **Basic Configuration types**: Designed for customers who require only a single verification step, such as capturing a photo or collecting a signature. It simplifies the delivery process by including only the essential checks.

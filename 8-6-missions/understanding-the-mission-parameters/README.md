@@ -4,13 +4,10 @@ Mission parameters are the core data elements that define the characteristics, o
 
 These parameters provide both operational and logistical information used by coordinators, dispatchers, and deliverers.
 
-## Access mission parameters
+## Before you begin
 
-From the **Mission page**:
-
-1. Click the **pencil** icon next to the mission you want to edit.
-
-![](<../../.gitbook/assets/image-6 (3).png>)
+* Sign in to **Nomadia Delivery** with a user profile that has access to the **Mission page**.
+* Identify the mission you want to edit, because you open its parameters with the **pencil** icon next to it.
 
 ## Feature overview
 
@@ -117,6 +114,24 @@ From the **Mission page**:
 | Section  | Parameter      | Description                                     |
 | -------- | -------------- | ----------------------------------------------- |
 | **Logs** | Mission Events | Timeline of all mission events with timestamps. |
+
+## Access mission parameters
+
+From the **Mission page**:
+
+1. Click the **pencil** icon next to the mission you want to edit.
+
+![](<../../.gitbook/assets/image-6 (3).png>)
+
+## Tips
+
+{% hint style="info" %}
+**Know each parameter**: Understanding these parameters is essential for ensuring that missions are properly configured, assigned, and executed in the field.
+{% endhint %}
+
+{% hint style="warning" %}
+**Addresses are fixed after routing**: The pickup address and the delivery address are non-editable after routing.
+{% endhint %}
 
 ## Related topics
 

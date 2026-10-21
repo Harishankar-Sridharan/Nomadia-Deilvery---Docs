@@ -2,6 +2,19 @@
 
 Group missions that already exist under a new or existing parent container.
 
+## Before you begin
+
+* Sign in to **Nomadia Delivery** with a user profile that has access to the missions list.
+* Make sure the missions you want to group already exist.
+* Know whether you want a new parent container or an existing container, identified by its ID.
+
+## Feature overview
+
+* **Group in one container**: Action in the **Actions** menu that groups the selected missions.
+* **new container**: Option that creates a new parent for the selected missions.
+* **Existing container ID**: Option to select an existing container by its ID.
+* **Apply**: Updates the Parent ID for the selected missions.
+
 ## Group existing missions in one container
 
 1. Select the mission(s) intended for grouping.
@@ -23,6 +36,12 @@ Group missions that already exist under a new or existing parent container.
 The missions are grouped in the parent mission.
 
 <figure><img src="../../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
+
+## Tips
+
+{% hint style="info" %}
+**Parent ID update**: Clicking **Apply** updates the Parent ID for the selected missions, so confirm you chose the right container before you apply.
+{% endhint %}
 
 ## Related topics
 

@@ -2,6 +2,19 @@
 
 Add, delete, export, color, and customize the display of the vehicles in a fleet.
 
+## Before you begin
+
+* Sign in to **Nomadia Delivery** with a user profile that has access to the **Configuration** page.
+* Open **Manage the Vehicles** under **My Data** and select the fleet name you want to work with.
+
+## Feature overview
+
+* **Add**: Adds a vehicle with a **Name**.
+* **Delete**: Deletes a vehicle after you confirm the pop-up message.
+* **Export**: Exports the vehicles.
+* **Coloring**: Applies a color to a vehicle.
+* **Customize the list**: Lets you choose which fields to display on the vehicles table or on the vehicles fleets table.
+
 ## Add a vehicle
 
 1. Go to **Configuration**.

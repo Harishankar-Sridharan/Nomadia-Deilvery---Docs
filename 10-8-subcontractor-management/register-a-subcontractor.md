@@ -46,6 +46,16 @@ As an alternative, import subcontractors in bulk via an Excel file, saving time 
 
 ![](<../.gitbook/assets/image-5 (6).png>)
 
+## Tips
+
+{% hint style="info" %}
+**Bulk import**: To add multiple subcontractors at once, import them via an Excel file instead of adding them one by one.
+{% endhint %}
+
+{% hint style="warning" %}
+**Mandatory fields**: Fill in all mandatory fields listed in the feature overview before you click **Save**.
+{% endhint %}
+
 ## Related topics
 
 * [Subcontractor Management](README.md)

@@ -2,6 +2,19 @@
 
 Use the missions table to customize its display, sort it, and filter it to find the missions you need.
 
+## Before you begin
+
+* Sign in to **Nomadia Delivery** with a user profile that has access to the **Missions** page and its missions table.
+
+## Feature overview
+
+* **Table action menu**: Opens **Actions - Customize the list** to choose the fields displayed in the table.
+* **Available Fields / Display Fields**: The lists you use to select which fields appear on the table.
+* **Column header**: Lets you sort the table in **Ascending** or **Descending** order.
+* **Mission Status dropdown or shortcut button**: Filters the table by a status, such as Waiting or Picked Up.
+* **Filter input field**: Lets you select conditions to create, pin, or delete a filter.
+* **Load saved filter icon**: Lets you save a filter under a name and pin saved filters.
+
 ## Customize the table display
 
 1. Click the **Table action** menu.
@@ -65,6 +78,16 @@ The table refreshes and shows only matching entries.
 4. Click the **Delete** icon to delete the selected status.
 
 <figure><img src="../.gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure>
+
+## Tips
+
+{% hint style="info" %}
+**Find missions faster**: Use a mission status shortcut to show only matching entries, and save a filter under a name so you can reload it with the **Load saved filter** icon.
+{% endhint %}
+
+{% hint style="info" %}
+**Pin your filters**: Click the pin icon of a saved filter to pin it.
+{% endhint %}
 
 ## Related topics
 

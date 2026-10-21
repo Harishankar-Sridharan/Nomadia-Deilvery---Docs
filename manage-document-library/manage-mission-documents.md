@@ -2,6 +2,20 @@
 
 The "Manage Missions" documents specifically refer to guides and documentation that help users oversee and operate delivery-related missions within the logistics and field execution workflows.
 
+## Before you begin
+
+* Sign in to **Nomadia Delivery** with a user profile that has access to the **Configuration** and **Missions** tabs.
+* Have a valid file on your local system to import or upload.
+* Have a mission available, because you upload, download, and delete documents from the mission in edit mode.
+
+## Feature overview
+
+* **Document Library**: The configuration page where you import documents.
+* **Browse Computer**: Opens your file explorer to select a document from your local system.
+* **Documents**: The left-hand menu entry in a mission's edit mode where you manage its documents.
+* **Download**: Downloads the mission documents.
+* **Bin icon**: Deletes the chosen document.
+
 ## Import a document from the Document Library
 
 1. Go to **Configuration**.
@@ -72,6 +86,16 @@ The mission documents are downloaded successfully.
 The mission documents are deleted successfully.
 
 <figure><img src="../.gitbook/assets/image (123) (1).png" alt=""><figcaption></figcaption></figure>
+
+## Tips
+
+{% hint style="info" %}
+**Edit mode**: Open the mission in edit mode with the pencil icon, then select **Documents** in the left-hand menu to upload, download, or delete its documents.
+{% endhint %}
+
+{% hint style="warning" %}
+**Valid files**: Select a valid document from your local system when you import or upload, and check the confirmation shown in the **Result** section.
+{% endhint %}
 
 ## Related topics
 

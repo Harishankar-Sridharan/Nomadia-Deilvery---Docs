@@ -2,6 +2,11 @@
 
 Previously, statuses in Nomadia Delivery were static and could not be customized to adapt to customer workflows. Customizable status labels now enhance mission tracking by giving users full control to configure status labels and colors to align with their business workflows.
 
+## Before you begin
+
+* Sign in to **Nomadia Delivery** with a user profile that has access to the **Configuration** tab.
+* Decide which status labels, languages, and colors you want to change to match your business workflow.
+
 ## Feature overview
 
 * **Status Labels** – Description

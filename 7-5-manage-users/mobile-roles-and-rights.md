@@ -2,6 +2,12 @@
 
 Roles and rights control which operations a mobile user can perform. Use this reference to see what each role or right allows when enabled.
 
+## Before you begin
+
+* Sign in to **Nomadia Delivery** with a user profile that has access to user management.
+* Identify the mobile operations each user needs to perform, such as delivery, loading, or reception.
+* See [Enabling Mobile Access](enabling-mobile-access.md) for how mobile access is set up for a user.
+
 ## Feature overview
 
 | Roles and Rights                | Description                                                                      |
@@ -31,6 +37,16 @@ Roles and rights control which operations a mobile user can perform. Use this re
 The password must contain a minimum of 8 characters, including at least one uppercase letter, one lowercase letter, and one number.
 
 ![](../.gitbook/assets/image-10.png)
+
+## Tips
+
+{% hint style="info" %}
+**Password requirements**: Mobile passwords must contain at least 8 characters, including one uppercase letter, one lowercase letter, and one number.
+{% endhint %}
+
+{% hint style="warning" %}
+**Mandatory calls**: When **Make the call mandatory** is enabled, users must make a call before completing the mission.
+{% endhint %}
 
 ## Related topics
 

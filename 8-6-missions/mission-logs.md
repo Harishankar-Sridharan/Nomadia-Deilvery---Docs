@@ -2,6 +2,11 @@
 
 The **Mission Log** provides a complete audit trail of all activities performed during the lifecycle of a mission. It records key events such as parcel loading, delivery completion, status changes, signatures, photos, timestamps, and user actions. This information helps supervisors and drivers track mission progress and verify delivery operations.
 
+## Before you begin
+
+* Sign in to **Nomadia Delivery** with a user profile that has access to the mission list.
+* Identify the mission whose log you want to review, because you open it from the mission list and then go to the **Mission Details** screen.
+
 ## Feature overview
 
 | Field                  | Description                                                                 |

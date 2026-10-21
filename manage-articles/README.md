@@ -2,6 +2,12 @@
 
 The Manage Articles feature in Nomadia Delivery allows users to maintain and organize a centralized catalog of products (articles) that are part of the delivery workflow. This feature supports the complete lifecycle of articles — including creation, editing, activation/deactivation, and deletion — enabling seamless tracking and accurate planning of deliveries.
 
+## Before you begin
+
+* Sign in to **Nomadia Delivery** with a user profile that has access to **Configuration**.
+* For an import, have a valid file from your local system that contains the article type data.
+* For mission articles, open the Mission page and the mission you want to edit.
+
 ## Feature overview
 
 The Manage Article Types feature allows administrators to define and categorize the various kinds of articles handled within the delivery process. This classification ensures better organization, filtering, and reporting of items during route planning, loading, and delivery execution.
@@ -124,6 +130,16 @@ The article types are deleted successfully.
 The mission articles are deleted successfully.
 
 <figure><img src="../.gitbook/assets/image (44) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+## Tips
+
+{% hint style="info" %}
+**Unique identifiers**: The article Id is mandatory and must be unique among all the articles, so check your import file before you upload it.
+{% endhint %}
+
+{% hint style="warning" %}
+**Delete confirmation**: When you delete an article type, a confirmation pop-up asks "Do you want to delete the article?", so review it before you click **Delete**.
+{% endhint %}
 
 ## Related topics
 

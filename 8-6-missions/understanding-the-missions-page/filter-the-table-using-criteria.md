@@ -2,6 +2,11 @@
 
 Filter the missions table using criteria built from a condition, an operator, and a value. The available operators depend on the data type.
 
+## Before you begin
+
+* Sign in to **Nomadia Delivery** with a user profile that has access to the **Missions** page and its missions table.
+* Know the condition, operator, and value you want to filter on. The available operators depend on the data type.
+
 ## Feature overview
 
 <table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">Data type </td><td valign="top">Operator </td></tr><tr><td valign="top">Alphanumeric </td><td valign="top"><p>= </p><p>≠ </p><p>Contains </p><p>Does not contain </p><p>Starts with </p><p>Ends with </p><p>Is empty </p><p>Is not empty </p></td></tr><tr><td valign="top">Date </td><td valign="top"><p>= </p><p>=D+ </p><p>=D- </p><p>≤D+ </p><p>≤D- </p><p>≥ D+ </p><p>≥ D- </p><p>&#x3C; </p><p>≤ </p><p>> </p><p>≥ </p><p>≠ </p><p>Is empty </p><p>Is not empty </p></td></tr><tr><td valign="top">Arithmetic </td><td valign="top"><p>= </p><p>≠ </p><p>&#x3C; </p><p>≤ </p><p>> </p><p>≥ </p></td></tr></tbody></table>
@@ -15,6 +20,16 @@ Filter the missions table using criteria built from a condition, an operator, an
 5. Press the **Enter** key to apply the filter.
 
 <figure><img src="../../.gitbook/assets/image (181).png" alt=""><figcaption></figcaption></figure>
+
+## Tips
+
+{% hint style="info" %}
+**Pick the operator by data type**: The available operators depend on the data type, so check the table of operators for Alphanumeric, Date, and Arithmetic values before you build a criterion.
+{% endhint %}
+
+{% hint style="info" %}
+**Build each criterion in three parts**: Combine a condition, an operator, and a value, then press the **Enter** key to apply the filter.
+{% endhint %}
 
 ## Related topics
 

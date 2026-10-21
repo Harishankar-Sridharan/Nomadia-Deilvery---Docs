@@ -12,6 +12,14 @@ To streamline onboarding, Nomadia Delivery offers a collection of pre-configured
 
 ![](<../../.gitbook/assets/image-33 (4).png>)
 
+## Feature overview
+
+* **Default templates**: Pre-configured email and SMS templates that are activated by default and act as a fallback when no custom configuration is in place.
+* **Configure outgoing messages**: The **Configuration** menu entry where you manage message templates.
+* **Email templates** tab: The tab where you add and manage email notification templates.
+* **Actions** > **Add**: Lets you choose one of the available templates to customize, for example **Time window to communicate**.
+* **Configuration type**: Links a template with the mission.
+
 ## Create a custom email notification template
 
 1. Open the Nomadia Delivery application and go to the **Configuration** tab.
@@ -35,6 +43,16 @@ To streamline onboarding, Nomadia Delivery offers a collection of pre-configured
 ![](<../../.gitbook/assets/image-37 (4).png>)
 
 Repeat the process to configure other notifications and associate them with the appropriate configuration types.
+
+## Tips
+
+{% hint style="info" %}
+**Repeat for other notifications**: Repeat the process to configure other notifications and associate them with the appropriate configuration types.
+{% endhint %}
+
+{% hint style="warning" %}
+**Default templates**: Default templates cannot be deleted, but you can disable them if required. They remain the fallback when no custom configuration is in place.
+{% endhint %}
 
 ## Related topics
 

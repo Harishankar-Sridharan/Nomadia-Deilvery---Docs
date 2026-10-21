@@ -2,6 +2,18 @@
 
 You can personalize your Home Screen by selecting which KPIs are most relevant to your operations. Nomadia Delivery allows you to display the configured home page dashboard, along with a configurable calculation period ranging from the last day to the last seven days. This helps you stay focused on the metrics that matter most.
 
+## Before you begin
+
+* Sign in to **Nomadia Delivery** and open the **Home page**.
+* Make sure a home page custom dashboard is available to choose from.
+
+## Feature overview
+
+* **Account icon**: Located in the upper-right corner of the screen; opens the dropdown menu.
+* **My Preferences**: The option where you choose the dashboard and period.
+* **Dashboard**: The Home page custom dashboard displayed on your home page.
+* **Period**: The calculation period, ranging from Last Day to Last Seven Days.
+
 ## Configure the display of my KPI
 
 1. From the **Home page,** click the **Account icon** located in the upper-right corner of the screen.
@@ -23,6 +35,12 @@ You can personalize your Home Screen by selecting which KPIs are most relevant t
 Your homepage displays the chosen dashboard.
 
 <figure><img src="../.gitbook/assets/msedge_BX9pwwqFcH.png" alt=""><figcaption></figcaption></figure>
+
+## Tips
+
+{% hint style="info" %}
+**Focus on key metrics**: Select the KPIs that are most relevant to your operations to stay focused on the metrics that matter most.
+{% endhint %}
 
 ## Related topics
 

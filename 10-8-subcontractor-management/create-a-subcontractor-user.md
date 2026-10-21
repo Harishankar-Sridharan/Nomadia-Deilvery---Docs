@@ -2,6 +2,18 @@
 
 Transporters can assign users within each subcontractor to manage planning and execution tasks more effectively. This capability enables the creation of dedicated planners and drivers for every subcontractor, ensuring smooth and efficient management of logistics operations.
 
+## Before you begin
+
+* Sign in to **Nomadia Delivery** as a transporter with a user profile that can access **Configuration** > **Manage users**.
+* Create the subcontractor in the Subcontractors module first, because you select it to link with the new user.
+
+## Feature overview
+
+* **Generalities** tab: Holds the profile, login, last name, and user status of the new user.
+* **Access** tab: Enables web access for the user and links the user to the subcontractor's website and the correct subcontractor.
+* **Roles & rights** tab: Shows the rights, which the system assigns automatically based on the user.
+* **Action** > **Add**: Starts the creation of a new user, from scratch or from an existing user.
+
 ## Create a subcontractor user
 
 1. Open the Nomadia Delivery application and go to **Configuration** > **Manage users**.

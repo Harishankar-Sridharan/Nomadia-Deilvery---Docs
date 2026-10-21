@@ -2,6 +2,16 @@
 
 This feature allows users to customize the mission statuses displayed on their home page dashboard. By selecting up to five statuses, users can tailor the view to show the most relevant information based on their operational needs, helping them stay focused and efficient.
 
+## Before you begin
+
+* Sign in to **Nomadia Delivery** and open the **Home page**.
+
+## Feature overview
+
+* **Account icon**: Located at the top-right corner of the screen; opens the dropdown menu.
+* **My Preferences**: The option where you choose the statuses of the Mission Stats.
+* **Mission Stats statuses**: **Created, Loaded, Delivered, Not delivered and Pickup**, of which you can choose up to five.
+
 ## Configure the display of mission statuses
 
 1. From the **Home page**, click the **Account icon** located at the top-right corner of the screen.
@@ -16,6 +26,16 @@ This feature allows users to customize the mission statuses displayed on their h
 Your home page displays the selected KPI’s.
 
 <figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+## Tips
+
+{% hint style="info" %}
+**Focus your view**: Select the statuses that are most relevant to your operational needs to stay focused and efficient.
+{% endhint %}
+
+{% hint style="warning" %}
+**Status limit**: Choose up to five statuses to display on the Home page.
+{% endhint %}
 
 ## Related topics
 

@@ -2,6 +2,17 @@
 
 Customize the zones table to choose which fields are displayed for a mission's zones.
 
+## Before you begin
+
+* Sign in to **Nomadia Delivery** with a user profile that has access to the **Configuration** tab.
+* Have missions available under **Manage studies and zones**, because you select a mission to customize its zones table.
+
+## Feature overview
+
+* **Actions** dropdown menu: Contains the **Customize Limit** option for the selected mission.
+* **Customize Limit**: Lets you choose which fields are displayed on the zones table.
+* **Save**: Applies your field selection to the table.
+
 ## Customize the zones table
 
 1. Click the **Configuration** tab.

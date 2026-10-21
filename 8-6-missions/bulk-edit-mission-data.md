@@ -2,6 +2,21 @@
 
 Bulk editing mission data enables large-scale updates to mission information, reducing manual effort and saving time by avoiding repetitive tasks. This feature improves efficiency while maintaining control and data integrity across teams.
 
+## Before you begin
+
+* Sign in to **Nomadia Delivery** with a user profile that has access to the **Missions** page.
+* Make sure the missions you want to update exist in the mission table.
+* Decide which mission fields and custom fields you want to enable for bulk editing.
+
+## Feature overview
+
+* **Missions page**: The page in the main header where you choose the missions to update from the mission table.
+* **Bulk Edit pop-up**: The pop-up where you name the configuration, choose fields, and set values for the selected missions.
+* **Name**: The name you enter for the bulk edit configuration.
+* **Arrow button**: Moves the selected fields to the right-hand side to enable them for bulk editing.
+* **Custom fields**: Custom fields you can enable for bulk editing in the same way as standard fields.
+* **Save**: Saves the bulk edit configuration, or applies the chosen values to the selected missions.
+
 ## Create bulk edit configuration
 
 1. From the main header, click the **Missions** page.
@@ -51,6 +66,16 @@ After the configuration is saved, a notification message is displayed.
 All selected missions are updated simultaneously with the values chosen in the Bulk Edit pop-up.
 
 <figure><img src="../.gitbook/assets/image (201).png" alt=""><figcaption></figcaption></figure>
+
+## Tips
+
+{% hint style="info" %}
+**Review before saving**: Check the number of selected missions and the list of selected fields in the Bulk Edit pop-up before you click **Save**.
+{% endhint %}
+
+{% hint style="warning" %}
+**Simultaneous updates**: All selected missions are updated simultaneously with the values you choose in the Bulk Edit pop-up.
+{% endhint %}
 
 ## Related topics
 

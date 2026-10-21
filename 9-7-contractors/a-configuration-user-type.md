@@ -2,6 +2,20 @@
 
 Nomadia Delivery is introducing a new user type called Contractor. This user type can import missions, manage address lists, and track mission progress, providing contractors with greater control over their work and enhancing overall efficiency.
 
+## Before you begin
+
+* Sign in to **Nomadia Delivery** with a user profile that has access to **Configuration** > **Manage Users**.
+* Make sure the contractor to link with the user is already created in the **Contractors** module.
+* Have the login and last name of the new user available.
+
+## Feature overview
+
+* **Generalities**: Tab where you enter the login and last name of the user and enable the user status.
+* **Access**: Tab where you enable web access, select the contractor's website, and select the contractor to link with the user.
+* **Roles & Rights**: Tab where you assign the necessary rights to the new Contractor user.
+* **Agencies**: Tab you open before clicking **Save**.
+* **Create a user from an existing one**: Copies all settings from the existing user to the new profile, which speeds up the process.
+
 ## Create a contractor user
 
 1. Open the Nomadia Delivery application and go to **Configuration** > **Manage Users**.

@@ -4,6 +4,11 @@ Fields can be organized within their respective blocks/sections to structure the
 
 Blocks or sections can be reordered using drag-and-drop functionality. Any changes made through drag-and-drop are automatically synchronized with the visibility and order displayed in the left-hand side user interface.
 
+## Before you begin
+
+* Sign in to **Nomadia Delivery** with a user profile that has access to **Manage Missions**.
+* Know the **Mission type** and **Agency** to enter, because you open the mission creation layout from the **Add Mission** flow.
+
 ## Feature overview
 
 The available information blocks are:
@@ -61,6 +66,16 @@ The available information blocks are:
 10. Click **Save** to save the new mission configuration.
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+## Tips
+
+{% hint style="info" %}
+**Reorder blocks, not fields between blocks**: You can change the overall layout by changing the order of the blocks or sections with drag and drop. Changes are automatically synchronized with the visibility and order displayed in the left-hand side user interface.
+{% endhint %}
+
+{% hint style="warning" %}
+**Fixed arrangement inside a block**: The arrangement of fields inside a block remains fixed, so plan your layout changes at the block or section level.
+{% endhint %}
 
 ## Related topics
 

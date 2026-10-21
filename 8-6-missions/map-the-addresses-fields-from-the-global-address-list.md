@@ -18,6 +18,15 @@ Create the address list before you use it in a mission.
 
 <figure><img src="../.gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure>
 
+## Feature overview
+
+* **Global Address List**: Addresses that are visible and usable by all Nomadia Delivery users, regardless of contractor. It is available from the Configuration module.
+* **Address List menu**: The **Configuration** menu entry where you create a new address or import addresses from an Excel file.
+* **Add (Beta)**: The **Actions** option in the mission table that starts mission creation.
+* **Address picker**: The pickup and delivery field where you enter an address from the Address List.
+* **Autocomplete**: Suggests addresses from the Global Address List. If a contractor is selected, it combines contractor addresses and Global Address List entries in a single dropdown.
+* **Icon and tooltip**: Show whether a dropdown item comes from the Global Address List or the contractor's address list.
+
 ## Use addresses from the Global Address List in a mission
 
 1. Once the address list is created, navigate to the **Mission** page.
@@ -52,6 +61,16 @@ Create the address list before you use it in a mission.
 ### Result
 
 This ensures a seamless and unified experience when entering mission addresses.
+
+## Tips
+
+{% hint style="info" %}
+**Create the list first**: Create the address list before you use it in a mission, either by adding a new address or by importing addresses from an Excel file.
+{% endhint %}
+
+{% hint style="info" %}
+**Identify the source**: When a contractor is selected, check the icon and tooltip on each dropdown item to see whether it comes from the Global Address List or the contractor's address list.
+{% endhint %}
 
 ## Related topics
 

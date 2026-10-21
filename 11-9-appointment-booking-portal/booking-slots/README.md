@@ -2,6 +2,12 @@
 
 The I-Frame Booking Portal gives transporters a flexible and seamless booking solution that can be directly embedded into contractor websites. Use it to boost customer engagement by enabling optimized delivery slot booking and providing a hassle-free user experience.
 
+## Before you begin
+
+* Sign in to **Nomadia Delivery** with a user profile that has access to the **Configuration** tab.
+* Know which details you need to capture from customers for a successful delivery, because you configure them as fields.
+* Have access to the contractor's website, or to the contractor, so the code sample can be integrated.
+
 ## Feature overview
 
 * **Display the booking portal**: Toggle that turns on the booking portal.

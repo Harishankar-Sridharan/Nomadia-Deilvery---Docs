@@ -2,6 +2,13 @@
 
 Visit missions are a new category of operational tasks that enable transporters to schedule visits to customer locations without handling parcel pickups or deliveries. You use them for non-transactional activities, which gives you greater flexibility and improves planning efficiency across various logistical scenarios.
 
+## Before you begin
+
+* Sign in to **Nomadia Delivery** with a user profile that has access to the **Missions** tab.
+* Have the **visit address** of the end customer available.
+* Know which **agency** serves as the starting point for the deliverers.
+* Have a deliverer available to assign the visit mission to, with the date and time of the visit.
+
 ## Feature overview
 
 Transporters can monitor and manage visit missions through customized statuses.
@@ -71,6 +78,16 @@ A new visit-type mission appears in the delivery management system.
 ### Result
 
 When the deliverer logs in to the mobile app, the deliverer can fulfill the visit with a new status such as **Visited** or **Not Visited**.
+
+## Tips
+
+{% hint style="info" %}
+**Visit wizard**: A visit mission does not involve pickups or deliveries, so the wizard includes only the visit address and opening hours.
+{% endhint %}
+
+{% hint style="info" %}
+**Publish before the visit**: Publish the visit route on the mobile app so the mission status changes to **To be visited** and the deliverer can then set **Visited** or **Not Visited**.
+{% endhint %}
 
 ## Related topics
 

@@ -2,6 +2,18 @@
 
 Enable the outgoing SMS service so that Nomadia Delivery can send SMS notifications to customers.
 
+## Before you begin
+
+* Sign in to **Nomadia Delivery** with a user profile that has access to the **Configuration** page.
+* Open **Configuration** and click **Configuration Menu** to reach **Configure Outgoing Messages**.
+* Be aware that SMS notifications are provided as an additional service.
+
+## Feature overview
+
+* **Configure Outgoing Messages**: The entry under **Fulfillment and Client Experience** where you manage outgoing customer messages.
+* **General Configuration**: The settings page that contains the outgoing SMS option.
+* **Customers Outgoing SMS Service**: The toggle under **Configure Outgoing SMS to the Customers** that lets **Nomadia Delivery** send SMS notifications to customers.
+
 ## Enable SMS notifications
 
 1. Go to **Configuration**.

@@ -2,6 +2,22 @@
 
 Use tickets to report and resolve mission-related queries between contractors and transporters. This page covers creating, replying to, closing, reopening, and bulk editing tickets.
 
+## Before you begin
+
+* Activate the ticket module for your user profile. See [Activating the Ticket Module](activating-the-ticket-module.md).
+* To create a ticket, you need a mission in the **Missions** tab that you can open in edit mode.
+* To reply, close, or reopen a ticket, you need the email notification with the link to the related mission, or access to the Mission Editor.
+
+## Feature overview
+
+* **Help tab**: The tab in the Mission Editor where you create a ticket, reply to it, and reopen it.
+* **Create a ticket**: Starts a support ticket for the mission.
+* **Send**: Submits the ticket to the transporter.
+* **Reply**: Sends your response to the other party.
+* **Close Ticket**: Lets the transporter close a ticket after sharing the required information.
+* **reopen**: Lets the contractor reopen a closed ticket when the resolution is not satisfactory.
+* **Tickets module**: Lists the tickets created in the system and, through **Actions**, supports bulk **Reopen** and **Close ticket**.
+
 ## Create a ticket
 
 A contractor user follows these steps to create a ticket.
@@ -98,6 +114,16 @@ Contractors or transporters follow these steps to perform a bulk edit of tickets
 A notification message is displayed confirming the action.
 
 <figure><img src="../.gitbook/assets/ChatGPT Image Apr 16, 2026, 09_19_29 AM.png" alt=""><figcaption></figcaption></figure>
+
+## Tips
+
+{% hint style="info" %}
+**Monitor open tickets**: Apply the Open ticket filter = Yes in the **Missions** tab and save it as a pre-filter to locate missions with active tickets for ongoing monitoring.
+{% endhint %}
+
+{% hint style="warning" %}
+**Review before confirming**: When you bulk edit tickets, review the warning message that is displayed before you click **Yes** to confirm the action.
+{% endhint %}
 
 ## Related topics
 

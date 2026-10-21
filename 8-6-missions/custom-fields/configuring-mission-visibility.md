@@ -2,6 +2,12 @@
 
 Mission visibility was previously determined mainly by the user’s agency association. To provide greater flexibility and support diverse business needs, visibility restrictions are now extended to include custom field–based rules, in addition to the existing agency-based controls.
 
+## Before you begin
+
+* Sign in to **Nomadia Delivery** with a user profile that has access to the **Configuration** tab and to **Manage user's**.
+* Make sure a custom field of the List of Values type exists for missions.
+* Identify the users whose missions you want to restrict, and the custom field value for each.
+
 ## Feature overview
 
 * **Mission visibility toggle**: Enables mission visibility for a mission custom field. It can be activated for only one field at a time, so only one custom field can be used to control mission visibility.

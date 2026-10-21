@@ -2,6 +2,12 @@
 
 The enhanced dashboard offers advanced features for better data access, visualization, and customization. These improvements enable transporters and subcontractors to manage large datasets more effectively, derive actionable insights, and customize dashboards to meet specific operational requirements.
 
+## Before you begin
+
+* Sign in to **Nomadia Delivery** as a transporter or subcontractor, the users who can set up custom dashboards.
+* Open the **Dashboard** tab, where you create and edit dashboards.
+* Know which KPIs you want to monitor, for example Missions Delivered, because you select them when you add widgets.
+
 ## Feature overview
 
 * **Pre-defined dashboards**: A set of ready-to-use dashboards that provide actionable insights across different operational areas.
@@ -107,6 +113,16 @@ The newly created custom dashboard is now ready for regular monitoring by the au
 ### Result
 
 Deleting dashboards allows transporters to better manage and visualize data, supporting streamlined operations and informed decision-making.
+
+## Tips
+
+{% hint style="info" %}
+**Pre-filter large datasets**: Configure pre-filters such as Agency, Period, Contractor, and Subcontractor to download only the necessary information, which enables faster chart rendering and smoother performance.
+{% endhint %}
+
+{% hint style="warning" %}
+**KPI limit on the home page**: Home page dashboards can include a maximum of 10 KPIs.
+{% endhint %}
 
 ## Related topics
 

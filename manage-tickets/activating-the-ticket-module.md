@@ -2,6 +2,17 @@
 
 Activate the ticket module by granting a user the necessary rights under the Tickets section of their roles and rights.
 
+## Before you begin
+
+* Sign in to **Nomadia Delivery** with a user profile that has access to **Configuration** and **Manage Users**.
+* Identify the user who needs the ticket module.
+
+## Feature overview
+
+* **Manage Users**: The **Configuration** option where you edit a user.
+* **Roles & Rights**: The tab of the user where rights are activated.
+* **Tickets**: The section of the **Roles & Rights** tab that holds the ticket rights.
+
 ## Activate the ticket module
 
 1. Go to **Configuration**.
@@ -21,6 +32,12 @@ Activate the ticket module by granting a user the necessary rights under the Tic
 6. Click **Save** to save the configuration.
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+## Tips
+
+{% hint style="info" %}
+**Grant rights per user**: Activate the necessary rights under the **Tickets** section of each user's **Roles & Rights** tab, then click **Save** to store the configuration.
+{% endhint %}
 
 ## Related topics
 

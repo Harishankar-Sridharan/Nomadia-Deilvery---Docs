@@ -2,6 +2,19 @@
 
 The Manage Sub Statuses feature allows administrators to create, edit, and assign detailed status labels that reflect the real-time progress or condition of a delivery task. These sub statuses provide a more granular tracking mechanism within the broader status categories such as "Pickup", "Waiting", or "Delivered".
 
+## Before you begin
+
+* Sign in to **Nomadia Delivery** with a user profile that has access to the **Configuration** page.
+* Open **Configuration**, click the **Configuration** menu, and under **My Data**, click **Sub statuses**.
+* Have at least one sub status available to delete or color.
+
+## Feature overview
+
+* **Sub status**: A detailed status label that reflects the real-time progress or condition of a delivery task within broader status categories such as "Pickup", "Waiting", or "Delivered".
+* **Delete**: Removes the selected sub status after you confirm.
+* **Coloring**: Applies a color to the selected sub status.
+* **Actions** dropdown menu: Contains the **Delete** and **Coloring** options.
+
 ## Delete a sub status
 
 1. Go to **Configuration**.
@@ -47,6 +60,16 @@ Apply conditions based on zone attributes such as type of mission (Delivery, Pic
 The selected color is applied successfully.
 
 ![](../.gitbook/assets/image-90.png)
+
+## Tips
+
+{% hint style="info" %}
+**Granular tracking**: Sub statuses provide a more granular tracking mechanism within the broader status categories, so use them to reflect the real-time progress of a delivery task.
+{% endhint %}
+
+{% hint style="warning" %}
+**Confirm before deleting**: A confirmation pop-up asks "Do you want to delete the sub-status?" before the sub status is deleted, so review your selection before you click **Yes**.
+{% endhint %}
 
 ## Related topics
 

@@ -17,6 +17,14 @@ The page displays all the default templates that Nomadia Delivery uses to genera
 
 Default templates in Nomadia Delivery are enabled by default and cannot be disabled, modified, or deleted. However, if you want to customize a template, you can download the existing one and make the necessary changes to suit your requirements.
 
+## Feature overview
+
+* **Document Templates**: The **Configuration** page that lists the default templates used to generate PDFs, such as routing sheets, loading sheets, eCMR, mission reports, sticker sheets, and visit reports.
+* **FieldsMaster\_DocumentTemplate**: The accompanying document that lists all the available fields you can use within a template.
+* **Merged field**: A field inserted as a merge field rather than plain text, which prevents issues during PDF generation.
+* **Actions** menu: Lets you download, import, enable or disable, and delete templates.
+* **Configuration types**: Rule-based auto-assignment of sub status and notification types based on mission parameters.
+
 ## Download an existing template
 
 1. Select the **template(s)** you want to download.

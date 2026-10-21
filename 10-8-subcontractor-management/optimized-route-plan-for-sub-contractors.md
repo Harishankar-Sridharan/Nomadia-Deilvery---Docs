@@ -19,6 +19,16 @@ Before subcontractors can create optimized routes, they must first be granted au
 
 <figure><img src="../.gitbook/assets/Nomadia_Layout_V1 (8).png" alt=""><figcaption></figcaption></figure>
 
+## Feature overview
+
+* **Vehicles** and **Optimization** rights: Permissions the transporter enables in **Manage User Profile** so subcontractors can use route optimization.
+* **Optimize**: Runs the optimization for the selected missions, based on the date range, team, and vehicles you define.
+* **Stop**: Ends the optimization when you are satisfied with the outcome so you can see the result.
+* **Display the simulation**: Lets you analyze the optimization results.
+* **Validate routes**: Publishes the results directly without reviewing them.
+* **Publish to the mobile app**: Shares the validated route with the driver.
+* **Force**: Validates the route even when conflicts are listed.
+
 ## Run optimization with subcontractor login
 
 1. Log in to the Nomadia Delivery application with the subcontractor account.
@@ -67,6 +77,16 @@ Alternatively, click **Validate routes** to publish results directly without rev
 The validated route is published to the mobile app.
 
 <figure><img src="../.gitbook/assets/image (204).png" alt=""><figcaption></figcaption></figure>
+
+## Tips
+
+{% hint style="info" %}
+**Share with the driver**: Activate **Publish to the mobile app** in the validation popup if you want to share the route with the driver.
+{% endhint %}
+
+{% hint style="warning" %}
+**Authorization first**: Subcontractors can create optimized routes only after the primary transporter grants them authorization, so enable **Vehicles** and **Optimization** rights before they start.
+{% endhint %}
 
 ## Related topics
 

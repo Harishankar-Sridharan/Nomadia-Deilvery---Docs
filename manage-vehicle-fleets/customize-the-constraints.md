@@ -2,6 +2,17 @@
 
 Choose which constraint fields to display in the vehicles table.
 
+## Before you begin
+
+* Sign in to **Nomadia Delivery** with a user profile that has access to the **Configuration** page.
+* Make sure a vehicle exists under **Manage the Vehicles** in **My Data**.
+
+## Feature overview
+
+* **Manage the Vehicles**: The option under **My Data** that lists your vehicles.
+* **Actions**: The menu you use to add and open **Constraints**.
+* **Constraints**: The fields you can choose to display on the vehicles table.
+
 ## Customize the constraints
 
 1. Go to **Configuration**.

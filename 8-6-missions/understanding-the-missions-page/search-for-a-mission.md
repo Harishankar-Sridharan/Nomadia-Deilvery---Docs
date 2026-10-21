@@ -2,6 +2,11 @@
 
 Search for a mission on the Missions page using one of several fields.
 
+## Before you begin
+
+* Sign in to **Nomadia Delivery** with a user profile that has access to the **Missions** page.
+* Have one of the searchable values ready, such as the mission number, sender barcode, phone number, customer name, postal code, or city.
+
 ## Feature overview
 
 You can search using any of the following fields:
@@ -26,6 +31,16 @@ You can search using any of the following fields:
 ### Result
 
 The corresponding mission details appear below.
+
+## Tips
+
+{% hint style="info" %}
+**Search by several fields**: You can search using the mission number, sender barcode, phone number, customer name, postal code, or city.
+{% endhint %}
+
+{% hint style="info" %}
+**Narrow results with a filter**: To narrow the missions table by conditions and operators, use Filter the Table using Criteria.
+{% endhint %}
 
 ## Related topics
 

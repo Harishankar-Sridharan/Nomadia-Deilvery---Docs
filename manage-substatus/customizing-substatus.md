@@ -2,6 +2,17 @@
 
 Customize the sub status table to choose which fields are displayed.
 
+## Before you begin
+
+* Sign in to **Nomadia Delivery** with a user profile that has access to the **Configuration** page.
+* Make sure at least one sub status exists under **My Data** > **Sub statuses**.
+
+## Feature overview
+
+* **Sub statuses**: The list under **My Data** where you select the sub status to customize.
+* **Actions**: The dropdown menu that contains the **Customize the Limit** option.
+* **Customize the Limit**: Lets you choose which fields are displayed on the sub status table.
+
 ## Customize sub status
 
 1. Go to **Configuration**.

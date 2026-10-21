@@ -2,6 +2,20 @@
 
 Container-Child Missions enable planners to group several related deliveries—such as parcels going to the same address—into a single container mission. This approach streamlines planning, strengthens traceability, and boosts operational efficiency by managing the grouped deliveries as one unit while still retaining detailed parcel-level information.
 
+## Before you begin
+
+* Sign in to **Nomadia Delivery** with a user profile that has access to the **Mission** tab.
+* Have a delivery or pickup mission with related parcels, such as parcels going to the same address.
+
+## Feature overview
+
+* **Group in one container**: Action that groups the selected missions into a single container mission.
+* **Child Missions**: Tab of the container mission that lists the missions grouped inside.
+* **parent container is empty**: Condition that filters container missions specifically.
+* **Scan all the items in the container**: Toggle in the Delivered/Not Delivered sub-statuses that requires scanning of all child missions during delivery in the mobile app.
+* **Also display logs of parent container**: Toggle in the **Log** tab that shows both container and child mission logs.
+* **Fulfillment**: Tab that shows the container mission's status and the Not Delivered status of child missions in the case of partial deliveries.
+
 ## Create a container mission
 
 1. Open the Nomadia Delivery application and go to the **Mission** tab.
@@ -65,6 +79,16 @@ Container-Child Missions enable planners to group several related deliveries—s
 3. Use the **Fulfillment** tab to review statuses. It shows only the container mission’s status for completed deliveries/pickups and displays the Not Delivered status of child missions in the case of partial deliveries.
 
 <figure><img src="../../../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
+
+## Tips
+
+{% hint style="info" %}
+**Select the parent**: Assign or optimize missions by selecting only the parent container mission.
+{% endhint %}
+
+{% hint style="info" %}
+**Partial deliveries**: Any partially delivered missions remain linked to the route for improved traceability.
+{% endhint %}
 
 ## Related topics
 

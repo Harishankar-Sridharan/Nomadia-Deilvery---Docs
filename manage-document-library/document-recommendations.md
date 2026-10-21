@@ -2,6 +2,20 @@
 
 The Document Recommendations feature ensures that all required paperwork is available for each international shipment. It helps maintain compliance, prevents missing documents, and improves overall process reliability.
 
+## Before you begin
+
+* Sign in to **Nomadia Delivery** with a user profile that has access to the **Missions** and **Configuration** tabs.
+* Know the delivery address (the consignee's country) of the mission, because the recommendation list is based on the delivery country.
+* To import a recommendation list, prepare it as an Excel file.
+
+## Feature overview
+
+* **Add documents** toggle: Turns on document handling for the mission you create.
+* **Document Recommendations** tab: The tab in the **Document Library** where you create and manage recommendation lists.
+* **Actions** menu: Lets you add a recommendation list or import one from an Excel file.
+* **Country assignment**: Applies a recommendation list to one or more countries.
+* **Activation toggle**: Activates the recommendation list.
+
 ## Recommendations while adding the document
 
 1. Open the Nomadia Delivery application and navigate to the **Missions** tab.
@@ -88,6 +102,16 @@ When creating or editing a mission, the document recommendation list is displaye
 If a country has multiple recommendation lists, they are seamlessly merged and displayed with a separator.
 
 <figure><img src="../.gitbook/assets/image (95) (1).png" alt=""><figcaption></figcaption></figure>
+
+## Tips
+
+{% hint style="info" %}
+**Multiple countries**: A recommendation list can be applied to multiple countries simultaneously, and you can add links to online or cloud-hosted documents such as SharePoint.
+{% endhint %}
+
+{% hint style="info" %}
+**Merged lists**: If a country has both a general and a country-specific recommendation list, both lists are merged and displayed with a separator during mission creation or editing.
+{% endhint %}
 
 ## Related topics
 

@@ -6,6 +6,13 @@ The auto-assignment feature in Nomadia Delivery simplifies dispatching by automa
 
 * To use automatic mission assignments, you must have a postal code zone or a spatial zone configured in advance. For step-by-step guidance, refer to the Zone Creation by Automatic Sectorization guide.
 
+## Feature overview
+
+* **Agencies** and **zones** tab: Sets up zone assignments for users with mobile access.
+* **Scheduled Deliverer**: Field that is updated with the user or vehicle linked to the zone where a mission's pickup or delivery location falls.
+* **Zone synchronization**: When a user is linked to a vehicle, all zone settings automatically synchronize with that vehicle.
+* **Optimization options**: Use only the auto-assigned scheduled deliverer, allow all compatible vehicles, or ignore the auto-assigned deliverers.
+
 ## Link zones with users and vehicles
 
 1. Open the Nomadia Delivery application and go to the **Configuration** tab.

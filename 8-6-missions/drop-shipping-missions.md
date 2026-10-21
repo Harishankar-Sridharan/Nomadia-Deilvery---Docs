@@ -2,6 +2,23 @@
 
 Drop-shipping missions simplify delivery operations by allowing transporters to deliver parcels directly from suppliers to end customers, without returning to the agency. This method improves efficiency and is particularly suited to logistical scenarios where direct delivery is more practical than traditional models such as cross-docking.
 
+## Before you begin
+
+* Sign in to **Nomadia Delivery** with a user profile that has access to the **Missions** tab.
+* Identify the contractor associated with the mission.
+* Identify the agency from which the deliverers begin their tour.
+* Have the delivery address of the end customer ready.
+
+## Feature overview
+
+* **Drop-Shipping**: The mission type that delivers parcels directly from suppliers to end customers, without returning to the agency.
+* **Contractor Identifier**: The drop-down where you select the contractor associated with the mission. The contractor's address is used as the default pickup address.
+* **Agency**: The starting point for the deliverers' tour.
+* **Optimize**: The action that creates drop-shipping routes, because these missions are managed exclusively through the optimization engine.
+* **DROP prefix**: The prefix the application adds to delivery mission numbers in the **Deliveries** panel to differentiate pickup and drop events.
+* **Publish to the mobile app**: The toggle that shares the validated route with the driver.
+* **Force**: Proceeds with validation when the popup lists conflicts.
+
 ## Create a drop-shipping mission
 
 Contractors, transporters, and subcontractors follow these steps to create a drop-shipping mission.
@@ -109,6 +126,16 @@ The validated route with drop-shipping missions is published to the mobile app.
 <figure><img src="../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
 
 Transporters can create routes that start from the agency, pick up parcels directly from the contractor (supplier) location, and deliver them to end customers. Unlike cross-docking missions, these routes do not require returning to the agency after the pickups are completed.
+
+## Tips
+
+{% hint style="info" %}
+**Contractor address**: The contractor's address from the contractor configuration is used as the default pickup address. Click **Edit** next to the address field to set a different one.
+{% endhint %}
+
+{% hint style="warning" %}
+**Optimization only**: Drop-shipping missions are managed exclusively through the optimization engine, and manual route planning is restricted. Deliveries are permitted only after all pickups are completed.
+{% endhint %}
 
 ## Related topics
 

@@ -2,6 +2,20 @@
 
 You can group custom fields in the mission creation form using a group name.
 
+## Before you begin
+
+* Sign in to **Nomadia Delivery** with a user profile that has access to the **Configuration** tab.
+* Make sure an existing mission custom field is available to edit.
+* Decide on a group name, either an existing group or a new one.
+
+## Feature overview
+
+* **Custom fields**: The **Configuration** list entry where you manage custom fields.
+* **Missions**: The tab that lists the custom fields used in the mission creation form.
+* **Pencil icon**: Opens an existing custom field for editing.
+* **Group name**: The field where you enter an existing or new group name for the custom field.
+* **Custom Fields table**: Displays the assigned group name after you save.
+
 ## Group custom fields
 
 1. Open the Nomadia Delivery application and go to the **Configuration** tab.
@@ -33,6 +47,16 @@ You can group custom fields in the mission creation form using a group name.
 The assigned group name is displayed in the Custom Fields table.
 
 <figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
+## Tips
+
+{% hint style="info" %}
+**Reuse or create groups**: In the **Group name** field, you can choose an existing group or create a new one.
+{% endhint %}
+
+{% hint style="info" %}
+**Grouped in the form**: Custom fields that share a group name are grouped together in the mission creation form.
+{% endhint %}
 
 ## Related topics
 

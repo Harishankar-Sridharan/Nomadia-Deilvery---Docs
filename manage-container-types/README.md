@@ -2,6 +2,11 @@
 
 The Manage Container Types feature enables logistics managers and dispatchers to define, configure, and manage the various types of containers or packaging units used in delivery operations. This helps optimize space planning, improve tracking, and ensure accurate handling of goods during transport.
 
+## Before you begin
+
+* Sign in to **Nomadia Delivery** with a user profile that has access to **Configuration**.
+* Have the **Code** and **Translation** of the container type available when you create one.
+
 ## Feature overview
 
 * **Default container types**: The system supports three default container types: Cardboard, Pallet, and Parcel.
@@ -67,6 +72,12 @@ The container type is created successfully.
 The container type is deleted successfully.
 
 <figure><img src="../.gitbook/assets/image (105) (1).png" alt=""><figcaption></figcaption></figure>
+
+## Tips
+
+{% hint style="info" %}
+**Default container types**: The system supports three default container types: Cardboard, Pallet, and Parcel, so check them before you create a new type.
+{% endhint %}
 
 ## Related topics
 

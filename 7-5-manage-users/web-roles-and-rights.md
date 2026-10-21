@@ -2,6 +2,12 @@
 
 Roles and rights control which features a web user can access. Use this reference to see what each role or right allows when enabled.
 
+## Before you begin
+
+* Sign in to **Nomadia Delivery** with a user profile that has access to user management.
+* Identify the web features each user needs, such as missions, routes, contractors, or dashboards.
+* See [Enabling Web Access](enabling-web-access.md) for how web access is set up for a user.
+
 ## Feature overview
 
 | Roles and Rights                          | Description                                                                     |
@@ -69,6 +75,16 @@ The password must include at least three of the following character types:
 * Symbols (special characters)
 
 ![](../.gitbook/assets/image-18.png)
+
+## Tips
+
+{% hint style="info" %}
+**Password requirements**: Web passwords must include at least three of these character types: lowercase letters, uppercase letters, numbers, and symbols.
+{% endhint %}
+
+{% hint style="warning" %}
+**Modifying printed missions**: Users can modify missions after they have been printed only when **Modify missions after printing** is enabled.
+{% endhint %}
 
 ## Related topics
 

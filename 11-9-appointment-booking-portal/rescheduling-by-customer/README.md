@@ -2,6 +2,20 @@
 
 Use this feature to let end customers receive email notifications about their delivery and reschedule a mission to a slot that suits them.
 
+## Before you begin
+
+* Sign in to **Nomadia Delivery** with a user profile that has access to the **Missions** tab.
+* Have a mission that you can assign to a deliverer.
+* Set up the mission with the delivery/pickup email address, so Nomadia Delivery can send email notifications to your end customer.
+
+## Feature overview
+
+* **Publish on Mobile App**: Action you select after assigning a mission to a deliverer.
+* **Send Delivery Notes**: Toggle that sends email notifications to end customers.
+* **Reschedule**: Button the customer clicks when the proposed date and time are not convenient.
+* **Choose**: Button the customer clicks to confirm the preferred slot.
+* **Slot suggestions**: The real-time optimization engine suggests the available slots.
+
 ## Send email notifications to the end customer
 
 1. Navigate to the **Missions** tab and assign a mission to a deliverer.

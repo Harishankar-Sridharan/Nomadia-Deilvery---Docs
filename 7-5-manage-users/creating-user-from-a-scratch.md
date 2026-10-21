@@ -2,6 +2,18 @@
 
 Create a new user in Manage Users without copying an existing user.
 
+## Before you begin
+
+* Sign in to **Nomadia Delivery** with a user profile that has access to **Manage Users**.
+* Have the user details ready, and know whether the user needs **Web** access, **Mobile access**, or both.
+
+## Feature overview
+
+* **Actions** > **Add**: Starts the creation of a new user.
+* **Create from existing user**: Option you set to **No** to create a user without copying an existing one.
+* **user details**: Information you enter for the new user.
+* **Web** and **Mobile access**: Options you enable as required for the user.
+
 ## Create a user from scratch
 
 1. In **Manage Users**, click the **Actions** drop-down and select **Add**.
@@ -13,6 +25,16 @@ Create a new user in Manage Users without copying an existing user.
 4. Click **Save** to complete the process.
 
 <figure><img src="../.gitbook/assets/V2.png" alt=""><figcaption></figcaption></figure>
+
+## Tips
+
+{% hint style="info" %}
+**No copying**: Set **Create from existing user** to **No** to create a new user without copying an existing user.
+{% endhint %}
+
+{% hint style="info" %}
+**Enable access as required**: Enable **Web** and **Mobile access** according to what the user needs before you click **Save**.
+{% endhint %}
 
 ## Related topics
 

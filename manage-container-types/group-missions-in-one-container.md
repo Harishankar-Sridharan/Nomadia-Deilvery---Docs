@@ -2,6 +2,19 @@
 
 This feature allows multiple missions to be grouped into a single parent container, such as a pallet, box, or cardboard container. Grouping facilitates the management of bulk orders for a single customer or location, allowing the system to treat several child missions as part of one parent entity.
 
+## Before you begin
+
+* Sign in to **Nomadia Delivery** with a user profile that has access to the **Mission** tab.
+* Have a mission to duplicate and know the container type you want, such as Pallet or Box.
+* Make sure the Parcel section is enabled in the mission configuration if the Parcel details are not visible.
+
+## Feature overview
+
+* **Duplicate**: Feature that duplicates the selected mission, which you can complete within the Parcel section.
+* **Container Type**: Dropdown menu where you select the container type, such as Pallet or Box.
+* **Group in container?**: Prompt where you select **Yes** to group the missions.
+* **Parent container and child missions**: The parent container groups several child missions as one parent entity.
+
 ## Group missions via mission duplication
 
 1. Navigate to the **Mission** tab.

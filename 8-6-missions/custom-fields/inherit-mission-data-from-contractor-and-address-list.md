@@ -2,6 +2,18 @@
 
 This feature accelerates mission creation by automatically inheriting custom field data, minimizing manual input. By automatically initializing fields, you don’t need to re-enter the same data during mission creation, which improves consistency and efficiency.
 
+## Before you begin
+
+* Sign in to **Nomadia Delivery** with a user profile that has access to the **Configuration** tab.
+* Make sure an existing mission custom field is available to edit.
+* Make sure the contractor or address list entry that should provide the value exists.
+
+## Feature overview
+
+* **Can be initialized by**: The drop-down that sets whether a custom field is inherited from the contractor or the address list.
+* **Custom Fields for Missions**: The section in the contractor (Custom Fields section) and in the address (Other Data section) that lists the fields missions inherit.
+* **Address List tab**: The contractor tab where you edit an address and set its inherited values.
+
 ## Enable custom field inheritance
 
 1. Open the Nomadia Delivery application and go to the **Configuration** tab.

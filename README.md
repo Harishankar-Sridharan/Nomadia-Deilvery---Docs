@@ -4,6 +4,18 @@ Nomadia Delivery is a cloud-based SaaS solution designed to streamline and optim
 
 The platform supports management of up to 500,000 Missions, with powerful filtering and sorting features available to help users focus on the Missions relevant to their operations.
 
+## Before you begin
+
+* Have the Missions you want to manage available, for example as an Excel spreadsheet or through an API import.
+* Know the Route and the delivery resource to which Missions will be assigned.
+
+## Feature overview
+
+* **Mission**: A logistical flow of goods from a point of origin to a delivery destination, such as a parcel, pallet, or any other transportable container.
+* **Statuses**: Track each Mission, such as Waiting, Received, Loaded, To Be Delivered, and Delivered.
+* **Backoffice**: Where Missions are imported, progress through statuses, and are assigned to a Route.
+* **Mobile Application**: Where delivery personnel update Mission statuses until they reach Delivered.
+
 ## In the Backoffice
 
 * Missions (such as parcels or pallets) can be imported into the system through various methods, including Excel spreadsheets and APIs.

@@ -6,6 +6,13 @@ Transporters can assign predefined geographic zones, based on postal codes, to s
 
 * The new subcontractor user can access the application and perform their tasks, such as importing missions, planning, and executing missions.
 
+## Feature overview
+
+* **Missions** tab: Lists the missions from which you select the ones to assign.
+* **Actions** > **Assign to subcontractor**: Allocates the selected missions to a subcontractor chosen from the list.
+* **Prefilter**: Filters the mission table so you can see missions assigned to a specific subcontractor.
+* **Allotted to**: Drop-down in the prefilter where you select the subcontractor whose missions you want to display.
+
 ## Assign missions to a subcontractor
 
 1. Open the Nomadia Delivery application and go to the **Missions** tab.

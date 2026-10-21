@@ -2,6 +2,11 @@
 
 Contractor Restrictions allow you to precisely control access to templates and mission editing permissions.
 
+## Before you begin
+
+* Sign in to **Nomadia Delivery** with a user profile that has access to the **Configuration** tab.
+* Make sure the contractor, and for the second procedure the contractor user, already exists.
+
 ## Feature overview
 
 In the **Missions** section of the contractor details, multiple restrictions can be applied to contractors.
@@ -78,6 +83,16 @@ A warning appears in the mission editor, and mission editing is blocked because 
 ![](<../.gitbook/assets/image-81 (2).png>)
 
 This ensures better traceability and protects mission data once documents are generated.
+
+## Tips
+
+{% hint style="info" %}
+**Limit templates per contractor**: Apply the restrictions in the **Missions** section of the contractor details so users select only the templates and edit configurations applicable to the contractor.
+{% endhint %}
+
+{% hint style="warning" %}
+**Editing after printing**: When the **Modify Mission After Printing** right is disabled, mission editing is blocked after sticker printing, which protects mission data once documents are generated.
+{% endhint %}
 
 ## Related topics
 

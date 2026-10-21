@@ -2,6 +2,18 @@
 
 Create an article type to define a kind of article that you can use in the delivery process.
 
+## Before you begin
+
+* Sign in to **Nomadia Delivery** with a user profile that has access to **Configuration**.
+* Have the **Name** and **Translation** of the article type available.
+
+## Feature overview
+
+* **Types of Articles**: Page under Customization where you manage article types.
+* **Actions**: Dropdown menu that contains the **Add** option.
+* **Name**: Name of the article type.
+* **Translation**: Translation of the article type name.
+
 ## Create an article type
 
 1. Go to **Configuration**.
@@ -25,6 +37,12 @@ Create an article type to define a kind of article that you can use in the deliv
 The article type is created successfully.
 
 <figure><img src="../.gitbook/assets/image (25) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+## Tips
+
+{% hint style="info" %}
+**Define the kind of article**: An article type defines a kind of article that you can use in the delivery process, so enter a clear **Name** and **Translation**.
+{% endhint %}
 
 ## Related topics
 

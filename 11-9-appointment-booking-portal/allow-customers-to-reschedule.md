@@ -2,6 +2,20 @@
 
 Use this guide to enable end customers to reschedule their delivery or pickup missions in Nomadia Delivery. These features enhance customer convenience and communication by allowing customers to select a time slot that suits their schedule.
 
+## Before you begin
+
+* Sign in to **Nomadia Delivery** with a user profile that has access to the **Configuration** tab.
+* Decide how long before delivery the rescheduling link stays active, from a maximum of 12 hours to a minimum of 3 hours before delivery.
+
+## Feature overview
+
+* **Configure Customer Experience Pages**: Configuration menu entry where you set up the rescheduling button.
+* **Reschedule a Delivery**: Toggle in the **Before the Delivery** menu item that activates the **reschedule** button in customer email communications.
+* **Disable Before Delivery**: Option that sets the rescheduling link validity.
+* **Configure Outgoing Messages** > **Email Templates**: Where you add the email template that carries the rescheduling link.
+* **Time window to communicate**: Template type you click when adding an email template.
+* **Outgoing Emails**: Setting you enable to allow communication with the end customer.
+
 ## Set up the rescheduling button
 
 1. Launch the Nomadia Delivery application and go to the **Configuration** tab.
@@ -58,6 +72,16 @@ Use this guide to enable end customers to reschedule their delivery or pickup mi
 8. Click **Save**.
 
 <figure><img src="../.gitbook/assets/Nomadia_Layout_V1 (4) (1).png" alt=""><figcaption></figcaption></figure>
+
+## Tips
+
+{% hint style="info" %}
+**Insert mission links**: When composing the message, use the $ keyword to insert mission-specific links and values.
+{% endhint %}
+
+{% hint style="warning" %}
+**Link validity window**: Configure the rescheduling link to be active from a maximum of 12 hours before delivery to a minimum of 3 hours before delivery, based on your operational requirements.
+{% endhint %}
 
 ## Related topics
 

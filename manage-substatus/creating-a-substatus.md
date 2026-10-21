@@ -2,6 +2,17 @@
 
 Create a sub status with a code and a status configuration type so that you can track the progress of a delivery task in more detail.
 
+## Before you begin
+
+* Sign in to **Nomadia Delivery** with a user profile that has access to the **Configuration** page.
+* Have the sub status code ready, and know which **Status configuration** type to select.
+
+## Feature overview
+
+* **Sub status**: The code that identifies the sub status.
+* **Status configuration**: The type that you select for the sub status.
+* **Actions** > **Add**: Opens the form to create a sub status.
+
 ## Create a sub status
 
 1. Go to **Configuration**.
@@ -29,6 +40,12 @@ Create a sub status with a code and a status configuration type so that you can 
 The sub status is created successfully.
 
 ![](../.gitbook/assets/image-84.png)
+
+## Tips
+
+{% hint style="info" %}
+**Code and configuration type**: Create each sub status with a code and a status configuration type so that you can track the progress of a delivery task in more detail.
+{% endhint %}
 
 ## Related topics
 

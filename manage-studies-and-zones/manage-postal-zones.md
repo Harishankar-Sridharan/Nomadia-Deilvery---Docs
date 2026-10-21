@@ -2,6 +2,21 @@
 
 The Manage Postal Zones feature allows administrators and logistics managers to define and manage geographical delivery zones based on postal codes. These zones are essential for organizing deliveries, assigning resources, and optimizing routes within specific areas.
 
+## Before you begin
+
+* Sign in to **Nomadia Delivery** with a user profile that has access to the **Configuration** tab.
+* Have a study available under **Manage studies and zones**, because you open its zone table with the **Pencil** icon.
+* To import postal zones, have a valid zone file available on your local system.
+* To add a postal zone, have the **Code**, **Name**, and **Prefix** ready.
+
+## Feature overview
+
+* **Import**: Uploads a file that contains zone data, using **Browse File**.
+* **Add a Postal Zone**: Creates a zone with a **Code**, **Name**, and **Prefix**.
+* **Delete**: Removes the selected zone after you confirm.
+* **Export**: Exports the selected postal zone.
+* **Coloring**: Applies a color based on zone attributes such as type of mission (Delivery, Pickup), zone priority, assigned deliverer, or postal code prefix.
+
 ## Import postal zones
 
 1. Click the **Configuration** tab.

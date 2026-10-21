@@ -2,6 +2,21 @@
 
 Contractors and transporters can duplicate missions with quantities in Nomadia Delivery. The feature simplifies the handling of multiple items, enhancing both efficiency and accuracy in mission management.
 
+## Before you begin
+
+* Sign in to **Nomadia Delivery** with a user profile that has access to the **Missions** tab.
+* Have the mandatory mission details ready for the mission type, such as the agency, pickup address, and delivery address.
+* Have the parcel details ready: length, width, height, weight, volume, and solver constraints.
+
+## Feature overview
+
+* **Actions drop-down**: Opens the menu in the Mission table where you select **Add** to start the mission wizard.
+* **Parcel section**: Holds the parcel details, such as length, width, height, weight, volume, and solver constraints.
+* **+ symbol**: Adds a new parcel with different values.
+* **Copy icon**: Duplicates an existing parcel with the same details.
+* **Delete icon**: Removes a parcel that you added by mistake.
+* **Add**: Generates the required number of missions after you finalize the parcels.
+
 ## Duplicate missions with quantities
 
 1. Open the Nomadia Delivery application and go to the **Missions** tab.
@@ -38,6 +53,16 @@ Contractors and transporters can duplicate missions with quantities in Nomadia D
 The duplicated missions appear in the mission table.
 
 <figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+
+## Tips
+
+{% hint style="info" %}
+**Reuse parcel details**: To add a parcel with the same details, click the **Copy** icon instead of entering the values again. Click the **+** symbol only when the new parcel has different values.
+{% endhint %}
+
+{% hint style="warning" %}
+**Check parcels before you add**: Finalize the parcels before you click **Add**, because this action generates the required number of missions. If you add a parcel by mistake, click the **Delete** icon to remove it.
+{% endhint %}
 
 ## Related topics
 

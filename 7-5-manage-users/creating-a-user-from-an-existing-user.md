@@ -2,6 +2,18 @@
 
 Create a user from an existing user in Manage Users to start from the existing user's settings.
 
+## Before you begin
+
+* Sign in to **Nomadia Delivery** with a user profile that has access to **Manage Users**.
+* Have an existing user whose settings you want to start from.
+
+## Feature overview
+
+* **Actions** > **Add**: Starts the creation of a new user.
+* **Create from existing user**: Option you set to **Yes** to copy an existing user.
+* **Import User's Preferences**: Option to choose **Yes** or **No** for importing the existing user's preferences.
+* **Ok**: Confirms your choices and opens the new user's details.
+
 ## Create a user from an existing user
 
 1. In **Manage Users**, click the **Actions** drop-down and select **Add**.
@@ -19,6 +31,16 @@ Create a user from an existing user in Manage Users to start from the existing u
 7. Click **Save** to complete the process.
 
 ![](../.gitbook/assets/image-22.png)
+
+## Tips
+
+{% hint style="info" %}
+**Start from existing settings**: Create a user from an existing user to start from that user's settings, then modify the user details if necessary before you save.
+{% endhint %}
+
+{% hint style="info" %}
+**Preferences choice**: Choose **Yes** or **No** for **Import User's Preferences**, as required for the new user.
+{% endhint %}
 
 ## Related topics
 
