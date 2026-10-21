@@ -25,7 +25,7 @@ The following UI elements control your reception tracking workflow:
 * **Configure the mobile app**: Opens the mobile settings panel to customize field worker workflows.
 * **Ask for reception ID**: Prompts drivers for a reception identifier to ensure all received shipments are uniquely tracked.
 * **Scan all the items in the container**: Forces drivers to scan every package to prevent missed or incorrect deliveries.
-* **Customize the list**: Adjusts columns in the back-office view to select displayed columns.
+* **Customize the list**: Adjusts which columns are shown in the back-office view.
 
 ## Configure the mobile app for reception
 
@@ -74,15 +74,15 @@ Drivers must now scan every item in the container before the **Received** sub-st
 
 ## Configure the reception report
 
-1. Go to **Configure Outgoing Messages**.
+1. Go to **Configure outgoing messages**.
 2. Create an email template for the reception report.
 3. As soon as the mobile user ends the reception, the email is automatically sent to the contractor's email address.
 
 ## Scan and receive containers in the mobile application
 
 1. Open the mobile application on your field device.
-2. Click the **+** icon at the bottom
-3. Enter the **Reception name** and **Reception ID** when prompted and click **validate**
+2. Click the **+** icon at the bottom of the screen.
+3. Enter the **Reception name** and **Reception ID** when prompted, and click **Validate**.
 
 <figure><img src="../.gitbook/assets/ReceptionManagement_ScanReceiveContainersMobile_001.png" alt="Enter the Reception name and Reception ID and click validate" width="540"><figcaption></figcaption></figure>
 
@@ -90,9 +90,9 @@ Drivers must now scan every item in the container before the **Received** sub-st
 
 ![Scan the Parent container form](../.gitbook/assets/ReceptionManagement_ScanReceiveContainersMobile_002.png)
 
-5. Tap the Tick mark at the bottom.&#x20;
-6. You will get a pop up stating "Are you sure you want to finish receiving scanned messages"
-7. Click **confirm**
+5. Tap the tick mark at the bottom of the screen.
+6. A pop-up window asks "Are you sure you want to finish receiving scanned packages?"
+7. Click **Confirm**.
 
 <figure><img src="../.gitbook/assets/ReceptionManagement_ScanReceiveContainersMobile_003.jpg" alt="Click confirm to finish the reception" width="540"><figcaption></figcaption></figure>
 
@@ -112,7 +112,7 @@ Drivers must now scan every item in the container before the **Received** sub-st
 ## Tips
 
 {% hint style="info" %}
-**\[Forced Verification]**: Enable **Scan all the items in the container** under **Received** sub-status to prevent drivers from skipping verification.
+**Forced Verification**: Enable **Scan all the items in the container** under **Received** sub-status to prevent drivers from skipping verification.
 {% endhint %}
 
 ## Related topics

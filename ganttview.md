@@ -11,7 +11,7 @@ Prerequisites:
 
 Initial setup steps:
 
-1. Log into **Nomadia Delivery**.
+1. Log in to **Nomadia Delivery**.
 2. Navigate to the **Missions** section.
 3. Scroll down to locate the **Route** section.
 
@@ -66,7 +66,7 @@ Initial setup steps:
 
 2. Review event status, duration, start time, end time, drive duration, total distance, building, and floor details.
 
-![Review event status, duration, start time, end time, drive duration, total](.gitbook/assets/GanttView_InspectRouteDetails_002.png)
+![Route details with status, times, duration and distance](.gitbook/assets/GanttView_InspectRouteDetails_002.png)
 
 3. Click the **Back Button** to return to the route list.
 

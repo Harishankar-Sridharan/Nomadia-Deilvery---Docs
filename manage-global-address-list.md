@@ -1,6 +1,6 @@
 # Manage Global Address List
 
-Nomadia Delivery allows you to manage an address list that serves as a master record of customer information. This helps improve both the speed and accuracy of mission creation. To create an Global address list, follow these steps
+Nomadia Delivery allows you to manage an address list that serves as a master record of customer information. This helps improve both the speed and accuracy of mission creation. To create a global address list, follow these steps:
 
 ## Before you begin
 
@@ -9,20 +9,20 @@ Nomadia Delivery allows you to manage an address list that serves as a master re
 
 ## Steps
 
-1. Log in to the Nomadia Delivery application and go to the Configuration
-2. Click Address list
+1. Log in to the Nomadia Delivery application and go to **Configuration**.
+2. Click **Address list**.
 
 <figure><img src=".gitbook/assets/GlobalAddressList_Steps_001.png" alt="Click Address list"><figcaption></figcaption></figure>
 
-3. To create a new address list, click the ‘Action’ button and then select ‘Add’
-4. Alternatively, you can import an address list from an Excel file by clicking the ‘Import’ button and selecting the desired file.
+3. To create a new address list, click the **Actions** button and then select **Add**.
+4. Alternatively, you can import an address list from an Excel file by clicking the **Import** button and selecting the desired file.
 
-<figure><img src=".gitbook/assets/GlobalAddressList_Steps_002.png" alt="Alternatively, you can import an address list from an Excel file by clicking"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/GlobalAddressList_Steps_002.png" alt="Import an address list from an Excel file"><figcaption></figcaption></figure>
 
-5. When importing, ensure that you map the address fields or the X and Y coordinates.
-6. Click ‘Validate’ to map the remaining data into the address list.
+5. When importing, make sure you map the address fields or the X and Y coordinates.
+6. Click **Validate** to map the remaining data into the address list.
 
-<figure><img src=".gitbook/assets/GlobalAddressList_Steps_003.png" alt="Click ‘Validate’ to map the remaining data into the address list"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/GlobalAddressList_Steps_003.png" alt="Click Validate to map the remaining data into the address list"><figcaption></figcaption></figure>
 
 7. A preview of all locations to be imported will be displayed during the import process.
 
@@ -30,11 +30,11 @@ Nomadia Delivery allows you to manage an address list that serves as a master re
 
 8. Map the additional data fields in the address list, such as First Name, Last Name, Designation, Email, etc.
 
-<figure><img src=".gitbook/assets/GlobalAddressList_Steps_005.png" alt="Map the additional data fields in the address list, such as First Name, Last"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/GlobalAddressList_Steps_005.png" alt="Map the additional data fields, such as First Name and Last Name"><figcaption></figcaption></figure>
 
-9. After mapping all the required fields, click ‘Import’ to upload the address list to Nomadia Delivery.
+9. After mapping all the required fields, click **Import** to upload the address list to Nomadia Delivery.
 
-<figure><img src=".gitbook/assets/GlobalAddressList_Steps_006.png" alt="After mapping all the required fields, click ‘Import’ to upload the address"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/GlobalAddressList_Steps_006.png" alt="Click Import to upload the address list"><figcaption></figcaption></figure>
 
 ### Result
 

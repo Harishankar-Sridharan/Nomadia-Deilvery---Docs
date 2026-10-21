@@ -20,7 +20,7 @@ This page explains how to use the **Deliveries** panel to find deliveries in a s
 
 ## Result
 
-The changes show in the list. The footer shows how many deliveries you selected and the total, for example **Selection: 0 - Total: 351**. [TODO: Confirm what changes on the map and in the Routes panel]
+The changes appear in the list. The footer shows how many deliveries you selected and the total, for example **Selection: 0 - Total: 351**. [TODO: Confirm what changes on the map and in the Routes panel]
 
 ## Tips
 

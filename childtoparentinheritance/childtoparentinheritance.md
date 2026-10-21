@@ -52,9 +52,9 @@ Set up child-to-parent inheritance using these steps:
 
 2. Edit the sub-status for which you want to allow the mobile user to scan all the items in the container.
 
-![Edit the sub-status for which you want to allow the mobile user to scan all](../.gitbook/assets/ChildToParentInheritance_EnableScanningAllItems_002.png)
+![Edit the sub-status that requires scanning all items](../.gitbook/assets/ChildToParentInheritance_EnableScanningAllItems_002.png)
 
-3. Check if **Scan all the items in the container** is enabled.
+3. Check whether **Scan all the items in the container** is enabled.
 4. Toggle the option to **Yes** if it is disabled.
 
 ![Toggle the option to Yes if it is disabled](../.gitbook/assets/ChildToParentInheritance_EnableScanningAllItems_003.png)
@@ -128,11 +128,11 @@ Set up child-to-parent inheritance using these steps:
 
 ### Result
 
-The status will be reflected in the parent container. Please note that only positive statuses will be updated in the parent container.
+The status is reflected in the parent container. Note that only positive statuses are updated in the parent container.
 
 The partial status attainment is updated based on the number of child missions that have a positive status.
 
-<figure><img src="../.gitbook/assets/ChildToParentInheritance_TrackDamagedItemsNot_004.png" alt="The partial status attainment is updated based on the number of child missions"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ChildToParentInheritance_TrackDamagedItemsNot_004.png" alt="The partial status attainment shown on the parent container"><figcaption></figcaption></figure>
 
 ## Configure and view aggregated dimensions and quantities
 
@@ -143,11 +143,11 @@ The partial status attainment is updated based on the number of child missions t
 2. Edit any container type from the list.
 3. Choose your desired size metrics in **Aggregate dimensions**, such as length or height.
 
-![Choose your desired size metrics in Aggregate dimensions, such as length](../.gitbook/assets/ChildToParentInheritance_ConfigureViewAggregatedDimensions_002.png)
+![Choose your desired size metrics in Aggregate dimensions](../.gitbook/assets/ChildToParentInheritance_ConfigureViewAggregatedDimensions_002.png)
 
 4. Choose your desired quantity metrics in **Aggregate quantities**, such as kg or volume.
 
-![Choose your desired quantity metrics in Aggregate quantities, such as kg](../.gitbook/assets/ChildToParentInheritance_ConfigureViewAggregatedDimensions_003.png)
+![Choose your desired quantity metrics in Aggregate quantities](../.gitbook/assets/ChildToParentInheritance_ConfigureViewAggregatedDimensions_003.png)
 
 5. Click **Save**.
 
@@ -180,7 +180,7 @@ The partial status attainment is updated based on the number of child missions t
 ## Tips
 
 {% hint style="info" %}
-**Mobile Synchronization**: Use the mobile application to experience the same automatic child-to-parent data inheritance on the go.
+**Mobile Synchronization**: Use the mobile application to get the same automatic child-to-parent data inheritance on the go.
 {% endhint %}
 
 {% hint style="info" %}

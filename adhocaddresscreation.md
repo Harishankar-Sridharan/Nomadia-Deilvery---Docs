@@ -1,11 +1,11 @@
 # Adhoc Address Creation
 
-Create and save a new address on the fly while adding a mission in Nomadia Delivery. This eliminates pre-configuring location data beforehand, saving setup time for dispatchers. Assign new addresses directly to specific contracts or store them in the global address list.
+Create and save a new address on the fly while adding a mission in Nomadia Delivery. This removes the need to configure location data beforehand, saving setup time for dispatchers. Assign new addresses directly to specific contracts or store them in the global address list.
 
 ## Before you begin
 
 * Access to **Nomadia Delivery** with dispatcher permissions.
-* Valid **MissionType**, **Contract**, and **Agency** details.
+* Valid **Mission Type**, **Contract**, and **Agency** details.
 
 1. Navigate to the **Mission** menu in **Nomadia Delivery**.
 2. Click **Actions** and select **Add**.
@@ -14,7 +14,7 @@ Create and save a new address on the fly while adding a mission in Nomadia Deliv
 
 ## Feature overview
 
-* **Contract Field**: Selects the associated contract test for the address. If left blank, the address saves to the global address list.
+* **Contract Field**: Selects the contract associated with the address. If left blank, the address saves to the global address list.
 * **Mission Type Field**: Specifies the mission category during setup. Ensures correct asset classification.
 * **Agency Field**: Defines the assigned agency for the mission and address record. Ensures proper organizational routing.
 * **Next Button**: Advances from initial details to the address configuration form. Moves the workflow forward.
@@ -85,7 +85,7 @@ Review the saved address entries.
 ## Tips
 
 {% hint style="info" %}
-**Global Address Assignment**: Leave the **Contract** selection unselected to automatically save the address to the global address list for company-wide use.
+**Global Address Assignment**: Leave the **Contract** field empty to automatically save the address to the global address list for company-wide use.
 {% endhint %}
 
 {% hint style="warning" %}

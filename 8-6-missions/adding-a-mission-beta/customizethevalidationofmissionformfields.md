@@ -24,7 +24,7 @@ Initial setup steps:
 Key user interface elements:
 
 * **Configuration**: Opens global system preferences and customization options.
-* **Custom fields**: Displays customizable form fields for missions profiles.
+* **Custom fields**: Displays customizable form fields for mission profiles.
 * **Identifier**: Represents a specific mission field selected for validation settings.
 * **Mandatory**: Toggles required validation status to force data input before saving.
 * **Assign Help**: Defines mandatory field assistance guidelines for field operators.
@@ -87,13 +87,11 @@ Apply mandatory validation rules when editing mission profiles:
 
 ![Select Edit](../../.gitbook/assets/FormFieldValidation_ApplyValidationMissionRecords_005.gif)
 
-7. Click **Custom fields** and check if the Hub A is Mandatory.
+7. Click **Custom fields** and check whether **Hub A** is mandatory.
 
 ![Click Custom fields and check if the Hub A is Mandatory](../../.gitbook/assets/FormFieldValidation_ApplyValidationMissionRecords_006.gif)
 
-### Result
-
-**Troubleshooting**
+### Troubleshooting
 
 Troubleshoot form submission errors:
 

@@ -40,7 +40,7 @@
 
 ![Click Save to apply your changes](.gitbook/assets/MissionBlockLabels_CustomizeVerifyBlockLabels_002.gif)
 
-4. Confirm updated names appear in the list.
+4. Confirm that the updated names appear in the list.
 
 ![Confirm updated names appear in the list](.gitbook/assets/MissionBlockLabels_CustomizeVerifyBlockLabels_003.png)
 
@@ -48,7 +48,7 @@
 
 1. Click **Mission** in the main menu.
 2. Click **Add** to open the Mission creator.
-3. Verify updated labels display in the form.
+3. Verify that the updated labels appear in the form.
 
 ![Verify updated labels display in the form](.gitbook/assets/MissionBlockLabels_CustomizeVerifyBlockLabels_004.png)
 
@@ -58,11 +58,11 @@
 
 ![Select a Mission and click Edit](.gitbook/assets/MissionBlockLabels_CustomizeVerifyBlockLabels_005.gif)
 
-2. Verify updated labels display in the editor form.
+2. Verify that the updated labels appear in the editor form.
 
 ![Verify updated labels display in the editor form](.gitbook/assets/MissionBlockLabels_CustomizeVerifyBlockLabels_006.png)
 
-4. Click **Edit** again to re-verify custom labels.
+3. Click **Edit** again to re-verify the custom labels.
 
 ![Click Edit again to re-verify custom labels](.gitbook/assets/MissionBlockLabels_CustomizeVerifyBlockLabels_007.gif)
 

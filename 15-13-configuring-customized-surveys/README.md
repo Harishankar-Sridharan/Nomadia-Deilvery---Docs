@@ -1,6 +1,6 @@
 # Configuring Customized Surveys
 
-As a transporter, configuring customized surveys is crucial for gathering valuable feedback from deliverers and contractors across different stages of their operations. This capability centralizes all data within a single platform, removing the complexity of managing scattered information and empowering data-driven decision-making.
+As a transporter, you can use customized surveys to gather valuable feedback from deliverers and contractors at different stages of their operations. Surveys centralize all data on a single platform, which removes the complexity of managing scattered information and supports data-driven decisions.
 
 ## Before you begin
 
@@ -10,9 +10,9 @@ As a transporter, configuring customized surveys is crucial for gathering valuab
 
 Follow these steps to set up customizable surveys in Nomadia Delivery:
 
-1. Open the Nomadia Delivery application and go to the Configuration tab.
-2. From the drop-down, select Configure the surveys.
-3. Click the Actions button and choose Create to set up a new survey.
+1. Open the Nomadia Delivery application and go to the **Configuration** tab.
+2. From the drop-down, select **Configure the surveys**.
+3. Click the **Actions** button and choose **Create** to set up a new survey.
 
 ![Click the Actions button and choose Create to set up a new survey](../.gitbook/assets/CustomizedSurveys_Steps_001.png)
 
@@ -20,10 +20,10 @@ Survey Creator / Form Builder is a visual design tool that allows you to create 
 
 * Mission Creation – Filled by the contractor before creating a mission in Nomadia Delivery (only for manual creation via the wizard). This helps to capture all necessary details upfront for successful deliveries.
 * Route Start – Filled by the deliverer before leaving the agency for delivery/pickup. Collects vehicle condition data to ensure readiness before beginning the route.
-* Mission Fulfillment – Filled by the deliverer during delivery or pickup. Tracks deliver milestones and monitor progress in real time.
+* Mission Fulfillment – Filled by the deliverer during delivery or pickup. Tracks delivery milestones and monitors progress in real time.
 * Route End – Filled by the deliverer after returning to the agency at the end of the day. Provides insights into vehicle condition post-route, useful for maintenance and operational planning.
 
-![Route End – Filled by the deliverer after returning to the agency at the end](../.gitbook/assets/CustomizedSurveys_Steps_002.png)
+![The survey creator showing the four survey types](../.gitbook/assets/CustomizedSurveys_Steps_002.png)
 
 4. Enter the Identifier and Name of the survey, select the survey type from the drop-down, set the Status to Active, and enable the Store all responses toggle to save survey results.
 
@@ -38,13 +38,11 @@ Survey Creator / Form Builder is a visual design tool that allows you to create 
 
 ![Once the survey is complete, click Save to create it](../.gitbook/assets/CustomizedSurveys_Steps_005.png)
 
-8. The Configure the surveys page will display all surveys created in the system.
+8. The **Configure the surveys** page displays all surveys created in the system.
 
-![The Configure the surveys page will display all surveys created in the system](../.gitbook/assets/CustomizedSurveys_Steps_006.png)
+![The Configure the surveys page listing all surveys](../.gitbook/assets/CustomizedSurveys_Steps_006.png)
 
 ## Additional survey configurations
-
-
 
 ### Assign a survey to contractors
 
@@ -59,7 +57,7 @@ Survey Creator / Form Builder is a visual design tool that allows you to create 
 
 4. When logged in as a contractor, creating a mission via the wizard will prompt the mission creation survey, which must be completed before proceeding.
 
-![When logged in as a contractor, creating a mission via the wizard will prompt](../.gitbook/assets/CustomizedSurveys_Contractors_003.png)
+![The mission creation survey shown to a contractor](../.gitbook/assets/CustomizedSurveys_Contractors_003.png)
 
 ### Assign surveys to subcontractors
 
@@ -70,11 +68,11 @@ Survey Creator / Form Builder is a visual design tool that allows you to create 
 
 3. In the Mission section, assign surveys for route start and route end specific to that subcontractor, then click Save.
 
-<figure><img src="../.gitbook/assets/CustomizedSurveys_Subcontractors_002.png" alt="In the Mission section, assign surveys for route start and route end specific"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/CustomizedSurveys_Subcontractors_002.png" alt="Assign the route start and route end surveys"><figcaption></figcaption></figure>
 
 4. When logged in as a subcontractor deliverer, completing the loading process will trigger the route start survey, which must be filled before starting the missions.
 
-<figure><img src="../.gitbook/assets/CustomizedSurveys_Subcontractors_003.png" alt="When logged in as a subcontractor deliverer, completing the loading process"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/CustomizedSurveys_Subcontractors_003.png" alt="The route start survey shown to a subcontractor deliverer"><figcaption></figcaption></figure>
 
 ### Assign a survey to a sub-status
 
@@ -86,28 +84,28 @@ Survey Creator / Form Builder is a visual design tool that allows you to create 
 
 4. Assign the appropriate Fulfillment survey from the drop-down and click Save.
 
-![Assign the appropriate Fulfillment survey from the drop-down and click Save](../.gitbook/assets/CustomizedSurveys_SubStatus_002.png)
+![Assign the appropriate Fulfillment survey from the drop-down](../.gitbook/assets/CustomizedSurveys_SubStatus_002.png)
 
-5. When logged in as a transporter or subcontractor deliverer, attempting to fulfil a delivery/pickup will prompt the survey, which must be completed before proceeding.
+5. When logged in as a transporter or subcontractor deliverer, attempting to fulfill a delivery/pickup will prompt the survey, which must be completed before proceeding.
 
 ![When logged in as a transporter or subcontractor deliverer, attempting](../.gitbook/assets/CustomizedSurveys_SubStatus_003.png)
 
-## Analysing survey responses
+## Analyzing survey responses
 
-1. Open the Nomadia Delivery application and go to the Configuration tab.
-2. Select Configure the surveys from the drop-down.
-3. Click the Circle icon next to the survey you wish to analyse.
+1. Open the Nomadia Delivery application and go to the **Configuration** tab.
+2. Select **Configure the surveys** from the drop-down.
+3. Click the Circle icon next to the survey you wish to analyze.
 
-![Click the Circle icon next to the survey you wish to analyse](../.gitbook/assets/CustomizedSurveys_AnalysingSurveyResponses_001.png)
+![Click the Circle icon next to the survey you wish to analyze](../.gitbook/assets/CustomizedSurveys_AnalysingSurveyResponses_001.png)
 
 4. Choose the analysis period and click Apply.
 5. Click Load to view results for the selected timeframe.
 
 ![Click Load to view results for the selected timeframe](../.gitbook/assets/CustomizedSurveys_AnalysingSurveyResponses_002.png)
 
-6. Review and analyse survey responses in real time.
+6. Review and analyze survey responses in real time.
 
-![Review and analyse survey responses in real time](../.gitbook/assets/CustomizedSurveys_AnalysingSurveyResponses_003.png)
+![Review and analyze survey responses in real time](../.gitbook/assets/CustomizedSurveys_AnalysingSurveyResponses_003.png)
 
 ## Configure vehicle photos
 

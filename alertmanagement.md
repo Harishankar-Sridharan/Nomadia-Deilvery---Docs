@@ -21,26 +21,26 @@ Setup Steps:
 
 ## Feature overview
 
-* **Red Icon**: Icon located in the top right corner to access the pre-filter modal.
-* **Pre-filter**: Modal menu to select previous search criteria and agency filters.
+* **Red Icon**: Icon in the top-right corner that opens the pre-filter window.
+* **Pre-filter**: Window to select previous search criteria and agency filters.
 * **Quantitative Alert**: View that lists active numerical alert thresholds and live alerts.
 * **Finished Alert**: View that archives completed and resolved alerts for historical tracking.
 * **Add Alert**: Action button that opens the menu to create new alert rules.
 * **Time Threshold**: Input box to specify duration limits for triggering alerts.
-* **Late Departure**: Alert triggered when vehicle departure is delayed beyond scheduled time.
+* **Late Departure**: Alert triggered when vehicle departure is delayed beyond the scheduled time.
 * **ETA Delay**: Alert triggered when ETA (estimated time of arrival) is delayed.
 * **ETA Change**: Alert triggered when the estimated arrival time for an order changes.
 * **Overtime**: Alert triggered when vehicle arrival exceeds set working time limits.
 * **Excessive Idle Time**: Alert triggered when a vehicle remains stationary for too long.
 
-![Excessive Idle Time: Alert triggered when a vehicle remains stationary for too](.gitbook/assets/AlertManagement_FeatureOverview_001.png)
+![The list of alert types, including Excessive Idle Time](.gitbook/assets/AlertManagement_FeatureOverview_001.png)
 
-* **Validation Too Far From Address**: Alert triggered when validation location is too far from actual address.
+* **Validation Too Far From Address**: Alert triggered when the validation location is too far from the actual address.
 * **Excessive Scan**: Alert triggered when package scan counts exceed expected limits.
-* **Closing Soon**: Alert triggered when destination location closing time is approaching.
+* **Closing Soon**: Alert triggered when the destination's closing time is approaching.
 * **Urgent Mission Response**: Alert triggered when a driver responds to an RZ machine (driver communication terminal) prompt.
 
-![Urgent Mission Response: Alert triggered when a driver responds to an RZ](.gitbook/assets/AlertManagement_FeatureOverview_002.png)
+![The list of alert types, including Urgent Mission Response](.gitbook/assets/AlertManagement_FeatureOverview_002.png)
 
 ## Pre-filter alerts
 
@@ -98,7 +98,7 @@ Setup Steps:
 {% endhint %}
 
 {% hint style="warning" %}
-**Unsaved Configurations**: Avoid navigating away without clicking save when configuring thresholds or changes will be lost.
+**Unsaved Configurations**: Avoid leaving the page without clicking **Save** when you configure thresholds, or your changes will be lost.
 {% endhint %}
 
 ## Related topics

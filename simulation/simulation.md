@@ -3,7 +3,7 @@
 The **Simulation** module shows the result of a route optimization so that you can review, adjust and validate the routes before your deliverers use them.
 
 {% hint style="info" %}
-**Panels**: The Simulation page has no tabs. It has panels, and each panel is a sub-topic. Click **Modify the display of panels** to choose which panels you see.
+**Panels**: The Simulation page shows panels, not tabs, and each panel has its own topic in this guide. Click **Modify the display of panels** to choose which panels you see.
 {% endhint %}
 
 ## Before you begin

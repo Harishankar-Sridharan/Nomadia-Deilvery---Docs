@@ -19,7 +19,7 @@ Steps:
 ## Feature overview
 
 * **Inherit sub status to child missions:** This toggle switch automatically passes parent container status to child containers.
-* **Sub status inheritance:** Sub statuses can be inherited by child containers in the same way as statuses.
+* **Sub-status inheritance:** Sub-statuses can be inherited by child containers in the same way as statuses.
 * **Pallet and Pencil icons:** The pallet icon opens configuration options for a specific container type, and the pencil icon opens the configuration mode for a mission.
 * **Inherit attributes to child missions:** This setting automatically copies parent details to child containers.
 * **Inherit documents to child missions**: This option automatically shares parent documents with child containers.
@@ -31,7 +31,7 @@ Steps:
 ![Navigate to the Configuration menu](../.gitbook/assets/ParentToChildInheritance_BeforeBegin_001.gif)
 
 2. Click on **Container Types**.
-3. Scroll down to see the correct identifier.
+3. Scroll down to find the correct identifier.
 4. Edit any container type from the list.
 5. Toggle **Inherit sub status to child missions** to **Yes**.
 6. Select the status that needs to be inherited, such as **Out for delivery** and **To be loaded**.
@@ -67,7 +67,7 @@ The status has been updated for all child missions.
 
 5. Go to **Missions**.
 6. Click the **Parent container**.
-7. Correct the **Address,** if the address is wrong.
+7. Correct the **Address** if it is wrong.
 8. Click on **Save**.
 
 ![Click on Save](../.gitbook/assets/ParentToChildInheritance_InheritAttributesChildContainers_002.png)
@@ -100,13 +100,13 @@ Only the address has been updated for all child missions. The status is not upda
 
 ![Select the PDF file](../.gitbook/assets/ParentToChildInheritance_InheritDocumentsChildContainers_004.gif)
 
-9. Click the **Save button** to complete the upload.
+9. Click **Save** to complete the upload.
 
 ![Click the Save button to complete the upload](../.gitbook/assets/ParentToChildInheritance_InheritDocumentsChildContainers_005.png)
 
 ### Result
 
-The document will be reflected in the child container.
+The document appears in the child container.
 
 <figure><img src="../.gitbook/assets/ParentToChildInheritance_InheritDocumentsChildContainers_006.png" alt="The document will be reflected in the child container"><figcaption></figcaption></figure>
 

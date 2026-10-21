@@ -1,15 +1,15 @@
 # Finish the Route
 
-The **Finish the Route** feature lets dispatchers' complete delivery routes from the back office. Use this feature when a deliverer forgets to finish their route after loading. You will achieve accurate real-time route statuses across your fleet.
+The **Finish the Route** feature lets dispatchers complete delivery routes from the back office. Use this feature when a deliverer forgets to finish their route after loading. You will achieve accurate real-time route statuses across your fleet.
 
 ## Before you begin
 
 * **Back Office Access**: Active account in the Nomadia Delivery back office.
 * **Assigned Route**: A route assigned and published to a deliverer.
 
-1. Log into the **Back Office** system.
+1. Log in to the **Back Office** system.
 
-![Log into the Back Office system](.gitbook/assets/FinishRoute_BeforeBegin_001.png)
+![Log in to the Back Office system](.gitbook/assets/FinishRoute_BeforeBegin_001.png)
 
 2. Confirm the driver has completed loading their assigned route.
 
@@ -21,7 +21,7 @@ The **Finish the Route** feature lets dispatchers' complete delivery routes from
 
 ## Finish a route
 
-1. Select the **Deliverer** in the back office navigation menu.
+1. Select the **Deliverer** in the back-office navigation menu.
 
 ![Select the Deliverer in the back office navigation menu](.gitbook/assets/FinishRoute_BeforeBegin_001.png)
 
@@ -33,13 +33,13 @@ The **Finish the Route** feature lets dispatchers' complete delivery routes from
 
 ![Click Finish the Route in the dropdown list](.gitbook/assets/FinishRoute_FinishRoute_002.png)
 
-4. Click **Yes** on the pop-up asking "Do you really want to finish the route?".
+4. Click **Yes** in the pop-up window that asks "Do you really want to finish the route?"
 
-![Click Yes on the pop-up asking 'Do you really want to finish the route?'](.gitbook/assets/FinishRoute_FinishRoute_003.gif)
+![Click Yes in the confirmation pop-up](.gitbook/assets/FinishRoute_FinishRoute_003.gif)
 
 ### Result
 
-The Route has been finished successfully.&#x20;
+The route has been finished successfully.
 
 <figure><img src=".gitbook/assets/FinishRoute_FinishRoute_004.png" alt="The Route has been finished successfully"><figcaption></figcaption></figure>
 

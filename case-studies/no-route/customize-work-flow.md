@@ -8,12 +8,11 @@ This feature is enabled exclusively for accounts configured in No Route mode.
 
 * Access to the **Configuration** page.
 
-
 1. Open the **Configuration** page.
 2. Click on **Customize Status Tables and Workflow**.
-3. To learn more about customizing labels, refer to the following link
+3. To learn more about customizing labels, refer to the following link:
 
-[customizing-status-labels](../../8-6-missions/customizing-status-labels.md)
+[Customizing Status Labels](../../8-6-missions/customizing-status-labels.md)
 
 * Click the **Workflow** tab.
 
@@ -31,9 +30,9 @@ This feature is enabled exclusively for accounts configured in No Route mode.
 2. Assign a user role from the **Profile** dropdown to control who can change the status.
 3. Select which target statuses the mission can transition to, such as **DIS collected** or **EXP log collected**.
 4. Configure the next transition, such as allowing a **Dispatch User** to scan a mission and change it to **Delivered**.
-5. Select the custom fields, if you want to nullify the field Suring the status transition
+5. Select the custom fields you want to reset during the status transition.
 
-<figure><img src="../../.gitbook/assets/CustomizeWorkflow_CustomizeMissionWorkflow_001.png" alt="Select the custom fields, if you want to nullify the field Suring the status"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CustomizeWorkflow_CustomizeMissionWorkflow_001.png" alt="Select the custom fields to reset during the status transition"><figcaption></figcaption></figure>
 
 6. Click on **Save** to apply the changes.
 
@@ -41,12 +40,12 @@ This feature is enabled exclusively for accounts configured in No Route mode.
 
 **Note**: The **Workflow** page allows users to configure the mission status flow. They can define which statuses a mission can transition between and specify the **user profiles** that are authorized to perform each status change. This provides complete control over the delivery workflow by ensuring that only designated profiles can execute specific status transitions.
 
-<figure><img src="../../.gitbook/assets/CustomizeWorkflow_CustomizeMissionWorkflow_002.png" alt="Note: The Workflow page allows users to configure the mission status flow"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CustomizeWorkflow_CustomizeMissionWorkflow_002.png" alt="The Workflow page with the status flow grid"><figcaption></figcaption></figure>
 
 ## Tips
 
 {% hint style="warning" %}
-**Unsaved Changes**: Always click the Save button after making adjustments to ensure the workflow changes are saved
+**Unsaved Changes**: Always click **Save** after making changes to make sure your workflow changes are saved.
 {% endhint %}
 
 ## Related topics

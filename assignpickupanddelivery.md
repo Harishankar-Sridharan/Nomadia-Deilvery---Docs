@@ -8,7 +8,7 @@ Prerequisites:
 
 * Assigned driver and vehicle details.
 * Driver authorizations for required skills.
-* Mobile app accept timeout minutes configured.
+* Mobile app accept timeout (in minutes) configured.
 
 Initial setup steps:
 
@@ -21,17 +21,17 @@ Initial setup steps:
 
 ## Feature overview
 
-* **Driver Name and Vehicle Name**: Displays driver identity and vehicle info to track active units.
+* **Driver Name and Vehicle Name**: Displays driver and vehicle details to track active units.
 * **Available Missions**: Lists unassigned missions ready for route assignments.
 * **Authorizations**: Indicates driver skills and permissions to ensure task compatibility.
 * **Assigned Missions**: Lists missions currently linked to the selected driver.
-* **Current Route Kilometer**: Tracks total mileage on the driver active route.
-* **Position**: Shows driver location status relative to agency.
+* **Current Route Kilometer**: Tracks the total mileage of the driver's active route.
+* **Position**: Shows the driver's location relative to the agency.
 * **Assign Optimal**: Adjusts existing unstarted routes to deliver current assignments faster.
-* **Assign After Current State**: Inserts task directly after driver current task state.
-* **Assign at the End**: Appends task to the end of driver scheduled route.
-* **Acceptance Status**: Displays whether driver accepts or denies assigned route.
-* **Accept Timeout Minutes**: Sets duration in minutes allowed for driver route decision.
+* **Assign After Current State**: Inserts the task directly after the driver's current task.
+* **Assign at the End**: Appends the task to the end of the driver's scheduled route.
+* **Acceptance Status**: Displays whether the driver has accepted or rejected the assigned route.
+* **Accept Timeout Minutes**: Sets how many minutes the driver has to accept or reject the route.
 
 ## Assign pickup & delivery mission
 

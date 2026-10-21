@@ -8,7 +8,7 @@ Prerequisites:
 
 * Active access to the Nomadia Delivery platform.
 * An existing slot booking scheduled for a delivery.
-* Access to the original booking link received during first confirmation.
+* Access to the original booking link received during the first confirmation.
 
 Initial Setup Steps:
 

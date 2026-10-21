@@ -1,6 +1,6 @@
 # Color coding the custom fields
 
-Color coding custom fields visually highlights key data based on the value ranges in **Nomadia Delivery**. Use this feature to quickly spot critical operational metrics and make faster decisions. Set up custom rules to automatically color-code values across your system workflows.
+Color coding custom fields in **Nomadia Delivery** visually highlights key data based on value ranges. Use this feature to quickly spot critical operational metrics and make faster decisions. Set up custom rules to automatically color-code values across your system workflows.
 
 ## Before you begin
 
@@ -11,9 +11,9 @@ Prerequisites:
 
 Initial Setup Steps:
 
-1. Log into **Nomadia Delivery**, navigate to **Configuration**, and select **Custom Field**.
+1. Log in to **Nomadia Delivery**, navigate to **Configuration**, and select **Custom Field**.
 
-![Log into Nomadia Delivery, navigate to Configuration, and select Custom Field](.gitbook/assets/ColorCoding_BeforeBegin_001.gif)
+![Log in to Nomadia Delivery, navigate to Configuration](.gitbook/assets/ColorCoding_BeforeBegin_001.gif)
 
 ## Feature overview
 
@@ -26,9 +26,9 @@ Initial Setup Steps:
 
 ## Configure color coding rules
 
-1. Log into **Nomadia Delivery** and click **Configuration**.
+1. Log in to **Nomadia Delivery** and click **Configuration**.
 
-![Log into Nomadia Delivery and click Configuration](.gitbook/assets/ColorCoding_BeforeBegin_001.gif)
+![Log in to Nomadia Delivery and click Configuration](.gitbook/assets/ColorCoding_BeforeBegin_001.gif)
 
 2. Click **Custom Field** from the configuration menu.
 
@@ -65,7 +65,7 @@ Initial Setup Steps:
 
 ![Enter a numerical value in Package Value to trigger conditional color](.gitbook/assets/ColorCoding_VerifyColorCodingMission_003.gif)
 
-5. Click **Add** to complete saving the Mission entry.
+5. Click **Add** to complete saving the mission entry.
 
 ![Click Add to complete saving the Mission entry](.gitbook/assets/ColorCoding_VerifyColorCodingMission_004.gif)
 
@@ -78,7 +78,7 @@ Initial Setup Steps:
 
 3. Review the **Package Value** column to confirm automatic background coloring.
 
-![Review the Package Value column to confirm automatic background coloring](.gitbook/assets/ColorCoding_VerifyColorCodingMission_006.png)
+![Review the Package Value column](.gitbook/assets/ColorCoding_VerifyColorCodingMission_006.png)
 
 ## Verify color coding via mission search
 
@@ -98,12 +98,10 @@ Initial Setup Steps:
 
 ![Verify the visual color highlighting applied under the Package Value header](.gitbook/assets/ColorCoding_VerifyColorCodingVia_004.png)
 
-### Result
-
 ## Tips
 
 {% hint style="info" %}
-**Multi-Location Verification**: Verify custom field color coding across mission creation, systems tables, and search views.
+**Multi-Location Verification**: Verify custom field color coding across mission creation, system tables, and search views.
 {% endhint %}
 
 {% hint style="info" %}
@@ -111,7 +109,7 @@ Initial Setup Steps:
 {% endhint %}
 
 {% hint style="warning" %}
-**Unsaved Configuration Rules**: Click Save after editing color ranges or your custom background rules will not apply.
+**Unsaved Configuration Rules**: Click **Save** after editing color ranges, or your custom background rules will not apply.
 {% endhint %}
 
 ## Related topics

@@ -4,7 +4,7 @@ This feature allows dispatchers to manage how status changes on child missions a
 
 ## Before you begin
 
-Before you begin, ensure you meet the following prerequisites:
+Make sure you meet the following prerequisites:
 
 This feature is enabled exclusively for accounts configured in No Route mode.
 
@@ -16,7 +16,7 @@ This feature is enabled exclusively for accounts configured in No Route mode.
 * **Container types**: Selects the container category you want to configure.
 * **Identifier name**: Specifies the unique name to identify the container type.
 * **Fetch status from child missions**: Enables retrieving status updates from child missions.
-* **Manage status hierarchy**: Opens the status prioritize interface to arrange priorities.
+* **Manage status hierarchy**: Opens the status prioritization window to arrange the priorities.
 
 Follow these initial setup steps:
 
@@ -24,17 +24,17 @@ Follow these initial setup steps:
 
 ![Navigate to the Configuration menu](../../.gitbook/assets/StatusHierarchy_FeatureOverview_001.png)
 
-2. Select **Container types.**
+2. Select **Container types**.
 
 ![Select Container types](../../.gitbook/assets/StatusHierarchy_FeatureOverview_001.png)
 
-3. Scroll down to select the correct **Identifier name.**
+3. Scroll down to select the correct **Identifier name**.
 
 <figure><img src="../../.gitbook/assets/StatusHierarchy_FeatureOverview_002.png" alt="Scroll down to select the correct Identifier name"><figcaption></figcaption></figure>
 
 4. Locate the **Fetch status from child missions** option in the bottom right corner.
 
-![Locate the Fetch status from child missions option in the bottom right corner](../../.gitbook/assets/StatusHierarchy_FeatureOverview_003.png)
+![Locate the Fetch status from child missions option](../../.gitbook/assets/StatusHierarchy_FeatureOverview_003.png)
 
 5. Check if the option is enabled.
 
@@ -52,7 +52,7 @@ Follow these initial setup steps:
 
 2. Drag the desired status to the top priority position.
 
-* The status on top is considered as the priority status for the container if the child has several different statuses
+* The status on top is considered the priority status for the container if the children have several different statuses.
 
 3. Click on **Done**.
 
@@ -74,7 +74,7 @@ Follow these initial setup steps:
 
 ![Change the status](../../.gitbook/assets/StatusHierarchy_CustomizeStatusHierarchy_005.png)
 
-8. Click on Save.
+8. Click on **Save**.
 
 ![Click on Save](../../.gitbook/assets/StatusHierarchy_CustomizeStatusHierarchy_006.png)
 
@@ -84,7 +84,7 @@ Follow these initial setup steps:
 
 **Example**: Only statuses that are part of the hierarchy are passed to the parent. If a status is not in the hierarchy, the mission keeps its previous status.
 
-![Example: Only statuses that are part of the hierarchy are passed to the parent](../../.gitbook/assets/StatusHierarchy_CustomizeStatusHierarchy_007.png)
+![Example of statuses passed to the parent container](../../.gitbook/assets/StatusHierarchy_CustomizeStatusHierarchy_007.png)
 
 ## Tips
 

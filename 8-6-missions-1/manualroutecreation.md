@@ -44,13 +44,13 @@ Initial setup steps:
 
 ![Select any date for the route](../.gitbook/assets/ManualRoute_CreateAssignRouteManually_001.gif)
 
-6. Tap the **Route Field**.
+6. Click the **Route Field**.
 7. Choose to create a new route or select an existing route.
 8. Enter the route name in the **Route Name Field**.
 
 ![Enter the route name in the Route Name Field](../.gitbook/assets/ManualRoute_CreateAssignRouteManually_002.png)
 
-9. Tap the **Clock Icon** to select the time.
+9. Click the **Clock Icon** to select the time.
 10. Select the **Deliverer** to assign to the route.
 
 ![Select the Deliverer to assign to the route](../.gitbook/assets/ManualRoute_CreateAssignRouteManually_003.gif)
@@ -67,14 +67,14 @@ Initial setup steps:
 
 ### Result
 
-The Route has been successfully created
+The route has been successfully created.
 
-<figure><img src="../.gitbook/assets/ManualRoute_CreateAssignRouteManually_006.png" alt="The Route has been successfully created"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ManualRoute_CreateAssignRouteManually_006.png" alt="The route has been successfully created."><figcaption></figcaption></figure>
 
 ## Tips
 
 {% hint style="info" %}
-**Automatic Missions Ordering**: Enable automatic missions ordering to sequence missions along the route automatically.
+**Automatic Mission Ordering**: Enable automatic mission ordering to arrange the missions along the route automatically.
 {% endhint %}
 
 {% hint style="warning" %}

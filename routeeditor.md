@@ -1,21 +1,21 @@
 # Route Editor
 
-The **Route Edior** feature allows dispatchers to manage route details and survey configurations. Use this tool to adjust route schedules, track survey responses, view logs, and manage vehicle photos. You will achieve complete control over route settings and driver inspection data.
+The **Route Editor** feature allows dispatchers to manage route details and survey configurations. Use this tool to adjust route schedules, track survey responses, view logs, and manage vehicle photos. You will achieve complete control over route settings and driver inspection data.
 
 ## Before you begin
 
 **Requirements**
 
 * Active user account in **Nomadia Delivery**.
-* Access to the **missions** module.
+* Access to the **Missions** module.
 
 **Setup Steps**
 
-1. Log into **Nomadia Delivery**.
+1. Log in to **Nomadia Delivery**.
 
-![Log into Nomadia Delivery](.gitbook/assets/RouteEditor_BeforeBegin_001.gif)
+![Log in to Nomadia Delivery](.gitbook/assets/RouteEditor_BeforeBegin_001.gif)
 
-2. Go to **missions** and scroll down to access the **route section**.
+2. Go to **Missions** and scroll down to the **Route** section.
 
 ![Go to missions and scroll down to access the route section](.gitbook/assets/RouteEditor_BeforeBegin_002.png)
 
@@ -28,7 +28,7 @@ The **Route Edior** feature allows dispatchers to manage route details and surve
 * **Date**: Sets the scheduled execution date for the route.
 * **Start hour**: Defines the official daily start time for the route.
 * **Delivery name**: Displays the locked delivery identifier for assigned routes.
-* **Departure allowed**: Controls whether departure permissions block, grant, or disable blocking.
+* **Departure allowed**: Controls whether departure is blocked, granted, or not restricted.
 * **Vehicle usage**: Configures operational rules and settings for assigned vehicles.
 * **Survey responses**: Displays vehicle inspection survey details submitted from mobile devices.
 * **Configuration**: Enables survey response capture and response storage settings.
@@ -60,8 +60,8 @@ The **Route Edior** feature allows dispatchers to manage route details and surve
 
 ![Click the pencil icon next to vehicle checking survey](.gitbook/assets/RouteEditor_ConfigureViewVehicleSurveys_002.gif)
 
-3. Enable **store all responses** and **capture** options.
-4. Click **Save** to store survey settings.
+4. Enable the **store all responses** and **capture** options.
+5. Click **Save** to store survey settings.
 
 ![Click Save to store survey settings](.gitbook/assets/RouteEditor_ConfigureViewVehicleSurveys_003.png)
 
@@ -85,9 +85,9 @@ The **Route Edior** feature allows dispatchers to manage route details and surve
 
 ## Manage vehicle photos and samples
 
-1. Click **Photos** to open photo settings and view the Vehicle photos
+1. Click **Photos** to open the photo settings and view the vehicle photos.
 
-![Click Photos to open photo settings and view the Vehicle photos](.gitbook/assets/RouteEditor_ManageVehiclePhotosSamples_001.gif)
+![Click Photos to open the photo settings and view the vehicle photos.](.gitbook/assets/RouteEditor_ManageVehiclePhotosSamples_001.gif)
 
 ## Customize the list
 
@@ -115,9 +115,7 @@ The **Route Edior** feature allows dispatchers to manage route details and surve
 
 2. Save the downloaded file to your local computer.
 
-### Result
-
-**Troubleshooting**
+### Troubleshooting
 
 If the **delivery name** field is locked, check the route assignment status. System status prevents modifications to assigned routes.
 
@@ -130,7 +128,7 @@ If the **delivery name** field is locked, check the route assignment status. Sys
 {% endhint %}
 
 {% hint style="warning" %}
-**Assigned Route Edits**: Avoid trying to rename assigned routes because assigned status locks the delivery name field.
+**Assigned Route Edits**: Avoid trying to rename assigned routes because the assigned status locks the delivery name field.
 {% endhint %}
 
 {% hint style="info" %}

@@ -9,8 +9,8 @@ Ensure you meet all system requirements before accessing the feature.
 * Active **Nomadia Delivery** account with dispatcher or planner permissions.
 * Supported web browser with an active internet connection.
 
-1. Log into **Nomadia Delivery**.
-2. Locate the top right navigation bar.&#x20;
+1. Log in to **Nomadia Delivery**.
+2. Locate the top-right navigation bar.
 
 ![Locate the top right navigation bar](.gitbook/assets/Nomadbot_BeforeBegin_001.png)
 
@@ -22,7 +22,7 @@ Ensure you meet all system requirements before accessing the feature.
 
 * **Chatbot icon**: Opens the virtual assistant interface from the top navigation bar.
 * **Predefined Questions**: List of ready-to-use questions and answers for quick self-service.
-* **Typing Window**: Input field where you enter custom inquiries.
+* **Typing Window**: Input field where you enter custom questions.
 * **Send button**: Submits your typed question to the virtual assistant.
 
 ## Access predefined questions
@@ -49,11 +49,11 @@ Ensure you meet all system requirements before accessing the feature.
 
 ![Click Send](.gitbook/assets/Nomadbot_AskCustomQuestion_003.gif)
 
-4. Observe the **Typing Indicator** while the response generates.
+4. Watch the **Typing Indicator** while the answer is being generated.
 
 ![Observe the Typing Indicator while the response generates](.gitbook/assets/Nomadbot_AskCustomQuestion_004.gif)
 
-5. Read the displayed answer based on your question.
+5. Read the answer that appears.
 
 ![Read the displayed answer based on your question](.gitbook/assets/Nomadbot_AskCustomQuestion_005.gif)
 

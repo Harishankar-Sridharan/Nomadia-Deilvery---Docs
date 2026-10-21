@@ -20,7 +20,7 @@ This page explains how to use the **Routes** panel to review and change the rout
 
 ## Result
 
-Each route shows its **Date**, **Name** and **Mobile user**. In **Gantt view**, the timeline shows the deliveries of each route by hour. Routes you validate show in the **Validated routes** panel.
+Each route shows its **Date**, **Name** and **Mobile user**. In **Gantt view**, the timeline shows the deliveries of each route by hour. Routes you validate appear in the **Validated routes** panel.
 
 ## Tips
 

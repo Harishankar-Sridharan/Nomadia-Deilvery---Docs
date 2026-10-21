@@ -1,6 +1,6 @@
 # Custom Templates
 
-**Custom Templates** is a feature in **Nomadia Delivery** to customize customer notification emails. Custom templates provide clear, branded updates directly to your clients. This improves customer communication and streamlines your delivery operations.
+**Custom Templates** is a feature in **Nomadia Delivery** that lets you customize customer notification emails. Custom templates provide clear, branded updates directly to your clients. This improves customer communication and streamlines your delivery operations.
 
 ## Before you begin
 

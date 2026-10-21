@@ -23,7 +23,7 @@ Follow these initial steps to access the settings:
 
 ![Scroll down to find the correct identifier](../.gitbook/assets/GroupNotifications_BeforeBegin_003.png)
 
-4. Enable the **Can Aggregate Several Missions** toggle and Status inheritance from child to parent is enabled.
+4. Enable the **Can Aggregate Several Missions** toggle, and make sure status inheritance from child to parent is enabled.
 
 ![Enable the Can Aggregate Several Missions toggle and Status inheritance](../.gitbook/assets/GroupNotifications_BeforeBegin_004.gif)
 
@@ -61,16 +61,14 @@ Follow these initial steps to access the settings:
 
 ![Enter additional emails in Other Recipient Email](../.gitbook/assets/GroupNotifications_ConfigureGroupNotifications_003.png)
 
-8. Click **Save** to complete setup.
+8. Click **Save** to complete the setup.
 
 ![Click Save to complete setup](../.gitbook/assets/GroupNotifications_ConfigureGroupNotifications_004.png)
 
-### Result
-
 ## Trigger group notifications
 
-1. Go to the **Configuration** and click **Container types**
-2. Click the **Pencil Icon** next to your container type.
+1. Go to **Configuration** and click **Container types**.
+2. Click the **pencil icon** next to your container type.
 
 <figure><img src="../.gitbook/assets/GroupNotifications_TriggerGroupNotifications_001.png" alt="Click the Pencil Icon next to your container type"><figcaption></figcaption></figure>
 
@@ -84,7 +82,7 @@ Follow these initial steps to access the settings:
 
 ### Result
 
-Contractor will receive the notification email successfully.
+The contractor receives the notification email.
 
 <figure><img src="../.gitbook/assets/GroupNotifications_TriggerGroupNotifications_004.png" alt="Contractor will receive the notification email successfully"><figcaption></figcaption></figure>
 

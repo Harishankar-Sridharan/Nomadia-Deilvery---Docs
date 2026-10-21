@@ -33,7 +33,7 @@ Steps:
 
 2. Toggle settings for the **Contractor address list**, **Global address list**, or both.
 
-![Toggle settings for the Contractor address list, Global address list, or both](../.gitbook/assets/AddressVisibility_CustomizeAddressBlockVisibility_002.gif)
+![Toggle the settings for the contractor and global address lists](../.gitbook/assets/AddressVisibility_CustomizeAddressBlockVisibility_002.gif)
 
 3. Locate the **Contact information** fields.
 4. Select the checkbox to set fields to **Editable** by default.
@@ -50,8 +50,6 @@ Steps:
 
 ![Click Save to apply the changes platform-wide](../.gitbook/assets/AddressVisibility_CustomizeAddressBlockVisibility_005.gif)
 
-### Result
-
 ## Verify global address list visibility
 
 1. Navigate to the **Address list** menu.
@@ -65,8 +63,6 @@ Steps:
 3. Confirm that the **Map** and **Opening hours** fields are hidden.
 
 ![Confirm that the Map and Opening hours fields are hidden](../.gitbook/assets/AddressVisibility_VerifyGlobalAddressList_003.png)
-
-### Result
 
 ## Verify contractor address list visibility
 

@@ -6,7 +6,7 @@ The **Configure Managed Mission Pre-Filters** feature creates custom filter rule
 
 Prerequisites and requirements:
 
-* Access to **Nomadia Delivery** with administrative or dispatcher access.
+* Access to **Nomadia Delivery** with administrator or dispatcher permissions.
 * Active mission records configured in the system.
 * Web browser connected to the SaaS platform.
 
@@ -112,7 +112,7 @@ Initial setup steps:
 ![Click Save to apply the assignment](.gitbook/assets/MissionPrefilters_AssignPreFilterQuery_005.png)
 
 6. Navigate to **Missions** in the main menu.
-7. Click **Apply** to view assigned status missions only.
+7. Click **Apply** to view only the missions that match the assigned status.
 
 ![Click Apply to view assigned status missions only](.gitbook/assets/MissionPrefilters_AssignPreFilterQuery_006.gif)
 

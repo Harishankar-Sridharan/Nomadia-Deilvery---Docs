@@ -29,7 +29,7 @@ Initial setup steps:
 * **Assigned Missions**: Displays the total count of missions assigned to the route.
 * **Working Time**: Displays the calculated working time required for the route.
 * **Mission Breakdown Counts**: Displays breakdown totals for deliveries, pickups, visits, cross docking, drop shipping, and signed pickups.
-* **Customize List**: Configures which fields display in the route or stop section.
+* **Customize List**: Sets which fields are displayed in the route or stop section.
 * **Footer**: Selects table columns to compute summary calculations like mission totals.
 
 ## Customize route view fields
@@ -58,7 +58,7 @@ Initial setup steps:
 
 ## Customize stop view fields
 
-1. Click **Actions** and select **Customizer List**.
+1. Click **Actions** and select **Customize List**.
 2. Select **Stops** from the customization panel.
 
 ![Select Stops from the customization panel](.gitbook/assets/TableView_CustomizeStopViewFields_001.gif)
@@ -70,13 +70,13 @@ Initial setup steps:
 
 ## Calculate column sums in the footer
 
-1. Click **Footer** inside the **Customizer List** window.
+1. Click **Footer** inside the **Customize List** window.
 
 ![Click Footer inside the Customizer List window](.gitbook/assets/TableView_CalculateColumnSumsFooter_001.gif)
 
-2. Select a target column, such as **Assigned Machine Number**.
+2. Select a target column, such as **Assigned Mission Number**.
 
-![Select a target column, such as Assigned Machine Number](.gitbook/assets/TableView_CalculateColumnSumsFooter_002.png)
+![Select a target column, such as Assigned Mission Number](.gitbook/assets/TableView_CalculateColumnSumsFooter_002.png)
 
 3. Click **Sum** to enable total calculation.
 
@@ -93,7 +93,7 @@ Initial setup steps:
 ## Tips
 
 {% hint style="info" %}
-**Filter View Toggle**: Click **Filter View** to hide the filter row and maximize table viewing area.
+**Filter View Toggle**: Click **Filter View** to hide the filter row and maximize the table viewing area.
 {% endhint %}
 
 {% hint style="info" %}
@@ -101,7 +101,7 @@ Initial setup steps:
 {% endhint %}
 
 {% hint style="info" %}
-**Direct Stop Access**: Click any route row directly to open stop view without navigating secondary menus.
+**Direct Stop Access**: Click any route row directly to open the stop view without going through secondary menus.
 {% endhint %}
 
 ## Related topics
