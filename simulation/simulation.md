@@ -8,15 +8,15 @@ The **Simulation** module shows the result of a route optimization so that you c
 
 ## Before you begin
 
-* [TODO: Role or permission needed to open Simulation]
+* Make sure your user profile has the rights needed for simulations. For example, **Optimization** gives access to the optimization features, **Schedule** lets you create and manage optimized schedules, and **See other people's simulations** and **Edit other people's simulations** let you work with simulations created by other users. See [Web - Roles and Rights](../7-5-manage-users/web-roles-and-rights.md).
 * Run an optimization from the **Missions** tab. A simulation shows the result of that optimization.
 
 ## Features
 
-* [Manage deliveries](simulation-deliveries.md): View, filter, assign, lock and delete the deliveries in the simulation.
-* [View the map](simulation-map.md): See the deliveries and routes on a map.
-* [Manage routes](simulation-routes.md): View, validate, reorder and assign routes in a list or a Gantt view.
-* [View route details](simulation-details.md): See the totals for distance, deliveries and durations.
+* [Manage deliveries](simulation-deliveries.md): Find the deliveries in the simulation and optimize, assign, unassign, lock or delete them.
+* [View the map](simulation-map.md): See the deliveries and routes on a map and choose what the map shows.
+* [Manage routes](simulation-routes.md): Review, validate, reorder, reverse, assign and lock routes.
+* [View route details](simulation-details.md): See the totals for distance, deliveries and durations, and the agendas of your resources.
 * [Analyze the results](simulation-analysis.md): Access analysis charts to better understand the results.
 * [View validated routes](simulation-validated-routes.md): See the routes you validated by route, date and deliverer.
 
@@ -39,7 +39,7 @@ When the optimization finishes, the **Optimization results** window opens. It sh
 {% endhint %}
 
 {% hint style="info" %}
-**Toolbar buttons**: Use **See and modify the settings**, **Save changes**, **Export**, **Edit**, **See the list of simulations**, **Optimization results** and **View used and unused vehicles in the optimisation** from the toolbar at the top of the page.
+**Toolbar buttons**: Use **Optimize**, **See and modify the settings**, **Save changes**, **Export**, **Edit**, **See the list of simulations**, **Optimization results** and **View used and unused vehicles in the optimisation** from the toolbar at the top of the page.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -48,5 +48,6 @@ When the optimization finishes, the **Optimization results** window opens. It sh
 
 ## Related topics
 
+* [Web - Roles and Rights](../7-5-manage-users/web-roles-and-rights.md)
 * [Manage deliveries](simulation-deliveries.md)
 * [Manage routes](simulation-routes.md)

@@ -6,6 +6,10 @@ This page explains how to use the **Deliveries** panel to find deliveries in a s
 
 * Open a simulation. See [Simulation](simulation.md).
 
+## Columns
+
+The panel shows one row for each delivery. By default the columns include **Fixed visit duration**, **Address**, **Last name**, **#**, **Type**, **Vehicle**, **Scheduling id**, **Compatibility with the resources**, **Longitude / X**, **Latitude / Y**, **Postal code**, **Country**, **Identifier**, **Planned**, **Locked**, **Visit duplicated by frequency**, **Reason**, **Assigned to**, **Planned day** and **Scheduled hour**. To choose other columns, see [Customize the deliveries list](simulation-deliveries-customize-list.md).
+
 ## Steps
 
 1. Go to **Simulation** > **Deliveries**.
@@ -13,24 +17,24 @@ This page explains how to use the **Deliveries** panel to find deliveries in a s
 3. Click the comparison operator next to the filter box, for example **equal to** or **contains**, to change how the filter works.
 4. Select the check boxes of the deliveries you want to change.
 5. Click the **Deliveries** drop-down arrow.
-6. Click an action: **Optimize**, **Single route ordering**, **Assign deliveries**, **Unassign**, **Add a break**, **Lock**, **Unlock** or **Delete**.
-7. [TODO: Describe what the user does after choosing each action]
+6. Click an action. Each action is described in its own topic, listed under **Features**.
 
 ![The Deliveries menu open with Optimize, Single route ordering, Assign deliveries, Unassign, Add a break and Lock](../.gitbook/assets/Simulation_Deliveries_001.png)
 
+## Features
+
+* [Optimize deliveries](simulation-deliveries-optimize.md): Optimize the selected deliveries over a period, with the vehicles you choose.
+* [Order a single route](simulation-deliveries-single-route-ordering.md): Order the selected deliveries on a single route.
+* [Assign deliveries to a route](simulation-deliveries-assign.md): Choose the route and the time slot for a delivery.
+* [Unassign deliveries](simulation-deliveries-unassign.md): Remove the selected deliveries from their routes.
+* [Add a break](simulation-deliveries-add-break.md): Add a break to a route.
+* [Lock and unlock deliveries](simulation-deliveries-lock-unlock.md): Keep deliveries as they are, or make them changeable again.
+* [Delete deliveries](simulation-deliveries-delete.md): Remove the selected deliveries from the simulation.
+* [Customize the deliveries list](simulation-deliveries-customize-list.md): Choose the columns, change the colors and build filters.
+
 ## Result
 
-The changes appear in the list. The footer shows how many deliveries you selected and the total, for example **Selection: 0 - Total: 351**. [TODO: Confirm what changes on the map and in the Routes panel]
-
-## Tips
-
-{% hint style="info" %}
-**Keyboard shortcuts**: **Optimize** is Ctrl+O, **Single route ordering** is Alt+T, **Unassign** is Alt+N and **Delete** is Ctrl+Delete.
-{% endhint %}
-
-{% hint style="info" %}
-**Customize the list**: In the **Deliveries** menu, click **Customize the list** to choose your columns or **Coloring** to change colors. Click **Create your custom filters by clicking here** to build a custom filter. Click **Hide the filter row** to hide the filter boxes.
-{% endhint %}
+The footer shows how many deliveries you selected and the total, for example **Selection: 1 - Total: 351**.
 
 ## Related topics
 

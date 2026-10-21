@@ -10,16 +10,21 @@ This page explains how to use the **Details** panel to see the totals for your r
 
 1. Go to **Simulation** > **Details**.
 2. Click the **Details** drop-down arrow.
-3. Click **Details** to see the totals, or **Agendas** to see the agendas.
-4. Click **Routes** to see the routes. [TODO: Describe what the Routes tab in this panel shows]
+3. Click **Details** to see the totals, or **Agendas** to see the agendas. See [View agendas](simulation-details-agendas.md).
+4. To see the totals of one route, open the route in the **Routes** panel. See [View a route](simulation-routes-view-route.md).
 
 ![The Details panel showing totals for all routes](../.gitbook/assets/Simulation_Details_001.png)
 
+## Features
+
+* [View agendas](simulation-details-agendas.md): See when your resources are available, assigned or unavailable.
+
 ## Result
 
-The **Details** view shows **Name**, **Total distance**, **Number of planned deliveries**, **Visit duration**, **Drive duration**, **Wait duration**, **Rest duration**, **Delay duration**, **Overtime duration** and **Total duration**. When no route is selected, **Name** shows **All routes**. [TODO: Describe what the Agendas view shows]
+The **Details** view shows **Name**, **Total distance**, **Number of planned deliveries**, **Visit duration**, **Drive duration**, **Wait duration**, **Rest duration**, **Delay duration**, **Overtime duration** and **Total duration**. When no route is selected, **Name** shows **All routes**. When you open a route, the panel shows that route on the **Information**, **Essential** and **Other** tabs.
 
 ## Related topics
 
 * [Simulation](simulation.md)
 * [Manage routes](simulation-routes.md)
+* [View a route](simulation-routes-view-route.md)

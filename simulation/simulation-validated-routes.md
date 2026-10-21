@@ -5,7 +5,7 @@ This page explains how to show the **Validated routes** panel to see the routes 
 ## Before you begin
 
 * Open a simulation. See [Simulation](simulation.md).
-* Validate at least one route. See [Manage routes](simulation-routes.md).
+* Validate at least one route. See [Validate routes](simulation-routes-validate.md).
 
 ## Steps
 
@@ -18,7 +18,7 @@ This page explains how to show the **Validated routes** panel to see the routes 
 
 ## Result
 
-The panel shows each validated route with its **Route**, **Date** and **Deliverer**. The list is empty when no route is validated. [TODO: Confirm what the user can do with a validated route]
+The panel shows each validated route with its **Route**, **Date** and **Deliverer**. The list is empty when no route is validated.
 
 ## Tips
 
