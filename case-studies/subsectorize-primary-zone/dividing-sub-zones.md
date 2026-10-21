@@ -2,24 +2,24 @@
 
 Subzone division allows you to split an overloaded territory into two balanced zones instantly. Use this feature to handle demand surges, bulk orders, or seasonal spikes without overloading drivers. You will achieve balanced mission counts and automated driver reassignments to maintain your service levels.
 
-#### Getting Started
+## Before you begin
 
 Before dividing a territory, ensure your setup meets these requirements:
 
 * A primary zone must already be sub sectorized through the territory manager.
 * Target subzones must have an established link to a primary zone.
 
-- Open the **Configuration module**.
+1. Open the **Configuration module**.
 
 ![](../../.gitbook/assets/Case-Studies-Dividing_Sub_Zones_timestamp_2_to_32.png)
 
-* Click on **Manage studies and zones**.
+2. Click **Manage studies and zones**.
 
 <figure><img src="../../.gitbook/assets/msedge_4AgwKLqaES.png" alt=""><figcaption></figcaption></figure>
 
-* Select the **Edit** icon for the study containing the overloaded zone.
+3. Select the **Edit** icon for the study containing the overloaded zone.
 
-#### Feature Overview
+## Feature overview
 
 * **Assignment Mode**: This field displays "primary subzone" to confirm the territory is part of a larger hierarchy.
 
@@ -38,7 +38,7 @@ Before dividing a territory, ensure your setup meets these requirements:
 
 ![](../../.gitbook/assets/Case-Studies-Dividing_Sub_Zones_timestamp_3_to_33.png)
 
-#### How To: Divide an Overloaded Subzone
+## Divide an overloaded subzone
 
 1. Identify the overloaded subzone in the **Zone tab**.
 2. Open the **Actions menu** and click **Sub sectorize**.
@@ -60,7 +60,7 @@ Before dividing a territory, ensure your setup meets these requirements:
 9. Review the split on the map and click **Validate territory assignment**.
 10. Click **Save** on the **Modify territory assignment** page.
 
-#### How To: Verify Automated Mission Reassignment
+## Verify automated mission reassignment
 
 1. Navigate to the **Mission tab**.
 2. Click the **Sector** field to view mission assignments.
@@ -68,9 +68,26 @@ Before dividing a territory, ensure your setup meets these requirements:
 
 ![](../../.gitbook/assets/Case-Studies-Dividing_Sub_Zones_timestamp_5_to_28.png)
 
-#### Productivity Tips
+## Tips
 
-* 💡 **Hierarchy Preservation**: The system uses the **Main zone field** to ensure your zone hierarchy remains consistent during edits.
-* 💡 **Automated Updates**: Missions reassign themselves based on geographical delivery addresses, removing the need for manual data entry.
-* 💡 **Immediate Optimization**: Planners can move directly to route optimization since the system handles all retagging automatically.
-* ⚠️ **Static Bottlenecks**: Avoid manual reassignments during surges to prevent data bottlenecks and undelivered missions.
+{% hint style="info" %}
+**Hierarchy Preservation**: The system uses the **Main zone field** to ensure your zone hierarchy remains consistent during edits.
+{% endhint %}
+
+{% hint style="info" %}
+**Automated Updates**: Missions reassign themselves based on geographical delivery addresses, removing the need for manual data entry.
+{% endhint %}
+
+{% hint style="info" %}
+**Immediate Optimization**: Planners can move directly to route optimization since the system handles all retagging automatically.
+{% endhint %}
+
+{% hint style="warning" %}
+**Static Bottlenecks**: Avoid manual reassignments during surges to prevent data bottlenecks and undelivered missions.
+{% endhint %}
+
+## Related topics
+
+* [Sub sectorize primary zone](README.md)
+* [Merging Sub Zones](merging-sub-zones.md)
+* [Case Studies](../README.md)

@@ -2,17 +2,17 @@
 
 Manual zone reassignment allows you to move missions to a new territory layout on your own terms. Use this when switching between different studies or seasonal configurations where automatic triggers do not apply. You will achieve accurate mission records and uninterrupted planning cycles.
 
-#### Getting Started
+## Before you begin
 
 * At least two studies configured for the same area.
 * A set of active missions needing reassignment.
 
-- Navigate to the **Configuration** module.
-- Click on **Manage studies and zones**.
+1. Navigate to the **Configuration** module.
+2. Click **Manage studies and zones**.
 
 ![](../.gitbook/assets/Case-Studies-Reassign_Zones_Manually_timestamp_2_to_23.png)
 
-#### Feature Overview
+## Feature overview
 
 * **Enable toggle**: Activates or deactivates a specific study configuration.
 
@@ -26,9 +26,9 @@ Manual zone reassignment allows you to move missions to a new territory layout o
 
 ![](../.gitbook/assets/Case-Studies-Reassign_Zones_Manually_timestamp_3_to_44.png)
 
-#### How To: Switch Mission Studies
+## Switch mission studies
 
-1. Click the **edit** button and select **Settings** tab.
+1. Click the **edit** button and select the **Settings** tab.
 
 ![](../.gitbook/assets/Case-Studies-Reassign_Zones_Manually_timestamp_2_to_28.png)
 
@@ -64,13 +64,32 @@ Manual zone reassignment allows you to move missions to a new territory layout o
 
 ![](../.gitbook/assets/Case-Studies-Reassign_Zones_Manually_timestamp_3_to_48.png)
 
-10. The selected missions are reassigned to the chosen study.
+### Result
+
+The selected missions are reassigned to the chosen study.
 
 <figure><img src="../.gitbook/assets/ApplicationFrameHost_6K4eeR7hp3.png" alt=""><figcaption></figcaption></figure>
 
-#### Productivity Tips
+## Tips
 
-* 💡 **Safe Testing**: Test new layouts by reassigning a sample of missions before committing the whole fleet.
-* 💡 **Seasonal Transitions**: Use manual reassignment to switch between summer and winter configurations instantly.
-* ⚠️ **Automation Limits**: The system only auto-updates for geometry changes, not for new study activations.
-* ⚠️ **Human Oversight**: Always review the filtered list to ensure only the intended missions move.
+{% hint style="info" %}
+**Safe Testing**: Test new layouts by reassigning a sample of missions before committing the whole fleet.
+{% endhint %}
+
+{% hint style="info" %}
+**Seasonal Transitions**: Use manual reassignment to switch between summer and winter configurations instantly.
+{% endhint %}
+
+{% hint style="warning" %}
+**Automation Limits**: The system only auto-updates for geometry changes, not for new study activations.
+{% endhint %}
+
+{% hint style="warning" %}
+**Human Oversight**: Always review the filtered list to ensure only the intended missions move.
+{% endhint %}
+
+## Related topics
+
+* [Case Studies](README.md)
+* [Assigning zones to missions](assigning-zones-to-missions.md)
+* [Study Creation with Primary Zone](study-creation-with-primary-zone.md)

@@ -1,24 +1,37 @@
 # Customize Zones Table
 
-1. Click on Configuration Tab
-2. Click on Manage studies and zones
-3. The available missions are displayed in a list.
-4. Select a Mission
-5. Click the Actions dropdown menu.
-6. Click on Customize Limit
+Customize the zones table to choose which fields are displayed for a mission's zones.
+
+## Customize the zones table
+
+1. Click the **Configuration** tab.
+2. Click **Manage studies and zones**.
+3. Review the available missions, which are displayed in a list.
+4. Select a mission.
+5. Click the **Actions** dropdown menu.
+6. Click **Customize Limit**.
 
 ![](../.gitbook/assets/image-32.png)
 
 7. Choose which fields you want to display on the table.
-
-**Note**: Avoid selecting too many fields at once, as it may become difficult to read or
-
-navigate.
-
-8. Click on Save
+8. Click **Save**.
 
 ![](../.gitbook/assets/image-33.png)
 
-The selected fields have been displayed on the table.
+### Result
+
+The selected fields are displayed on the table.
 
 ![](../.gitbook/assets/image-34.png)
+
+## Tips
+
+{% hint style="info" %}
+**Field selection**: Avoid selecting too many fields at once, as it may become difficult to read or navigate.
+{% endhint %}
+
+## Related topics
+
+* [Manage Studies & Zones:](README.md)
+* [Manage Postal Zones](manage-postal-zones.md)
+* [Create Postal Zones by Territory Management (Sectorization)](create-postal-zones-by-territory-management-sectorization.md)

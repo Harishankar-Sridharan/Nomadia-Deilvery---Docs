@@ -1,123 +1,138 @@
 # Manage Vehicles in a fleet
 
-#### Add a Vehicle
+Add, delete, export, color, and customize the display of the vehicles in a fleet.
 
-1. Go to Configuration.
-2. Click on Configuration Menu
-3. Under My Data, click on Manage the Vehicles.
-4. Click the Desired Name
-5. Click on Actions
-6. Click on Add from the dropdown menu
+## Add a vehicle
+
+1. Go to **Configuration**.
+2. Click the **Configuration** menu.
+3. Under My Data, click **Manage the Vehicles**.
+4. Click the desired name.
+5. Click **Actions**.
+6. Click **Add** from the dropdown menu.
 
 ![](../.gitbook/assets/image-47.png)
 
-7. Enter the Name
+7. Enter the **Name**.
 
 ![](../.gitbook/assets/image-48.png)
 
-8. Click on Add
+8. Click **Add**.
 
 ![](../.gitbook/assets/image-49.png)
 
-#### Delete a Vehicle
+## Delete a vehicle
 
-1. Go to Configuration.
-2. Click on Configuration Menu
-3. Under My Data, click on Manage the Vehicles.
-4. Click the Desired Name
-5. Click on Actions
-6. Click on Delete from the dropdown menu
+1. Go to **Configuration**.
+2. Click the **Configuration** menu.
+3. Under My Data, click **Manage the Vehicles**.
+4. Click the desired name.
+5. Click **Actions**.
+6. Click **Delete** from the dropdown menu.
 
 ![](../.gitbook/assets/image-53.png)
 
-7. You will see a confirmation pop-up message stating: "Do you want to delete the Vehicle?"
-8. Click on Delete.
+7. Review the confirmation pop-up message that states: "Do you want to delete the Vehicle?"
+8. Click **Delete**.
 
 ![](../.gitbook/assets/image-45.png)
 
-Vehicles have been deleted successfully
+### Result
+
+The vehicles are deleted successfully.
 
 ![](../.gitbook/assets/image-1.png)
 
-#### Export a Vehicle
+## Export a vehicle
 
-1. Go to Configuration.
-2. Click on Configuration Menu
-3. Under My Data, click on Manage the Vehicles.
-4. Click the Desired Name
-5. Click on Actions
-6. Click on Export from the dropdown menu
+1. Go to **Configuration**.
+2. Click the **Configuration** menu.
+3. Under My Data, click **Manage the Vehicles**.
+4. Click the desired name.
+5. Click **Actions**.
+6. Click **Export** from the dropdown menu.
 
 ![](../.gitbook/assets/image-56.png)
 
-The vehicles have been exported successfully.
+### Result
+
+The vehicles are exported successfully.
 
 ![](../.gitbook/assets/image-57.png)
 
-#### Color a Vehicle
+## Color a vehicle
 
-1. Go to Configuration.
-2. Click on Configuration Menu
-3. Under My Data, click on Manage the Vehicles.
-4. Click the Desired Name
-5. Click on Actions
-6. Click on Coloring from the dropdown menu
+1. Go to **Configuration**.
+2. Click the **Configuration** menu.
+3. Under My Data, click **Manage the Vehicles**.
+4. Click the desired name.
+5. Click **Actions**.
+6. Click **Coloring** from the dropdown menu.
 
 ![](../.gitbook/assets/image-58.png)
 
-7. Choose a Color
-8. Click on Save
+7. Choose a color.
+8. Click **Save**.
 
 ![](../.gitbook/assets/image-59.png)
 
-The color has been applied successfully.
+### Result
+
+The color is applied successfully.
 
 ![](../.gitbook/assets/image-60.png)
 
-#### Customize Vehicles table
+## Customize vehicles table
 
-1. Go to Configuration.
-2. Click on Configuration Menu
-3. Under My Data, click on Manage the Vehicles.
-4. Click the Desired Name
-5. Click on Actions
-6. Click on Customize the list from the dropdown menu
+1. Go to **Configuration**.
+2. Click the **Configuration** menu.
+3. Under My Data, click **Manage the Vehicles**.
+4. Click the desired name.
+5. Click **Actions**.
+6. Click **Customize the list** from the dropdown menu.
 
 ![](../.gitbook/assets/image-61.png)
 
 7. Choose which fields you want to display on the table.
-
-**Note**: Avoid selecting too many fields at once, as it may become difficult to read or
-
-navigate.
-
-8. Click on Save
+8. Click **Save**.
 
 ![](../.gitbook/assets/image-62.png)
 
-The selected fields will be displayed on the table successfully
+### Result
+
+The selected fields are displayed on the table successfully.
 
 ![](../.gitbook/assets/image-63.png)
 
-#### Customize Vehicles fleets table
+## Customize vehicles fleets table
 
-1. Go to Configuration.
-2. Click on Configuration Menu
-3. Under My Data, click on Manage the Vehicles.
-4. Select a Team
-5. Under My Fleets, click the Actions dropdown menu.
-6. Click on Customize the list
+1. Go to **Configuration**.
+2. Click the **Configuration** menu.
+3. Under My Data, click **Manage the Vehicles**.
+4. Select a team.
+5. Under My Fleets, click the **Actions** dropdown menu.
+6. Click **Customize the list**.
 
 ![](../.gitbook/assets/image-69.png)
 
 7. Choose which fields you want to display on the table.
-
-**Note**: Avoid selecting too many fields at once, as it may become difficult to read or navigate.
-
-8. Click on Save
+8. Click **Save**.
 
 ![](../.gitbook/assets/image-62.png)
 
-The selected fields have been displayed on the table successfully
+### Result
+
+The selected fields are displayed on the table successfully.
 
 ![](../.gitbook/assets/image-63.png)
+
+## Tips
+
+{% hint style="info" %}
+**Field selection**: Avoid selecting too many fields at once, as it may become difficult to read or navigate.
+{% endhint %}
+
+## Related topics
+
+* [Manage Vehicle Fleets](README.md)
+* [Customize the Constraints](customize-the-constraints.md)

@@ -1,27 +1,29 @@
 # Visit – A New Mission Type
 
-The Visit missions are a new category of operational tasks that enable transporters to schedule visits to customer locations without handling parcel pickups or deliveries. They offer greater flexibility for non-transactional activities and enhance planning efficiency across various logistical scenarios.
+Visit missions are a new category of operational tasks that enable transporters to schedule visits to customer locations without handling parcel pickups or deliveries. You use them for non-transactional activities, which gives you greater flexibility and improves planning efficiency across various logistical scenarios.
+
+## Feature overview
 
 Transporters can monitor and manage visit missions through customized statuses.
 
-**To Be Visited**: The visit is planned but has not yet taken place.
+* **To Be Visited**: The visit is planned but has not yet taken place.
+* **Visited**: The visit was completed successfully.
+* **Not Visited**: The visit was not carried out, with the option of providing a reason if required.
 
-**Visited**: The visit was completed successfully.
+## Set up a visit mission
 
-**Not Visited**: The visit was not carried out, with the option of providing a reason if required.
-
-To set up a visit mission, users (contractors, transporters, or subcontractors) should follow these steps:
+Contractors, transporters, and subcontractors can set up a visit mission by following these steps.
 
 1. Open the Nomadia Delivery application and go to the **Missions** tab.
-2. Click the ‘**Actions**’ menu and select ‘**Add**’.
+2. Click the **Actions** menu and select **Add**.
 
 <figure><img src="../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
 
-3. In the Mission Type drop-down, choose the new mission type ‘**Visit**’ to create a visit mission.
+3. In the Mission Type drop-down, choose the new mission type **Visit** to create a visit mission.
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-4. Since a visit mission does not involve pickups or deliveries, the wizard includes only the Visit address and opening hours.
+4. Review the wizard, which includes only the visit address and opening hours because a visit mission does not involve pickups or deliveries.
 
 <figure><img src="../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
 
@@ -29,7 +31,7 @@ To set up a visit mission, users (contractors, transporters, or subcontractors) 
 
 <figure><img src="../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
 
-6. Click ‘**Next**’ to proceed to the following step.
+6. Click **Next** to proceed to the following step.
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
@@ -39,29 +41,39 @@ To set up a visit mission, users (contractors, transporters, or subcontractors) 
 
 <figure><img src="../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
 
-8. Click ‘**Add**’ to create the visit mission.
+8. Click **Add** to create the visit mission.
 
 <figure><img src="../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
 
-9. A new visit-type mission will now appear in the delivery management system.
+### Result
+
+A new visit-type mission appears in the delivery management system.
 
 <figure><img src="../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
 
-To set up a tour including visit missions, follow these steps:
+## Set up a tour including visit missions
 
-1. Select the **created mission**, click the ‘**Actions**’ menu, select the ‘**Assign**’ menu item and assign the created mission for a deliverer.
+1. Select the **created mission**, click the **Actions** menu, select the **Assign** menu item, and assign the created mission to a deliverer.
 
 <figure><img src="../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
 
-2. Give a name to the route, select the **deliverer**, **date**, and **time** for the visit mission, and click the **OK/Force assignment**’ button to create the tour.
+2. Give a name to the route, select the **deliverer**, **date**, and **time** for the visit mission, and click the **OK/Force assignment** button to create the tour.
 
 <figure><img src="../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
 
-3. The visit route will be created in the delivery management system, and it is ready to be published to the mobile app of the deliverer.
-4. Click the ‘**Actions**’ menu and select the ‘Publish on mobile app’ menu item.
-5. Click the ‘**OK**’ button to confirm and push the data to the mobile app
-6. The visit route will be published on the mobile app. The status of the mission is now changed to "**To be visited**”.
+3. Confirm that the visit route is created in the delivery management system and is ready to be published to the mobile app of the deliverer.
+4. Click the **Actions** menu and select the **Publish on mobile app** menu item.
+5. Click the **OK** button to confirm and push the data to the mobile app.
+6. Confirm that the visit route is published on the mobile app and that the status of the mission is now **To be visited**.
 
 <figure><img src="../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
 
-7. The deliverer, upon logging in to the mobile app, will be able to fulfill the visit with a new status like Visited & Not Visited.
+### Result
+
+When the deliverer logs in to the mobile app, the deliverer can fulfill the visit with a new status such as **Visited** or **Not Visited**.
+
+## Related topics
+
+* [Missions](README.md)
+* [Adding a Mission](adding-a-mission-beta/README.md)
+* [Manual Route Creation](../8-6-missions-1/manualroutecreation.md)

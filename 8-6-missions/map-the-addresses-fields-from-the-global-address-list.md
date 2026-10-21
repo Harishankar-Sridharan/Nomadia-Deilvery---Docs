@@ -1,8 +1,10 @@
 # Map the addresses fields from the global address list
 
-The Global Address List now offers enhanced control over how addresses are managed and accessed in Nomadia Delivery. It is no longer restricted to contractors and is now available directly from the Configuration module. Addresses added to the Global Address List are visible and usable by all Nomadia Delivery users, regardless of contractor.
+The Global Address List offers enhanced control over how addresses are managed and accessed in Nomadia Delivery. It is no longer restricted to contractors and is available directly from the Configuration module. Addresses added to the Global Address List are visible and usable by all Nomadia Delivery users, regardless of contractor.
 
-To use addresses from the Global Address List, follow the steps below:
+## Before you begin
+
+Create the address list before you use it in a mission.
 
 1. Open the Nomadia Delivery application and go to the **Configuration** tab.
 
@@ -16,23 +18,25 @@ To use addresses from the Global Address List, follow the steps below:
 
 <figure><img src="../.gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure>
 
-Once the address list is created, navigate to the **Mission** page.
+## Use addresses from the Global Address List in a mission
+
+1. Once the address list is created, navigate to the **Mission** page.
 
 <figure><img src="../.gitbook/assets/image (160).png" alt=""><figcaption></figcaption></figure>
 
-4. From the mission table, select **Actions → Add (Beta).**
+2. From the mission table, select **Actions → Add (Beta).**
 
 <figure><img src="../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>
 
-5. Select an **agency** from the dropdown list.
+3. Select an **agency** from the dropdown list.
 
 <figure><img src="../.gitbook/assets/image (163).png" alt=""><figcaption></figcaption></figure>
 
-Click **Next**
+4. Click **Next**.
 
 <figure><img src="../.gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure>
 
-6. In the address picker (pickup/delivery), enter an **address** from the Address List.
+5. In the address picker (pickup/delivery), enter an **address** from the Address List.
 
 <figure><img src="../.gitbook/assets/image (166).png" alt=""><figcaption></figcaption></figure>
 
@@ -45,4 +49,12 @@ Click **Next**
 
 <figure><img src="../.gitbook/assets/image (168).png" alt=""><figcaption></figcaption></figure>
 
+### Result
+
 This ensures a seamless and unified experience when entering mission addresses.
+
+## Related topics
+
+* [Missions](README.md)
+* [Manage Global Address List](../manage-global-address-list.md)
+* [Adhoc Address Creation](../adhocaddresscreation.md)

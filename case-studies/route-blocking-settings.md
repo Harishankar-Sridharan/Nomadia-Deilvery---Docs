@@ -2,27 +2,28 @@
 
 Route blocking systematically prevents drivers from starting routes containing high-value items until a planner reviews them. This feature minimizes financial risks like cargo theft and ensures security protocols are followed every day. Users achieve a proactive, documented compliance process for every delivery.
 
-#### Getting Started
+## Before you begin
 
 * Missions must include a **package value** field.
 * Access to the **configuration module** is required.
-* Open the **configuration module**.
+
+1. Open the **configuration module**.
 
 ![](../.gitbook/assets/Case-Studies-Route_Blocking_Settings_timestamp_2_to_21.png)
 
-* Select **settings** under the **route** section.
+2. Select **settings** under the **route** section.
 
 ![](../.gitbook/assets/Case-Studies-Route_Blocking_Settings_timestamp_2_to_25.png)
 
-* Enter a numerical threshold in the **package value condition** field.
+3. Enter a numerical threshold in the **package value condition** field.
 
 ![](../.gitbook/assets/Case-Studies-Route_Blocking_Settings_timestamp_2_to_51.png)
 
-* Click **save** to apply the configuration.
+4. Click **save** to apply the configuration.
 
 ![](../.gitbook/assets/Case-Studies-Route_Blocking_Settings_timestamp_3_to_00.png)
 
-#### Feature Overview
+## Feature overview
 
 * **Package value condition**: Define the monetary threshold that triggers an automatic route lock.
 
@@ -44,7 +45,7 @@ Route blocking systematically prevents drivers from starting routes containing h
 
 <figure><img src="../.gitbook/assets/ApplicationFrameHost_NBosKi9VMM.png" alt=""><figcaption></figcaption></figure>
 
-#### How To: Optimize and Identify Blocked Routes
+## Optimize and identify blocked routes
 
 1. Navigate to the **mission tab**.
 
@@ -54,19 +55,19 @@ Route blocking systematically prevents drivers from starting routes containing h
 
 ![](../.gitbook/assets/Case-Studies-Route_Blocking_Settings_timestamp_3_to_28_to_3_to_46.gif)
 
-3. Click **actions** & select **optimize** (or any optimization workflow).
+3. Click **actions** and select **optimize** (or any optimization workflow).
 
 ![](../.gitbook/assets/Case-Studies-Route_Blocking_Settings_timestamp_3_to_55.png)
 
-4. Once the optimization process is complete, select the new route & click validate.
+4. Once the optimization process is complete, select the new route and click validate.
 
 ![](../.gitbook/assets/Case-Studies-Route_Blocking_Settings_timestamp_4_to_21_to_4_to_30.gif)
 
-5. Check for the **lock** icon on the route to verify that the block is active..
+5. Check for the **lock** icon on the route to verify that the block is active.
 
 ![](../.gitbook/assets/Case-Studies-Route_Blocking_Settings_timestamp_4_to_40.png)
 
-#### How To: Grant Access to a Blocked Route
+## Grant access to a blocked route
 
 1. Click the **pencil icon** next to the blocked route.
 
@@ -88,8 +89,22 @@ Route blocking systematically prevents drivers from starting routes containing h
 
 ![](../.gitbook/assets/Case-Studies-Route_Blocking_Settings_timestamp_7_to_02.png)
 
-#### Productivity Tips
+## Tips
 
-* 💡 **Quick Filtering**: Filter by **departure allowed** in the mission tab to instantly see all blocked routes.
-* 💡 **Compliance Records**: Use the **log section** to document who reviewed high-value missions for future disputes.
-* ⚠️ **Automatic Lock**: Drivers cannot start routes in the mobile app if the status is **Blocked**.
+{% hint style="info" %}
+**Quick Filtering**: Filter by **departure allowed** in the mission tab to instantly see all blocked routes.
+{% endhint %}
+
+{% hint style="info" %}
+**Compliance Records**: Use the **log section** to document who reviewed high-value missions for future disputes.
+{% endhint %}
+
+{% hint style="warning" %}
+**Automatic Lock**: Drivers cannot start routes in the mobile app if the status is **Blocked**.
+{% endhint %}
+
+## Related topics
+
+* [Case Studies](README.md)
+* [Reduced fixed duration](reduced-fixed-duration.md)
+* [Optimizing missions for Agency](optimizing-missions-for-agency.md)

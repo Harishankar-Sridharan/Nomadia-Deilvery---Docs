@@ -1,20 +1,18 @@
 # No Route Mode
 
-No-Route mode is designed for companies that prioritize mission management and traceability over complex route optimization. This mode simplifies the user interface by automatically hiding all features related to route planning. You will achieve a more efficient workflow focused entirely on monitoring delivery missions.&#x20;
+No-Route mode is designed for companies that prioritize mission management and traceability over complex route optimization. This mode simplifies the user interface by automatically hiding all features related to route planning. You will achieve a more efficient workflow focused entirely on monitoring delivery missions.
 
-#### Getting Started
+## Before you begin
 
 * Active **Nomadia Delivery** account.
 * User profile configured for No Route access.
-
-#### **Steps**
 
 1. Sign in using your No Route account credentials.
 2. Verify the navigation bar shows only essential modules such as Home, Missions, Dashboard and Configuration.
 
 <figure><img src="../../.gitbook/assets/noroute-noroute_timestamp_0_to_21 (2).png" alt=""><figcaption></figcaption></figure>
 
-#### Feature Overview
+## Feature overview
 
 * **Home**: Access the starting interface designed for daily operations.
 * **Missions**: View and manage delivery missions while tracking mission locations.
@@ -23,7 +21,7 @@ No-Route mode is designed for companies that prioritize mission management and t
 * **Maps Tab**: Visualize the real-time geographic locations of your missions.
 * **Details Tab**: Review specific information regarding a selected mission.
 
-#### How To: Track Missions
+## Track missions
 
 1. Select the **Missions** module from the main navigation menu.
 2. Click the **Maps** tab to visualize mission locations.
@@ -31,7 +29,21 @@ No-Route mode is designed for companies that prioritize mission management and t
 
 <figure><img src="../../.gitbook/assets/noroute-noroute_timestamp_1_to_20 (1).png" alt=""><figcaption></figcaption></figure>
 
-#### Productivity Tips
+## Tips
 
-* 💡 **Operational Efficiency**: Hiding route planning features provides a cleaner interface to focus on mission monitoring.
-* ⚠️ **Feature Limitations**: Note that the Road Simulation and Fulfillment tabs are not available in No-Route mode.&#x20;
+{% hint style="info" %}
+**Operational Efficiency**: Hiding route planning features provides a cleaner interface to focus on mission monitoring.
+{% endhint %}
+
+{% hint style="warning" %}
+**Feature Limitations**: Note that the Road Simulation and Fulfillment tabs are not available in No-Route mode.
+{% endhint %}
+
+## Related topics
+
+* [Customizing Workflow](customize-work-flow.md)
+* [Manage the Depots / Buildings](manage-the-depots.md)
+* [Shuttle Management](shuttle-management.md)
+* [Assign to Subcontractors](assign-to-sub-contractors/README.md)
+* [Customize the Status Hierarchy](customizethestatushierarchy.md)
+* [Case Studies](../README.md)

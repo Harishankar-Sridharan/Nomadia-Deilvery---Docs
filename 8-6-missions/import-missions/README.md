@@ -1,8 +1,10 @@
 # Import Missions
 
-From the Missions page
+Import missions from an Excel file on the Missions page to create many missions at once.
 
-1. Click **Actions**.
+## Import missions from an Excel file
+
+1. From the Missions page, click **Actions**.
 2. Select **Import** from the dropdown menu.
 
 <figure><img src="../../.gitbook/assets/image (150).png" alt=""><figcaption></figcaption></figure>
@@ -15,11 +17,11 @@ From the Missions page
 
 <figure><img src="../../.gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
 
-5. The preview of the available Excel sheets is displayed. Select the required dataset and click **Validate**.
+5. Review the preview of the available Excel sheets, select the required dataset, and click **Validate**.
 
 <figure><img src="../../.gitbook/assets/msedge_TfwOe3eGy9.png" alt=""><figcaption></figcaption></figure>
 
-6. A preview of the data is displayed in both the table view and the map view.
+6. Review the preview of the data, which is displayed in both the table view and the map view.
 
 <figure><img src="../../.gitbook/assets/msedge_VJGR6lqjk1.png" alt=""><figcaption></figcaption></figure>
 
@@ -27,11 +29,18 @@ From the Missions page
 
 <figure><img src="../../.gitbook/assets/msedge_NAlcYnDFa9.png" alt=""><figcaption></figcaption></figure>
 
-8. Click Import
+8. Click **Import**.
 
 <figure><img src="../../.gitbook/assets/msedge_rS5AKwA574.png" alt=""><figcaption></figcaption></figure>
 
-9. Missions will be imported successfully.
+### Result
+
+Missions are imported successfully.
 
 <figure><img src="../../.gitbook/assets/ChatGPT Image May 19, 2026, 01_14_18 PM.png" alt=""><figcaption></figcaption></figure>
 
+## Related topics
+
+* [Improve the Missions addresses geocoding](improve-the-missions-addresses-geocoding.md)
+* [Creating Custom Fields while Importing](../custom-fields/creating-custom-fields-while-importing.md)
+* [Missions](../README.md)

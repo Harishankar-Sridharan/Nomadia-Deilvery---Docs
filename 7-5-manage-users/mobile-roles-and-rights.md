@@ -1,5 +1,9 @@
 # Mobile - Roles and Rights
 
+Roles and rights control which operations a mobile user can perform. Use this reference to see what each role or right allows when enabled.
+
+## Feature overview
+
 | Roles and Rights                | Description                                                                      |
 | ------------------------------- | -------------------------------------------------------------------------------- |
 | Delivery                        | When enabled, users can perform delivery-related operations.                     |
@@ -22,8 +26,14 @@
 | Modify missions                 | When enabled, users can edit mission details.                                    |
 | Make the call mandatory         | When enabled, users must make a call before completing the mission.              |
 
-#### Password policy for Mobile Access
+## Password policy for Mobile Access
 
 The password must contain a minimum of 8 characters, including at least one uppercase letter, one lowercase letter, and one number.
 
 ![](../.gitbook/assets/image-10.png)
+
+## Related topics
+
+* [Manage Users](README.md)
+* [Enabling Mobile Access](enabling-mobile-access.md)
+* [Web - Roles and Rights](web-roles-and-rights.md)

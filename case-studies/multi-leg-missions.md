@@ -2,7 +2,7 @@
 
 **Nomadia Delivery** uses multi-leg missions to track parcels across multiple hubs and agencies from first-mile pickup to last-mile delivery. This feature provides end-to-end visibility for complex supply chain operations by following a mission through every touchpoint. You will achieve a complete, trackable chain of custody for every parcel in your network.
 
-#### Getting Started
+## Before you begin
 
 To use this feature, ensure you have a user account with permissions for your specific agency.
 
@@ -10,11 +10,11 @@ To use this feature, ensure you have a user account with permissions for your sp
 * User account assigned to an **Origin Agency**.
 * Configured routing infrastructure for automated zone assignment.
 
-- Log in to **Nomadia Delivery** as a user from the **Origin Agency**.
+1. Log in to **Nomadia Delivery** as a user from the **Origin Agency**.
 
 ![](../.gitbook/assets/Case-Studies-Multi_Leg_Missions_timestamp_3_to_06.png)
 
-#### Feature Overview
+## Feature overview
 
 * **Agency**: Displays the current location of the mission and determines user visibility.
 * **Origin Agency**: Marks the hub where the first-mile pickup begins.
@@ -23,9 +23,9 @@ To use this feature, ensure you have a user account with permissions for your sp
 
 ![](../.gitbook/assets/Case-Studies-Multi_Leg_Missions_timestamp_2_to_20.png)
 
-#### How To: Create a Multi-Leg Mission
+## Create a multi-leg mission
 
-1. Click on the **Mission** tab.
+1. Click the **Mission** tab.
 
 ![](../.gitbook/assets/Case-Studies-Multi_Leg_Missions_timestamp_3_to_13_to_3_to_23.gif)
 
@@ -34,8 +34,6 @@ To use this feature, ensure you have a user account with permissions for your sp
 
 ![](../.gitbook/assets/Case-Studies-Multi_Leg_Missions_timestamp_3_to_30_to_3_to_38.gif)
 
-
-
 4. Select the **Origin Agency** and the **Destination Agency**.
 5. Set the **Leg** to **Collection**.
 6. Enter the pickup and delivery location details.
@@ -43,7 +41,7 @@ To use this feature, ensure you have a user account with permissions for your sp
 
 ![](../.gitbook/assets/Case-Studies-Multi_Leg_Missions_timestamp_4_to_30.png)
 
-#### How To: Update Mission Legs and Visibility (API /updateMultiLegStatusInformation)
+## Update mission legs and visibility (API /updateMultiLegStatusInformation)
 
 1. Use the **Update multi-leg status information** endpoint to transition between legs.
 2. Set the **Leg** to **Distribution** when the item is ready for mid-mile transit.
@@ -61,7 +59,7 @@ To use this feature, ensure you have a user account with permissions for your sp
 
 ![](../.gitbook/assets/Case-Studies-Multi_Leg_Missions_timestamp_8_to_35.png)
 
-8. The in-transit missions are now displayed in the **Missions** tab.
+8. Open the **Missions** tab to view the in-transit missions.
 
 <figure><img src="../.gitbook/assets/ApplicationFrameHost_G1ljOR0YxV.png" alt=""><figcaption></figcaption></figure>
 
@@ -70,15 +68,29 @@ To use this feature, ensure you have a user account with permissions for your sp
 
 ![](../.gitbook/assets/Case-Studies-Multi_Leg_Missions_timestamp_9_to_12_to_9_to_58.gif)
 
-#### How To: Audit Mission History
+## Audit mission history
 
 1. Open a mission in the **Editor**.
 2. Select the **Logs** tab to view every status change and agency transition.
 
 <figure><img src="../.gitbook/assets/msedge_bIBOxerQnR.png" alt=""><figcaption></figcaption></figure>
 
-#### Productivity Tips
+## Tips
 
-* 💡 **Automated Assignment**: Routing infrastructure automatically fills agents and sub-zones as soon as you create the mission.
-* 💡 **Flexible Entry**: Create missions directly in distribution or delivery status if subcontractors handled the initial collection.
-* ⚠️ **Visibility Loss**: Missions normally disappear from the origin view once they leave the hub unless specific rights are enabled.
+{% hint style="info" %}
+**Automated Assignment**: Routing infrastructure automatically fills agents and sub-zones as soon as you create the mission.
+{% endhint %}
+
+{% hint style="info" %}
+**Flexible Entry**: Create missions directly in distribution or delivery status if subcontractors handled the initial collection.
+{% endhint %}
+
+{% hint style="warning" %}
+**Visibility Loss**: Missions normally disappear from the origin view once they leave the hub unless specific rights are enabled.
+{% endhint %}
+
+## Related topics
+
+* [Case Studies](README.md)
+* [Reverse Logistics](reverse-logistics.md)
+* [Cross Docking Missions](../8-6-missions/cross-docking-missions.md)

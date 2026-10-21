@@ -2,25 +2,25 @@
 
 PUDO (Pickup and Drop-off Points) allows drivers to leave packages at secure locations when customers are unavailable. This feature eliminates expensive redelivery costs and reduces vehicle emissions. You will achieve higher first-attempt success rates and improved customer convenience.
 
-#### Getting Started
+## Before you begin
 
 * A prepared list of PUDO locations including names and addresses.
 * Defined categories for your network, such as lockers or retail stores.
 * Access to the **Configuration** module in Nomadia Delivery.
 
-- Open the **Configuration** module.
+1. Open the **Configuration** module.
 
 ![](../../.gitbook/assets/Case-Studies-PUDO_Configuration_timestamp_2_to_32.png)
 
-* Select the **PUDO type** page to define your categories.
+2. Select the **PUDO type** page to define your categories.
 
 ![](../../.gitbook/assets/Case-Studies-PUDO_Configuration_timestamp_2_to_36.png)
 
-* Navigate to the **PUDO** page to upload your physical locations.
+3. Navigate to the **PUDO** page to upload your physical locations.
 
 <figure><img src="../../.gitbook/assets/ApplicationFrameHost_Gj3xW03P8B.png" alt=""><figcaption></figcaption></figure>
 
-#### Feature Overview
+## Feature overview
 
 * **PUDO Types**: Categories like stores or lockers with specific handling requirements.
 
@@ -38,18 +38,18 @@ PUDO (Pickup and Drop-off Points) allows drivers to leave packages at secure loc
 
 <figure><img src="../../.gitbook/assets/ApplicationFrameHost_wtscOXmXIC.png" alt=""><figcaption></figcaption></figure>
 
-#### How To: Configure PUDO Types
+## Configure PUDO types
 
 1. Go to the **Configuration** module.
 
 ![](../../.gitbook/assets/Case-Studies-PUDO_Configuration_timestamp_2_to_32_to_2_to_36.gif)
 
-2. Click on **PUDO type**.
+2. Click **PUDO type**.
 3. Define categories such as supermarkets, partner retailers, or lockers.
 
 ![](../../.gitbook/assets/Case-Studies-PUDO_Configuration_timestamp_3_to_01.png)
 
-#### How To: Upload the PUDO List
+## Upload the PUDO list
 
 1. Navigate to the **PUDO** page in the **Configuration** module.
 
@@ -60,7 +60,7 @@ PUDO (Pickup and Drop-off Points) allows drivers to leave packages at secure loc
 
 ![](../../.gitbook/assets/Case-Studies-PUDO_Configuration_timestamp_4_to_02.png)
 
-#### How To: Set Up PUDO Substatuses
+## Set up PUDO substatuses
 
 1. Click the **Substatus** page in the **Configuration** module.
 
@@ -75,7 +75,7 @@ PUDO (Pickup and Drop-off Points) allows drivers to leave packages at secure loc
 
 ![](../../.gitbook/assets/Case-Studies-PUDO_Configuration_timestamp_5_to_09.png)
 
-#### How To: Enable Fallback PUDO on a Mission
+## Enable fallback PUDO on a mission
 
 1. Find the **Fallback delivery in PUDO** field in the **Mission Table**.
 
@@ -87,9 +87,25 @@ PUDO (Pickup and Drop-off Points) allows drivers to leave packages at secure loc
 
 ![](../../.gitbook/assets/Case-Studies-PUDO_Configuration_timestamp_6_to_08.png)
 
-#### Productivity Tips
+## Tips
 
-* 💡 **Multi-Mission Support**: Use PUDO for both pickup and delivery missions to increase operational flexibility.
-* 💡 **Bulk Updates**: Manage fallback permissions at scale using the **Import template** or the API during mission creation.
-* ⚠️ **Data Maintenance**: Keep the **PUDO list** current or drivers will be unable to find nearby drop-off points.
-* ⚠️ **Type Distinctions**: Always differentiate between stores and lockers as they require different handling processes like **OTP** codes.
+{% hint style="info" %}
+**Multi-Mission Support**: Use PUDO for both pickup and delivery missions to increase operational flexibility.
+{% endhint %}
+
+{% hint style="info" %}
+**Bulk Updates**: Manage fallback permissions at scale using the **Import template** or the API during mission creation.
+{% endhint %}
+
+{% hint style="warning" %}
+**Data Maintenance**: Keep the **PUDO list** current or drivers will be unable to find nearby drop-off points.
+{% endhint %}
+
+{% hint style="warning" %}
+**Type Distinctions**: Always differentiate between stores and lockers as they require different handling processes like **OTP** codes.
+{% endhint %}
+
+## Related topics
+
+* [Delivery at PUDO](delivery-at-pudo.md)
+* [Case Studies](../README.md)

@@ -4,7 +4,9 @@ The Home Screen is the default landing page when you access Nomadia Delivery. It
 
 <figure><img src="../.gitbook/assets/Nomadia_Layout_V1 (7).png" alt=""><figcaption></figcaption></figure>
 
-### Key Areas of the Home Screen
+## Feature overview
+
+Key areas of the Home Screen:
 
 | Code | Section             | Purpose                                                                                                                                                                                 |
 | ---- | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -16,3 +18,10 @@ The Home Screen is the default landing page when you access Nomadia Delivery. It
 | 6    | Subcontractor       | Manage subcontracted partners, assign missions, and monitor their execution and performance.                                                                                            |
 | 7    | Ticket Management   | Handle support tickets, operational issues, and incident tracking within the system.                                                                                                    |
 | 8    | Simulation          | Run simulations to test route planning and operational scenarios before execution.                                                                                                      |
+
+## Related topics
+
+* [Home Page](README.md)
+* [Configure the display of mission’s statuses](configure-the-display-of-missions-statuses.md)
+* [Configure the Display of my KPI](configure-the-display-of-my-kpi.md)
+* [Refresh KPI date and Mission statuses](refresh-kpi-date-and-mission-statuses.md)

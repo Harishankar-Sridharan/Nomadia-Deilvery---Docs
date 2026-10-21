@@ -2,54 +2,7 @@
 
 The **Mission Log** provides a complete audit trail of all activities performed during the lifecycle of a mission. It records key events such as parcel loading, delivery completion, status changes, signatures, photos, timestamps, and user actions. This information helps supervisors and drivers track mission progress and verify delivery operations.
 
-### Accessing the Mission Log
-
-1. Open the required mission from the mission list.
-2. Navigate to the **Mission Details** screen.
-3. Scroll to the **Mission Log** section.
-4. Review the chronological list of events associated with the mission.
-
-### Viewing Mission Log Events
-
-Each log entry displays important information, including:
-
-* Event status (e.g., Loaded, Delivered, Failed Delivery)
-* Date and time of the event
-* User or driver who performed the action
-* Sub-status details
-* Distress information (if applicable)
-* Manual scan indicator
-* Additional proof of execution data
-
-<figure><img src="../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
-
-### Expanding Event Details
-
-Select **Learn more** to view additional information for a specific mission event.
-
-The expanded view may include:
-
-* Sub-status information
-* Distress type
-* Distance from delivery location
-* Manual scan status
-* Additional operational details
-
-<figure><img src="../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
-
-### Viewing Delivery Proof
-
-For completed deliveries, the Mission Log stores proof of execution information that can be reviewed at any time.
-
-The proof of delivery may include:
-
-* Customer signature
-* Driver or worker signature
-* Delivery photographs
-
-<figure><img src="../.gitbook/assets/Mission Logs 1.png" alt=""><figcaption></figcaption></figure>
-
-### Understanding Mission Log Information
+## Feature overview
 
 | Field                  | Description                                                                 |
 | ---------------------- | --------------------------------------------------------------------------- |
@@ -64,7 +17,56 @@ The proof of delivery may include:
 | Worker Signature       | Driver or worker acknowledgment signature.                                  |
 | Picture                | Photo evidence captured during delivery.                                    |
 
-### Key Benefits
+## Accessing the Mission Log
+
+1. Open the required mission from the mission list.
+2. Navigate to the **Mission Details** screen.
+3. Scroll to the **Mission Log** section.
+4. Review the chronological list of events associated with the mission.
+
+## Viewing Mission Log Events
+
+Each log entry displays important information, including:
+
+* Event status (e.g., Loaded, Delivered, Failed Delivery)
+* Date and time of the event
+* User or driver who performed the action
+* Sub-status details
+* Distress information (if applicable)
+* Manual scan indicator
+* Additional proof of execution data
+
+<figure><img src="../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
+
+## Expanding Event Details
+
+1. Select **Learn more** to view additional information for a specific mission event.
+
+<figure><img src="../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
+
+### Result
+
+The expanded view may include:
+
+* Sub-status information
+* Distress type
+* Distance from delivery location
+* Manual scan status
+* Additional operational details
+
+## Viewing Delivery Proof
+
+For completed deliveries, the Mission Log stores proof of execution information that can be reviewed at any time.
+
+The proof of delivery may include:
+
+* Customer signature
+* Driver or worker signature
+* Delivery photographs
+
+<figure><img src="../.gitbook/assets/Mission Logs 1.png" alt=""><figcaption></figcaption></figure>
+
+## Key Benefits
 
 * Provides a complete history of mission activities.
 * Improves delivery traceability and accountability.
@@ -72,4 +74,14 @@ The proof of delivery may include:
 * Helps investigate delivery issues and exceptions.
 * Supports operational auditing and reporting.
 
-**Note:** The information displayed in the Mission Log depends on the actions performed during mission execution and the proof-of-delivery requirements configured for your organization.
+## Tips
+
+{% hint style="info" %}
+**Mission Log content**: The information displayed in the Mission Log depends on the actions performed during mission execution and the proof-of-delivery requirements configured for your organization.
+{% endhint %}
+
+## Related topics
+
+* [Missions](README.md)
+* [Audit Logs](../auditlogs.md)
+* [View a Mission information](understanding-the-missions-page/view-a-mission-information.md)

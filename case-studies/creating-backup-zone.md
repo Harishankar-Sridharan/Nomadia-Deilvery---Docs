@@ -2,25 +2,25 @@
 
 The Backup Zone feature allows you to handle emergency subcontractor no-shows by creating temporary secondary sectors. It enables quick hand-offs of existing missions to available teams without changing your primary infrastructure. This ensures your SLAs are met and deliveries arrive on time despite overnight changes.
 
-#### Getting Started
+## Before you begin
 
 * Access to the **configuration module**.
 * An existing primary subzone requiring backup.
 * A replacement subcontractor available for assignment.
 
-- Navigate to the **configuration module**.
+1. Navigate to the **configuration module**.
 
 ![](../.gitbook/assets/Case-Studies-Creating_Backup_Zone_timestamp_2_to_07.png)
 
-* Click **manage studies and zones**.
+2. Click **manage studies and zones**.
 
 ![](../.gitbook/assets/Case-Studies-Creating_Backup_Zone_timestamp_2_to_09.png)
 
-* Select the **pencil icon** next to the relevant study.
+3. Select the **pencil icon** next to the relevant study.
 
 ![](../.gitbook/assets/Case-Studies-Creating_Backup_Zone_timestamp_2_to_17.png)
 
-#### Feature Overview
+## Feature overview
 
 * **Primary sub-sector**: The original delivery territory assigned to the first subcontractor.
 
@@ -38,7 +38,7 @@ The Backup Zone feature allows you to handle emergency subcontractor no-shows by
 
 ![](../.gitbook/assets/Case-Studies-Creating_Backup_Zone_timestamp_3_to_36.png)
 
-#### How To: Creating a Backup Zone
+## Create a backup zone
 
 1. Click the **primary subzone** you want to back up.
 
@@ -57,7 +57,7 @@ The Backup Zone feature allows you to handle emergency subcontractor no-shows by
 
 ![](../.gitbook/assets/Case-Studies-Creating_Backup_Zone_timestamp_3_to_17.png)
 
-#### How To: Assigning a Backup Subcontractor
+## Assign a backup subcontractor
 
 1. Choose the relevant study.
 
@@ -71,7 +71,7 @@ The Backup Zone feature allows you to handle emergency subcontractor no-shows by
 
 ![](../.gitbook/assets/Case-Studies-Creating_Backup_Zone_timestamp_4_to_29.png)
 
-#### How To: Verifying the Assignment
+## Verify the assignment
 
 1. Navigate to the **subcontractors module**.
 
@@ -85,8 +85,22 @@ The Backup Zone feature allows you to handle emergency subcontractor no-shows by
 
 ![](../.gitbook/assets/Case-Studies-Creating_Backup_Zone_timestamp_5_to_06.png)
 
-#### Productivity Tips
+## Tips
 
-* 💡 **Automatic Synchronization**: System updates happen immediately without manual refreshes after clicking assign.
-* ⚠️ **Existing Missions Update**: Replacement subcontractors cannot see current missions until you update the sector and deliverer info.
-* 💡 **Preserve Infrastructure**: Backup zones are temporary and do not change your primary subzone configurations.
+{% hint style="info" %}
+**Automatic Synchronization**: System updates happen immediately without manual refreshes after clicking assign.
+{% endhint %}
+
+{% hint style="warning" %}
+**Existing Missions Update**: Replacement subcontractors cannot see current missions until you update the sector and deliverer info.
+{% endhint %}
+
+{% hint style="info" %}
+**Preserve Infrastructure**: Backup zones are temporary and do not change your primary subzone configurations.
+{% endhint %}
+
+## Related topics
+
+* [Case Studies](README.md)
+* [Subcontractor Swap to Backup Zone](subcontractor-swap-to-backup-zone.md)
+* [Subcontractor Swap to Primary Zone](subcontractor-swap-to-primary-zone.md)

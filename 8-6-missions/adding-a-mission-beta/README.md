@@ -1,132 +1,120 @@
 # Adding a Mission
 
-1. The Add interface introduces a simplified, single-page mission creation experience in Nomadia Delivery. Designed to minimize repetitive steps and improve clarity, this interface replaces the traditional multi-step wizard with a unified view that brings together all mission parameters, constraints, and dependencies in one place.
-   * **Custom Field Grouping**: Custom fields can now be grouped under a defined group name. During mission creation, these fields are displayed together under their respective group.
-   * **Group Ordering**: Custom field groups can be reordered using drag-and-drop while creating or editing a configuration.
-   * **Sorting Fields Within Groups**: Custom fields can be sorted based on Name or Identifier for custom ordering.
-   * **Custom Fields for Parcels**: Custom fields can now be associated with individual parcels when duplicating missions.
-   * **Group Missions in a Container**: Duplicated missions can be grouped within a parent container.
-   * **Immediate Document Attachment**: The Add Document page appears immediately after mission creation to attach documents.
+The Add interface introduces a simplified, single-page mission creation experience in Nomadia Delivery. It is designed to minimize repetitive steps and improve clarity. It replaces the traditional multi-step wizard with a unified view that brings together all mission parameters, constraints, and dependencies in one place.
 
-To arrange custom field groups in the desired order:
+## Feature overview
 
-* **Open Nomadia Delivery → Go to Configuration**
-  * Launch the Nomadia Delivery application.
-  * Click on the **Configuration** tab from the top navigation bar.
+* **Custom Field Grouping**: Custom fields can now be grouped under a defined group name. During mission creation, these fields are displayed together under their respective group.
+* **Group Ordering**: Custom field groups can be reordered using drag-and-drop while creating or editing a configuration.
+* **Sorting Fields Within Groups**: Custom fields can be sorted based on Name or Identifier for custom ordering.
+* **Custom Fields for Parcels**: Custom fields can now be associated with individual parcels when duplicating missions.
+* **Group Missions in a Container**: Duplicated missions can be grouped within a parent container.
+* **Immediate Document Attachment**: The Add Document page appears immediately after mission creation to attach documents.
+
+## Arrange custom field groups in the desired order
+
+1. Launch the Nomadia Delivery application and click the **Configuration** tab from the top navigation bar.
 
 <figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
-* **Navigate to Missions**
-  * Inside Configuration, select the **Missions** tab.
-  * This section displays all mission-related settings.
+2. Inside Configuration, select the **Missions** tab. This section displays all mission-related settings.
 
 <figure><img src="../../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
 
-* **Click Actions → Add**
-  * Click the **Actions** button (top right or toolbar).
-  * Select **Add** to create a new mission configuration.
+3. Click the **Actions** button (top right or toolbar) and select **Add** to create a new mission configuration.
 
 <figure><img src="../../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
 
-* **Choose Mission Type and Agency**
-  * Select the appropriate **Mission Type** from the dropdown.
-  * Choose the relevant **Agency** for which the mission applies.
-* **Click Next**
-  * Review the selected details.
-  * Click **Next** to proceed to configuration settings.
+4. Select the appropriate **Mission Type** from the dropdown.
+5. Choose the relevant **Agency** for which the mission applies.
+6. Review the selected details and click **Next** to proceed to configuration settings.
 
 <figure><img src="../../.gitbook/assets/image (27) (1).png" alt=""><figcaption></figcaption></figure>
 
-* **Edit Mission Configuration**
-  * Click the **Pencil (Edit) icon** in the configuration screen.
-  * This enables editing of fields and display settings.
+7. Click the **Pencil (Edit) icon** in the configuration screen. This enables editing of fields and display settings.
 
 <figure><img src="../../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
 
-* Expand the **Custom fields** accordion:
-  * All custom field groups are displayed as separate accordions.
-  * Click a group to expand it.
-  * Fields belonging to that group are listed.
-*   **Select Fields to Display**
+8. Expand the **Custom fields** accordion. All custom field groups are displayed as separate accordions.
+9. Click a group to expand it. Fields belonging to that group are listed.
+10. Choose the required fields to display (for example, address, contact, delivery notes). The mission form updates automatically based on the selected fields.
 
-    * Choose the required fields (e.g., address, contact, delivery notes).
+<figure><img src="../../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="../../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
-* The mission form updates automatically based on selected fields.
-*   Use drag and drop to:
+11. Use drag and drop to reorder custom field groups and control how they appear in the mission creation form.
 
-    * Reorder custom field groups.
-    * Control how they appear in the mission creation form.
+<figure><img src="../../.gitbook/assets/image (33) (1).png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="../../.gitbook/assets/image (33) (1).png" alt=""><figcaption></figcaption></figure>
-*   To change field order within a group:
+12. To change field order within a group, enable fields using identifier or name.
 
-    * Enable fields using identifier or name.
+<figure><img src="../../.gitbook/assets/image (34) (1).png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="../../.gitbook/assets/image (34) (1).png" alt=""><figcaption></figcaption></figure>
-*   Configure mandatory fields:
+13. Toggle required fields as needed to configure mandatory fields.
 
-    * Toggle required fields as needed.
+<figure><img src="../../.gitbook/assets/image (35) (1).png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="../../.gitbook/assets/image (35) (1).png" alt=""><figcaption></figcaption></figure>
-* Click **Save** to apply changes.
+14. Click **Save** to apply changes.
 
 <figure><img src="../../.gitbook/assets/image (36) (1).png" alt=""><figcaption></figcaption></figure>
 
-* The same procedure can be used to activate custom fields for parcels.
+You can use the same procedure to activate custom fields for parcels.
 
-To group missions within a container:
+## Group missions within a container
 
-* Open the Nomadia Delivery application and navigate to the Configuration tab.
-* Go to the **Missions** tab.
-* Click **Actions → Add (beta)**.
-* Choose the mission type and agency, then click **Next**.
-* Click the **Pencil icon** to edit the mission configuration.
-*   From **Group your parcels**:
+1. Open the Nomadia Delivery application and navigate to the **Configuration** tab.
+2. Go to the **Missions** tab.
+3. Click **Actions → Add (beta)**.
+4. Choose the mission type and agency, then click **Next**.
+5. Click the **Pencil icon** to edit the mission configuration.
+6. From **Group your parcels**, select one of the following options:
+   * **Yes**: Automatically group missions when multiple parcels are added.
+   * **No**: Do not group missions.
+   * **Optional**: Let the user decide during mission creation.
 
-    * **Yes**: Automatically group missions when multiple parcels are added.
-    * **No**: Do not group missions.
+<figure><img src="../../.gitbook/assets/image (37) (1).png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="../../.gitbook/assets/image (37) (1).png" alt=""><figcaption></figcaption></figure>
+7. If you selected **Yes**, choose the default container type. Only aggregable containers are displayed.
 
-    * **Optional**: Let the user decide during mission creation.
-*   If **Yes** is selected:
+<figure><img src="../../.gitbook/assets/image (38) (1).png" alt=""><figcaption></figcaption></figure>
 
-    * Choose the default container type.
-    * Only aggregable containers will be displayed.
-
-    <figure><img src="../../.gitbook/assets/image (38) (1).png" alt=""><figcaption></figcaption></figure>
-* Click **Save** to apply changes.
+8. Click **Save** to apply changes.
 
 <figure><img src="../../.gitbook/assets/image (36) (1).png" alt=""><figcaption></figcaption></figure>
 
-To add documents right after mission creation:
+## Add documents right after mission creation
 
-* Open the Nomadia Delivery application and navigate to the Configuration tab.
-* Go to the **Missions** tab.
-* Click **Actions → Add (beta)**.
-* Select mission type and agency, then click **Next**.
-* Click the **Pencil icon** to edit the configuration.
-* Enable the **Add documents** toggle.
+1. Open the Nomadia Delivery application and navigate to the **Configuration** tab.
+2. Go to the **Missions** tab.
+3. Click **Actions → Add (beta)**.
+4. Select the mission type and agency, then click **Next**.
+5. Click the **Pencil icon** to edit the configuration.
+6. Enable the **Add documents** toggle.
 
 <figure><img src="../../.gitbook/assets/image (40) (1).png" alt=""><figcaption></figcaption></figure>
 
-* Click **Save** to apply changes.
+7. Click **Save** to apply changes.
 
 <figure><img src="../../.gitbook/assets/image (36) (1).png" alt=""><figcaption></figcaption></figure>
 
-* If enabled:
-  * The system prompts to add documents immediately after mission creation.
-  *   Documents can be added from:
+8. When the toggle is enabled, the system prompts you to add documents immediately after mission creation. Add documents from one of the following sources:
+   * Local computer
+   * Document library
 
-      * Local computer
-      * Document library
+<figure><img src="../../.gitbook/assets/image (42) (1).png" alt=""><figcaption></figcaption></figure>
 
-      <figure><img src="../../.gitbook/assets/image (42) (1).png" alt=""><figcaption></figcaption></figure>
-* Click **Save** to attach documents.
+9. Click **Save** to attach documents.
 
 <figure><img src="../../.gitbook/assets/image (43) (1).png" alt=""><figcaption></figcaption></figure>
 
-* Documents are successfully added to the mission.
+### Result
+
+Documents are successfully added to the mission.
 
 <figure><img src="../../.gitbook/assets/image (44) (1).png" alt=""><figcaption></figcaption></figure>
+
+## Related topics
+
+* [Missions](../README.md)
+* [Customize the Validation of Mission form fields](customizethevalidationofmissionformfields.md)
+* [Grouping Custom Field](../custom-fields/grouping-custom-field.md)
+* [Mission Creation Configuration](../mission-creation-configuration.md)

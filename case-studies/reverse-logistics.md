@@ -2,16 +2,16 @@
 
 Nomadia Delivery integrates reverse logistics directly into your standard mission lifecycle. This feature allows you to trigger, plan, and execute returns without leaving the platform. You will achieve full visibility and optimized routing for every return journey.
 
-#### Getting Started
+## Before you begin
 
 * Access to the **Nomadia Delivery Back Office**.
 * The **Mission Identifier** of the failed or uncollected delivery.
 * API access to the **Reverse Logistics** endpoint.
 
-- Open the **Back Office** and locate the specific route containing the mission to return.
-- Identify if the item needs to go to the original sender or just the agency.
+1. Open the **Back Office** and locate the specific route containing the mission to return.
+2. Identify if the item needs to go to the original sender or just the agency.
 
-#### Feature Overview
+## Feature overview
 
 * **Mission Identifier**: A unique code with an **\_r** suffix used to track returns back to their origin.
 
@@ -23,7 +23,7 @@ Nomadia Delivery integrates reverse logistics directly into your standard missio
 
 ![](../.gitbook/assets/Case-Studies-Reverse_Logistics_timestamp_4_to_11.png)
 
-#### How To: Create a Cross Docking Return
+## Create a cross docking return
 
 Use this task when the item must return to the original sender via the agency.
 
@@ -41,7 +41,7 @@ Use this task when the item must return to the original sender via the agency.
 6. **Refresh** the **Back Office** UI to see the new mission with the **\_r** suffix.
 7. Include the new **Cross-docking** mission in the next planning cycle for optimization.
 
-#### How To: Create a Delivery Return
+## Create a delivery return
 
 Use this task when the item only needs to reach the agency for sender collection.
 
@@ -52,8 +52,22 @@ Use this task when the item only needs to reach the agency for sender collection
 5. Select **Execute** to create the mission.
 6. Refresh the **Back Office** interface to view the new mission with the `_r` suffix..
 
-#### Productivity Tips
+## Tips
 
-* 💡 **Unified Tracking**: Use the **\_r** suffix to instantly link any return to its original forward delivery.
-* 💡 **Seamless Planning**: Treat return missions like standard missions to include them in automated route optimization.
-* ⚠️ **Manual Workarounds**: Avoid using spreadsheets to track returns outside the system to prevent data chaos.
+{% hint style="info" %}
+**Unified Tracking**: Use the **\_r** suffix to instantly link any return to its original forward delivery.
+{% endhint %}
+
+{% hint style="info" %}
+**Seamless Planning**: Treat return missions like standard missions to include them in automated route optimization.
+{% endhint %}
+
+{% hint style="warning" %}
+**Manual Workarounds**: Avoid using spreadsheets to track returns outside the system to prevent data chaos.
+{% endhint %}
+
+## Related topics
+
+* [Case Studies](README.md)
+* [Multi Leg Missions](multi-leg-missions.md)
+* [Cross Docking Missions](../8-6-missions/cross-docking-missions.md)

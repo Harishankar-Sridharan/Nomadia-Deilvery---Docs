@@ -2,24 +2,24 @@
 
 The Reduced Fixed Duration feature optimizes bulk deliveries by adjusting time estimates for multiple packages at a single location. It eliminates "paper" time gaps that occur when the system overestimates the duration of subsequent drops. This allows you to plan more missions daily and maximize your actual fleet capacity.
 
-#### Getting Started
+## Before you begin
 
 * Missions sharing a **Delivery Address**, **Pickup Address**, or **Group Identifier**.
-* Operational data regarding realistic delivery times for first and subsequent packages.**Steps**:
+* Operational data regarding realistic delivery times for first and subsequent packages.
 
-- Open the **Configuration** module.
+1. Open the **Configuration** module.
 
 ![](../.gitbook/assets/Case-Studies-Reduced_Fixed_Duration_timestamp_2_to_57.png)
 
-* Find the **Route** section in the left panel.
+2. Find the **Route** section in the left panel.
 
 ![](../.gitbook/assets/Case-Studies-Reduced_Fixed_Duration_timestamp_3_to_00.png)
 
-* Click on **Settings**.
+3. Click **Settings**.
 
 ![](../.gitbook/assets/Case-Studies-Reduced_Fixed_Duration_timestamp_3_to_03.png)
 
-#### Feature Overview
+## Feature overview
 
 * **Processing time for parcels**: This section defines how the optimization engine calculates time for grouped stops.
 
@@ -33,7 +33,7 @@ The Reduced Fixed Duration feature optimizes bulk deliveries by adjusting time e
 
 ![](../.gitbook/assets/Case-Studies-Reduced_Fixed_Duration_timestamp_3_to_29.png)
 
-#### How To: Set Up Reduced Fixed Duration
+## Set up reduced fixed duration
 
 1. Navigate to **Configuration** > **Route** > **Settings**.
 
@@ -46,7 +46,7 @@ The Reduced Fixed Duration feature optimizes bulk deliveries by adjusting time e
 
 ![](../.gitbook/assets/Case-Studies-Reduced_Fixed_Duration_timestamp_3_to_56.png)
 
-#### How To: Apply Optimized Durations
+## Apply optimized durations
 
 1. Open the **Mission** tab.
 
@@ -68,8 +68,22 @@ The Reduced Fixed Duration feature optimizes bulk deliveries by adjusting time e
 
 <figure><img src="../.gitbook/assets/ApplicationFrameHost_usxrb4BWl6.png" alt=""><figcaption></figcaption></figure>
 
-#### Productivity Tips
+## Tips
 
-* 💡 **Capacity Gains**: Matching system data to road reality unlocks capacity for missions that otherwise remain unassigned.
-* 💡 **Automatic Grouping**: The system automatically identifies stops at the same address even without a specific group identifier.
-* ⚠️ **Lost Productivity**: Using default settings for bulk orders overestimates route times and reduces your daily delivery volume.
+{% hint style="info" %}
+**Capacity Gains**: Matching system data to road reality unlocks capacity for missions that otherwise remain unassigned.
+{% endhint %}
+
+{% hint style="info" %}
+**Automatic Grouping**: The system automatically identifies stops at the same address even without a specific group identifier.
+{% endhint %}
+
+{% hint style="warning" %}
+**Lost Productivity**: Using default settings for bulk orders overestimates route times and reduces your daily delivery volume.
+{% endhint %}
+
+## Related topics
+
+* [Case Studies](README.md)
+* [Optimizing missions for Agency](optimizing-missions-for-agency.md)
+* [Route Blocking Settings](route-blocking-settings.md)

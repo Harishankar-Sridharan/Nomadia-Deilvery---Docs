@@ -2,19 +2,20 @@
 
 Transform map shapes into operational territories by assigning them to specific teams and deliverers. This process ensures every delivery stop has a clear owner and synchronizes data across the entire platform. By completing these assignments, you make the delivery zones live and ready for daily operations.
 
-#### Getting Started
+## Before you begin
 
-* Navigate to the study table:
-  * Ensure subzones are created and geographically balanced
-  * Confirm all internal and subcontractor deliverers are registered in the system
+* Ensure subzones are created and geographically balanced.
+* Confirm all internal and subcontractor deliverers are registered in the system.
+
+1. Navigate to the study table.
 
 ![](../.gitbook/assets/Case-Studies-assigning_sub_zones_timestamp_0_to_54.png)
 
-* Select the specific study to assign.
+2. Select the specific study to assign.
 
 ![](../.gitbook/assets/Case-Studies-assigning_sub_zones_timestamp_0_to_58_to_1_to_04.gif)
 
-#### Feature Overview
+## Feature overview
 
 * **Actions menu**: Access the core assignment tools for your selected study.
 
@@ -32,7 +33,7 @@ Transform map shapes into operational territories by assigning them to specific 
 
 <figure><img src="../.gitbook/assets/ApplicationFrameHost_qxp0Fd69vl.png" alt=""><figcaption></figcaption></figure>
 
-#### How To: Assign Subzones and Verify Synchronization
+## Assign subzones and verify synchronization
 
 1. Open the **Actions menu** and click **assign**.
 
@@ -63,8 +64,22 @@ Transform map shapes into operational territories by assigning them to specific 
 
 ![](../.gitbook/assets/Case-Studies-assigning_sub_zones_timestamp_4_to_59_to_5_to_11.gif)
 
-#### Productivity Tips
+## Tips
 
-* 💡 **Delegated Assignment**: Grant subcontractors rights to assign subzones so they can manage their own internal deliverers.
-* 💡 **Instant Sync**: System data flows automatically across the platform without needing a manual refresh or sync.
-* ⚠️ **Unassigned Zones**: Avoid leaving subzones unassigned as they remain non-operational shapes on the map without owners.
+{% hint style="info" %}
+**Delegated Assignment**: Grant subcontractors rights to assign subzones so they can manage their own internal deliverers.
+{% endhint %}
+
+{% hint style="info" %}
+**Instant Sync**: System data flows automatically across the platform without needing a manual refresh or sync.
+{% endhint %}
+
+{% hint style="warning" %}
+**Unassigned Zones**: Avoid leaving subzones unassigned as they remain non-operational shapes on the map without owners.
+{% endhint %}
+
+## Related topics
+
+* [Case Studies](README.md)
+* [Assigning zones to missions](assigning-zones-to-missions.md)
+* [Reassign Zones Manually](reassign-zones-manually.md)

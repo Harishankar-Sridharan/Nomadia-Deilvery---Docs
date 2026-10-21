@@ -2,25 +2,25 @@
 
 Merging sub-zones recombines divided territories once a demand surge has passed. This feature helps you maintain a lean zone structure and ensures efficient driver routes. By merging, you reduce planning overhead and return to a simplified one-driver, one-territory configuration.
 
-#### Getting Started
+## Before you begin
 
 * Ensure you have access to the **Configuration** module.
 * Identify the **Primary Zone** containing the sub-zones you want to merge.
 * The **Primary Zone** must have the assignment mode set to **primary sector**.
 
-- Click on the **Configuration** module in the main navigation.
+1. Click the **Configuration** module in the main navigation.
 
 ![](../../.gitbook/assets/Case-Studies-Merging_Sub_Zones_timestamp_1_to_57.png)
 
-* Select **Manage studies and zones** from the menu.
+2. Select **Manage studies and zones** from the menu.
 
 <figure><img src="../../.gitbook/assets/msedge_8t8fJmjs0a.png" alt=""><figcaption></figcaption></figure>
 
-* Click **Edit** on the specific study containing your sub-zones.
+3. Click **Edit** on the specific study containing your sub-zones.
 
 <figure><img src="../../.gitbook/assets/msedge_N0jhAIrqNM.png" alt=""><figcaption></figcaption></figure>
 
-#### Feature Overview
+## Feature overview
 
 * **Primary Zone**: The high-level territory required to view and manage all contained sub-zones simultaneously.
 
@@ -42,7 +42,7 @@ Merging sub-zones recombines divided territories once a demand surge has passed.
 
 ![](../../.gitbook/assets/Case-Studies-Merging_Sub_Zones_timestamp_3_to_12.png)
 
-#### How To: Merge Sub-Zones
+## Merge sub-zones
 
 1. Navigate to the **Zones** tab.
 2. Select the **Primary Zone**.
@@ -89,8 +89,22 @@ Merging sub-zones recombines divided territories once a demand surge has passed.
 
 ![](../../.gitbook/assets/Case-Studies-Merging_Sub_Zones_timestamp_4_to_09.png)
 
-#### Productivity Tips
+## Tips
 
-* 💡 **Operational Efficiency**: Recombine zones as soon as demand normalizes to avoid half-empty routes.
-* 💡 **Consistent Naming**: Choose the identifier your team is most familiar with when prompted during a merge.
-* ⚠️ **Selection Level**: Never select a sub-zone level to start a merge; the merge option will not appear.
+{% hint style="info" %}
+**Operational Efficiency**: Recombine zones as soon as demand normalizes to avoid half-empty routes.
+{% endhint %}
+
+{% hint style="info" %}
+**Consistent Naming**: Choose the identifier your team is most familiar with when prompted during a merge.
+{% endhint %}
+
+{% hint style="warning" %}
+**Selection Level**: Never select a sub-zone level to start a merge; the merge option will not appear.
+{% endhint %}
+
+## Related topics
+
+* [Sub sectorize primary zone](README.md)
+* [Dividing Sub Zones](dividing-sub-zones.md)
+* [Case Studies](../README.md)

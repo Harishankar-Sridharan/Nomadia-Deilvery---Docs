@@ -4,19 +4,31 @@ Fields can be organized within their respective blocks/sections to structure the
 
 Blocks or sections can be reordered using drag-and-drop functionality. Any changes made through drag-and-drop are automatically synchronized with the visibility and order displayed in the left-hand side user interface.
 
-1. Go to **Manage Missions**
+## Feature overview
+
+The available information blocks are:
+
+* **General Information**
+* **Pickup Information**
+* **Delivery Information**
+* **PUDO Information**
+* **Custom Fields**
+
+## Configure the mission creation layout
+
+1. Go to **Manage Missions**.
 
 <figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
-2. Click **Add Mission**
+2. Click **Add Mission**.
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-3. Enter the **Mission type, Agency**
+3. Enter the **Mission type, Agency**.
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-4. Click **Next**
+4. Click **Next**.
 
 <figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -24,15 +36,10 @@ Blocks or sections can be reordered using drag-and-drop functionality. Any chang
 
 <figure><img src="../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-6.  View the available information blocks:
+6. View the available information blocks.
 
-    * **General Information**
-    * **Pickup Information**
-    * **Delivery Information**
-    * **PUDO Information**
-    * **Custom Fields**
+<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 7. Configure fields within each block: Set fields as editable, read-only, or disabled.
 
 <figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
@@ -40,17 +47,23 @@ Blocks or sections can be reordered using drag-and-drop functionality. Any chang
 8. Use drag and drop to:
    * Reorder fields within a block.
    * Group multiple fields into a single container using the six-dot handle.
-   *   Group the duplicated parcels in one container:
+   * Group the duplicated parcels in one container:
+     * Selecting **Yes** automatically creates a mission based on the type selected below.
+     * Selecting **No** prevents automatic mission creation.
+     * Optional — The user is prompted with this option during mission creation.
 
-       * Selecting **Yes** automatically creates a mission based on the type selected below.
-       * Selecting **No** prevents automatic mission creation.
-       * Optional — The user is prompted with this option during mission creation.
+<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-       <figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 9. Expand or collapse blocks as needed.
 
 <figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-10. **Save** the new mission configuration.
+10. Click **Save** to save the new mission configuration.
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+## Related topics
+
+* [Missions](README.md)
+* [Customize Mission Block Labels](../customizemissionblocklabels.md)
+* [Customize the Validation of Mission form fields](adding-a-mission-beta/customizethevalidationofmissionformfields.md)

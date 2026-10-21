@@ -1,6 +1,8 @@
 # Rescheduling by Customer
 
-To send email notifications to the end customer, follow these steps:
+Use this feature to let end customers receive email notifications about their delivery and reschedule a mission to a slot that suits them.
+
+## Send email notifications to the end customer
 
 1. Navigate to the **Missions** tab and assign a mission to a deliverer.
 2. Click the **Actions** menu and select **Publish on Mobile App.**
@@ -11,39 +13,53 @@ To send email notifications to the end customer, follow these steps:
 
 ![](<../../.gitbook/assets/image-38 (3).png>)
 
-4. A popup will appear confirming that emails have been sent, showing the number of emails delivered.
+4. Check the popup that confirms emails have been sent, showing the number of emails delivered.
 
 ![](<../../.gitbook/assets/image-39 (3).png>)
 
-Please note that the mission has been set up with the delivery/pickup email address, allowing Nomadia Delivery to send email notifications to your end customer.
+The mission must be set up with the delivery/pickup email address, allowing Nomadia Delivery to send email notifications to your end customer.
 
 ![](<../../.gitbook/assets/image-40 (3).png>)
 
-To reschedule a mission, the end customer should follow these steps
+## Reschedule a mission as the end customer
 
-1. On the day of delivery, the customer will receive an email.
+1. On the day of delivery, check the email you receive.
 
 ![](<../../.gitbook/assets/image-41 (3).png>)
 
-2. The customer should click the link in the email to reschedule the mission.
+2. Click the link in the email to reschedule the mission.
 
 ![](<../../.gitbook/assets/image-42 (3).png>)
 
-3. If the proposed date and time are not convenient, the customer can click the **Reschedule** button.
+3. If the proposed date and time are not convenient, click the **Reschedule** button.
 
 ![](<../../.gitbook/assets/image-43 (3).png>)
 
-4. The customer can then choose any of the available slots suggested by the real-time optimization engine.
+4. Choose any of the available slots suggested by the real-time optimization engine.
 
 ![](<../../.gitbook/assets/image-44 (3).png>)
 
-5. Time slots marked with a green leaf indicate eco-friendly options, showing that a deliverer will be nearby at that time, making it the most optimal choice.
-6. After selecting a preferred slot, the customer should click the **Choose** button.
+5. Select your preferred slot.
+6. Click the **Choose** button.
 
 ![](<../../.gitbook/assets/image-45 (3).png>)
 
-7. A confirmation of the selected slot is sent to the end customer.
+7. Check the confirmation of the selected slot that is sent to you.
 
 ![](<../../.gitbook/assets/image-46 (3).png>)
 
-8. The route plan is automatically updated based on the customer’s chosen slot.
+### Result
+
+The route plan is automatically updated based on the customer’s chosen slot.
+
+## Tips
+
+{% hint style="info" %}
+**Eco-friendly slots**: Time slots marked with a green leaf indicate eco-friendly options, showing that a deliverer will be nearby at that time, making it the most optimal choice.
+{% endhint %}
+
+## Related topics
+
+* [Booking Portal](../README.md)
+* [Reschedule Configuration](../allow-customers-to-reschedule.md)
+* [Reschedule a Pre-Booked Slot Multiple Times](prebookingtheslotmultipletimes.md)

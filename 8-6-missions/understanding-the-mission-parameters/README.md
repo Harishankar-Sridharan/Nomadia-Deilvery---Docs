@@ -1,24 +1,20 @@
 # Understanding the Mission Parameters
 
-### Understanding the mission parameters
+Mission parameters are the core data elements that define the characteristics, objectives, and execution details of each mission. Understanding these parameters is essential for ensuring that missions are properly configured, assigned, and executed in the field.
 
-Mission Parameters are the core data elements that define the characteristics, objectives, and execution details of each mission. Understanding these parameters is essential for ensuring that missions are properly configured, assigned, and executed in the field.
+These parameters provide both operational and logistical information used by coordinators, dispatchers, and deliverers.
 
-These parameters provide both operational and logistical information used by
+## Access mission parameters
 
-coordinators, dispatchers, and deliverers.
+From the **Mission page**:
 
-#### Access Mission Parameters
-
-From the **Mission page**
-
-1. Click the **pencil** icon next to the mission you want to edit
+1. Click the **pencil** icon next to the mission you want to edit.
 
 ![](<../../.gitbook/assets/image-6 (3).png>)
 
-#### Mission parameters description
+## Feature overview
 
-## Mission Parameters Tab
+### Mission Parameters Tab
 
 | Section     | Parameter                           | Description                                                                   |
 | ----------- | ----------------------------------- | ----------------------------------------------------------------------------- |
@@ -121,3 +117,9 @@ From the **Mission page**
 | Section  | Parameter      | Description                                     |
 | -------- | -------------- | ----------------------------------------------- |
 | **Logs** | Mission Events | Timeline of all mission events with timestamps. |
+
+## Related topics
+
+* [Manage Missions](manage-missions.md)
+* [Missions](../README.md)
+* [Understanding the Missions Page](../understanding-the-missions-page/README.md)

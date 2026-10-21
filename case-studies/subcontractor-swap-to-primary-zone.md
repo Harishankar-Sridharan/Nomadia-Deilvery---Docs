@@ -2,16 +2,16 @@
 
 Reversing a subcontractor swap allows you to quickly restore missions to their original primary zone configuration. This process is essential if a swap was made in error or if a delayed subcontractor finally arrives at the depot. You will achieve a full restoration of sectors, subcontractors, and drivers across all missions in a single action.
 
-#### Getting Started
+## Before you begin
 
 * Access to the **Mission** tab.
 * Missions must be currently assigned to a secondary (backup) zone.
 
-- Navigate to the **Mission** tab.
+1. Navigate to the **Mission** tab.
 
 ![](../.gitbook/assets/Case-Studies-Subcontractor_Swap_to_Primary_Zone_timestamp_0_to_44.png)
 
-#### Feature Overview
+## Feature overview
 
 * **Filter Panel**: Use this panel to isolate missions assigned to specific sectors or subcontractors.
 
@@ -29,7 +29,7 @@ Reversing a subcontractor swap allows you to quickly restore missions to their o
 
 ![](../.gitbook/assets/Case-Studies-Subcontractor_Swap_to_Primary_Zone_timestamp_1_to_34.png)
 
-#### How To: Restore Missions to the Primary Zone
+## Restore missions to the primary zone
 
 1. Navigate to the **Filter Panel**.
 
@@ -59,7 +59,7 @@ Reversing a subcontractor swap allows you to quickly restore missions to their o
 
 ![](../.gitbook/assets/Case-Studies-Subcontractor_Swap_to_Primary_Zone_timestamp_2_to_02_to_2_to_09.gif)
 
-#### How To: Verify the Restoration
+## Verify the restoration
 
 1. Clear the backup zone filter from the mission table.
 
@@ -73,9 +73,26 @@ Reversing a subcontractor swap allows you to quickly restore missions to their o
 
 ![](../.gitbook/assets/Case-Studies-Subcontractor_Swap_to_Primary_Zone_timestamp_2_to_54.png)
 
-#### Productivity Tips
+## Tips
 
-* 💡 **One-Toggle Restoration**: Reverting a swap is exactly as fast as making one by switching a single toggle.
-* 💡 **Automatic Driver Relinking**: The original driver is automatically relinked to the missions when you restore the primary zone.
-* 💡 **Bulk Efficiency**: Undo hundreds of mission assignments in seconds without manual editing or data re-importing.
-* ⚠️ **Verification via Empty Table**: If the mission table appears empty after clicking apply, it confirms the backup filter no longer applies to those missions.
+{% hint style="info" %}
+**One-Toggle Restoration**: Reverting a swap is exactly as fast as making one by switching a single toggle.
+{% endhint %}
+
+{% hint style="info" %}
+**Automatic Driver Relinking**: The original driver is automatically relinked to the missions when you restore the primary zone.
+{% endhint %}
+
+{% hint style="info" %}
+**Bulk Efficiency**: Undo hundreds of mission assignments in seconds without manual editing or data re-importing.
+{% endhint %}
+
+{% hint style="warning" %}
+**Verification via Empty Table**: If the mission table appears empty after clicking apply, it confirms the backup filter no longer applies to those missions.
+{% endhint %}
+
+## Related topics
+
+* [Case Studies](README.md)
+* [Subcontractor Swap to Backup Zone](subcontractor-swap-to-backup-zone.md)
+* [Creating Backup Zone](creating-backup-zone.md)

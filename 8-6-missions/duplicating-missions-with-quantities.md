@@ -1,8 +1,8 @@
 # Duplicating Missions with Quantities
 
-This guide explains how contractors and transporters can duplicate missions with quantities in Nomadia Delivery. The feature simplifies the handling of multiple items, enhancing both efficiency and accuracy in mission management.
+Contractors and transporters can duplicate missions with quantities in Nomadia Delivery. The feature simplifies the handling of multiple items, enhancing both efficiency and accuracy in mission management.
 
-Steps to duplicate missions with quantities:
+## Duplicate missions with quantities
 
 1. Open the Nomadia Delivery application and go to the **Missions** tab.
 
@@ -17,7 +17,7 @@ Steps to duplicate missions with quantities:
 
 <figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
-5. To add a new parcel with different values, click the “**+**” symbol.
+5. To add a new parcel with different values, click the **+** symbol.
 
 <figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
@@ -33,6 +33,13 @@ Steps to duplicate missions with quantities:
 
 <figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
-9. The duplicated missions will now appear in the mission table.
+### Result
+
+The duplicated missions appear in the mission table.
 
 <figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+
+## Related topics
+
+* [Missions](README.md)
+* [Mission Creation Configuration](mission-creation-configuration.md)

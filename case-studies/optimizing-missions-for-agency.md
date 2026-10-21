@@ -2,24 +2,25 @@
 
 Nomadia Delivery automates the process from mission selection to optimized route creation. This feature reduces fuel costs and CO2 emissions by eliminating inefficient sequencing. Planners achieve achievable routes for drivers with minimal manual intervention.
 
-#### Getting Started
+## Before you begin
 
 * Zones must be built and sectors assigned.
 * Deliverers must be mapped and configured in the system.
 * Missions must be geocoded and loaded.
-* Navigate to the **Mission tab**.
+
+1. Navigate to the **Mission tab**.
 
 ![](../.gitbook/assets/Case-Studies-optimizing_missions_for_agency_timestamp_1_to_22.png)
 
-* Click the **Action menu**.
+2. Click the **Action menu**.
 
 <figure><img src="../.gitbook/assets/ApplicationFrameHost_YYdcpykWLc.png" alt=""><figcaption></figcaption></figure>
 
-* Select **Automatic optimization by agencies**.
+3. Select **Automatic optimization by agencies**.
 
 ![](../.gitbook/assets/Case-Studies-optimizing_missions_for_agency_timestamp_1_to_35_to_1_to_46.gif)
 
-#### Feature Overview
+## Feature overview
 
 * **From date** and **To date**: Define the specific time window for missions.
 
@@ -45,7 +46,7 @@ Nomadia Delivery automates the process from mission selection to optimized route
 
 ![](../.gitbook/assets/Case-Studies-optimizing_missions_for_agency_timestamp_6_to_43.png)
 
-#### How To: Launch Optimization
+## Launch optimization
 
 1. Click the **Action menu**.
 
@@ -71,7 +72,7 @@ Nomadia Delivery automates the process from mission selection to optimized route
 
 ![](../.gitbook/assets/Case-Studies-optimizing_missions_for_agency_timestamp_3_to_04.png)
 
-#### How To: Configure Validation and Notifications
+## Configure validation and notifications
 
 1. Toggle **Automatically validate the routes** for high-volume operations.
 
@@ -97,7 +98,7 @@ Nomadia Delivery automates the process from mission selection to optimized route
 
 ![](../.gitbook/assets/Case-Studies-optimizing_missions_for_agency_timestamp_5_to_55.png)
 
-#### How To: Monitor and Review
+## Monitor and review
 
 1. Watch the **Progress bar** for live updates on team optimizations.
 
@@ -112,14 +113,28 @@ Nomadia Delivery automates the process from mission selection to optimized route
 
 ![](../.gitbook/assets/Case-Studies-optimizing_missions_for_agency_timestamp_7_to_41.png)
 
-**Troubleshooting**
+## Troubleshooting
 
-* If an error icon appears, click the **Open the route plan button**.
-* Click the **Warning button** inside the simulation to see the error reason.
-* Identify conflicts like incompatible time windows or vehicle constraint mismatches.
+1. Click the **Open the route plan button** if an error icon appears.
+2. Click the **Warning button** inside the simulation to see the error reason.
+3. Identify conflicts like incompatible time windows or vehicle constraint mismatches.
 
-#### Productivity Tips
+## Tips
 
-* 💡 **Auto-Pull Past Missions**: The system automatically includes missions with delivery dates earlier than today.
-* 💡 **Hands-Free Communication**: Enabling route publishing can trigger automatic customer notifications via SMS and email.
-* ⚠️ **Data Conflicts**: Do not close errors without investigating them as unresolved conflicts may hinder field execution.
+{% hint style="info" %}
+**Auto-Pull Past Missions**: The system automatically includes missions with delivery dates earlier than today.
+{% endhint %}
+
+{% hint style="info" %}
+**Hands-Free Communication**: Enabling route publishing can trigger automatic customer notifications via SMS and email.
+{% endhint %}
+
+{% hint style="warning" %}
+**Data Conflicts**: Do not close errors without investigating them as unresolved conflicts may hinder field execution.
+{% endhint %}
+
+## Related topics
+
+* [Case Studies](README.md)
+* [Assigning zones to missions](assigning-zones-to-missions.md)
+* [Reduced fixed duration](reduced-fixed-duration.md)

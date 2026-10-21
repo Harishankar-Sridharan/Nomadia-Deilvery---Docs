@@ -1,20 +1,18 @@
 # Group missions in one container
 
-### Group missions in one container
-
 This feature allows multiple missions to be grouped into a single parent container, such as a pallet, box, or cardboard container. Grouping facilitates the management of bulk orders for a single customer or location, allowing the system to treat several child missions as part of one parent entity.
 
-**Grouping via Mission Duplication**
+## Group missions via mission duplication
 
-1. Navigate to the Mission tab.
+1. Navigate to the **Mission** tab.
 
 <figure><img src="../.gitbook/assets/image (45) (1).png" alt=""><figcaption></figcaption></figure>
 
-2. Create a new mission from the Actions menu
+2. Create a new mission from the **Actions** menu.
 
 <figure><img src="../.gitbook/assets/image (47) (1).png" alt=""><figcaption></figcaption></figure>
 
-3. Select the mission and use the Duplicate feature. Duplication can be completed within the Parcel section. If the Parcel details are not visible, please enable the Parcel section in the mission configuration.
+3. Select the mission and use the **Duplicate** feature. You can complete duplication within the Parcel section. If the Parcel details are not visible, enable the Parcel section in the mission configuration.
 
 <figure><img src="../.gitbook/assets/image (48) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -22,12 +20,24 @@ This feature allows multiple missions to be grouped into a single parent contain
 
 <figure><img src="../.gitbook/assets/image (49) (1).png" alt=""><figcaption></figcaption></figure>
 
-5. When the system prompts "Group in container?", select Yes.
+5. When the system prompts "Group in container?", select **Yes**.
 
 <figure><img src="../.gitbook/assets/image (50) (1).png" alt=""><figcaption></figcaption></figure>
 
-6. Parent containers and Child missions have been created.
+### Result
+
+Parent containers and child missions are created.
 
 <figure><img src="../.gitbook/assets/image (51) (1).png" alt=""><figcaption></figcaption></figure>
 
-This option is available in the Sub-status configuration.
+## Tips
+
+{% hint style="info" %}
+**Sub-status configuration**: This option is available in the Sub-status configuration.
+{% endhint %}
+
+## Related topics
+
+* [Manage Container Types](README.md)
+* [Container child missions](container-child-missions.md)
+* [Group existing missions in one container](group-existing-missions-in-one-container.md)

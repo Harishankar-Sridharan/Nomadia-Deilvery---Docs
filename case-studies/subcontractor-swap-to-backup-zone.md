@@ -2,7 +2,7 @@
 
 This feature allows you to quickly reassign missions when a primary subcontractor is unavailable. You will remap affected missions to a backup zone and a replacement subcontractor in one action. This ensures your workload remains visible to the replacement team and prevents delivery delays.
 
-#### Getting Started
+## Before you begin
 
 Before starting, ensure the following requirements are met:
 
@@ -10,11 +10,11 @@ Before starting, ensure the following requirements are met:
 * A replacement subcontractor is assigned to that backup zone.
 * You have identified the primary subzone that needs coverage.
 
-- Open the **Missions** tab to begin the swap.
+1. Open the **Missions** tab to begin the swap.
 
 ![](../.gitbook/assets/Case-Studies-Subcontractor_Swap_to_Backup_Zone_timestamp_1_to_51.png)
 
-#### Feature Overview
+## Feature overview
 
 * **Filter panel**: Use this to isolate missions belonging to a specific subzone.
 
@@ -34,7 +34,7 @@ Before starting, ensure the following requirements are met:
 * **Select subcontractor table**: Lists available subcontractors and their geographic coverage for selected missions.
 * **Apply**: Executes the change across all selected mission records.
 
-#### How To: Isolate Affected Missions
+## Isolate affected missions
 
 1. Navigate to the **Filter panel** and type "sector".
 2. Choose the **Among** filter option.
@@ -42,7 +42,7 @@ Before starting, ensure the following requirements are met:
 
 ![](../.gitbook/assets/Case-Studies-Subcontractor_Swap_to_Backup_Zone_timestamp_2_to_06_to_2_to_14.gif)
 
-#### How To: Swap Subcontractors
+## Swap subcontractors
 
 1. Select all missions in the **Mission table**.
 2. Open the **Actions menu** and click **Assign to subcontractor**.
@@ -56,7 +56,7 @@ Before starting, ensure the following requirements are met:
 
 ![](../.gitbook/assets/Case-Studies-Subcontractor_Swap_to_Backup_Zone_timestamp_3_to_18_to_3_to_47.gif)
 
-#### How To: Verify the Swap
+## Verify the swap
 
 1. Return to the **Filter panel** and search for "sector".
 2. Select the **Among** operator.
@@ -65,8 +65,22 @@ Before starting, ensure the following requirements are met:
 
 ![](../.gitbook/assets/Case-Studies-Subcontractor_Swap_to_Backup_Zone_timestamp_4_to_17.png)
 
-#### Productivity Tips
+## Tips
 
-* 💡 **Efficiency**: One single action simultaneously updates the sector, the subcontractor, and the deliverer for all missions.
-* ⚠️ **Driver Routing**: If no deliverer is assigned to the backup zone, the system clears the existing driver. This prevents missions from being routed to drivers no longer responsible for the territory.
-* 💡 **Coverage Validation**: Look for 100% coverage in the subcontractor table to ensure their backup zone matches your selected missions.
+{% hint style="info" %}
+**Efficiency**: One single action simultaneously updates the sector, the subcontractor, and the deliverer for all missions.
+{% endhint %}
+
+{% hint style="warning" %}
+**Driver Routing**: If no deliverer is assigned to the backup zone, the system clears the existing driver. This prevents missions from being routed to drivers no longer responsible for the territory.
+{% endhint %}
+
+{% hint style="info" %}
+**Coverage Validation**: Look for 100% coverage in the subcontractor table to ensure their backup zone matches your selected missions.
+{% endhint %}
+
+## Related topics
+
+* [Case Studies](README.md)
+* [Creating Backup Zone](creating-backup-zone.md)
+* [Subcontractor Swap to Primary Zone](subcontractor-swap-to-primary-zone.md)

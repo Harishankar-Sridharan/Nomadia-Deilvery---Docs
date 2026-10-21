@@ -1,5 +1,9 @@
 # Web - Roles and Rights
 
+Roles and rights control which features a web user can access. Use this reference to see what each role or right allows when enabled.
+
+## Feature overview
+
 | Roles and Rights                          | Description                                                                     |
 | ----------------------------------------- | ------------------------------------------------------------------------------- |
 | Administration                            | When enabled, users can access administrative configuration features.           |
@@ -55,7 +59,7 @@
 | View dashboards                           | When enabled, users can view dashboards and KPI data.                           |
 | Modify dashboards                         | When enabled, users can create and modify dashboards.                           |
 
-#### Password policy for Web Access
+## Password policy for Web Access
 
 The password must include at least three of the following character types:
 
@@ -65,3 +69,9 @@ The password must include at least three of the following character types:
 * Symbols (special characters)
 
 ![](../.gitbook/assets/image-18.png)
+
+## Related topics
+
+* [Manage Users](README.md)
+* [Enabling Web Access](enabling-web-access.md)
+* [Mobile - Roles and Rights](mobile-roles-and-rights.md)

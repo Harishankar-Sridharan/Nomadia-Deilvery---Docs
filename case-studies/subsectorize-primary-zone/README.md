@@ -2,22 +2,22 @@
 
 This feature allows you to split a primary zone into smaller, balanced territories automatically using the territory management module. Dispatchers need this to create fair and logical areas for specific delivery agents or teams. By following this guide, you will achieve three geographically split sub-zones ready for immediate assignment.
 
-#### Getting Started
+## Before you begin
 
 Before you begin sub-sectoring, ensure your system meets these requirements:
 
 * A primary zone must be built with mapped postal codes and defined geography.
 * Historical mission data, including delivery points and coordinates, must be loaded into the mission page.
 
-- Open your **study** and navigate to the **zone tab**.
+1. Open your **study** and navigate to the **zone tab**.
 
 ![](../../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_1_to_35.png)
 
-* Select your **primary zone** from the list.
+2. Select your **primary zone** from the list.
 
 ![](../../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_1_to_42.png)
 
-#### Feature Overview
+## Feature overview
 
 * **Actions menu**: Provides access to the sub-sectorization tool for the selected zone.
 
@@ -47,7 +47,7 @@ Before you begin sub-sectoring, ensure your system meets these requirements:
 
 ![](../../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_5_to_52.png)
 
-#### How To: Create Balanced Sub-zones
+## Create balanced sub-zones
 
 1. Open the **Actions menu** and select **subsectorize**.
 
@@ -97,9 +97,26 @@ Before you begin sub-sectoring, ensure your system meets these requirements:
 
 ![](../../.gitbook/assets/Case-Studies-subsectorize_primary_zone_timestamp_6_to_39.png)
 
-#### Productivity Tips
+## Tips
 
-* 💡 **Intelligent Balancing**: Use historical mission data like stop counts and coordinates to ensure your zones are split accurately based on real-world activity.
-* 💡 **Flexible Indicators**: You can balance territories using any numerical data, such as delivery duration or service time, to match your specific operational needs.
-* 💡 **Visual Verification**: Use the distinct colors on the map to immediately identify and verify the geographic logic of your new sub-zones.
-* ⚠️ **Missing Data Warning**: You cannot perform sub-sectorization if missions are not loaded, as the system will have no data to balance against.
+{% hint style="info" %}
+**Intelligent Balancing**: Use historical mission data like stop counts and coordinates to ensure your zones are split accurately based on real-world activity.
+{% endhint %}
+
+{% hint style="info" %}
+**Flexible Indicators**: You can balance territories using any numerical data, such as delivery duration or service time, to match your specific operational needs.
+{% endhint %}
+
+{% hint style="info" %}
+**Visual Verification**: Use the distinct colors on the map to immediately identify and verify the geographic logic of your new sub-zones.
+{% endhint %}
+
+{% hint style="warning" %}
+**Missing Data Warning**: You cannot perform sub-sectorization if missions are not loaded, as the system will have no data to balance against.
+{% endhint %}
+
+## Related topics
+
+* [Dividing Sub Zones](dividing-sub-zones.md)
+* [Merging Sub Zones](merging-sub-zones.md)
+* [Case Studies](../README.md)
