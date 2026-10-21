@@ -24,7 +24,7 @@ Initial Setup Steps:
 * **Conditional Background Color**: Defines numerical threshold ranges and their corresponding background colors.
 * **Search Button**: Filters mission records by mission number to verify attribute colors.
 
-## How To: Configure Color Coding Rules
+## Configure color coding rules
 
 1. Log into **Nomadia Delivery** and click **Configuration**.
 
@@ -50,7 +50,7 @@ Initial Setup Steps:
 
 ![Click Save to apply the color rules](.gitbook/assets/ColorCoding_ConfigureColorCodingRules_005.png)
 
-## How To: Verify Color Coding in Mission Entry
+## Verify color coding in mission entry
 
 1. Click **Mission** from the main navigation menu.
 2. Click **Add** to create a new mission entry.
@@ -69,7 +69,7 @@ Initial Setup Steps:
 
 ![Click Add to complete saving the Mission entry](.gitbook/assets/ColorCoding_VerifyColorCodingMission_004.gif)
 
-## How To: Verify Color Coding in Mission Table
+## Verify color coding in mission table
 
 1. Navigate back to the main overview screen.
 2. Locate the **Mission Table** view on the screen.
@@ -80,7 +80,7 @@ Initial Setup Steps:
 
 ![Review the Package Value column to confirm automatic background coloring](.gitbook/assets/ColorCoding_VerifyColorCodingMission_006.png)
 
-## How To: Verify Color Coding via Mission Search
+## Verify color coding via mission search
 
 1. Click the **Search** button in the top interface.
 

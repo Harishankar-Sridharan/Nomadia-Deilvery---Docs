@@ -23,7 +23,7 @@ Create and save a new address on the fly while adding a mission in Nomadia Deliv
 * **Contractors Menu**: Accesses contractor profiles and associated address records. Allows verification of saved addresses.
 * **Address List Tab**: Displays all saved location addresses for a selected contractor. Provides confirmation of created locations.
 
-## How To: Create an Ad-Hoc Address
+## Create an ad-hoc address
 
 1. Navigate to the **Mission** screen and click **Actions**.
 2. Select **Add** from the drop-down menu.
@@ -58,7 +58,7 @@ Create and save a new address on the fly while adding a mission in Nomadia Deliv
 
 ![Click Add to complete saving the address](.gitbook/assets/AdHocAddress_CreateAdHocAddress_007.png)
 
-## How To: Review a Saved Address
+## Review a saved address
 
 1. Click **Contractors** in the main menu.
 

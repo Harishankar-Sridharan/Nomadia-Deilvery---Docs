@@ -18,7 +18,7 @@ Before using this feature, ensure you meet the following requirements:
 * **Aggregate dimensions**: This configuration defines which physical dimensions sum up from child to parent containers. It aggregates size details.
 * **Aggregate quantities**: This configuration defines which quantitative measurements sum up to the parent container. It aggregates weight and volume.
 
-## How To: Configure
+## Configure child to parent inheritance
 
 Set up child-to-parent inheritance using these steps:
 
@@ -44,7 +44,7 @@ Set up child-to-parent inheritance using these steps:
 
 ![Click Save](../.gitbook/assets/ChildToParentInheritance_Configure_005.png)
 
-## How To: Enable Scanning of All Items in the Container for a Specific Sub-Status
+## Enable scanning of all items in the container for a specific sub-status
 
 1. Click **Sub status**.
 
@@ -63,7 +63,7 @@ Set up child-to-parent inheritance using these steps:
 
 ![Click Save](../.gitbook/assets/ChildToParentInheritance_EnableScanningAllItems_004.png)
 
-## How To: Update Child Container Delivery Status
+## Update child container delivery status
 
 1. Click **Missions** on the main navigation panel.
 
@@ -83,7 +83,7 @@ Set up child-to-parent inheritance using these steps:
 
 5. Updating the status of a child mission also updates the status of its parent mission.
 
-## How To: Customize the List to View Parcel Status Attainment
+## Customize the list to view parcel status attainment
 
 1. Click **Customize the list** from the **Actions** menu.
 
@@ -108,7 +108,7 @@ Set up child-to-parent inheritance using these steps:
 
 7. The percentage of parcel attainment shown on the parent mission changes to reflect the update.
 
-## How To: Track Damaged Items and Not-Delivered Reasons
+## Track damaged items and not-delivered reasons
 
 1. Click the **Pencil icon** of the damaged child container to edit it.
 
@@ -134,7 +134,7 @@ The partial status attainment is updated based on the number of child missions t
 
 <figure><img src="../.gitbook/assets/ChildToParentInheritance_TrackDamagedItemsNot_004.png" alt="The partial status attainment is updated based on the number of child missions"><figcaption></figcaption></figure>
 
-## How To: Configure and View Aggregated Dimensions and Quantities
+## Configure and view aggregated dimensions and quantities
 
 1. Click **Configuration** on the top menu.
 

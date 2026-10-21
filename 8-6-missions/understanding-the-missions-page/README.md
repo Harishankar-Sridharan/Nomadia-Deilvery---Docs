@@ -180,7 +180,7 @@ The following widgets are currently shown on the dashboard.
 
 <figure><img src="../../.gitbook/assets/MissionsPage_AddRemoveWidget_001.png" alt="Select Save to apply your changes, or Cancel to close the window without saving"><figcaption></figcaption></figure>
 
-### Default Delivery statuses
+### Default delivery statuses
 
 Below are an overview of the various mission statuses and their significance:
 

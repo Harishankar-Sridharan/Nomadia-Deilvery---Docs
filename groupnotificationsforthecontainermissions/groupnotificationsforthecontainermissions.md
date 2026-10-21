@@ -40,7 +40,7 @@ Follow these initial steps to access the settings:
 * **First scan:** Triggers the message when the first mission in the container is scanned.
 * **Last scan:** Triggers the message when the last mission in the container is scanned.
 
-## How To: Configure Group Notifications
+## Configure group notifications
 
 1. Scroll down to the **Customer Messages** section.
 
@@ -67,7 +67,7 @@ Follow these initial steps to access the settings:
 
 ### Result
 
-## How To: Trigger Group Notifications
+## Trigger group notifications
 
 1. Go to the **Configuration** and click **Container types**
 2. Click the **Pencil Icon** next to your container type.

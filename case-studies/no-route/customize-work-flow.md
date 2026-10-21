@@ -25,7 +25,7 @@ This feature is enabled exclusively for accounts configured in No Route mode.
 * **Proximity Toggle**: Enable this option to require the user to be close to the customer's address when this status is applied in the mobile app.
 * **Profile Definition**: Only users who have the appropriate rights can move a mission from one status to another.
 
-## How To: Customize a Mission Workflow
+## Customize a mission workflow
 
 1. Select a starting status in the workflow grid, such as **Waiting**.
 2. Assign a user role from the **Profile** dropdown to control who can change the status.

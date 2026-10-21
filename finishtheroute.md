@@ -19,7 +19,7 @@ The **Finish the Route** feature lets dispatchers' complete delivery routes from
 * **Actions**: Opens administrative options for the selected deliverer.
 * **Finish the Route**: Initiates manual route closure from the back office.
 
-## How To: Finish a Route
+## Finish a route
 
 1. Select the **Deliverer** in the back office navigation menu.
 

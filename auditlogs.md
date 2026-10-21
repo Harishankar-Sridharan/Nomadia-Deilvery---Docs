@@ -28,7 +28,7 @@ Initial setup steps:
 * **Reload**: Refreshes the log table to display recent changes if loading fails.
 * **Prefilter**: Opens options to filter log entries by agent or time period.
 
-## How To: View and Export Audit Logs
+## View and export audit logs
 
 1. Navigate to **Configuration** and scroll down to click **History of Changes**.
 
@@ -54,7 +54,7 @@ Initial setup steps:
 
 ![Logs or file fail to load: Click Reload to fetch the most recent system changes](.gitbook/assets/AuditLogs_ViewExportAuditLogs_005.png)
 
-## How To: Filter Audit Logs by Agent and Time Period
+## Filter audit logs by agent and time period
 
 1. Click **Refilter** on the **History of Changes** screen.
 

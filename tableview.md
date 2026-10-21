@@ -32,7 +32,7 @@ Initial setup steps:
 * **Customize List**: Configures which fields display in the route or stop section.
 * **Footer**: Selects table columns to compute summary calculations like mission totals.
 
-## How To: Customize Route View Fields
+## Customize route view fields
 
 1. Click **Actions** in the route menu.
 
@@ -48,7 +48,7 @@ Initial setup steps:
 
 ![Click Save to apply your route field selections](.gitbook/assets/TableView_CustomizeRouteViewFields_003.png)
 
-## How To: View Route Stops
+## View route stops
 
 1. Click any **Route** row in the table.
 2. Review individual stop details for the selected route.
@@ -56,7 +56,7 @@ Initial setup steps:
 
 ![Click Back to return to the main route view](.gitbook/assets/TableView_ViewRouteStops_001.png)
 
-## How To: Customize Stop View Fields
+## Customize stop view fields
 
 1. Click **Actions** and select **Customizer List**.
 2. Select **Stops** from the customization panel.
@@ -68,7 +68,7 @@ Initial setup steps:
 
 ![Click Save to confirm your stop view settings](.gitbook/assets/TableView_CustomizeStopViewFields_002.png)
 
-## How To: Calculate Column Sums in the Footer
+## Calculate column sums in the footer
 
 1. Click **Footer** inside the **Customizer List** window.
 

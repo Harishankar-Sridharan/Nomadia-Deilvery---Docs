@@ -25,7 +25,7 @@ Steps:
 * **Editable**: Allow users to edit field contents by checking this option.
 * **Mandatory**: Force users to complete a field before saving changes.
 
-## How To: Customize Address Block Visibility
+## Customize address block visibility
 
 1. Navigate to **Configuration** and click **Customer addresses block visibility**.
 
@@ -52,7 +52,7 @@ Steps:
 
 ### Result
 
-## How To: Verify Global Address List Visibility
+## Verify global address list visibility
 
 1. Navigate to the **Address list** menu.
 
@@ -68,7 +68,7 @@ Steps:
 
 ### Result
 
-## How To: Verify Contractor Address List Visibility
+## Verify contractor address list visibility
 
 1. Navigate to the **Contractor** menu.
 

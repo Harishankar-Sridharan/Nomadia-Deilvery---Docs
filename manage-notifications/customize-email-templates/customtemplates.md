@@ -31,7 +31,7 @@ Initial Setup Steps:
 * **Standard mode to advanced**: Switch that toggles the editor interface between standard and advanced editing.
 * **Message**: Text editor where you type the email body content.
 
-## How To: Configure a Custom Customer Email Template
+## Configure a custom customer email template
 
 1. Go to **Configuration**.
 2. Scroll down and click **Configure outgoing messages**.

@@ -6,7 +6,7 @@ The Manage Vehicle Fleets in Nomadia Delivery allows administrators and planners
 
 * Access to the **Configuration** menu in **Nomadia Delivery**, where the vehicle fleets are managed under **My Data**.
 
-## Import Vehicles fleets
+## Import vehicles fleets
 
 1. Go to Configuration.
 
@@ -36,7 +36,7 @@ The vehicle fleets have been imported successfully.
 
 ![The vehicle fleets have been imported successfully](../.gitbook/assets/VehicleFleets_ImportVehiclesFleets_006.png)
 
-## Add a Vehicles fleets
+## Add a vehicles fleets
 
 1. Go to Configuration.
 2. Click on Configuration Menu
@@ -64,7 +64,7 @@ The vehicle fleets have been added successfully.
 
 ![The vehicle fleets have been added successfully](../.gitbook/assets/VehicleFleets_AddVehiclesFleets_004.png)
 
-## Delete a Vehicles fleets
+## Delete a vehicles fleets
 
 1. Go to Configuration.
 2. Click on Configuration Menu

@@ -36,7 +36,7 @@ The **Route Edior** feature allows dispatchers to manage route details and surve
 * **Photos**: Loads vehicle photos and manages sample calculations.
 * **Route sheet**: Downloads the printable route summary sheet.
 
-## How To: Modify Route Details
+## Modify route details
 
 1. Click the **edit icon** next to the **delivery name**.
 
@@ -49,7 +49,7 @@ The **Route Edior** feature allows dispatchers to manage route details and surve
 
 ![Click Save to apply modifications](.gitbook/assets/RouteEditor_ModifyRouteDetails_001.png)
 
-## How To: Configure and View Vehicle Surveys
+## Configure and view vehicle surveys
 
 1. Click **Configuration** to open survey options.
 
@@ -73,7 +73,7 @@ The **Route Edior** feature allows dispatchers to manage route details and surve
 
 ![Select Vehicle checking survey and click Load](.gitbook/assets/RouteEditor_ConfigureViewVehicleSurveys_005.gif)
 
-## How To: View Route Modification Logs
+## View route modification logs
 
 1. Click **Logs** in the top menu.
 
@@ -83,13 +83,13 @@ The **Route Edior** feature allows dispatchers to manage route details and surve
 
 ![Review all past route modifications and change details](.gitbook/assets/RouteEditor_ViewRouteModificationLogs_002.gif)
 
-## How To: Manage Vehicle Photos and Samples
+## Manage vehicle photos and samples
 
 1. Click **Photos** to open photo settings and view the Vehicle photos
 
 ![Click Photos to open photo settings and view the Vehicle photos](.gitbook/assets/RouteEditor_ManageVehiclePhotosSamples_001.gif)
 
-## How to customize the list
+## Customize the list
 
 1. Click **Customize the list** at the top.
 
@@ -107,7 +107,7 @@ The **Route Edior** feature allows dispatchers to manage route details and surve
 
 ![Click Save and return to view calculations](.gitbook/assets/RouteEditor_CustomizeList_004.gif)
 
-## How To: Download Route Sheets and the Loading sheets
+## Download route sheets and the loading sheets
 
 1. Click **Route sheet** and **Loading sheet** to generate the document.
 

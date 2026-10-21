@@ -31,7 +31,7 @@ Initial setup steps:
 * **Start Point and End Point**: Location fields setting route boundaries.
 * **Force Assignment**: Confirmation button committing the final route assignment. Force assignment works even when there are conflicts.
 
-## How To: Create and Assign a Route Manually
+## Create and assign a route manually
 
 1. Select the target **Mission** from the list.
 2. Click **Actions**.

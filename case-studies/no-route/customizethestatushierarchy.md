@@ -44,7 +44,7 @@ Follow these initial setup steps:
 
 ![Click on Manage status hierarchy once the option is enabled](../../.gitbook/assets/StatusHierarchy_FeatureOverview_005.png)
 
-## How To: Customize Status Hierarchy
+## Customize status hierarchy
 
 1. Open the status hierarchy configuration window.
 

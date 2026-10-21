@@ -42,7 +42,7 @@ Setup Steps:
 
 ![Urgent Mission Response: Alert triggered when a driver responds to an RZ](.gitbook/assets/AlertManagement_FeatureOverview_002.png)
 
-## How To: Pre-Filter Alerts
+## Pre-filter alerts
 
 1. Click the **Red Icon** in the top right corner of the **Alert Threshold Management** page.
 2. Select the previous search criteria from the **Previous** field.
@@ -51,7 +51,7 @@ Setup Steps:
 
 <figure><img src=".gitbook/assets/AlertManagement_PreFilterAlerts_001.png" alt="Click Apply to run the pre-filter"><figcaption></figcaption></figure>
 
-## How To: View Active and Finished Alerts
+## View active and finished alerts
 
 1. Review filtered alert details on the **Alert Threshold Management** page.
 
@@ -65,7 +65,7 @@ Setup Steps:
 
 <figure><img src=".gitbook/assets/AlertManagement_ViewActiveFinishedAlerts_003.png" alt="Select Finished Alert to inspect completed operational alerts"><figcaption></figcaption></figure>
 
-## How To: Configure a New Alert Threshold
+## Configure a new alert threshold
 
 1. Click **Add Alert** on the **Alert Threshold Management** page.
 

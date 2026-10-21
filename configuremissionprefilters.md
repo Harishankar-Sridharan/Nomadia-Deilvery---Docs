@@ -32,7 +32,7 @@ Initial setup steps:
 * **Delete Language Button**: Removes an added language translation entry. It deletes unneeded language fields from the query.
 * **Manage Usage Option**: Opens user access assignment settings for pre-filters. It controls which users receive restricted mission views.
 
-## How To: Create and Customize a Mission Pre-Filter
+## Create and customize a mission pre-filter
 
 1. Open **Configuration** and click **Mission Pre-Filters**.
 
@@ -67,7 +67,7 @@ Initial setup steps:
 
 ![Click Save to create the filter query](.gitbook/assets/MissionPrefilters_CreateCustomizeMissionPre_006.png)
 
-## How To: Add Translations to a Pre-Filter Query
+## Add translations to a pre-filter query
 
 1. Click the **Translation Plus Symbol** next to the translation field.
 
@@ -89,7 +89,7 @@ Initial setup steps:
 
 ![Click Save to update language translations](.gitbook/assets/MissionPrefilters_CreateCustomizeMissionPre_006.png)
 
-## How To: Assign a Pre-Filter Query to a User
+## Assign a pre-filter query to a user
 
 1. Navigate to **Configuration** and click **Manage users**.
 
@@ -116,7 +116,7 @@ Initial setup steps:
 
 ![Click Apply to view assigned status missions only](.gitbook/assets/MissionPrefilters_AssignPreFilterQuery_006.gif)
 
-## How To: Remove an Assigned Pre-Filter from a User
+## Remove an assigned pre-filter from a user
 
 1. Go to **Configuration** and select **Manage users**.
 2. Click the user email address.

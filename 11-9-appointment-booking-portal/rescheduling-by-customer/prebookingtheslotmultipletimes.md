@@ -24,7 +24,7 @@ Initial Setup Steps:
 * **Reschedule Option**: Opens available alternative time slots for rebooking.
 * **Available Date and Timings**: Displays selectable date and time options for pre-booking.
 
-## How To: Reschedule a Pre-Booked Slot
+## Reschedule a pre-booked slot
 
 1. Click the original **Booking Link** received when booking the first slot.
 

@@ -33,7 +33,7 @@ Initial setup steps:
 * **Acceptance Status**: Displays whether driver accepts or denies assigned route.
 * **Accept Timeout Minutes**: Sets duration in minutes allowed for driver route decision.
 
-## How To: Assign Pickup & Delivery Mission
+## Assign pickup & delivery mission
 
 1. Go to **Missions**.
 2. Select **Pickup & delivery missions**.

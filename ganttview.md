@@ -33,7 +33,7 @@ Initial setup steps:
 
 ![Route Type: Identifies the specific classification type of the route](.gitbook/assets/GanttView_FeatureOverview_001.png)
 
-## How To: View a Route on the Map
+## View a route on the map
 
 1. Select the desired route from the **Route** list.
 
@@ -47,7 +47,7 @@ Initial setup steps:
 
 ![View the full route layout on the map](.gitbook/assets/GanttView_ViewRouteMap_003.png)
 
-## How To: Edit a Route
+## Edit a route
 
 1. Select the target route in the **Route** section.
 
@@ -58,7 +58,7 @@ Initial setup steps:
 
 ![Modify the necessary route details](.gitbook/assets/GanttView_EditRoute_001.gif)
 
-## How To: Inspect Route Details
+## Inspect route details
 
 1. Click on the specific route entry.
 

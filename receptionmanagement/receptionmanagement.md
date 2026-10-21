@@ -27,7 +27,7 @@ The following UI elements control your reception tracking workflow:
 * **Scan all the items in the container**: Forces drivers to scan every package to prevent missed or incorrect deliveries.
 * **Customize the list**: Adjusts columns in the back-office view to select displayed columns.
 
-## How To: Configure the Mobile App for Reception
+## Configure the mobile app for reception
 
 1. Navigate to the **Configuration** menu in the portal.
 2. Click **Configure the mobile app**.
@@ -43,7 +43,7 @@ The following UI elements control your reception tracking workflow:
 
 The next time drivers open the mobile application, the reception option is available and they are asked for a reception ID.
 
-## How To: Configure a Sub-Status for Scanning All Items in the Container
+## Configure a sub-status for scanning all items in the container
 
 1. Navigate to the **Sub Status** menu in the portal.
 2. Locate the **Received** sub-status in the list.
@@ -57,7 +57,7 @@ The next time drivers open the mobile application, the reception option is avail
 
 Drivers must now scan every item in the container before the **Received** sub-status can be applied.
 
-## How To: Associate a Contractor with a Mission
+## Associate a contractor with a mission
 
 1. Navigate to the **Missions** menu.
 2. Click **Add** or edit an existing mission.
@@ -72,13 +72,13 @@ Drivers must now scan every item in the container before the **Received** sub-st
 
 <figure><img src="../.gitbook/assets/ReceptionManagement_AssociateContractorMission_003.png" alt="Click Add to save the mission"><figcaption></figcaption></figure>
 
-## How To: Configure the Reception Report
+## Configure the reception report
 
 1. Go to **Configure Outgoing Messages**.
 2. Create an email template for the reception report.
 3. As soon as the mobile user ends the reception, the email is automatically sent to the contractor's email address.
 
-## How To: Scan and Receive Containers in the Mobile Application
+## Scan and receive containers in the mobile application
 
 1. Open the mobile application on your field device.
 2. Click the **+** icon at the bottom
@@ -96,7 +96,7 @@ Drivers must now scan every item in the container before the **Received** sub-st
 
 <figure><img src="../.gitbook/assets/ReceptionManagement_ScanReceiveContainersMobile_003.jpg" alt="Click confirm to finish the reception" width="540"><figcaption></figcaption></figure>
 
-## How To: Display Reception IDs in the Back-Office List
+## Display reception IDs in the back-office list
 
 1. Navigate to the main list view in the portal.
 2. Click **Customize the list**.

@@ -24,7 +24,7 @@ Steps:
 * **Inherit attributes to child missions:** This setting automatically copies parent details to child containers.
 * **Inherit documents to child missions**: This option automatically shares parent documents with child containers.
 
-## How To: Status/sub-status
+## Inherit status and sub-status
 
 1. Navigate to the **Configuration** menu.
 
@@ -56,7 +56,7 @@ The status has been updated for all child missions.
 
 ![The status has been updated for all child missions](../.gitbook/assets/ParentToChildInheritance_StatusSubStatus_004.png)
 
-## How To: Inherit Attributes to Child Containers
+## Inherit attributes to child containers
 
 1. Navigate to **Configuration**.
 2. Click on **Container Types**.
@@ -78,7 +78,7 @@ Only the address has been updated for all child missions. The status is not upda
 
 <figure><img src="../.gitbook/assets/ParentToChildInheritance_InheritAttributesChildContainers_003.png" alt="Only the address has been updated for all child missions"><figcaption></figcaption></figure>
 
-## How To: Inherit Documents to Child Containers
+## Inherit documents to child containers
 
 1. Navigate to **Configuration**.
 2. Click on **Container Types**.

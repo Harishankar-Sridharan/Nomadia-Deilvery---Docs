@@ -34,7 +34,7 @@ Setup steps:
 * **Declare Parcel Option**: Directly opens the parcel creation tool from the action panel.
 * **Validate Button**: Saves configurations and generates requested containers.
 
-## How To: Declare a Parcel While Adding a Mission
+## Declare a parcel while adding a mission
 
 1. Open the **Mission** menu.
 
@@ -80,7 +80,7 @@ Setup steps:
 
 ![Click on Add to finish creating the parent and child containers](.gitbook/assets/DeclareParcels_DeclareParcelWhileAdding_010.gif)
 
-## How To: Declare a Parcel While Editing a Container
+## Declare a parcel while editing a container
 
 1. Click on the **Edit Button** for the target container.
 
@@ -102,7 +102,7 @@ Setup steps:
 
 ![Click on Validate to save the declared containers](.gitbook/assets/DeclareParcels_DeclareParcelWhileEditing_005.gif)
 
-## How To: Declare a Parcel from the Action Panel
+## Declare a parcel from the action panel
 
 1. Select the parent container and mission, then click on **Actions**.
 

@@ -42,11 +42,11 @@ Survey Creator / Form Builder is a visual design tool that allows you to create 
 
 ![The Configure the surveys page will display all surveys created in the system](../.gitbook/assets/CustomizedSurveys_Steps_006.png)
 
-## Additional Survey Configurations
+## Additional survey configurations
 
 
 
-### For Contractors
+### Assign a survey to contractors
 
 1. Open the Contractors tab in Nomadia Delivery.
 2. Edit a contractor by clicking the Pencil icon.
@@ -61,7 +61,7 @@ Survey Creator / Form Builder is a visual design tool that allows you to create 
 
 ![When logged in as a contractor, creating a mission via the wizard will prompt](../.gitbook/assets/CustomizedSurveys_Contractors_003.png)
 
-### For Subcontractors
+### Assign surveys to subcontractors
 
 1. Open the Contractors tab.
 2. Edit a subcontractor by clicking the Pencil icon.
@@ -76,7 +76,7 @@ Survey Creator / Form Builder is a visual design tool that allows you to create 
 
 <figure><img src="../.gitbook/assets/CustomizedSurveys_Subcontractors_003.png" alt="When logged in as a subcontractor deliverer, completing the loading process"><figcaption></figcaption></figure>
 
-### For Sub-Status
+### Assign a survey to a sub-status
 
 1. Open the Configuration tab in Nomadia Delivery.
 2. Select Sub status from the drop-down.
@@ -92,7 +92,7 @@ Survey Creator / Form Builder is a visual design tool that allows you to create 
 
 ![When logged in as a transporter or subcontractor deliverer, attempting](../.gitbook/assets/CustomizedSurveys_SubStatus_003.png)
 
-## Analysing Survey Responses
+## Analysing survey responses
 
 1. Open the Nomadia Delivery application and go to the Configuration tab.
 2. Select Configure the surveys from the drop-down.
@@ -109,7 +109,7 @@ Survey Creator / Form Builder is a visual design tool that allows you to create 
 
 ![Review and analyse survey responses in real time](../.gitbook/assets/CustomizedSurveys_AnalysingSurveyResponses_003.png)
 
-## Configure Vehicle Photos
+## Configure vehicle photos
 
 1. Go to **Configuration** and select **Configure the surveys**.
 2. Click the **pencil icon** to modify the required survey.

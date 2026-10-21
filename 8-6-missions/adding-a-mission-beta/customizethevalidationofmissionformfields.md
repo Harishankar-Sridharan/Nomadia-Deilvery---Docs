@@ -30,7 +30,7 @@ Key user interface elements:
 * **Assign Help**: Defines mandatory field assistance guidelines for field operators.
 * **Missions**: Displays the mission database to test updated field validations.
 
-## How To: Configure Mandatory Validation Rules
+## Configure mandatory validation rules
 
 Configure mandatory validation for mission form fields:
 
@@ -62,7 +62,7 @@ Configure mandatory validation for mission form fields:
 
 ![Click Save](../../.gitbook/assets/FormFieldValidation_ConfigureMandatoryValidationRules_005.png)
 
-## How To: Apply Validation to Mission Records
+## Apply validation to mission records
 
 Apply mandatory validation rules when editing mission profiles:
 

@@ -25,7 +25,7 @@ Ensure you meet all system requirements before accessing the feature.
 * **Typing Window**: Input field where you enter custom inquiries.
 * **Send button**: Submits your typed question to the virtual assistant.
 
-## How To: Access Predefined Questions
+## Access predefined questions
 
 1. Click the **Chatbot icon** in the top right header.
 
@@ -35,7 +35,7 @@ Ensure you meet all system requirements before accessing the feature.
 
 ![Review the listed Predefined Questions and Answers](.gitbook/assets/Nomadbot_AccessPredefinedQuestions_001.gif)
 
-## How To: Ask a Custom Question
+## Ask a custom question
 
 1. Click inside the **Typing Window**.
 

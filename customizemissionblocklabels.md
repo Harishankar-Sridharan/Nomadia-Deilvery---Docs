@@ -27,7 +27,7 @@
 * **Mission Creator**: Displays customized labels when adding new Missions.
 * **Mission Editor**: Displays customized labels when editing existing mission entries.
 
-## How To: Customize and Verify Block Labels
+## Customize and verify block labels
 
 **Customizing Mission Block Labels**
 
