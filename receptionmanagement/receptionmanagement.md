@@ -84,7 +84,7 @@ Drivers must now scan every item in the container before the **Received** sub-st
 2. Click the **+** icon at the bottom of the screen.
 3. Enter the **Reception name** and **Reception ID** when prompted, and click **Validate**.
 
-<figure><img src="../.gitbook/assets/ReceptionManagement_ScanReceiveContainersMobile_001.png" alt="Enter the Reception name and Reception ID and click validate" width="540"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ReceptionManagement_ScanReceiveContainersMobile_001.png" alt="Enter the Reception name and Reception ID and click Validate" width="540"><figcaption></figcaption></figure>
 
 4. Scan the **Parent container form**.
 
@@ -94,7 +94,7 @@ Drivers must now scan every item in the container before the **Received** sub-st
 6. A pop-up window asks "Are you sure you want to finish receiving scanned packages?"
 7. Click **Confirm**.
 
-<figure><img src="../.gitbook/assets/ReceptionManagement_ScanReceiveContainersMobile_003.jpg" alt="Click confirm to finish the reception" width="540"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ReceptionManagement_ScanReceiveContainersMobile_003.jpg" alt="Click Confirm to finish the reception" width="540"><figcaption></figcaption></figure>
 
 ## Display reception IDs in the back-office list
 

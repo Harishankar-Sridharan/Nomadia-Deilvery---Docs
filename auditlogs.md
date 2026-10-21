@@ -1,6 +1,6 @@
 # Audit Logs
 
-The **Audit Logs** feature in Nomadia Delivery tracks and records system activity and recent changes made across the platform. Dispatchers and planners need it to maintain operational oversight, verify modifications, and audit configuration actions. Using this tool, you can review change history, filter logs by agent or timeframe, and export records to Excel.
+The **Audit Logs** feature in Nomadia Delivery tracks and records system activity and recent changes made across the platform. Dispatchers and planners need it to maintain operational oversight, verify modifications, and audit configuration actions. Using this tool, you can review change history, filter logs by agency or time period, and export records to Excel.
 
 ## Before you begin
 
@@ -56,11 +56,11 @@ Initial setup steps:
 
 1. Click the **Prefiltered on** tag at the top of the **History of changes** screen.
 
-![Click Refilter on the History of Changes screen](.gitbook/assets/AuditLogs_FilterAuditLogsAgent_001.png)
+![Click the Prefiltered on tag on the History of changes screen](.gitbook/assets/AuditLogs_FilterAuditLogsAgent_001.png)
 
 2. Select the target agency or sub-agency from the **Agency / Sub-agency** drop-down menu.
 
-![Select the target agent or agency from the Agent dropdown menu](.gitbook/assets/AuditLogs_FilterAuditLogsAgent_002.png)
+![Select the target agency or sub-agency from the Agency / Sub-agency menu](.gitbook/assets/AuditLogs_FilterAuditLogsAgent_002.png)
 
 3. Choose a time range under **Period**, such as **Last hour**, **Last 6 hours**, **Last 24 hours**, **Last 7 days**, or **Last 14 days**.
 

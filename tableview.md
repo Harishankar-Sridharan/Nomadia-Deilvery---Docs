@@ -72,7 +72,7 @@ Initial setup steps:
 
 1. Click **Footer** inside the **Customize List** window.
 
-![Click Footer inside the Customizer List window](.gitbook/assets/TableView_CalculateColumnSumsFooter_001.gif)
+![Click Footer inside the Customize List window](.gitbook/assets/TableView_CalculateColumnSumsFooter_001.gif)
 
 2. Select a target column, such as **Assigned Mission Number**.
 
