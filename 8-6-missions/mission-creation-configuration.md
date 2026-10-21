@@ -70,11 +70,7 @@ The available information blocks are:
 ## Tips
 
 {% hint style="info" %}
-**Reorder blocks, not fields between blocks**: You can change the overall layout by changing the order of the blocks or sections with drag and drop. Changes are automatically synchronized with the visibility and order displayed in the left-hand side user interface.
-{% endhint %}
-
-{% hint style="warning" %}
-**Fixed arrangement inside a block**: The arrangement of fields inside a block remains fixed, so plan your layout changes at the block or section level.
+**Reorder blocks**: You can change the overall layout by changing the order of the blocks or sections with drag and drop. Changes are automatically synchronized with the visibility and order displayed in the left-hand side user interface.
 {% endhint %}
 
 ## Related topics

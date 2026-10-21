@@ -14,7 +14,7 @@ Drop-shipping missions simplify delivery operations by allowing transporters to 
 * **Drop-Shipping**: The mission type that delivers parcels directly from suppliers to end customers, without returning to the agency.
 * **Contractor Identifier**: The drop-down where you select the contractor associated with the mission. The contractor's address is used as the default pickup address.
 * **Agency**: The starting point for the deliverers' tour.
-* **Optimize**: The action that creates drop-shipping routes, because these missions are managed exclusively through the optimization engine.
+* **Optimize**: The **Actions** menu command that runs a batch optimization of the selected drop-shipping missions.
 * **DROP prefix**: The prefix the application adds to delivery mission numbers in the **Deliveries** panel to differentiate pickup and drop events.
 * **Publish to the mobile app**: The toggle that shares the validated route with the driver.
 * **Force**: Proceeds with validation when the popup lists conflicts.

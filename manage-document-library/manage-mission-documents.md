@@ -94,7 +94,7 @@ The mission documents are deleted successfully.
 {% endhint %}
 
 {% hint style="warning" %}
-**Valid files**: Select a valid document from your local system when you import or upload, and check the confirmation shown in the **Result** section.
+**Valid files**: Select a valid document from your local system when you import or upload.
 {% endhint %}
 
 ## Related topics

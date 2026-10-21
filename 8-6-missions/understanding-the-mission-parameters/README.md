@@ -9,6 +9,14 @@ These parameters provide both operational and logistical information used by coo
 * Sign in to **Nomadia Delivery** with a user profile that has access to the **Mission page**.
 * Identify the mission you want to edit, because you open its parameters with the **pencil** icon next to it.
 
+## Access mission parameters
+
+From the **Mission page**:
+
+1. Click the **pencil** icon next to the mission you want to edit.
+
+![](<../../.gitbook/assets/image-6 (3).png>)
+
 ## Feature overview
 
 ### Mission Parameters Tab
@@ -114,14 +122,6 @@ These parameters provide both operational and logistical information used by coo
 | Section  | Parameter      | Description                                     |
 | -------- | -------------- | ----------------------------------------------- |
 | **Logs** | Mission Events | Timeline of all mission events with timestamps. |
-
-## Access mission parameters
-
-From the **Mission page**:
-
-1. Click the **pencil** icon next to the mission you want to edit.
-
-![](<../../.gitbook/assets/image-6 (3).png>)
 
 ## Tips
 

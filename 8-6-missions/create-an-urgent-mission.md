@@ -6,7 +6,6 @@ Urgent missions follow a "Chained" model where a pickup is immediately followed 
 
 * Sign in to **Nomadia Delivery** with a user profile that has access to missions.
 * Have the pickup (origin) and delivery (destination) details for the order ready.
-* Open the **mission creation screen**.
 
 ## Feature overview
 

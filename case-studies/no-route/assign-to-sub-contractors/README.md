@@ -4,7 +4,7 @@ Configure the iFrame for subcontractors and communicate with them through the in
 
 ## Before you begin
 
-* Sign in to **Nomadia Delivery** with a user profile that has access to the subcontractor settings.
+* Sign in to **Nomadia Delivery** with a user profile that has access to the **Missions** page.
 * Make sure your company uses No Route mode and has subcontractors to whom you assign missions.
 
 ## Feature overview

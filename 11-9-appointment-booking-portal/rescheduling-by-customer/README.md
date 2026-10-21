@@ -14,7 +14,7 @@ Use this feature to let end customers receive email notifications about their de
 * **Send Delivery Notes**: Toggle that sends email notifications to end customers.
 * **Reschedule**: Button the customer clicks when the proposed date and time are not convenient.
 * **Choose**: Button the customer clicks to confirm the preferred slot.
-* **Slot suggestions**: The real-time optimization engine suggests the available slots.
+* **Available slots**: The slots that the real-time optimization engine suggests when the customer reschedules.
 
 ## Send email notifications to the end customer
 

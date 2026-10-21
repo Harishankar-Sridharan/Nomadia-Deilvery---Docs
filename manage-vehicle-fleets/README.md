@@ -21,12 +21,8 @@ Use the pages in this section to manage the vehicles and fleets in Nomadia Deliv
 
 ## Tips
 
-{% hint style="info" %}
-**Field selection**: Avoid selecting too many fields at once when you customize a table, as it may become difficult to read or navigate.
-{% endhint %}
-
 {% hint style="warning" %}
-**Deleting**: A confirmation message ("Do you want to delete the Vehicle?") is displayed when you delete a vehicle or a vehicle fleet. Review it before you click **Delete**.
+**Deleting**: A confirmation message ("Do you want to delete the Vehicle?") is displayed when you delete a vehicle or a vehicle fleet.
 {% endhint %}
 
 ## Related topics

@@ -12,7 +12,7 @@ Use the missions table to customize its display, sort it, and filter it to find 
 * **Available Fields / Display Fields**: The lists you use to select which fields appear on the table.
 * **Column header**: Lets you sort the table in **Ascending** or **Descending** order.
 * **Mission Status dropdown or shortcut button**: Filters the table by a status, such as Waiting or Picked Up.
-* **Filter input field**: Lets you select conditions to create, pin, or delete a filter.
+* **Filter input field**: Lets you select conditions to create or delete a filter.
 * **Load saved filter icon**: Lets you save a filter under a name and pin saved filters.
 
 ## Customize the table display
@@ -82,7 +82,7 @@ The table refreshes and shows only matching entries.
 ## Tips
 
 {% hint style="info" %}
-**Find missions faster**: Use a mission status shortcut to show only matching entries, and save a filter under a name so you can reload it with the **Load saved filter** icon.
+**Find missions faster**: Use a mission status shortcut to show only matching entries, and save a filter under a name.
 {% endhint %}
 
 {% hint style="info" %}

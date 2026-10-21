@@ -31,6 +31,5 @@ Use Manage Studies & Zones to work with postal zones and sectorization.
 
 ## Related topics
 
-* [Manage Substatus](../manage-substatus/README.md)
 * [Study Creation with Primary Zone](../case-studies/study-creation-with-primary-zone.md)
 * [Assigning zones to missions](../case-studies/assigning-zones-to-missions.md)
