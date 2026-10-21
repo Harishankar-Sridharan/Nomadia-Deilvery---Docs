@@ -4,7 +4,6 @@ Nomadia Delivery allows you to manage an address list that serves as a master re
 
 ## Before you begin
 
-* Access to the **Configuration** page.
 * For an import, an Excel file containing the addresses.
 
 ## Steps

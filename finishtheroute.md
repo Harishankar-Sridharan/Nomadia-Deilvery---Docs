@@ -23,8 +23,6 @@ The **Finish the Route** feature lets dispatchers complete delivery routes from 
 
 1. Select the **Deliverer** in the back-office navigation menu.
 
-![Select the Deliverer in the back office navigation menu](.gitbook/assets/FinishRoute_BeforeBegin_001.png)
-
 2. Click **Actions** next to the selected deliverer.
 
 ![Click Actions next to the selected deliverer](.gitbook/assets/FinishRoute_FinishRoute_001.png)

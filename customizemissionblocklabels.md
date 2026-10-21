@@ -4,10 +4,6 @@
 
 ## Before you begin
 
-**Prerequisites**
-
-* Access to the **Configuration** page.
-
 **Initial Setup Steps**
 
 1. Open the **Configuration** page.

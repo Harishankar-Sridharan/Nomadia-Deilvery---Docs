@@ -51,8 +51,6 @@ Initial setup steps:
 
 1. Select the target route in the **Route** section.
 
-![Select the target route in the Route section](.gitbook/assets/GanttView_ViewRouteMap_001.png)
-
 2. Click the **Edit Icon**.
 3. Modify the necessary route details.
 

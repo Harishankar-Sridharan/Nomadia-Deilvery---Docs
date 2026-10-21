@@ -11,7 +11,6 @@ Ensure you have the following system requirements and configurations set up:
 * Access to the **Nomadia Delivery** back-office portal.
 * A registered contractor email address to receive automatic reports.
 * The mobile application installed on field devices.
-* Access to the **Configuration** page.
 
 Then complete the setup in this order:
 

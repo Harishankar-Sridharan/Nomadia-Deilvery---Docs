@@ -40,8 +40,6 @@ The **Route Editor** feature allows dispatchers to manage route details and surv
 
 1. Click the **edit icon** next to the **delivery name**.
 
-![Click the edit icon next to the delivery name](.gitbook/assets/RouteEditor_BeforeBegin_003.gif)
-
 2. Update the **date** and **start hour** fields.
 3. Select **departure allowed** permissions to set blocking rules.
 4. Adjust **vehicle usage** settings as needed.

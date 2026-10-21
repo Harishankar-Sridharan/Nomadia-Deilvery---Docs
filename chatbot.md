@@ -29,8 +29,6 @@ Ensure you meet all system requirements before accessing the feature.
 
 1. Click the **Chatbot icon** in the top right header.
 
-![Click the Chatbot icon in the top right header](.gitbook/assets/Nomadbot_BeforeBegin_002.gif)
-
 2. Review the listed **Predefined Questions and Answers**.
 
 ![Review the listed Predefined Questions and Answers](.gitbook/assets/Nomadbot_AccessPredefinedQuestions_001.gif)

@@ -2,10 +2,6 @@
 
 As a transporter, you can use customized surveys to gather valuable feedback from deliverers and contractors at different stages of their operations. Surveys centralize all data on a single platform, which removes the complexity of managing scattered information and supports data-driven decisions.
 
-## Before you begin
-
-* Access to the **Configuration** page.
-
 ## Steps
 
 Follow these steps to set up customizable surveys in Nomadia Delivery:

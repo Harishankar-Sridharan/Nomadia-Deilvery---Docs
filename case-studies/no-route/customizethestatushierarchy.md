@@ -10,7 +10,6 @@ This feature is enabled exclusively for accounts configured in No Route mode.
 
 * Create a parent container in the system.
 * Create a child container.
-* Access to the **Configuration** page.
 
 ## Feature overview
 
@@ -26,8 +25,6 @@ Follow these initial setup steps:
 ![Open the Configuration page](../../.gitbook/assets/StatusHierarchy_FeatureOverview_001.png)
 
 2. Select **Container types**.
-
-![Select Container types](../../.gitbook/assets/StatusHierarchy_FeatureOverview_001.png)
 
 3. Scroll down to select the correct **Identifier name**.
 
@@ -48,8 +45,6 @@ Follow these initial setup steps:
 ## Customize status hierarchy
 
 1. Open the status hierarchy configuration window.
-
-![Open the status hierarchy configuration window](../../.gitbook/assets/StatusHierarchy_FeatureOverview_005.png)
 
 2. Drag the desired status to the top priority position.
 

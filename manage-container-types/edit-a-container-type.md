@@ -2,10 +2,6 @@
 
 Use this procedure to change the settings of an existing container type, such as the options that control how status, attributes and documents are inherited between parent and child missions.
 
-## Before you begin
-
-* Access to the **Configuration** page.
-
 ## Steps
 
 1. Open the **Configuration** page.

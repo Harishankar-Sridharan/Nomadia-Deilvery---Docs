@@ -28,8 +28,6 @@ Initial Setup Steps:
 
 1. Click the original **Booking Link** received when booking the first slot.
 
-![Click the original Booking Link received when booking the first slot](../../.gitbook/assets/RescheduleSlot_BeforeBegin_001.gif)
-
 2. Confirm your current slot details under **Scheduled Date and Timing**.
 
 ![Confirm your current slot details under Scheduled Date and Timing](../../.gitbook/assets/RescheduleSlot_ReschedulePreBookedSlot_001.png)

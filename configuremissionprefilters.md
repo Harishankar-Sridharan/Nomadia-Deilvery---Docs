@@ -9,7 +9,6 @@ Prerequisites and requirements:
 * Access to **Nomadia Delivery** with administrator or dispatcher permissions.
 * Active mission records configured in the system.
 * Web browser connected to the SaaS platform.
-* Access to the **Configuration** page.
 
 Initial setup steps:
 
@@ -19,8 +18,6 @@ Initial setup steps:
 ![Select Mission Pre-Filters from the settings list](.gitbook/assets/MissionPrefilters_BeforeBegin_001.gif)
 
 3. Click **Actions** and select **Add** to open the filter configuration builder.
-
-![Click Actions and select Add to open the filter configuration builder](.gitbook/assets/MissionPrefilters_BeforeBegin_001.gif)
 
 ## Feature overview
 
@@ -37,11 +34,7 @@ Initial setup steps:
 
 1. Open the **Configuration** page and click **Mission Pre-Filters**.
 
-![Open the Configuration page and click Mission Pre-Filters](.gitbook/assets/MissionPrefilters_BeforeBegin_001.gif)
-
 2. Click **Actions** and select **Add** to launch the editor.
-
-![Click Actions and select Add to launch the editor](.gitbook/assets/MissionPrefilters_BeforeBegin_001.gif)
 
 3. Choose required status values from the **Status Field**.
 
@@ -87,8 +80,6 @@ Initial setup steps:
 ![Click the Delete Language Button if you want to remove a language](.gitbook/assets/MissionPrefilters_AddTranslationsPreFilter_004.gif)
 
 5. Click **Save** to update language translations.
-
-![Click Save to update language translations](.gitbook/assets/MissionPrefilters_CreateCustomizeMissionPre_006.png)
 
 ## Assign a pre-filter query to a user
 

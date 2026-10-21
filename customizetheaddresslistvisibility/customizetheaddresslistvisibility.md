@@ -6,7 +6,6 @@
 
 Prerequisites:
 
-* Access to the **Configuration** page.
 * Administrative permissions to apply platform-wide settings.
 
 Steps:

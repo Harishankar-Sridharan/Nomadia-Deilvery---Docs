@@ -28,8 +28,6 @@ Create and save a new address on the fly while adding a mission in Nomadia Deliv
 1. Navigate to the **Mission** screen and click **Actions**.
 2. Select **Add** from the drop-down menu.
 
-![Select Add from the drop-down menu](.gitbook/assets/AdHocAddress_BeforeBegin_001.gif)
-
 3. Select the **Contractor**, **Mission Type**, and **Agency**.
 
 ![Select the Contractor, Mission Type, and Agency](.gitbook/assets/AdHocAddress_CreateAdHocAddress_001.gif)

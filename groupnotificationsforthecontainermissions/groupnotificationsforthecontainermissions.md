@@ -8,7 +8,6 @@ To use this feature, make sure the following requirements are met:
 
 * Activate this setting to have the parent inherit its status from its child items.
 * Make sure each mission has a contractor assigned to it.
-* Access to the **Configuration** page.
 
 Follow these initial steps to access the settings:
 
@@ -48,8 +47,6 @@ Follow these initial steps to access the settings:
 ![Scroll down to the Customer Messages section](../.gitbook/assets/GroupNotifications_ConfigureGroupNotifications_001.png)
 
 2. Select a **Recipient**.
-
-![Select a Recipient](../.gitbook/assets/GroupNotifications_ConfigureGroupNotifications_001.png)
 
 3. Choose SMS or email in **Message Type**.
 

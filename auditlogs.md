@@ -7,7 +7,6 @@ The **Audit Logs** feature in Nomadia Delivery tracks and records system activit
 Prerequisites and system requirements:
 
 * Active access to a **Nomadia Delivery** dispatcher or planner account.
-* Access to the **Configuration** page.
 
 Initial setup steps:
 

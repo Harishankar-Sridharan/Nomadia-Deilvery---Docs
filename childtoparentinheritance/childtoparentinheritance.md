@@ -8,7 +8,6 @@ Before using this feature, ensure you meet the following requirements:
 
 * An active user account for **Nomadia Delivery** with administrative privileges.
 * Pre-configured parent and child container profiles.
-* Access to the **Configuration** page.
 
 ## Feature overview
 
@@ -112,8 +111,6 @@ Set up child-to-parent inheritance using these steps:
 ## Track damaged items and not-delivered reasons
 
 1. Click the **Pencil icon** of the damaged child container to edit it.
-
-![Click the Pencil icon of the damaged child container to edit it](../.gitbook/assets/ChildToParentInheritance_CustomizeListViewParcel_003.png)
 
 2. Change the status to **Not Delivered**.
 

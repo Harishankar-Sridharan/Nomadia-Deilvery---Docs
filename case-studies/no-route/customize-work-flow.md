@@ -6,7 +6,6 @@ The customized workflow feature allows you to define how mission statuses progre
 
 This feature is enabled exclusively for accounts configured in No Route mode.
 
-* Access to the **Configuration** page.
 
 1. Open the **Configuration** page.
 2. Click on **Customize Status Tables and Workflow**.

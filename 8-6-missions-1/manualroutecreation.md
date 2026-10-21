@@ -37,8 +37,6 @@ Initial setup steps:
 2. Click **Actions**.
 3. Click **Assign**.
 
-![Click Assign](../.gitbook/assets/ManualRoute_BeforeBegin_001.gif)
-
 4. Click the **Calendar Icon**.
 5. Select any date for the route.
 

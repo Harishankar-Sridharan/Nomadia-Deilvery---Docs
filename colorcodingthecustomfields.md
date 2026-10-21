@@ -8,7 +8,6 @@ Prerequisites:
 
 * Active account in **Nomadia Delivery** with administrative access.
 * Pre-existing custom field parameters configured in the system.
-* Access to the **Configuration** page.
 
 Initial Setup Steps:
 
@@ -28,8 +27,6 @@ Initial Setup Steps:
 ## Configure color coding rules
 
 1. Open the **Configuration** page.
-
-![Open the Configuration page](.gitbook/assets/ColorCoding_BeforeBegin_001.gif)
 
 2. Click **Custom Field** from the configuration menu.
 

@@ -6,7 +6,6 @@ Customizing mandatory validation enforces required data entries on mission form 
 
 Administrative requirements and setup steps:
 
-* Access to the **Configuration** page.
 * Active mission form profile with field identifiers.
 
 Initial setup steps:
@@ -36,11 +35,7 @@ Configure mandatory validation for mission form fields:
 
 1. Open the **Configuration** page.
 
-![Open the Configuration page](../../.gitbook/assets/FormFieldValidation_BeforeBegin_001.gif)
-
 2. Click **Custom fields**.
-
-![Click Custom fields](../../.gitbook/assets/FormFieldValidation_BeforeBegin_002.gif)
 
 3. Select any **Identifier**.
 

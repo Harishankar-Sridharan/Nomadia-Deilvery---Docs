@@ -7,7 +7,6 @@ Alert Threshold Management in **Nomadia Delivery** allows dispatchers to set ope
 Prerequisites:
 
 * Active dispatcher account for **Nomadia Delivery**.
-* Access to the **Configuration** page.
 
 Setup Steps:
 

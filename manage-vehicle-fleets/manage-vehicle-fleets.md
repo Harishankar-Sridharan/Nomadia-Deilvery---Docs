@@ -2,10 +2,6 @@
 
 The **Manage Vehicle Fleets** feature in Nomadia Delivery allows administrators and planners to maintain an up-to-date registry of the vehicles used for delivery operations. This includes adding, editing, or deactivating vehicles, assigning specific characteristics, and ensuring that each vehicle is properly configured to meet logistical needs.
 
-## Before you begin
-
-* Access to the **Configuration** page.
-
 ## Import vehicle fleets
 
 1. Open the **Configuration** page.

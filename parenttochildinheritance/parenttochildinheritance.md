@@ -6,7 +6,6 @@ The **Parent to Child Inheritance** feature automatically synchronizes settings 
 
 Prerequisites and system requirements:
 
-* Access to the **Configuration** page.
 * Parent and child containers configured with correct identifiers.
 
 Steps:
@@ -27,8 +26,6 @@ Steps:
 ## Inherit status and sub-status
 
 1. Open the **Configuration** page.
-
-![Open the Configuration page](../.gitbook/assets/ParentToChildInheritance_BeforeBegin_001.gif)
 
 2. Click on **Container Types**.
 3. Scroll down to find the correct identifier.

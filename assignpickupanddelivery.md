@@ -9,7 +9,6 @@ Prerequisites:
 * Assigned driver and vehicle details.
 * Driver authorizations for required skills.
 * Mobile app accept timeout (in minutes) configured.
-* Access to the **Configuration** page.
 
 Initial setup steps:
 

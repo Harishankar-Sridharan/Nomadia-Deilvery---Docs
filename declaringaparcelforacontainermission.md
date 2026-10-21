@@ -38,8 +38,6 @@ Setup steps:
 
 1. Open the **Mission** menu.
 
-![Open the Mission menu](.gitbook/assets/DeclareParcels_BeforeBegin_002.gif)
-
 2. Click on **Add**.
 
 ![Click on Add](.gitbook/assets/DeclareParcels_DeclareParcelWhileAdding_001.gif)
