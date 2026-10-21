@@ -16,7 +16,7 @@ The panel shows one row for each delivery. By default the columns include **Fixe
 2. Type a value in a column's **Filter…** box to filter the list.
 3. Click the comparison operator next to the filter box, for example **equal to** or **contains**, to change how the filter works.
 4. Select the check boxes of the deliveries you want to change.
-5. Click the **Deliveries** drop-down arrow.
+5. Click the **Deliveries** drop-down arrow. The menu lists **Optimize**, **Single route ordering**, **Assign deliveries**, **Unassign**, **Add a break**, **Lock**, **Unlock**, **Delete**, **Customize the list** and **Coloring**.
 6. Click an action. Each action is described in its own topic, listed under **Features**.
 
 ![The Deliveries menu open with Optimize, Single route ordering, Assign deliveries, Unassign, Add a break and Lock](../.gitbook/assets/Simulation_Deliveries_001.png)
@@ -31,6 +31,7 @@ The panel shows one row for each delivery. By default the columns include **Fixe
 * [Lock and unlock deliveries](simulation-deliveries-lock-unlock.md): Keep deliveries as they are, or make them changeable again.
 * [Delete deliveries](simulation-deliveries-delete.md): Remove the selected deliveries from the simulation.
 * [Customize the deliveries list](simulation-deliveries-customize-list.md): Choose the columns, change the colors and build filters.
+* [Color the deliveries](simulation-deliveries-coloring.md): Apply color rules, such as one color for each driver.
 
 ## Result
 

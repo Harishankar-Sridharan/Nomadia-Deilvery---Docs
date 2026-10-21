@@ -11,6 +11,11 @@ The **Simulation** module shows the result of a route optimization so that you c
 * Make sure your user profile has the rights needed for simulations. For example, **Optimization** gives access to the optimization features, **Schedule** lets you create and manage optimized schedules, and **See other people's simulations** and **Edit other people's simulations** let you work with simulations created by other users. See [Web - Roles and Rights](../7-5-manage-users/web-roles-and-rights.md).
 * Run an optimization from the **Missions** tab. A simulation shows the result of that optimization.
 
+The page has a toolbar and four panels: **Deliveries**, **Map**, **Routes** and **Details**. The name of the simulation, for example **US_Optimization**, is shown in the toolbar.
+
+* On the left of the toolbar: **Optimization settings**, **Save changes**, **Undo**, **Redo** and **Export**.
+* On the right of the toolbar: **Edit**, **See the list of simulations**, **Optimization results**, **View used and unused vehicles in the optimisation** and **Modify the display of panels**.
+
 ## Features
 
 * [Manage deliveries](simulation-deliveries.md): Find the deliveries in the simulation and optimize, assign, unassign, lock or delete them.
@@ -44,6 +49,10 @@ When the optimization finishes, the **Optimization results** window opens. It sh
 
 {% hint style="warning" %}
 **Out-of-date simulation**: A warning icon shows when your configuration, optimization parameters or fleet changed after you created the simulation. To use the new settings, go to the **Missions** tab and start a new optimization.
+{% endhint %}
+
+{% hint style="info" %}
+**Typical workflow**: Optimize the deliveries, adjust the plan with the delivery and route actions, check the totals in the **Details** panel, and then save the simulation and validate the routes.
 {% endhint %}
 
 ## Related topics

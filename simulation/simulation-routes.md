@@ -6,6 +6,10 @@ This page explains how to use the **Routes** panel to review and change the rout
 
 * Open a simulation. See [Simulation](simulation.md).
 
+## What you see
+
+The panel lists each route by vehicle and date. In **Route view** you see the columns of the list, for example **Name**, **Date** and the number of deliveries. In **Gantt view** you see the timeline of each route and its mobile user. The route actions are **Validate**, **Assign**, **Unassign**, **Reorder**, **Reverse**, **Lock**, **Unlock**, **Delete**, **Customize the list** and **Coloring**.
+
 ## Steps
 
 1. Go to **Simulation** > **Routes**.

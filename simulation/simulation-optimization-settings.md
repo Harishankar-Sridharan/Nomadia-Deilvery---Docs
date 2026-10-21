@@ -13,7 +13,9 @@ This page explains how to use the **Optimization settings** window to define the
 2. Click the gear button next to **Optimization settings**.
 3. In **Configuration name**, select a configuration, or click **+** to create a new one.
 4. Open a tab and enter your values. The tabs are described below.
-5. Click **Save**.
+5. Click **Save** to keep your values, or click **Optimize all** to start an optimization with them.
+
+You can also open the settings with the **Optimization settings** button on the left of the toolbar.
 
 If you leave a field empty, the optimization uses the value that is already defined for the resources, the customers, the deliveries or the activity.
 

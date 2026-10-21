@@ -2,6 +2,10 @@
 
 This page explains how to validate the routes you want to use.
 
+## When to use it
+
+Validate the routes when the plan looks right. Validating dispatches the routes. Save the simulation first, then validate the routes.
+
 ## Before you begin
 
 * Open a simulation. See [Simulation](simulation.md).

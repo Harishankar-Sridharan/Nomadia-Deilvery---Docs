@@ -15,6 +15,10 @@ This page explains how to use the **Details** panel to see the totals for your r
 
 ![The Details panel showing totals for all routes](../.gitbook/assets/Simulation_Details_001.png)
 
+To see the information of one delivery, click the delivery in the **Deliveries** panel. The panel title changes to the delivery and its route, for example **Delivery Phillips > Truck 1 07/09/2026**, and the information is shown on the **Customer**, **Constraints** and **Other** tabs. The **Customer** tab shows **Name**, **Address**, **Postal code**, **City**, **Country**, **Longitude**, **Latitude** and **Score**.
+
+![The Details panel with the information of the selected delivery on the Customer tab](../.gitbook/assets/Simulation_Details_002.jpg)
+
 ## Features
 
 * [View agendas](simulation-details-agendas.md): See when your resources are available, assigned or unavailable.

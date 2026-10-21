@@ -92,6 +92,7 @@
     * [Lock and unlock deliveries](simulation/simulation-deliveries-lock-unlock.md)
     * [Delete deliveries](simulation/simulation-deliveries-delete.md)
     * [Customize the deliveries list](simulation/simulation-deliveries-customize-list.md)
+    * [Color the deliveries](simulation/simulation-deliveries-coloring.md)
   * [View the map](simulation/simulation-map.md)
     * [Choose what the map shows](simulation/simulation-map-objects-visibility.md)
     * [Use graphical information](simulation/simulation-map-graphical-information.md)
