@@ -32,16 +32,6 @@ Create a user from an existing user in Manage Users to start from the existing u
 
 ![](../.gitbook/assets/image-22.png)
 
-## Tips
-
-{% hint style="info" %}
-**Start from existing settings**: Create a user from an existing user to start from that user's settings, then modify the user details if necessary before you save.
-{% endhint %}
-
-{% hint style="info" %}
-**Preferences choice**: Choose **Yes** or **No** for **Import User's Preferences**, as required for the new user.
-{% endhint %}
-
 ## Related topics
 
 * [Manage Users](README.md)

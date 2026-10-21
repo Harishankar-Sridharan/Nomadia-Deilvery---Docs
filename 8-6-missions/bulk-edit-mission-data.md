@@ -73,10 +73,6 @@ All selected missions are updated simultaneously with the values chosen in the B
 **Review before saving**: Check the number of selected missions and the list of selected fields in the Bulk Edit pop-up before you click **Save**.
 {% endhint %}
 
-{% hint style="warning" %}
-**Simultaneous updates**: All selected missions are updated simultaneously with the values you choose in the Bulk Edit pop-up.
-{% endhint %}
-
 ## Related topics
 
 * [Missions](README.md)

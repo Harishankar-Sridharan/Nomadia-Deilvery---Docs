@@ -85,10 +85,6 @@ The table refreshes and shows only matching entries.
 **Find missions faster**: Use a mission status shortcut to show only matching entries, and save a filter under a name.
 {% endhint %}
 
-{% hint style="info" %}
-**Pin your filters**: Click the pin icon of a saved filter to pin it.
-{% endhint %}
-
 ## Related topics
 
 * [Missions](README.md)

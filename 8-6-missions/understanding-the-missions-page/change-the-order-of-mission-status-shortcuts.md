@@ -23,16 +23,6 @@ Change the order of the mission status shortcuts on the Missions page so they ap
 
 <figure><img src="../../.gitbook/assets/image (180).png" alt=""><figcaption></figcaption></figure>
 
-## Tips
-
-{% hint style="info" %}
-**Arrange by drag and drop**: Drag mission statuses into the sequence you prefer so the shortcuts appear in that order on the Missions page.
-{% endhint %}
-
-{% hint style="warning" %}
-**Save only for new filter creation**: Click **Save** or apply changes only for new filter creation.
-{% endhint %}
-
 ## Related topics
 
 * [Understanding the Missions Page](README.md)

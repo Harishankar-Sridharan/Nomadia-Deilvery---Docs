@@ -26,16 +26,6 @@ Create a new user in Manage Users without copying an existing user.
 
 <figure><img src="../.gitbook/assets/V2.png" alt=""><figcaption></figcaption></figure>
 
-## Tips
-
-{% hint style="info" %}
-**No copying**: Set **Create from existing user** to **No** to create a new user without copying an existing user.
-{% endhint %}
-
-{% hint style="info" %}
-**Enable access as required**: Enable **Web** and **Mobile access** according to what the user needs before you click **Save**.
-{% endhint %}
-
 ## Related topics
 
 * [Manage Users](README.md)

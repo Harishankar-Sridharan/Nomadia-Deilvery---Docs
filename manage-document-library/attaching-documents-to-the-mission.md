@@ -73,16 +73,6 @@ The document is now successfully attached to the mission.
 
 <figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
-## Tips
-
-{% hint style="info" %}
-**Clear identifiers**: Enter a clear and relevant identifier when you import a document so that you can recognize it later.
-{% endhint %}
-
-{% hint style="info" %}
-**Upload sources**: You can attach a document from the default Document Library, your local computer, or cloud storage services.
-{% endhint %}
-
 ## Related topics
 
 * [Manage document library](README.md)

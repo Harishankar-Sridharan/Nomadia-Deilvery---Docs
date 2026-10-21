@@ -49,16 +49,6 @@ The system automatically sets the priority to Highest based on these commitment 
 
 <figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
-## Tips
-
-{% hint style="info" %}
-**Populate both dates**: Fill in the **Delivery Asked Date** and **Delivery Asked End Date** and save the mission so the system can set the priority to Highest from the commitment dates.
-{% endhint %}
-
-{% hint style="info" %}
-**Recalculate when optimizing**: Switch the **Recalculate Priorities toggle** to ON before you run the optimization to recalculate priorities for the selected missions or parent route.
-{% endhint %}
-
 ## Related topics
 
 * [Missions](README.md)

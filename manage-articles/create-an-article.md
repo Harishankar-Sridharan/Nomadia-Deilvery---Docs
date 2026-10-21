@@ -38,12 +38,6 @@ The article type is created successfully.
 
 <figure><img src="../.gitbook/assets/image (25) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-## Tips
-
-{% hint style="info" %}
-**Define the kind of article**: An article type defines a kind of article that you can use in the delivery process, so enter a clear **Name** and **Translation**.
-{% endhint %}
-
 ## Related topics
 
 * [Manage Articles](README.md)

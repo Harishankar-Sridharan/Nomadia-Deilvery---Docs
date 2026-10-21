@@ -37,16 +37,6 @@ The newly created field is now available for mapping.
 
 ![](<../../.gitbook/assets/image-33 (2).png>)
 
-## Tips
-
-{% hint style="info" %}
-**Linked objects**: You can link custom fields created during import to Contractors, Missions, and Addresses.
-{% endhint %}
-
-{% hint style="info" %}
-**Ready for mapping**: After you click **Validate**, the new field is available for mapping.
-{% endhint %}
-
 ## Related topics
 
 * [Custom Fields](../custom-fields.md)

@@ -42,10 +42,6 @@ Use this process to improve the geocoding of mission addresses during import. It
 **Review the Geocoding Status bar**: After you click **Validate**, check the bar to see which missions are geocoded and at which level, then correct the others with **Adjust Address**.
 {% endhint %}
 
-{% hint style="warning" %}
-**Applies to addresses only**: This process is applicable only when the pickup address or delivery address is selected for the location indicators instead of the latitude and longitude fields.
-{% endhint %}
-
 ## Related topics
 
 * [Import Missions](README.md)

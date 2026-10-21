@@ -20,10 +20,6 @@ The pre-filters on the Missions page are dynamic sections that provide you with 
 
 ## Tips
 
-{% hint style="info" %}
-**Quick access to data**: Pre-filters give you quick access to relevant data without switching screens, which enhances navigation and productivity.
-{% endhint %}
-
 {% hint style="warning" %}
 **Assigned pre-filters limit visibility**: Leaving a pre-filter assigned prevents dispatchers from viewing the full fleet until the assignment is removed. See Configure Mission Pre-filters for details.
 {% endhint %}

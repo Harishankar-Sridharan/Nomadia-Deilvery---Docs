@@ -33,12 +33,6 @@ Activate the ticket module by granting a user the necessary rights under the Tic
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-## Tips
-
-{% hint style="info" %}
-**Grant rights per user**: Activate the necessary rights under the **Tickets** section of each user's **Roles & Rights** tab, then click **Save** to store the configuration.
-{% endhint %}
-
 ## Related topics
 
 * [Manage Tickets](README.md)

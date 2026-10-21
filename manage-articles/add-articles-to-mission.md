@@ -40,12 +40,6 @@ The articles are added successfully.
 
 <figure><img src="../.gitbook/assets/image (38) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-## Tips
-
-{% hint style="info" %}
-**Required information**: Enter the **Article name** and **Planned quantity** so the products that are part of the delivery are tracked with the mission.
-{% endhint %}
-
 ## Related topics
 
 * [Manage Articles](README.md)

@@ -28,12 +28,6 @@ The list displays the addresses with custom colors based on the conditions you s
 
 ![](<../.gitbook/assets/image-66 (2).png>)
 
-## Tips
-
-{% hint style="info" %}
-**Condition-based colors**: The list shows custom colors based on the conditions you set in the **Coloring** popup, so define clear conditions to organize your addresses.
-{% endhint %}
-
 ## Related topics
 
 * [Contractors](README.md)

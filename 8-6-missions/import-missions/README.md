@@ -54,16 +54,6 @@ Missions are imported successfully.
 
 <figure><img src="../../.gitbook/assets/ChatGPT Image May 19, 2026, 01_14_18 PM.png" alt=""><figcaption></figcaption></figure>
 
-## Tips
-
-{% hint style="info" %}
-**Preview before importing**: Review the preview of the data in both the table view and the map view before you click **Import**.
-{% endhint %}
-
-{% hint style="info" %}
-**Choose one location method**: Map either the address field or the latitude and longitude fields for the mission locations. To improve address geocoding, see Improve the Missions addresses geocoding.
-{% endhint %}
-
 ## Related topics
 
 * [Improve the Missions addresses geocoding](improve-the-missions-addresses-geocoding.md)

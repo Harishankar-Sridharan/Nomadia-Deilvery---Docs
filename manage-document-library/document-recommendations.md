@@ -106,10 +106,6 @@ If a country has multiple recommendation lists, they are seamlessly merged and d
 ## Tips
 
 {% hint style="info" %}
-**Multiple countries**: A recommendation list can be applied to multiple countries simultaneously, and you can add links to online or cloud-hosted documents such as SharePoint.
-{% endhint %}
-
-{% hint style="info" %}
 **Merged lists**: If a country has both a general and a country-specific recommendation list, both lists are merged and displayed with a separator during mission creation or editing.
 {% endhint %}
 

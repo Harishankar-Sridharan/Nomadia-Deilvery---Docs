@@ -16,21 +16,10 @@ In the Nomadia Delivery application, subcontractors must be registered by the tr
 * **Assigning missions to subcontractor**: Allocates selected missions to a subcontractor and filters the missions assigned to each one.
 * **Optimized Route Plan for Sub Contractors**: Lets subcontractors optimize, validate, and publish their own routes after the transporter grants the required rights.
 
-
 * [Register a Subcontractor](register-a-subcontractor.md)
 * [Create a Subcontractor User](create-a-subcontractor-user.md)
 * [Assigning missions to subcontractor](assigning-missions-to-subcontractor.md)
 * [Optimized Route Plan for Sub Contractors](optimized-route-plan-for-sub-contractors.md)
-
-## Tips
-
-{% hint style="info" %}
-**Delegate efficiently**: Use the subcontractor management feature to delegate logistics tasks, so that operations remain optimized and aligned with business objectives.
-{% endhint %}
-
-{% hint style="warning" %}
-**Register first**: Subcontractors must be registered by the transporter before they can upload mission data.
-{% endhint %}
 
 ## Related topics
 

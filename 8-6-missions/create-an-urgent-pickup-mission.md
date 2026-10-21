@@ -39,12 +39,6 @@ This feature allows an unplanned pickup mission to be inserted into an existing,
 
 These grouped missions will be executed only once on the mobile application, significantly reducing field execution time. Additionally, even if missions are not grouped beforehand, the mobile app automatically groups missions that share the same address information.
 
-## Tips
-
-{% hint style="warning" %}
-**Pickups only**: This feature is designed specifically for pickup scenarios, such as a customer requesting an immediate return of a damaged item.
-{% endhint %}
-
 ## Related topics
 
 * [Missions](README.md)

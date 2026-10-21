@@ -27,10 +27,6 @@ Filter the missions table using criteria built from a condition, an operator, an
 **Pick the operator by data type**: The available operators depend on the data type, so check the table of operators for Alphanumeric, Date, and Arithmetic values before you build a criterion.
 {% endhint %}
 
-{% hint style="info" %}
-**Build each criterion in three parts**: Combine a condition, an operator, and a value, then press the **Enter** key to apply the filter.
-{% endhint %}
-
 ## Related topics
 
 * [Understanding the Missions Page](README.md)

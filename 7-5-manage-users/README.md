@@ -31,12 +31,6 @@ From this screen, you can add new users, create users based on existing profiles
 * [Web - Roles and Rights](web-roles-and-rights.md)
 * [Auto-Assign Missions to Deliverers](auto-assign-missions-to-deliverers.md)
 
-## Tips
-
-{% hint style="info" %}
-**Appropriate access**: Make sure each user has the access rights and availability that match their role and responsibilities within the organization.
-{% endhint %}
-
 ## Related topics
 
 * [Subcontractor Management](../10-8-subcontractor-management/README.md)

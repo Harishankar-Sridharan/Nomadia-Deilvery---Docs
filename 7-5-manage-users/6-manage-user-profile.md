@@ -54,10 +54,6 @@ A confirmation message indicates that the user profile has been created successf
 **Simplify permission management**: If your organization has hundreds or thousands of users, create multiple profiles with different access rights to simplify user and permission management.
 {% endhint %}
 
-{% hint style="info" %}
-**Match profiles to user types**: Enable **contractor profiles (Web access)** for contractor users and **sub-contractor profiles** for sub-contractor users.
-{% endhint %}
-
 ## Related topics
 
 * [Manage Users](README.md)

@@ -78,16 +78,6 @@ The validated route is published to the mobile app.
 
 <figure><img src="../.gitbook/assets/image (204).png" alt=""><figcaption></figcaption></figure>
 
-## Tips
-
-{% hint style="info" %}
-**Share with the driver**: Activate **Publish to the mobile app** in the validation popup if you want to share the route with the driver.
-{% endhint %}
-
-{% hint style="warning" %}
-**Authorization first**: Subcontractors can create optimized routes only after the primary transporter grants them authorization, so enable **Vehicles** and **Optimization** rights before they start.
-{% endhint %}
-
 ## Related topics
 
 * [Subcontractor Management](README.md)

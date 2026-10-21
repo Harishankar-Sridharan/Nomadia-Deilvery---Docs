@@ -36,10 +36,6 @@ Enable the outgoing email service so that Nomadia Delivery can send email notifi
 ## Tips
 
 {% hint style="info" %}
-**Save your change**: Click **Save** after you enable **Customers Outgoing Email Service** so that **Nomadia Delivery** can send email notifications to customers.
-{% endhint %}
-
-{% hint style="info" %}
 **Customize the content**: To personalize the emails customers receive, see [Customize Email Templates](customize-email-templates/README.md).
 {% endhint %}
 

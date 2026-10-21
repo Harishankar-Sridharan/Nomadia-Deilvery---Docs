@@ -41,12 +41,6 @@ The sub status is created successfully.
 
 ![](../.gitbook/assets/image-84.png)
 
-## Tips
-
-{% hint style="info" %}
-**Code and configuration type**: Create each sub status with a code and a status configuration type so that you can track the progress of a delivery task in more detail.
-{% endhint %}
-
 ## Related topics
 
 * [Manage Substatus](README.md)

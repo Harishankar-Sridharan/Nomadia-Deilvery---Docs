@@ -127,16 +127,6 @@ The validated route with drop-shipping missions is published to the mobile app.
 
 Transporters can create routes that start from the agency, pick up parcels directly from the contractor (supplier) location, and deliver them to end customers. Unlike cross-docking missions, these routes do not require returning to the agency after the pickups are completed.
 
-## Tips
-
-{% hint style="info" %}
-**Contractor address**: The contractor's address from the contractor configuration is used as the default pickup address. Click **Edit** next to the address field to set a different one.
-{% endhint %}
-
-{% hint style="warning" %}
-**Optimization only**: Drop-shipping missions are managed exclusively through the optimization engine, and manual route planning is restricted. Deliveries are permitted only after all pickups are completed.
-{% endhint %}
-
 ## Related topics
 
 * [Missions](README.md)

@@ -35,10 +35,6 @@ The corresponding mission details appear below.
 ## Tips
 
 {% hint style="info" %}
-**Search by several fields**: You can search using the mission number, sender barcode, phone number, customer name, postal code, or city.
-{% endhint %}
-
-{% hint style="info" %}
 **Narrow results with a filter**: To narrow the missions table by conditions and operators, use Filter the Table using Criteria.
 {% endhint %}
 

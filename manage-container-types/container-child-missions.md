@@ -80,16 +80,6 @@ Container-Child Missions enable planners to group several related deliveries—s
 
 <figure><img src="../../../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
 
-## Tips
-
-{% hint style="info" %}
-**Select the parent**: Assign or optimize missions by selecting only the parent container mission.
-{% endhint %}
-
-{% hint style="info" %}
-**Partial deliveries**: Any partially delivered missions remain linked to the route for improved traceability.
-{% endhint %}
-
 ## Related topics
 
 * [Manage Container Types](README.md)

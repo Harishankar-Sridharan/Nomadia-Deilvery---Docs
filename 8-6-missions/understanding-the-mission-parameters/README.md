@@ -125,10 +125,6 @@ From the **Mission page**:
 
 ## Tips
 
-{% hint style="info" %}
-**Know each parameter**: Understanding these parameters is essential for ensuring that missions are properly configured, assigned, and executed in the field.
-{% endhint %}
-
 {% hint style="warning" %}
 **Addresses are fixed after routing**: The pickup address and the delivery address are non-editable after routing.
 {% endhint %}

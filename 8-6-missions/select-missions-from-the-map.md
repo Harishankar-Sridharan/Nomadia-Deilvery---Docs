@@ -29,12 +29,6 @@ The selected missions appear in the table view on the left panel.
 
 <figure><img src="../.gitbook/assets/image (173).png" alt=""><figcaption></figcaption></figure>
 
-## Tips
-
-{% hint style="info" %}
-**Work by region**: Choose a selection method, such as Polygon or Circle, and draw the region to highlight missions. The selected missions appear in the table view on the left panel.
-{% endhint %}
-
 ## Related topics
 
 * [Missions](README.md)

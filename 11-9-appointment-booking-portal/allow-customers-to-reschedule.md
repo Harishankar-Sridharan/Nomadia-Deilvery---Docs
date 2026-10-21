@@ -73,16 +73,6 @@ Use this guide to enable end customers to reschedule their delivery or pickup mi
 
 <figure><img src="../.gitbook/assets/Nomadia_Layout_V1 (4) (1).png" alt=""><figcaption></figcaption></figure>
 
-## Tips
-
-{% hint style="info" %}
-**Insert mission links**: When composing the message, use the $ keyword to insert mission-specific links and values.
-{% endhint %}
-
-{% hint style="warning" %}
-**Link validity window**: Configure the rescheduling link to be active from a maximum of 12 hours before delivery to a minimum of 3 hours before delivery, based on your operational requirements.
-{% endhint %}
-
 ## Related topics
 
 * [Booking Portal](README.md)

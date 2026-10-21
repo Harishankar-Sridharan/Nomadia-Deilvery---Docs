@@ -46,10 +46,6 @@ Use these pages to create, configure, and manage missions in Nomadia Delivery.
 ## Tips
 
 {% hint style="info" %}
-**Choose by task**: Use the list of features to find the page for creating, configuring, or managing missions, for example urgent missions, cross-docking, or drop-shipping.
-{% endhint %}
-
-{% hint style="info" %}
 **Status labels**: Customized status labels and colors apply across both the web and mobile applications once you save them.
 {% endhint %}
 

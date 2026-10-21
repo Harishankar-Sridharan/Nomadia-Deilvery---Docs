@@ -33,16 +33,6 @@ If a user has planned leave or vacation, the Days Off section can be used to rec
 
 ![](../.gitbook/assets/image-26.png)
 
-## Tips
-
-{% hint style="info" %}
-**Record planned leave**: If a user has planned leave or vacation, record the unavailable dates in the **Days Off** section.
-{% endhint %}
-
-{% hint style="info" %}
-**Save your changes**: After you click **Add**, click **Save** to update the details.
-{% endhint %}
-
 ## Related topics
 
 * [Manage Users](README.md)

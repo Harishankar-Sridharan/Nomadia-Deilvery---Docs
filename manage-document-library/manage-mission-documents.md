@@ -87,16 +87,6 @@ The mission documents are deleted successfully.
 
 <figure><img src="../.gitbook/assets/image (123) (1).png" alt=""><figcaption></figcaption></figure>
 
-## Tips
-
-{% hint style="info" %}
-**Edit mode**: Open the mission in edit mode with the pencil icon, then select **Documents** in the left-hand menu to upload, download, or delete its documents.
-{% endhint %}
-
-{% hint style="warning" %}
-**Valid files**: Select a valid document from your local system when you import or upload.
-{% endhint %}
-
 ## Related topics
 
 * [Manage document library](README.md)

@@ -48,16 +48,6 @@ The assigned group name is displayed in the Custom Fields table.
 
 <figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-## Tips
-
-{% hint style="info" %}
-**Reuse or create groups**: In the **Group name** field, you can choose an existing group or create a new one.
-{% endhint %}
-
-{% hint style="info" %}
-**Grouped in the form**: Custom fields that share a group name are grouped together in the mission creation form.
-{% endhint %}
-
 ## Related topics
 
 * [Custom Fields](../custom-fields.md)

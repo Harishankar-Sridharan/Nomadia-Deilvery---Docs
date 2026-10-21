@@ -76,16 +76,6 @@ The password must include at least three of the following character types:
 
 ![](../.gitbook/assets/image-18.png)
 
-## Tips
-
-{% hint style="info" %}
-**Password requirements**: Web passwords must include at least three of these character types: lowercase letters, uppercase letters, numbers, and symbols.
-{% endhint %}
-
-{% hint style="warning" %}
-**Modifying printed missions**: Users can modify missions after they have been printed only when **Modify missions after printing** is enabled.
-{% endhint %}
-
 ## Related topics
 
 * [Manage Users](README.md)

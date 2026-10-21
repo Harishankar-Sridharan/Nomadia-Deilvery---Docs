@@ -30,10 +30,6 @@ A details panel opens showing information such as:
 ## Tips
 
 {% hint style="info" %}
-**Open the right mission**: Click the **Pen** icon in the row of the desired mission to open its details panel.
-{% endhint %}
-
-{% hint style="info" %}
 **Need every field?**: For a full list of mission fields and their descriptions, see Understanding the Mission Parameters.
 {% endhint %}
 

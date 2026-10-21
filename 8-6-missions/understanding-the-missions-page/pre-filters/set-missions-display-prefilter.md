@@ -30,16 +30,6 @@ The filtered missions are displayed on your Missions page.
 
 <figure><img src="../../../.gitbook/assets/image (224).png" alt=""><figcaption></figcaption></figure>
 
-## Tips
-
-{% hint style="info" %}
-**Include deleted missions when needed**: Enable **Display Deleted Missions** to include deleted missions in the display.
-{% endhint %}
-
-{% hint style="info" %}
-**Screen resolution**: The display of the **Prefiltered On** section may vary based on screen resolution.
-{% endhint %}
-
 ## Related topics
 
 * [Pre-filters](README.md)

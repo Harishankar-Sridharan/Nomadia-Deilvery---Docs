@@ -115,16 +115,6 @@ A notification message is displayed confirming the action.
 
 <figure><img src="../.gitbook/assets/ChatGPT Image Apr 16, 2026, 09_19_29 AM.png" alt=""><figcaption></figcaption></figure>
 
-## Tips
-
-{% hint style="info" %}
-**Monitor open tickets**: Apply the Open ticket filter = Yes in the **Missions** tab and save it as a pre-filter to locate missions with active tickets for ongoing monitoring.
-{% endhint %}
-
-{% hint style="warning" %}
-**Review before confirming**: When you bulk edit tickets, review the warning message that is displayed before you click **Yes** to confirm the action.
-{% endhint %}
-
 ## Related topics
 
 * [Manage Tickets](README.md)

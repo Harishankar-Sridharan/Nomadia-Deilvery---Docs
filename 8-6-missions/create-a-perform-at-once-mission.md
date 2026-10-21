@@ -32,16 +32,6 @@ The system generates a Grouping Key for the selected missions.
 
 <figure><img src="../.gitbook/assets/msedge_q4LQpjn95n.png" alt=""><figcaption></figcaption></figure>
 
-## Tips
-
-{% hint style="info" %}
-**Different from container grouping**: Unlike container grouping, 'perform at once' relies on a Grouping Key, which allows a single validation step for all linked items.
-{% endhint %}
-
-{% hint style="warning" %}
-**Same address required**: Select only missions that share the exact same delivery address.
-{% endhint %}
-
 ## Related topics
 
 * [Missions](README.md)

@@ -23,12 +23,6 @@ Use the booking portal to let customers book and reschedule delivery slots. The 
 * [Rescheduling by Customer](rescheduling-by-customer/README.md)
 * [Reschedule a Pre-Booked Slot Multiple Times](rescheduling-by-customer/prebookingtheslotmultipletimes.md)
 
-## Tips
-
-{% hint style="info" %}
-**Start with the portal**: Use the booking portal to let customers book and reschedule delivery slots, and work through the pages in this section to cover each part of the portal.
-{% endhint %}
-
 ## Related topics
 
 * [Booking slots](booking-slots/README.md)

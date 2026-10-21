@@ -118,16 +118,6 @@ Documents are successfully added to the mission.
 
 <figure><img src="../../.gitbook/assets/image (44) (1).png" alt=""><figcaption></figcaption></figure>
 
-## Tips
-
-{% hint style="info" %}
-**Same procedure for parcels**: You can use the same procedure that arranges custom field groups to activate custom fields for parcels.
-{% endhint %}
-
-{% hint style="warning" %}
-**Aggregable containers only**: When you group missions in a container, only aggregable containers are displayed as the default container type.
-{% endhint %}
-
 ## Related topics
 
 * [Missions](../README.md)

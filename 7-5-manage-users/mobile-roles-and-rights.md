@@ -38,16 +38,6 @@ The password must contain a minimum of 8 characters, including at least one uppe
 
 ![](../.gitbook/assets/image-10.png)
 
-## Tips
-
-{% hint style="info" %}
-**Password requirements**: Mobile passwords must contain at least 8 characters, including one uppercase letter, one lowercase letter, and one number.
-{% endhint %}
-
-{% hint style="warning" %}
-**Mandatory calls**: When **Make the call mandatory** is enabled, users must make a call before completing the mission.
-{% endhint %}
-
 ## Related topics
 
 * [Manage Users](README.md)

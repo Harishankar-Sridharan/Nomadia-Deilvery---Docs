@@ -82,10 +82,6 @@ When the deliverer logs in to the mobile app, the deliverer can fulfill the visi
 ## Tips
 
 {% hint style="info" %}
-**Visit wizard**: A visit mission does not involve pickups or deliveries, so the wizard includes only the visit address and opening hours.
-{% endhint %}
-
-{% hint style="info" %}
 **Publish before the visit**: Publish the visit route on the mobile app so the mission status changes to **To be visited** and the deliverer can then set **Visited** or **Not Visited**.
 {% endhint %}
 
