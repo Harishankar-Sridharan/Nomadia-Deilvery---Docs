@@ -7,11 +7,11 @@ The **Audit Logs** feature in Nomadia Delivery tracks and records system activit
 Prerequisites and system requirements:
 
 * Active access to a **Nomadia Delivery** dispatcher or planner account.
-* Permissions to view system **Configuration** and **History of Changes**.
+* Access to the **Configuration** page.
 
 Initial setup steps:
 
-1. Navigate to **Configuration** in the main navigation menu.
+1. Open the **Configuration** page.
 2. Scroll down and click **History of Changes**.
 
 ![Scroll down and click History of Changes](.gitbook/assets/AuditLogs_BeforeBegin_001.png)
@@ -30,9 +30,9 @@ Initial setup steps:
 
 ## View and export audit logs
 
-1. Navigate to **Configuration** and scroll down to click **History of Changes**.
+1. Open the **Configuration** page, scroll down and click **History of Changes**.
 
-![Navigate to Configuration and scroll down to click History of Changes](.gitbook/assets/AuditLogs_ViewExportAuditLogs_001.gif)
+![Open the Configuration page, scroll down and click History of Changes](.gitbook/assets/AuditLogs_ViewExportAuditLogs_001.gif)
 
 2. Review the table showing **Date and Time**, **Login Details**, **Object Name**, **Type**, **Report**, **Profile**, and **Object ID**.
 

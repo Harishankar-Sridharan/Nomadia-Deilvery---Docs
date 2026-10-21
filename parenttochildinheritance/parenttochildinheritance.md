@@ -6,12 +6,12 @@ The **Parent to Child Inheritance** feature automatically synchronizes settings 
 
 Prerequisites and system requirements:
 
-* Active account in **Nomadia Delivery** with **Configuration** panel access.
+* Access to the **Configuration** page.
 * Parent and child containers configured with correct identifiers.
 
 Steps:
 
-1. Navigate to the **Configuration** menu.
+1. Open the **Configuration** page.
 2. Click on **Container Types**.
 
 ![Click on Container Types](../.gitbook/assets/ParentToChildInheritance_BeforeBegin_001.gif)
@@ -26,9 +26,9 @@ Steps:
 
 ## Inherit status and sub-status
 
-1. Navigate to the **Configuration** menu.
+1. Open the **Configuration** page.
 
-![Navigate to the Configuration menu](../.gitbook/assets/ParentToChildInheritance_BeforeBegin_001.gif)
+![Open the Configuration page](../.gitbook/assets/ParentToChildInheritance_BeforeBegin_001.gif)
 
 2. Click on **Container Types**.
 3. Scroll down to find the correct identifier.
@@ -58,7 +58,7 @@ The status has been updated for all child missions.
 
 ## Inherit attributes to child containers
 
-1. Navigate to **Configuration**.
+1. Open the **Configuration** page.
 2. Click on **Container Types**.
 3. Toggle **Inherit attributes to child missions** to enable it.
 4. Click on **Save**.
@@ -80,7 +80,7 @@ Only the address has been updated for all child missions. The status is not upda
 
 ## Inherit documents to child containers
 
-1. Navigate to **Configuration**.
+1. Open the **Configuration** page.
 2. Click on **Container Types**.
 3. Toggle **Inherit documents to child missions** to enable it.
 

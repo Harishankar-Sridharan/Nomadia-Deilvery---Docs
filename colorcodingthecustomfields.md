@@ -8,12 +8,13 @@ Prerequisites:
 
 * Active account in **Nomadia Delivery** with administrative access.
 * Pre-existing custom field parameters configured in the system.
+* Access to the **Configuration** page.
 
 Initial Setup Steps:
 
-1. Log in to **Nomadia Delivery**, navigate to **Configuration**, and select **Custom Field**.
+1. Open the **Configuration** page and select **Custom Field**.
 
-![Log in to Nomadia Delivery, navigate to Configuration](.gitbook/assets/ColorCoding_BeforeBegin_001.gif)
+![Open the Configuration page](.gitbook/assets/ColorCoding_BeforeBegin_001.gif)
 
 ## Feature overview
 
@@ -26,9 +27,9 @@ Initial Setup Steps:
 
 ## Configure color coding rules
 
-1. Log in to **Nomadia Delivery** and click **Configuration**.
+1. Open the **Configuration** page.
 
-![Log in to Nomadia Delivery and click Configuration](.gitbook/assets/ColorCoding_BeforeBegin_001.gif)
+![Open the Configuration page](.gitbook/assets/ColorCoding_BeforeBegin_001.gif)
 
 2. Click **Custom Field** from the configuration menu.
 
@@ -38,9 +39,9 @@ Initial Setup Steps:
 
 ![Locate the target field and click the Edit button next to Package Value](.gitbook/assets/ColorCoding_ConfigureColorCodingRules_002.gif)
 
-4. Scroll down to **Conditional Background Color**.
+4. Scroll down to the **Conditional Background Color** section.
 
-![Scroll down to Conditional Background Color](.gitbook/assets/ColorCoding_ConfigureColorCodingRules_003.gif)
+![Scroll down to the Conditional Background Color section](.gitbook/assets/ColorCoding_ConfigureColorCodingRules_003.gif)
 
 5. Input numerical value ranges and assign background colors.
 

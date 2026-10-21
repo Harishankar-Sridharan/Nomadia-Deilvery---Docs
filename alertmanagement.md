@@ -7,13 +7,13 @@ Alert Threshold Management in **Nomadia Delivery** allows dispatchers to set ope
 Prerequisites:
 
 * Active dispatcher account for **Nomadia Delivery**.
-* Permissions to access the **Configuration** menu.
+* Access to the **Configuration** page.
 
 Setup Steps:
 
-1. Select **Configuration** in the main navigation menu.
+1. Open the **Configuration** page.
 
-![Select Configuration in the main navigation menu](.gitbook/assets/AlertManagement_BeforeBegin_001.gif)
+![Open the Configuration page](.gitbook/assets/AlertManagement_BeforeBegin_001.gif)
 
 2. Click **Alert Threshold Management** under the route options.
 

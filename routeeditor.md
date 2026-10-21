@@ -17,7 +17,7 @@ The **Route Editor** feature allows dispatchers to manage route details and surv
 
 2. Go to **Missions** and scroll down to the **Route** section.
 
-![Go to missions and scroll down to access the route section](.gitbook/assets/RouteEditor_BeforeBegin_002.png)
+![Go to Missions and scroll down to the Route section](.gitbook/assets/RouteEditor_BeforeBegin_002.png)
 
 3. Click the **edit icon** next to the **delivery name**.
 

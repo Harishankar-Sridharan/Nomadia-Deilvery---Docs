@@ -13,9 +13,9 @@ Initial setup steps:
 
 1. Log in to **Nomadia Delivery**.
 2. Navigate to the **Missions** section.
-3. Scroll down to locate the **Route** section.
+3. Scroll down to the **Route** section.
 
-![Scroll down to locate the Route section](.gitbook/assets/GanttView_BeforeBegin_001.png)
+![Scroll down to the Route section](.gitbook/assets/GanttView_BeforeBegin_001.png)
 
 ## Feature overview
 

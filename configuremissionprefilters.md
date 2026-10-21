@@ -9,10 +9,11 @@ Prerequisites and requirements:
 * Access to **Nomadia Delivery** with administrator or dispatcher permissions.
 * Active mission records configured in the system.
 * Web browser connected to the SaaS platform.
+* Access to the **Configuration** page.
 
 Initial setup steps:
 
-1. Navigate to **Configuration** in the main menu.
+1. Open the **Configuration** page.
 2. Select **Mission Pre-Filters** from the settings list.
 
 ![Select Mission Pre-Filters from the settings list](.gitbook/assets/MissionPrefilters_BeforeBegin_001.gif)
@@ -34,9 +35,9 @@ Initial setup steps:
 
 ## Create and customize a mission pre-filter
 
-1. Open **Configuration** and click **Mission Pre-Filters**.
+1. Open the **Configuration** page and click **Mission Pre-Filters**.
 
-![Open Configuration and click Mission Pre-Filters](.gitbook/assets/MissionPrefilters_BeforeBegin_001.gif)
+![Open the Configuration page and click Mission Pre-Filters](.gitbook/assets/MissionPrefilters_BeforeBegin_001.gif)
 
 2. Click **Actions** and select **Add** to launch the editor.
 
@@ -91,9 +92,9 @@ Initial setup steps:
 
 ## Assign a pre-filter query to a user
 
-1. Navigate to **Configuration** and click **Manage users**.
+1. Open the **Configuration** page and click **Manage users**.
 
-![Navigate to Configuration and click Manage users](.gitbook/assets/MissionPrefilters_AssignPreFilterQuery_001.gif)
+![Open the Configuration page and click Manage users](.gitbook/assets/MissionPrefilters_AssignPreFilterQuery_001.gif)
 
 2. Select the target user email address.
 
@@ -118,7 +119,7 @@ Initial setup steps:
 
 ## Remove an assigned pre-filter from a user
 
-1. Go to **Configuration** and select **Manage users**.
+1. Open the **Configuration** page and select **Manage users**.
 2. Click the user email address.
 3. Clear the assigned query under **Mission Pre-Filters**.
 

@@ -8,6 +8,7 @@ Before using this feature, ensure you meet the following requirements:
 
 * An active user account for **Nomadia Delivery** with administrative privileges.
 * Pre-configured parent and child container profiles.
+* Access to the **Configuration** page.
 
 ## Feature overview
 
@@ -22,9 +23,9 @@ Before using this feature, ensure you meet the following requirements:
 
 Set up child-to-parent inheritance using these steps:
 
-1. Go to **Configuration**.
+1. Open the **Configuration** page.
 
-![Go to Configuration](../.gitbook/assets/ChildToParentInheritance_Configure_001.gif)
+![Open the Configuration page](../.gitbook/assets/ChildToParentInheritance_Configure_001.gif)
 
 2. Click **Container Types**.
 
@@ -136,9 +137,9 @@ The partial status attainment is updated based on the number of child missions t
 
 ## Configure and view aggregated dimensions and quantities
 
-1. Click **Configuration** on the top menu.
+1. Open the **Configuration** page.
 
-![Click Configuration on the top menu](../.gitbook/assets/ChildToParentInheritance_ConfigureViewAggregatedDimensions_001.png)
+![Open the Configuration page](../.gitbook/assets/ChildToParentInheritance_ConfigureViewAggregatedDimensions_001.png)
 
 2. Edit any container type from the list.
 3. Choose your desired size metrics in **Aggregate dimensions**, such as length or height.

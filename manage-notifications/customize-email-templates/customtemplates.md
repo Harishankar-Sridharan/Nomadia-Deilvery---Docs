@@ -8,10 +8,11 @@ Prerequisites & System Requirements:
 
 * Active dispatcher or planner account in **Nomadia Delivery**.
 * Web browser with an active internet connection.
+* Access to the **Configuration** page.
 
 Initial Setup Steps:
 
-1. Go to **Configuration**.
+1. Open the **Configuration** page.
 2. Scroll down and click **Configure outgoing messages**.
 
 ![Scroll down and click Configure outgoing messages](../../.gitbook/assets/EmailTemplates_BeforeBegin_001.gif)
@@ -33,7 +34,7 @@ Initial Setup Steps:
 
 ## Configure a custom customer email template
 
-1. Go to **Configuration**.
+1. Open the **Configuration** page.
 2. Scroll down and click **Configure outgoing messages**.
 
 ![Scroll down and click Configure outgoing messages](../../.gitbook/assets/EmailTemplates_BeforeBegin_001.gif)

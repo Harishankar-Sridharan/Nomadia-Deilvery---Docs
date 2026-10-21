@@ -4,29 +4,28 @@ The **Manage Vehicle Fleets** feature in Nomadia Delivery allows administrators 
 
 ## Before you begin
 
-* Access to the **Configuration** menu in **Nomadia Delivery**, where the vehicle fleets are managed under **My Data**.
+* Access to the **Configuration** page.
 
 ## Import vehicle fleets
 
-1. Go to **Configuration**.
+1. Open the **Configuration** page.
 
-![Go to Configuration](../.gitbook/assets/VehicleFleets_ImportVehiclesFleets_001.png)
+![Open the Configuration page](../.gitbook/assets/VehicleFleets_ImportVehiclesFleets_001.png)
 
-2. Click on **Configuration Menu**.
-3. Under **My Data**, click on **Manage the Vehicles**.
+2. Under **My Data**, click on **Manage the Vehicles**.
 
 ![Under My Data, click on Manage the Vehicles](../.gitbook/assets/VehicleFleets_ImportVehiclesFleets_002.png)
 
-4. Under **My Fleets**, click the **Actions** drop-down menu.
-5. Click on **Import**.
+3. Under **My Fleets**, click the **Actions** drop-down menu.
+4. Click on **Import**.
 
 ![Click on Import](../.gitbook/assets/VehicleFleets_ImportVehiclesFleets_003.png)
 
-6. Click on **Browse File** to upload the file.
+5. Click on **Browse File** to upload the file.
 
 ![Click on Browse File to upload the file](../.gitbook/assets/VehicleFleets_ImportVehiclesFleets_004.png)
 
-7. Select a valid file from your local system.
+6. Select a valid file from your local system.
 
 ![Select a Valid file from your local system](../.gitbook/assets/VehicleFleets_ImportVehiclesFleets_005.png)
 
@@ -38,19 +37,18 @@ The vehicle fleets have been imported successfully.
 
 ## Add a vehicle fleet
 
-1. Go to **Configuration**.
-2. Click on **Configuration Menu**.
-3. Under **My Data**, click on **Manage the Vehicles**.
-4. Under **My Fleets**, click the **Actions** drop-down menu.
-5. Click on **Add**.
+1. Open the **Configuration** page.
+2. Under **My Data**, click on **Manage the Vehicles**.
+3. Under **My Fleets**, click the **Actions** drop-down menu.
+4. Click on **Add**.
 
 ![Click on Add](../.gitbook/assets/VehicleFleets_AddVehiclesFleets_001.png)
 
-6. Enter the **Name** and **Agency name**.
+5. Enter the **Name** and **Agency name**.
 
 When adding a vehicle, enable the **Dedicated start address** toggle to edit the **Start address**.
 
-7. Click on **Add**.
+6. Click on **Add**.
 
 <figure><img src="../.gitbook/assets/VehicleFleets_AddVehiclesFleets_002.png" alt="Click on Add"><figcaption></figcaption></figure>
 
@@ -66,17 +64,16 @@ The vehicle fleets have been added successfully.
 
 ## Delete a vehicle fleet
 
-1. Go to **Configuration**.
-2. Click on **Configuration Menu**.
-3. Under **My Data**, click on **Manage the Vehicles**.
-4. Select a **Team**.
-5. Under **My Fleets**, click the **Actions** drop-down menu.
-6. Click on **Delete**.
+1. Open the **Configuration** page.
+2. Under **My Data**, click on **Manage the Vehicles**.
+3. Select a **Team**.
+4. Under **My Fleets**, click the **Actions** drop-down menu.
+5. Click on **Delete**.
 
 ![Click on Delete](../.gitbook/assets/VehicleFleets_DeleteVehiclesFleets_001.png)
 
-7. You will see a confirmation pop-up message stating: "Do you want to delete the Vehicle?"
-8. Click on **Delete**.
+6. You will see a confirmation pop-up message stating: "Do you want to delete the Vehicle?"
+7. Click on **Delete**.
 
 ![Click on Delete](../.gitbook/assets/VehicleFleets_DeleteVehiclesFleets_002.png)
 

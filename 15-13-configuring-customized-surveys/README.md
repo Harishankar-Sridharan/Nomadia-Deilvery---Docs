@@ -4,13 +4,13 @@ As a transporter, you can use customized surveys to gather valuable feedback fro
 
 ## Before you begin
 
-* Access to the **Configuration** tab in **Nomadia Delivery**.
+* Access to the **Configuration** page.
 
 ## Steps
 
 Follow these steps to set up customizable surveys in Nomadia Delivery:
 
-1. Open the Nomadia Delivery application and go to the **Configuration** tab.
+1. Open the **Configuration** page.
 2. From the drop-down, select **Configure the surveys**.
 3. Click the **Actions** button and choose **Create** to set up a new survey.
 
@@ -76,7 +76,7 @@ Survey Creator / Form Builder is a visual design tool that allows you to create 
 
 ### Assign a survey to a sub-status
 
-1. Open the Configuration tab in Nomadia Delivery.
+1. Open the **Configuration** page.
 2. Select Sub status from the drop-down.
 3. Edit a sub-status by clicking the Pencil icon.
 
@@ -92,7 +92,7 @@ Survey Creator / Form Builder is a visual design tool that allows you to create 
 
 ## Analyzing survey responses
 
-1. Open the Nomadia Delivery application and go to the **Configuration** tab.
+1. Open the **Configuration** page.
 2. Select **Configure the surveys** from the drop-down.
 3. Click the Circle icon next to the survey you wish to analyze.
 
@@ -109,7 +109,7 @@ Survey Creator / Form Builder is a visual design tool that allows you to create 
 
 ## Configure vehicle photos
 
-1. Go to **Configuration** and select **Configure the surveys**.
+1. Open the **Configuration** page and select **Configure the surveys**.
 2. Click the **pencil icon** to modify the required survey.
 3. Enable the **Capture vehicle photos** option.
 4. Specify the **number of photos** to be displayed.

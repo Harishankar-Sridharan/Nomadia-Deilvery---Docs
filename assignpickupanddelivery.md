@@ -9,10 +9,11 @@ Prerequisites:
 * Assigned driver and vehicle details.
 * Driver authorizations for required skills.
 * Mobile app accept timeout (in minutes) configured.
+* Access to the **Configuration** page.
 
 Initial setup steps:
 
-1. Navigate to **Configuration**.
+1. Open the **Configuration** page.
 2. Click **Configure Mobile App**.
 3. Enter minutes in **Accept Timeout Minutes**.
 4. Click **Save**.

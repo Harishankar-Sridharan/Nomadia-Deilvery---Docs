@@ -6,14 +6,13 @@
 
 **Prerequisites**
 
-* Access to **Nomadia Delivery** with administrative configuration privileges.
-* Active connection to the **Configuration** module.
+* Access to the **Configuration** page.
 
 **Initial Setup Steps**
 
-1. Navigate to **Configuration** in the main menu.
+1. Open the **Configuration** page.
 
-![Navigate to Configuration in the main menu](.gitbook/assets/MissionBlockLabels_BeforeBegin_001.gif)
+![Open the Configuration page](.gitbook/assets/MissionBlockLabels_BeforeBegin_001.gif)
 
 2. Select **Customization** from the options menu.
 3. Click **Customized Mission Block Labels** to open label settings.

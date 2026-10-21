@@ -4,12 +4,12 @@ Nomadia Delivery allows you to manage an address list that serves as a master re
 
 ## Before you begin
 
-* Access to the **Configuration** menu in **Nomadia Delivery**.
+* Access to the **Configuration** page.
 * For an import, an Excel file containing the addresses.
 
 ## Steps
 
-1. Log in to the Nomadia Delivery application and go to **Configuration**.
+1. Open the **Configuration** page.
 2. Click **Address list**.
 
 <figure><img src=".gitbook/assets/GlobalAddressList_Steps_001.png" alt="Click Address list"><figcaption></figcaption></figure>
@@ -42,7 +42,7 @@ The address list shows all customers on a map according to their geographical lo
 
 ## Setting the address type
 
-1. Go to **Configuration**.
+1. Open the **Configuration** page.
 2. Click **Address list**.
 3. Click the **pencil icon** next to the address you want to edit.
 4. Under **Contact**, select the **Address type**.
