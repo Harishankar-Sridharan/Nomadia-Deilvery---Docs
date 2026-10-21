@@ -6,12 +6,12 @@
 
 Prerequisites:
 
-* Access to the **Configuration** menu.
+* Access to the **Configuration** page.
 * Administrative permissions to apply platform-wide settings.
 
 Steps:
 
-1. Navigate to the **Configuration** panel in the main menu.
+1. Open the **Configuration** page.
 2. Click on the **Customer addresses block visibility** option.
 
 ![Click on the Customer addresses block visibility option](../.gitbook/assets/AddressVisibility_BeforeBegin_001.gif)
@@ -27,9 +27,9 @@ Steps:
 
 ## Customize address block visibility
 
-1. Navigate to **Configuration** and click **Customer addresses block visibility**.
+1. Open the **Configuration** page and click **Customer addresses block visibility**.
 
-![Navigate to Configuration and click Customer addresses block visibility](../.gitbook/assets/AddressVisibility_CustomizeAddressBlockVisibility_001.gif)
+![Open the Configuration page and click Customer addresses block visibility](../.gitbook/assets/AddressVisibility_CustomizeAddressBlockVisibility_001.gif)
 
 2. Toggle settings for the **Contractor address list**, **Global address list**, or both.
 

@@ -6,14 +6,14 @@ Customizing mandatory validation enforces required data entries on mission form 
 
 Administrative requirements and setup steps:
 
-* Administrative access to **Nomadia Delivery** configuration settings.
+* Access to the **Configuration** page.
 * Active mission form profile with field identifiers.
 
 Initial setup steps:
 
-1. Select **Configuration** from the main menu.
+1. Open the **Configuration** page.
 
-![Select Configuration from the main menu](../../.gitbook/assets/FormFieldValidation_BeforeBegin_001.gif)
+![Open the Configuration page](../../.gitbook/assets/FormFieldValidation_BeforeBegin_001.gif)
 
 2. Click **Custom fields** to manage form fields.
 
@@ -34,9 +34,9 @@ Key user interface elements:
 
 Configure mandatory validation for mission form fields:
 
-1. Click **Configuration**.
+1. Open the **Configuration** page.
 
-![Click Configuration](../../.gitbook/assets/FormFieldValidation_BeforeBegin_001.gif)
+![Open the Configuration page](../../.gitbook/assets/FormFieldValidation_BeforeBegin_001.gif)
 
 2. Click **Custom fields**.
 

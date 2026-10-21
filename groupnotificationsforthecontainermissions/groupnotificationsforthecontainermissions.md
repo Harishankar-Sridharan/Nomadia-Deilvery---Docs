@@ -8,12 +8,13 @@ To use this feature, make sure the following requirements are met:
 
 * Activate this setting to have the parent inherit its status from its child items.
 * Make sure each mission has a contractor assigned to it.
+* Access to the **Configuration** page.
 
 Follow these initial steps to access the settings:
 
-1. Navigate to the **Configuration** screen.
+1. Open the **Configuration** page.
 
-![Navigate to the Configuration screen](../.gitbook/assets/GroupNotifications_BeforeBegin_001.png)
+![Open the Configuration page](../.gitbook/assets/GroupNotifications_BeforeBegin_001.png)
 
 2. Select **Container Types**.
 
@@ -67,7 +68,7 @@ Follow these initial steps to access the settings:
 
 ## Trigger group notifications
 
-1. Go to **Configuration** and click **Container types**.
+1. Open the **Configuration** page and click **Container types**.
 2. Click the **pencil icon** next to your container type.
 
 <figure><img src="../.gitbook/assets/GroupNotifications_TriggerGroupNotifications_001.png" alt="Click the Pencil Icon next to your container type"><figcaption></figcaption></figure>

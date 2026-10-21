@@ -10,6 +10,7 @@ This feature is enabled exclusively for accounts configured in No Route mode.
 
 * Create a parent container in the system.
 * Create a child container.
+* Access to the **Configuration** page.
 
 ## Feature overview
 
@@ -20,9 +21,9 @@ This feature is enabled exclusively for accounts configured in No Route mode.
 
 Follow these initial setup steps:
 
-1. Navigate to the **Configuration** menu.
+1. Open the **Configuration** page.
 
-![Navigate to the Configuration menu](../../.gitbook/assets/StatusHierarchy_FeatureOverview_001.png)
+![Open the Configuration page](../../.gitbook/assets/StatusHierarchy_FeatureOverview_001.png)
 
 2. Select **Container types**.
 

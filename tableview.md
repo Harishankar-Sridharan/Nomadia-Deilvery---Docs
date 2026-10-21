@@ -12,7 +12,7 @@ Prerequisites and system requirements:
 Initial setup steps:
 
 1. Select **Missions** from the main menu.
-2. Scroll down to locate the **Routes** section.
+2. Scroll down to the **Routes** section.
 3. Locate the **Table View Menu** next to **Actions**.
 4. Click **Table View Menu** to change the **Routes** display to table view.
 

@@ -11,6 +11,7 @@ Ensure you have the following system requirements and configurations set up:
 * Access to the **Nomadia Delivery** back-office portal.
 * A registered contractor email address to receive automatic reports.
 * The mobile application installed on field devices.
+* Access to the **Configuration** page.
 
 Then complete the setup in this order:
 
@@ -29,7 +30,7 @@ The following UI elements control your reception tracking workflow:
 
 ## Configure the mobile app for reception
 
-1. Navigate to the **Configuration** menu in the portal.
+1. Open the **Configuration** page.
 2. Click **Configure the mobile app**.
 
 ![Click Configure the mobile app](../.gitbook/assets/ReceptionManagement_ConfigureMobileAppReception_001.png)
