@@ -134,6 +134,7 @@
   * [Parent to Child Inheritance](parenttochildinheritance/parenttochildinheritance.md)
   * [Child to Parent Inheritance](childtoparentinheritance/childtoparentinheritance.md)
   * [Group notifications for container missions](groupnotificationsforthecontainermissions/groupnotificationsforthecontainermissions.md)
+  * [Track Individual Containers by Unique ID](manage-container-types/track-individual-containers-by-unique-id.md)
 * [Manage document library](manage-document-library/README.md)
   * [Manage Mission documents](manage-document-library/manage-mission-documents.md)
   * [Document Recommendations](manage-document-library/document-recommendations.md)
