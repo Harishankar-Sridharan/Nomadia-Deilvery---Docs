@@ -122,6 +122,7 @@
   * [Fixed and Recurring Plans](9-7-contractors/13-11-fixed-and-recurring-plans.md)
   * [Reception Management](receptionmanagement/receptionmanagement.md)
 * [Manage Global Address List](manage-global-address-list.md)
+  * [Control Address Sharing with Contractors](control-address-sharing-with-contractors.md)
 * [Manage Articles](manage-articles/README.md)
   * [Create an Article](manage-articles/create-an-article.md)
   * [Add Articles to Mission](manage-articles/add-articles-to-mission.md)
