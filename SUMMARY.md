@@ -42,6 +42,7 @@
   * [Audit Logs](auditlogs.md)
   * [Select Missions from the map](8-6-missions/select-missions-from-the-map.md)
   * [Bulk Edit Mission Data](8-6-missions/bulk-edit-mission-data.md)
+  * [Bulk Update Mission Status](8-6-missions/bulk-update-mission-status.md)
   * [Create a 'perform at once' mission](8-6-missions/create-a-perform-at-once-mission.md)
   * [Create an Urgent Mission](8-6-missions/create-an-urgent-mission.md)
   * [Create an Urgent Pickup Mission](8-6-missions/create-an-urgent-pickup-mission.md)
