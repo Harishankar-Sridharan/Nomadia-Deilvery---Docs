@@ -165,6 +165,7 @@
   * [Manage Vehicle Fleets](manage-vehicle-fleets/manage-vehicle-fleets.md)
   * [Manage Vehicles in a fleet](manage-vehicle-fleets/manage-vehicles-in-a-fleet.md)
   * [Customize the Constraints](manage-vehicle-fleets/customize-the-constraints.md)
+* [Secure API Key Management](secure-api-key-management.md)
 * [Case Studies](case-studies/README.md)
   * [Study Creation with Primary Zone](case-studies/study-creation-with-primary-zone.md)
   * [Subsector using postal code](case-studies/sub-sector-using-postal-code.md)
