@@ -161,6 +161,7 @@
   * [Activating the Ticket Module](manage-tickets/activating-the-ticket-module.md)
   * [Creating a Ticket](manage-tickets/creating-a-ticket.md)
   * [Automated Contractor Tickets and Reminders](manage-tickets/automated-contractor-tickets-and-reminders.md)
+  * [Mission Details in Tickets](manage-tickets/mission-details-in-tickets.md)
 * [Manage Vehicle Fleets](manage-vehicle-fleets/README.md)
   * [Manage Vehicle Fleets](manage-vehicle-fleets/manage-vehicle-fleets.md)
   * [Manage Vehicles in a fleet](manage-vehicle-fleets/manage-vehicles-in-a-fleet.md)
