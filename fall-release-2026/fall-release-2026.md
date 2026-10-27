@@ -10,3 +10,4 @@ The topics for the Fall Release 2026 will be listed here.
 | 4   | Manage Tickets | [Manage Tickets > Automated Contractor Tickets and Reminders](../manage-tickets/automated-contractor-tickets-and-reminders.md) |
 | 5   | Secure API Key Management | [Secure API Key Management](../secure-api-key-management.md) |
 | 6   | Manage Tickets | [Manage Tickets > Mission Details in Tickets](../manage-tickets/mission-details-in-tickets.md) |
+| 7   | Manage Vehicle Fleets | [Manage Vehicle Fleets > Associate Containers with Vehicles](../manage-vehicle-fleets/associate-containers-with-vehicles.md) |
