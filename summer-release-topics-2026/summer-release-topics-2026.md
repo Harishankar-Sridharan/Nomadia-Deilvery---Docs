@@ -1,6 +1,8 @@
 # Summer Release 2026
 
+The Summer Release 2026 brings new features across No Route Mode, container management, routes, missions, contractors and notifications. Highlights include manual route creation with the Gantt view and route editor, container inheritance and grouped notifications, custom field color coding, audit logs, alert management and Nomadbot.
 
+Use the table below to open the guide for each new feature.
 
 | No. | Section                       | Navigation                                                                                                                                                                               |
 | --- | ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
