@@ -41,7 +41,7 @@ The list shows the **Holding vehicle** of containers that are already associated
 
 ![The vehicle import page](../.gitbook/assets/ContainersVehicles_005.jpg)
 
-2. In your vehicle import file, add a **Containers** column. For each vehicle, enter the container IDs separated by commas. Each container can be listed for only one vehicle.
+2. In your vehicle import file, add a **Containers** column. For each vehicle, enter the container IDs separated by commas. Each container can be listed for only one vehicle. To start from an example, click **See a file template**.
 
 ![A vehicle import file with a Containers column](../.gitbook/assets/ContainersVehicles_006.jpg)
 
