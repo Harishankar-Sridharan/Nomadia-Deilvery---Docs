@@ -47,11 +47,11 @@ In new tickets created from this template, the inserted fields are replaced with
 
 ## View the ticket on the mission
 
-1. Open the mission in the mission editor, and then click the **Help** tab. The ticket is also visible there, with its message and mission details.
+1. In the ticket, click **Mission**, or open the mission in the mission editor, and then click the **Help** tab. The ticket is also visible there, with its message and mission details.
 
 ![The ticket in the Help tab of the mission](../.gitbook/assets/MissionDetailsTickets_006.jpg)
 
-2. For a container mission, open the parent mission. The ticket is created on the parent mission, which lists its child missions.
+2. For a container mission, click the tab of the container type, for example **Pallet**. The ticket is created on this parent mission, which lists its child missions.
 
 ![The child missions of the parent mission](../.gitbook/assets/MissionDetailsTickets_007.jpg)
 
@@ -62,6 +62,10 @@ When several items of a container have the same issue, one ticket is created on 
 ![One ticket per container instead of one ticket per item](../.gitbook/assets/MissionDetailsTickets_008.jpg)
 
 ## Tips
+
+{% hint style="info" %}
+**Insert a field from the keyboard**: Type `$` in the message to insert one of the available fields.
+{% endhint %}
 
 {% hint style="info" %}
 **Captured at creation**: The mission details in a ticket are captured when the ticket is created. Later changes to the mission do not change them, so the ticket always shows the situation the contractor was asked about.
