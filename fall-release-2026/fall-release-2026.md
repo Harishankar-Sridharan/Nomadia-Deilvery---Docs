@@ -13,3 +13,4 @@ Use the table below to open the guide for each new feature.
 | 5   | Secure API Key Management | [Secure API Key Management](../secure-api-key-management.md) |
 | 6   | Manage Tickets | [Manage Tickets > Mission Details in Tickets](../manage-tickets/mission-details-in-tickets.md) |
 | 7   | Manage Vehicle Fleets | [Manage Vehicle Fleets > Associate Containers with Vehicles](../manage-vehicle-fleets/associate-containers-with-vehicles.md) |
+| 8   | Missions | [Missions > Understanding the Missions Page > Excel-Style Column Filters](../8-6-missions/understanding-the-missions-page/excel-style-column-filters.md) |

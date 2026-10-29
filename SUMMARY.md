@@ -73,6 +73,7 @@
       * [Configure Mission Pre-filters](configuremissionprefilters.md)
     * [Change the order of mission status shortcuts](8-6-missions/understanding-the-missions-page/change-the-order-of-mission-status-shortcuts.md)
     * [Filter the Table using Criteria](8-6-missions/understanding-the-missions-page/filter-the-table-using-criteria.md)
+    * [Excel-Style Column Filters](8-6-missions/understanding-the-missions-page/excel-style-column-filters.md)
     * [Search for a Mission](8-6-missions/understanding-the-missions-page/search-for-a-mission.md)
     * [View a Mission information](8-6-missions/understanding-the-missions-page/view-a-mission-information.md)
 * [Routes](8-6-missions-1/README.md)
