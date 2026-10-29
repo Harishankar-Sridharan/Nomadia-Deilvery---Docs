@@ -60,6 +60,10 @@ At the start or end of the route, after the survey, the mobile app opens the in-
 **Keep the number of pictures short**: Choose only the photos you need, such as the odometer, the exterior and the tyres, so that drivers can start their route quickly.
 {% endhint %}
 
+{% hint style="warning" %}
+**Survey already in use**: If the survey is used in an agency configuration, a message asks you to confirm before you edit it. Do not change the names or types of the questions, or the existing results may no longer be usable. Changes to labels or visuals have no impact.
+{% endhint %}
+
 ## Related topics
 
 * [Configuring Customized Surveys](README.md)
