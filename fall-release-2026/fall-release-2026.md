@@ -1,6 +1,6 @@
 # Fall Release 2026
 
-The Fall Release 2026 gives you more control over missions, containers, tickets and integrations. Highlights include bulk mission status updates, container tracking by unique ID and association with vehicles, automated contractor tickets with reminders and mission details, control over which addresses contractors can see, and secure API key management.
+The Fall Release 2026 gives you more control over missions, containers, tickets and integrations. Highlights include bulk mission status updates, container tracking by unique ID and association with vehicles, automated contractor tickets with reminders and mission details, control over which addresses contractors can see, Excel-style column filters, and secure API key management.
 
 Use the table below to open the guide for each new feature.
 
