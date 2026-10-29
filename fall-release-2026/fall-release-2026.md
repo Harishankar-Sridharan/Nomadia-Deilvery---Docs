@@ -1,6 +1,6 @@
 # Fall Release 2026
 
-The Fall Release 2026 gives you more control over missions, containers, tickets and integrations. Highlights include bulk mission status updates, container tracking by unique ID and association with vehicles, automated contractor tickets with reminders and mission details, control over which addresses contractors can see, Excel-style column filters, and secure API key management.
+The Fall Release 2026 gives you more control over missions, containers, tickets and integrations. Highlights include bulk mission status updates, container tracking by unique ID and association with vehicles, automated contractor tickets with reminders and mission details, control over which addresses contractors can see, Excel-style column filters, vehicle condition photos, and secure API key management.
 
 Use the table below to open the guide for each new feature.
 
@@ -14,3 +14,4 @@ Use the table below to open the guide for each new feature.
 | 6   | Manage Tickets | [Manage Tickets > Mission Details in Tickets](../manage-tickets/mission-details-in-tickets.md) |
 | 7   | Manage Vehicle Fleets | [Manage Vehicle Fleets > Associate Containers with Vehicles](../manage-vehicle-fleets/associate-containers-with-vehicles.md) |
 | 8   | Missions | [Missions > Understanding the Missions Page > Excel-Style Column Filters](../8-6-missions/understanding-the-missions-page/excel-style-column-filters.md) |
+| 9   | Configuring Customized Surveys | [Configuring Customized Surveys > Vehicle Condition Photos](../15-13-configuring-customized-surveys/vehicle-condition-photos.md) |

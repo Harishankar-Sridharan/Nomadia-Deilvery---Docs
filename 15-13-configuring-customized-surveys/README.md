@@ -120,3 +120,4 @@ The configured photo fields are displayed on the **Survey** page of the route.
 
 * [Route Editor](../routeeditor.md)
 * [Manage Substatus](../manage-substatus/README.md)
+* [Vehicle Condition Photos](vehicle-condition-photos.md)

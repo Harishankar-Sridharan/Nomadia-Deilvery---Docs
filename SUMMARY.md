@@ -23,6 +23,7 @@
     * [Reschedule a Pre-Booked Slot Multiple Times](11-9-appointment-booking-portal/rescheduling-by-customer/prebookingtheslotmultipletimes.md)
 * [Custom Dashboards](14-12-custom-dashboards/README.md)
 * [Configuring Customized Surveys](15-13-configuring-customized-surveys/README.md)
+  * [Vehicle Condition Photos](15-13-configuring-customized-surveys/vehicle-condition-photos.md)
 * [Manage Users](7-5-manage-users/README.md)
   * [Manage User Profile](7-5-manage-users/6-manage-user-profile.md)
   * [Creating a User from an Existing User](7-5-manage-users/creating-a-user-from-an-existing-user.md)
