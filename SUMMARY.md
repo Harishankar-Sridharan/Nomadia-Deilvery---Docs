@@ -21,6 +21,7 @@
   * [Reschedule Configuration](11-9-appointment-booking-portal/allow-customers-to-reschedule.md)
   * [Rescheduling by Customer](11-9-appointment-booking-portal/rescheduling-by-customer/README.md)
     * [Reschedule a Pre-Booked Slot Multiple Times](11-9-appointment-booking-portal/rescheduling-by-customer/prebookingtheslotmultipletimes.md)
+  * [Automated Slot Booking Reminders](11-9-appointment-booking-portal/automated-slot-booking-reminders.md)
 * [Custom Dashboards](14-12-custom-dashboards/README.md)
 * [Configuring Customized Surveys](15-13-configuring-customized-surveys/README.md)
   * [Vehicle Condition Photos](15-13-configuring-customized-surveys/vehicle-condition-photos.md)
