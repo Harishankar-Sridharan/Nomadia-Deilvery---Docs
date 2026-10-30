@@ -173,6 +173,7 @@
   * [Customize the Constraints](manage-vehicle-fleets/customize-the-constraints.md)
   * [Associate Containers with Vehicles](manage-vehicle-fleets/associate-containers-with-vehicles.md)
 * [Secure API Key Management](secure-api-key-management.md)
+* [Keyboard Shortcuts Configuration](keyboard-shortcuts-configuration.md)
 * [Case Studies](case-studies/README.md)
   * [Study Creation with Primary Zone](case-studies/study-creation-with-primary-zone.md)
   * [Subsector using postal code](case-studies/sub-sector-using-postal-code.md)

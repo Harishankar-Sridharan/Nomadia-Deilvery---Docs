@@ -1,6 +1,6 @@
 # Fall Release 2026
 
-The Fall Release 2026 gives you more control over missions, containers, tickets and integrations. Highlights include bulk mission status updates, container tracking by unique ID and association with vehicles, pallet count tracking across the delivery cycle, automated contractor tickets with reminders and mission details, control over which addresses contractors can see, automated slot booking reminders, Excel-style column filters, custom fields in mission pre-filters, vehicle condition photos, and secure API key management.
+The Fall Release 2026 gives you more control over missions, containers, tickets and integrations. Highlights include bulk mission status updates, container tracking by unique ID and association with vehicles, pallet count tracking across the delivery cycle, automated contractor tickets with reminders and mission details, control over which addresses contractors can see, automated slot booking reminders, Excel-style column filters, account-wide keyboard shortcuts, custom fields in mission pre-filters, vehicle condition photos, and secure API key management.
 
 Use the table below to open the guide for each new feature.
 
@@ -18,3 +18,4 @@ Use the table below to open the guide for each new feature.
 | 10  | Missions | [Missions > Understanding the Missions Page > Pre-filters > Custom Fields in Mission Pre-filters](../custom-fields-in-mission-prefilters.md) |
 | 11  | Manage Container Types | [Manage Container Types > Track Pallet Counts Across the Delivery Cycle](../manage-container-types/track-pallet-counts-across-the-delivery-cycle.md) |
 | 12  | Booking Portal | [Booking Portal > Automated Slot Booking Reminders](../11-9-appointment-booking-portal/automated-slot-booking-reminders.md) |
+| 13  | Keyboard Shortcuts Configuration | [Keyboard Shortcuts Configuration](../keyboard-shortcuts-configuration.md) |
