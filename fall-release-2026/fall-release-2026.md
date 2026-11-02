@@ -1,6 +1,6 @@
 # Fall Release 2026
 
-The Fall Release 2026 gives you more control over missions, containers, tickets and integrations. Highlights include bulk mission status updates, container tracking by unique ID and association with vehicles, pallet count tracking across the delivery cycle, automated contractor tickets with reminders and mission details, control over which addresses contractors can see, automated slot booking reminders, one-click return missions for undelivered parcels, Excel-style column filters, account-wide keyboard shortcuts, customizable navigation tabs and start page, custom fields in mission pre-filters, vehicle condition photos, and secure API key management.
+The Fall Release 2026 gives you more control over missions, containers, tickets and integrations. Highlights include bulk mission status updates, container tracking by unique ID and association with vehicles, pallet count tracking across the delivery cycle, automated contractor tickets with reminders and mission details, control over which addresses contractors can see, automated slot booking reminders, one-click return missions for undelivered parcels, Excel-style column filters, account-wide keyboard shortcuts, customizable navigation tabs and start page, custom fields in mission pre-filters, vehicle condition photos, secure API key management, and email reports with temperature data sent via API.
 
 Use the table below to open the guide for each new feature.
 
@@ -21,3 +21,4 @@ Use the table below to open the guide for each new feature.
 | 13  | Keyboard Shortcuts Configuration | [Keyboard Shortcuts Configuration](../keyboard-shortcuts-configuration.md) |
 | 14  | Return to Contractor | [Return to Contractor](../return-to-contractor.md) |
 | 15  | Customize Navigation Tabs | [Customize Navigation Tabs](../customize-navigation-tabs.md) |
+| 16  | Manage Notifications | [Manage Notifications > Customize Email Templates > Send Email Reports via API](../manage-notifications/customize-email-templates/send-email-reports-via-api.md) |

@@ -151,6 +151,7 @@
   * [Email](manage-notifications/email.md)
   * [Customize Email Templates](manage-notifications/customize-email-templates/README.md)
     * [Custom Templates](manage-notifications/customize-email-templates/customtemplates.md)
+    * [Send Email Reports via API](manage-notifications/customize-email-templates/send-email-reports-via-api.md)
   * [SMS](manage-notifications/sms.md)
 * [Alert Management](alertmanagement.md)
 * [Manage Studies & Zones:](manage-studies-and-zones/README.md)
