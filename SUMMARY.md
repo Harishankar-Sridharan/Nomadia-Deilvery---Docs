@@ -173,6 +173,7 @@
   * [Manage Vehicles in a fleet](manage-vehicle-fleets/manage-vehicles-in-a-fleet.md)
   * [Customize the Constraints](manage-vehicle-fleets/customize-the-constraints.md)
   * [Associate Containers with Vehicles](manage-vehicle-fleets/associate-containers-with-vehicles.md)
+  * [Driver Lunch Location](manage-vehicle-fleets/driver-lunch-location.md)
 * [Secure API Key Management](secure-api-key-management.md)
 * [Keyboard Shortcuts Configuration](keyboard-shortcuts-configuration.md)
 * [Return to Contractor](return-to-contractor.md)
