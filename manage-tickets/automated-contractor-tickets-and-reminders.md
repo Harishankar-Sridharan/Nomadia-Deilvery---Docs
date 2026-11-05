@@ -1,6 +1,6 @@
 # Automated Contractor Tickets and Reminders
 
-Automated contractor tickets and reminders create a ticket for the contractor as soon as a driver records a specific sub-status in the mobile app, such as **Customer Door Closed**. If the contractor does not reply, reminders are posted on a schedule and an email notification is sent. The reminders stop as soon as the contractor replies or the ticket is closed, and every step is logged in the ticket history.
+Automated contractor tickets and reminders create a ticket for the contractor as soon as a driver records a specific sub-status in the mobile app, such as **Customer Door Closed**. If the contractor does not reply, reminders are posted on a schedule and an email notification is sent. The reminders stop as soon as the contractor replies or the ticket is closed, and every step is logged in the ticket history. Each ticket also gives contractors and your team the full mission context: the mission fields you insert in the template are filled in automatically, a snapshot of the mission is kept at the time of creation, the ticket is visible on the mission, and for container missions a single ticket is created on the parent mission instead of one ticket per item.
 
 ## Before you begin
 
@@ -15,6 +15,9 @@ Automated contractor tickets and reminders create a ticket for the contractor as
 * **Now editing**: The selector that switches between the **Original message** and each reminder, so that each one has its own ticket title and message.
 * **Insert fields in your message**: Dynamic fields, such as **Status**, **Substatus**, **Motive**, **Delivery comment**, **Pickup comment**, **Customer first name**, **Customer last name**, **Name of the contractor** and **Mission numbers**, that are replaced with the mission's values in the ticket.
 * **Create ticket**: The completion action of a sub-status that automatically creates a ticket when a mobile user executes this sub-status.
+* **Mission details at time of creation**: The section of the ticket that shows the mission status, sub-status, motive, comment, customer name and mission number as they were when the ticket was created.
+* **Help tab**: The tab of the mission editor where the mission's tickets are also visible.
+* **One ticket per container**: For a container mission, one ticket is created on the parent mission for all its items, instead of one ticket per item.
 
 ## Create a ticket template
 
@@ -56,6 +59,26 @@ Automated contractor tickets and reminders create a ticket for the contractor as
 
 The template appears in the **Ticketing templates** list, with its number of reminders and its enabled state.
 
+## Add mission fields to a ticket template
+
+1. Go to **Tickets** > **Ticketing templates**, and then click the **pencil icon** next to the template.
+
+![The Ticketing templates page](../.gitbook/assets/MissionDetailsTickets_001.jpg)
+
+2. With **Original message** selected in **Now editing**, place the cursor in **Instructions for the agent** where you want to add a mission value.
+
+![Place the cursor in the message](../.gitbook/assets/MissionDetailsTickets_002.jpg)
+
+3. Under **Insert fields in your message**, click the field to add, for example **Delivery comment**. The field is added to the message as `$[Delivery comment]$`.
+
+![The Delivery comment field added to the message](../.gitbook/assets/MissionDetailsTickets_003.jpg)
+
+4. Save the template.
+
+### Result
+
+In new tickets created from this template, the inserted fields are replaced with the mission's values.
+
 ## Link the template to a sub-status
 
 1. Go to **Configuration** > **Sub-statuses**.
@@ -84,9 +107,11 @@ From now on, when a driver records this sub-status in the mobile app:
 
 ## Follow up on an automatic ticket
 
-1. Go to **Tickets** and open the ticket. It shows the original message.
+1. Go to **Tickets** and open the ticket. It shows the original message, with the mission's values in place of the inserted fields.
 
 ![The automatic ticket with its original message](../.gitbook/assets/ContractorTickets_013.jpg)
+
+![The ticket message with the values filled in automatically](../.gitbook/assets/MissionDetailsTickets_004.jpg)
 
 2. Check **Mission details at time of creation**. It shows a snapshot of the mission when the ticket was created, such as the mission status, sub-status, motive, comment, customer name and mission number.
 
@@ -108,10 +133,34 @@ From now on, when a driver records this sub-status in the mobile app:
 
 When the contractor replies or the ticket is closed, the remaining reminders stop. Every step is logged in the ticket history.
 
+## View the ticket on the mission
+
+1. In the ticket, click **Mission**, or open the mission in the mission editor, and then click the **Help** tab. The ticket is also visible there, with its message and mission details.
+
+![The ticket in the Help tab of the mission](../.gitbook/assets/MissionDetailsTickets_006.jpg)
+
+2. For a container mission, click the tab of the container type, for example **Pallet**. The ticket is created on this parent mission, which lists its child missions.
+
+![The child missions of the parent mission](../.gitbook/assets/MissionDetailsTickets_007.jpg)
+
+### Result
+
+When several items of a container have the same issue, one ticket is created on the parent mission for the whole container, instead of one ticket per item.
+
+![One ticket per container instead of one ticket per item](../.gitbook/assets/MissionDetailsTickets_008.jpg)
+
 ## Tips
 
 {% hint style="info" %}
 **Reminder schedule**: You can add up to three reminders, only one per day. Each new reminder must land on a later day than the one before it, up to D+10.
+{% endhint %}
+
+{% hint style="info" %}
+**Insert a field from the keyboard**: Type `$` in the message to insert one of the available fields.
+{% endhint %}
+
+{% hint style="info" %}
+**Captured at creation**: The mission details in a ticket are captured when the ticket is created. Later changes to the mission do not change them, so the ticket always shows the situation the contractor was asked about.
 {% endhint %}
 
 ## Related topics
@@ -119,3 +168,4 @@ When the contractor replies or the ticket is closed, the remaining reminders sto
 * [Manage Tickets](README.md)
 * [Creating a Ticket](creating-a-ticket.md)
 * [Manage Substatus](../manage-substatus/README.md)
+* [Container child missions](../manage-container-types/container-child-missions.md)

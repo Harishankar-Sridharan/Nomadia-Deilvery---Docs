@@ -11,11 +11,11 @@ Use the table below to open the guide for each new feature.
 | 3   | Manage Container Types | [Manage Container Types > Track Individual Containers by Unique ID](../manage-container-types/track-individual-containers-by-unique-id.md) |
 | 4   | Manage Tickets | [Manage Tickets > Automated Contractor Tickets and Reminders](../manage-tickets/automated-contractor-tickets-and-reminders.md) |
 | 5   | Secure API Key Management | [Secure API Key Management](../secure-api-key-management.md) |
-| 6   | Manage Tickets | [Manage Tickets > Mission Details in Tickets](../manage-tickets/mission-details-in-tickets.md) |
-| 7   | Manage Vehicle Fleets | [Manage Vehicle Fleets > Associate Containers with Vehicles](../manage-vehicle-fleets/associate-containers-with-vehicles.md) |
+| 6   | Manage Tickets | [Manage Tickets > Automated Contractor Tickets and Reminders > Add mission fields to a ticket template](../manage-tickets/automated-contractor-tickets-and-reminders.md#add-mission-fields-to-a-ticket-template) |
+| 7   | Manage Container Types | [Manage Container Types > Track Individual Containers by Unique ID > Associate containers with a vehicle](../manage-container-types/track-individual-containers-by-unique-id.md#associate-containers-with-a-vehicle) |
 | 8   | Missions | [Missions > Understanding the Missions Page > Excel-Style Column Filters](../8-6-missions/understanding-the-missions-page/excel-style-column-filters.md) |
 | 9   | Configuring Customized Surveys | [Configuring Customized Surveys > Vehicle Condition Photos](../15-13-configuring-customized-surveys/vehicle-condition-photos.md) |
-| 10  | Missions | [Missions > Understanding the Missions Page > Pre-filters > Custom Fields in Mission Pre-filters](../custom-fields-in-mission-prefilters.md) |
+| 10  | Missions | [Missions > Understanding the Missions Page > Pre-filters > Configure Mission Pre-filters > Add a custom field to a mission pre-filter](../configuremissionprefilters.md#add-a-custom-field-to-a-mission-pre-filter) |
 | 11  | Manage Container Types | [Manage Container Types > Track Pallet Counts Across the Delivery Cycle](../manage-container-types/track-pallet-counts-across-the-delivery-cycle.md) |
 | 12  | Booking Portal | [Booking Portal > Automated Slot Booking Reminders](../11-9-appointment-booking-portal/automated-slot-booking-reminders.md) |
 | 13  | Keyboard Shortcuts Configuration | [Keyboard Shortcuts Configuration](../keyboard-shortcuts-configuration.md) |

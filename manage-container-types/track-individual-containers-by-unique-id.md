@@ -1,6 +1,6 @@
 # Track Individual Containers by Unique ID
 
-Container tracking lets you follow every container by its unique ID across its full journey. You register each container once, link it to the missions that carry it, and every scan, status change and condition change is recorded in the container's history. Supervisors get a live view of the whole fleet and can quickly find lost or damaged containers.
+Container tracking lets you follow every container by its unique ID across its full journey. You register each container once, link it to the missions that carry it, and every scan, status change and condition change is recorded in the container's history. Supervisors get a live view of the whole fleet and can quickly find lost or damaged containers. You can also associate containers with vehicles, so that drivers see the containers on board at the start of the route and confirm them in one scan of the vehicle QR code.
 
 ## Before you begin
 
@@ -17,6 +17,9 @@ Container tracking lets you follow every container by its unique ID across its f
 * **Holding vehicle** and **Last known position**: Read-only fields that are updated from the field when drivers scan the container.
 * **Tracked container**: The field in the mission form that links the mission to a registered container. The **Scannable container code** field above it is free text and is not checked against the registry.
 * **History**: The section of a container that lists every event in its life, with what changed, who recorded it and when.
+* **Containers tab**: The tab of a vehicle, under **Configuration** > **Manage the vehicles**, where you choose the containers on board. A container can be associated with only one vehicle at a time.
+* **Containers column**: The column of the vehicle import file where you list the container IDs of each vehicle, separated by commas.
+* **Print QR codes**: The action that prints the QR code of the selected vehicles, which drivers scan at the start of the route.
 
 ## Register a container
 
@@ -64,6 +67,57 @@ The link is recorded straight away. The container's **History** shows the missio
 
 ![The container history shows the associated mission](../.gitbook/assets/ContainerTracking_009.jpg)
 
+## Associate containers with a vehicle
+
+1. Go to **Configuration** > **Manage the vehicles**, and then click the fleet tab, for example **DC**.
+
+![The Manage the vehicles page](../.gitbook/assets/ContainersVehicles_001.jpg)
+
+2. Click the **pencil icon** next to the vehicle, and then click the **Containers** tab.
+
+![The Containers tab of a vehicle](../.gitbook/assets/ContainersVehicles_002.jpg)
+
+3. In the **Containers** field, choose the containers on board the vehicle.
+
+![The containers on board the vehicle](../.gitbook/assets/ContainersVehicles_003.jpg)
+
+The list shows the **Holding vehicle** of containers that are already associated with another vehicle, because a container can be on board only one vehicle.
+
+![A container already held by another vehicle](../.gitbook/assets/ContainersVehicles_004.jpg)
+
+4. Click **Save**.
+
+## Associate containers with vehicles in bulk
+
+1. On the **Manage the vehicles** page, click **Actions**, and then click **Import**.
+
+![The vehicle import page](../.gitbook/assets/ContainersVehicles_005.jpg)
+
+2. In your vehicle import file, add a **Containers** column. For each vehicle, enter the container IDs separated by commas. Each container can be listed for only one vehicle. To start from an example, click **See a file template**.
+
+![A vehicle import file with a Containers column](../.gitbook/assets/ContainersVehicles_006.jpg)
+
+3. Drop the file on the import page, or click **Browse (Excel...)** to select it, and then complete the import.
+
+### Result
+
+The containers are associated with the vehicles listed in the file.
+
+## Print the vehicle QR codes
+
+1. On the **Manage the vehicles** page, select the check boxes of the vehicles.
+2. Click **Actions**, and then click **Print QR codes**.
+
+![Click Actions and then Print QR codes](../.gitbook/assets/ContainersVehicles_007.jpg)
+
+3. Place each QR code in its vehicle.
+
+### Result
+
+At the start of the route, the driver scans the vehicle QR code in the mobile app. The app lists the containers on board the vehicle, and the driver confirms them in one scan.
+
+![The driver scans the vehicle QR code and confirms the containers on board](../.gitbook/assets/ContainersVehicles_008.jpg)
+
 ## View the history of a container
 
 1. In the **Container list**, click the **pencil icon** next to a container to open it.
@@ -103,8 +157,13 @@ The list shows only the lost containers, with their full history one click away.
 **Use the Tracked container field**: Only the **Tracked container** field links a mission to a registered container. The **Scannable container code** field is free text and is not checked against the registry.
 {% endhint %}
 
+{% hint style="info" %}
+**One vehicle per container**: A container can be on board only one vehicle at a time. Check the **Holding vehicle** shown in the list before you choose a container.
+{% endhint %}
+
 ## Related topics
 
 * [Manage Container Types](README.md)
 * [Adding a Mission](../8-6-missions/adding-a-mission-beta/README.md)
 * [Container child missions](container-child-missions.md)
+* [Manage Vehicles in a fleet](../manage-vehicle-fleets/manage-vehicles-in-a-fleet.md)
