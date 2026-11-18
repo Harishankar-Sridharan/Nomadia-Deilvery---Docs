@@ -62,6 +62,7 @@
   * [Manage Missions Table](8-6-missions/manage-missions-table.md)
   * [Map the addresses fields from the global address list](8-6-missions/map-the-addresses-fields-from-the-global-address-list.md)
   * [Mission Creation Configuration](8-6-missions/mission-creation-configuration.md)
+  * [Clone a Mission Configuration](8-6-missions/clone-a-mission-configuration.md)
   * [Prioritizing a mission](8-6-missions/prioritizing-a-mission.md)
   * [Automatic Priority via Delivery Dates](8-6-missions/automatic-priority-via-delivery-dates.md)
   * [Visit – A New Mission Type](8-6-missions/visit-a-new-mission-type.md)

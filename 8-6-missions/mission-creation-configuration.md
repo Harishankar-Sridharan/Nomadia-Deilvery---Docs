@@ -76,5 +76,6 @@ The available information blocks are:
 ## Related topics
 
 * [Missions](README.md)
+* [Clone a Mission Configuration](clone-a-mission-configuration.md)
 * [Customize Mission Block Labels](../customizemissionblocklabels.md)
 * [Customize the Validation of Mission form fields](adding-a-mission-beta/customizethevalidationofmissionformfields.md)
