@@ -221,3 +221,4 @@ Both configuration types can be automatically assigned based on mission attribut
 
 * [Manage Document Templates](README.md)
 * [Accessing eCMR](accessing-ecmr.md)
+* [QR Codes on Mission Extracts](qr-codes-on-mission-extracts.md)

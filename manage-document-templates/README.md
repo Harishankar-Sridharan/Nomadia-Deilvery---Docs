@@ -137,3 +137,4 @@ The document templates are deleted successfully.
 
 * [Customizing Word Templates](customizing-word-templates.md)
 * [Accessing eCMR](accessing-ecmr.md)
+* [QR Codes on Mission Extracts](qr-codes-on-mission-extracts.md)

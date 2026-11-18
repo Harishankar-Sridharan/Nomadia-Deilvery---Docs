@@ -26,8 +26,9 @@ Use the table below to open the guide for each new feature.
 
 ## Patch – 27 October 2026
 
-The 27 October 2026 patch adds the following feature.
+The 27 October 2026 patch adds the following features.
 
 | No. | Section  | Navigation |
 | --- | -------- | ---------- |
 | 1   | Missions | [Missions > Custom Fields > Custom Field Overwrite Behavior](../8-6-missions/custom-fields/custom-field-overwrite-behavior.md) |
+| 2   | Manage Document Templates | [Manage Document Templates > QR Codes on Mission Extracts](../manage-document-templates/qr-codes-on-mission-extracts.md) |

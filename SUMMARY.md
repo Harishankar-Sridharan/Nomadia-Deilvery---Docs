@@ -147,6 +147,7 @@
 * [Manage Document Templates](manage-document-templates/README.md)
   * [Customizing Word Templates](manage-document-templates/customizing-word-templates.md)
   * [Accessing eCMR](manage-document-templates/accessing-ecmr.md)
+  * [QR Codes on Mission Extracts](manage-document-templates/qr-codes-on-mission-extracts.md)
 * [Manage Notifications](manage-notifications/README.md)
   * [Email](manage-notifications/email.md)
   * [Customize Email Templates](manage-notifications/customize-email-templates/README.md)
