@@ -11,6 +11,7 @@ Use these pages to create, organize, and apply custom fields in Nomadia Delivery
 
 * **Creating Custom Fields while Importing**: Dynamically adds new fields during the import process, linked to Contractors, Missions, or Addresses.
 * **Inherit mission data from contractor & address list**: Automatically initializes custom field data during mission creation, minimizing manual input.
+* **Custom Field Overwrite Behavior**: Chooses, for each field, whether selecting an address or a contractor replaces, keeps, or asks before replacing a value already entered.
 * **Configuring Mission Visibility**: Extends visibility restrictions to include custom field-based rules, in addition to agency-based controls.
 * **Grouping Custom Field**: Groups custom fields in the mission creation form using a group name.
 * **Color coding the custom fields**: Covered on its own page, linked in the list below.
@@ -19,6 +20,7 @@ Use these pages to create, organize, and apply custom fields in Nomadia Delivery
 
 * [Creating Custom Fields while Importing](custom-fields/creating-custom-fields-while-importing.md)
 * [Inherit mission data from contractor & address list](custom-fields/inherit-mission-data-from-contractor-and-address-list.md)
+* [Custom Field Overwrite Behavior](custom-fields/custom-field-overwrite-behavior.md)
 * [Configuring Mission Visibility](custom-fields/configuring-mission-visibility.md)
 * [Grouping Custom Field](custom-fields/grouping-custom-field.md)
 * [Color coding the custom fields](../colorcodingthecustomfields.md)

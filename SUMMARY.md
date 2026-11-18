@@ -52,6 +52,7 @@
   * [Custom Fields](8-6-missions/custom-fields.md)
     * [Creating Custom Fields while Importing](8-6-missions/custom-fields/creating-custom-fields-while-importing.md)
     * [Inherit mission data from contractor & address list](8-6-missions/custom-fields/inherit-mission-data-from-contractor-and-address-list.md)
+    * [Custom Field Overwrite Behavior](8-6-missions/custom-fields/custom-field-overwrite-behavior.md)
     * [Configuring Mission Visibility](8-6-missions/custom-fields/configuring-mission-visibility.md)
     * [Grouping Custom Field](8-6-missions/custom-fields/grouping-custom-field.md)
     * [Color coding the custom fields](colorcodingthecustomfields.md)

@@ -23,3 +23,11 @@ Use the table below to open the guide for each new feature.
 | 15  | Customize Navigation Tabs | [Customize Navigation Tabs](../customize-navigation-tabs.md) |
 | 16  | Manage Notifications | [Manage Notifications > Customize Email Templates > Send Email Reports via API](../manage-notifications/customize-email-templates/send-email-reports-via-api.md) |
 | 17  | Manage Vehicle Fleets | [Manage Vehicle Fleets > Driver Lunch Location](../manage-vehicle-fleets/driver-lunch-location.md) |
+
+## Patch – 27 October 2026
+
+The 27 October 2026 patch adds the following feature.
+
+| No. | Section  | Navigation |
+| --- | -------- | ---------- |
+| 1   | Missions | [Missions > Custom Fields > Custom Field Overwrite Behavior](../8-6-missions/custom-fields/custom-field-overwrite-behavior.md) |
