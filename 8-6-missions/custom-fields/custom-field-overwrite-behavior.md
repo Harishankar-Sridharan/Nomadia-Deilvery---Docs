@@ -47,7 +47,7 @@ Take a mission where the user has already typed an access code and delivery inst
 
 * **Apply**: The access code and the delivery instructions are replaced by the values of the address, with no prompt. The unloading dock is filled.
 * **Do not apply**: The access code and the delivery instructions keep the values that the user typed. The unloading dock is filled.
-* **Ask**: A popup named **Replace custom field values?** lists the access code and the delivery instructions, with the current value and the new value of each one.
+* **Ask**: A **Replace information?** popup opens with the message "This action will replace the information in the following fields. Do you want to replace it?", and lists the access code and the delivery instructions.
   * Click **Yes** to replace all the listed values.
   * Click **No** or close the popup to keep all the listed values. The rest of the address is still applied, and the unloading dock is still filled.
 
@@ -73,7 +73,7 @@ The mission custom fields that are initialized by **Contractors** are filled fro
 {% endhint %}
 
 {% hint style="info" %}
-**Use Ask for sensitive fields**: With **Ask**, the user sees the current and the new values side by side before deciding. One answer applies to all the listed fields.
+**Use Ask for sensitive fields**: With **Ask**, the user sees which fields would be replaced before deciding. One answer applies to all the listed fields.
 {% endhint %}
 
 ## Related topics
