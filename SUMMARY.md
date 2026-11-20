@@ -1,6 +1,9 @@
 # Table of contents
 
 * [Introduction](README.md)
+
+## Getting started
+
 * [Nomadbot](chatbot.md)
 * [Latest updates](summer-release-topics-2026/README.md)
   * [Summer Release 2026](summer-release-topics-2026/summer-release-topics-2026.md)
@@ -10,31 +13,9 @@
   * [Configure the display of mission’s statuses](readme-1/configure-the-display-of-missions-statuses.md)
   * [Configure the Display of my KPI](readme-1/configure-the-display-of-my-kpi.md)
   * [Refresh KPI date and Mission statuses](readme-1/refresh-kpi-date-and-mission-statuses.md)
-* [Subcontractor Management](10-8-subcontractor-management/README.md)
-  * [Register a Subcontractor](10-8-subcontractor-management/register-a-subcontractor.md)
-  * [Create a Subcontractor User](10-8-subcontractor-management/create-a-subcontractor-user.md)
-  * [Assigning missions to subcontractor](10-8-subcontractor-management/assigning-missions-to-subcontractor.md)
-  * [Optimized Route Plan for Sub Contractors](10-8-subcontractor-management/optimized-route-plan-for-sub-contractors.md)
-* [Booking Portal](11-9-appointment-booking-portal/README.md)
-  * [Booking slots](11-9-appointment-booking-portal/booking-slots/README.md)
-    * [Configure the Portal](11-9-appointment-booking-portal/booking-slots/configure-the-portal.md)
-  * [Reschedule Configuration](11-9-appointment-booking-portal/allow-customers-to-reschedule.md)
-  * [Rescheduling by Customer](11-9-appointment-booking-portal/rescheduling-by-customer/README.md)
-    * [Reschedule a Pre-Booked Slot Multiple Times](11-9-appointment-booking-portal/rescheduling-by-customer/prebookingtheslotmultipletimes.md)
-  * [Automated Slot Booking Reminders](11-9-appointment-booking-portal/automated-slot-booking-reminders.md)
-* [Custom Dashboards](14-12-custom-dashboards/README.md)
-* [Configuring Customized Surveys](15-13-configuring-customized-surveys/README.md)
-  * [Vehicle Condition Photos](15-13-configuring-customized-surveys/vehicle-condition-photos.md)
-* [Manage Users](7-5-manage-users/README.md)
-  * [Manage User Profile](7-5-manage-users/6-manage-user-profile.md)
-  * [Creating a User from an Existing User](7-5-manage-users/creating-a-user-from-an-existing-user.md)
-  * [Creating User from a Scratch](7-5-manage-users/creating-user-from-a-scratch.md)
-  * [Days off](7-5-manage-users/days-off.md)
-  * [Enabling Mobile Access](7-5-manage-users/enabling-mobile-access.md)
-  * [Enabling Web Access](7-5-manage-users/enabling-web-access.md)
-  * [Mobile - Roles and Rights](7-5-manage-users/mobile-roles-and-rights.md)
-  * [Web - Roles and Rights](7-5-manage-users/web-roles-and-rights.md)
-  * [Auto-Assign Missions to Deliverers](7-5-manage-users/auto-assign-missions-to-deliverers.md)
+
+## Operations guide
+
 * [Missions](8-6-missions/README.md)
   * [Adding a Mission](8-6-missions/adding-a-mission-beta/README.md)
     * [Customize the Validation of Mission form fields](8-6-missions/adding-a-mission-beta/customizethevalidationofmissionformfields.md)
@@ -127,6 +108,30 @@
   * [Contractor Restrictions](9-7-contractors/contractor-restrictions.md)
   * [Fixed and Recurring Plans](9-7-contractors/13-11-fixed-and-recurring-plans.md)
   * [Reception Management](receptionmanagement/receptionmanagement.md)
+* [Subcontractor Management](10-8-subcontractor-management/README.md)
+  * [Register a Subcontractor](10-8-subcontractor-management/register-a-subcontractor.md)
+  * [Create a Subcontractor User](10-8-subcontractor-management/create-a-subcontractor-user.md)
+  * [Assigning missions to subcontractor](10-8-subcontractor-management/assigning-missions-to-subcontractor.md)
+  * [Optimized Route Plan for Sub Contractors](10-8-subcontractor-management/optimized-route-plan-for-sub-contractors.md)
+* [Return to Contractor](return-to-contractor.md)
+* [Manage Tickets](manage-tickets/README.md)
+  * [Activating the Ticket Module](manage-tickets/activating-the-ticket-module.md)
+  * [Creating a Ticket](manage-tickets/creating-a-ticket.md)
+  * [Automated Contractor Tickets and Reminders](manage-tickets/automated-contractor-tickets-and-reminders.md)
+* [Custom Dashboards](14-12-custom-dashboards/README.md)
+
+## Administrator guide
+
+* [Manage Users](7-5-manage-users/README.md)
+  * [Manage User Profile](7-5-manage-users/6-manage-user-profile.md)
+  * [Creating a User from an Existing User](7-5-manage-users/creating-a-user-from-an-existing-user.md)
+  * [Creating User from a Scratch](7-5-manage-users/creating-user-from-a-scratch.md)
+  * [Days off](7-5-manage-users/days-off.md)
+  * [Enabling Mobile Access](7-5-manage-users/enabling-mobile-access.md)
+  * [Enabling Web Access](7-5-manage-users/enabling-web-access.md)
+  * [Mobile - Roles and Rights](7-5-manage-users/mobile-roles-and-rights.md)
+  * [Web - Roles and Rights](7-5-manage-users/web-roles-and-rights.md)
+  * [Auto-Assign Missions to Deliverers](7-5-manage-users/auto-assign-missions-to-deliverers.md)
 * [Manage Global Address List](manage-global-address-list.md)
   * [Control Address Sharing with Contractors](control-address-sharing-with-contractors.md)
 * [Manage Articles](manage-articles/README.md)
@@ -166,20 +171,30 @@
   * [Customizing Substatus](manage-substatus/customizing-substatus.md)
   * [Manage Substatus Configuration](manage-substatus/manage-substatus-configuration.md)
   * [Trigger Notifications for Sub Status Changes](manage-substatus/trigger-notifications-for-sub-status-changes.md)
-* [Manage Tickets](manage-tickets/README.md)
-  * [Activating the Ticket Module](manage-tickets/activating-the-ticket-module.md)
-  * [Creating a Ticket](manage-tickets/creating-a-ticket.md)
-  * [Automated Contractor Tickets and Reminders](manage-tickets/automated-contractor-tickets-and-reminders.md)
 * [Manage Vehicle Fleets](manage-vehicle-fleets/README.md)
   * [Manage Vehicle Fleets](manage-vehicle-fleets/manage-vehicle-fleets.md)
   * [Manage Vehicles in a fleet](manage-vehicle-fleets/manage-vehicles-in-a-fleet.md)
   * [Customize the Constraints](manage-vehicle-fleets/customize-the-constraints.md)
   * [Driver Lunch Location](manage-vehicle-fleets/driver-lunch-location.md)
+* [Booking Portal](11-9-appointment-booking-portal/README.md)
+  * [Booking slots](11-9-appointment-booking-portal/booking-slots/README.md)
+    * [Configure the Portal](11-9-appointment-booking-portal/booking-slots/configure-the-portal.md)
+  * [Reschedule Configuration](11-9-appointment-booking-portal/allow-customers-to-reschedule.md)
+  * [Rescheduling by Customer](11-9-appointment-booking-portal/rescheduling-by-customer/README.md)
+    * [Reschedule a Pre-Booked Slot Multiple Times](11-9-appointment-booking-portal/rescheduling-by-customer/prebookingtheslotmultipletimes.md)
+  * [Automated Slot Booking Reminders](11-9-appointment-booking-portal/automated-slot-booking-reminders.md)
+* [Configuring Customized Surveys](15-13-configuring-customized-surveys/README.md)
+  * [Vehicle Condition Photos](15-13-configuring-customized-surveys/vehicle-condition-photos.md)
+* [Customize Navigation Tabs](customize-navigation-tabs.md)
+* [Keyboard Shortcuts Configuration](keyboard-shortcuts-configuration.md)
+
+## Integration
+
 * [Secure API Key Management](secure-api-key-management.md)
 * [Custom Actions](custom-actions.md)
-* [Keyboard Shortcuts Configuration](keyboard-shortcuts-configuration.md)
-* [Return to Contractor](return-to-contractor.md)
-* [Customize Navigation Tabs](customize-navigation-tabs.md)
+
+## Case studies
+
 * [Case Studies](case-studies/README.md)
   * [Study Creation with Primary Zone](case-studies/study-creation-with-primary-zone.md)
   * [Subsector using postal code](case-studies/sub-sector-using-postal-code.md)
@@ -207,3 +222,8 @@
       * [Iframe Configuration](case-studies/no-route/assign-to-sub-contractors/iframe-configuration.md)
       * [Interacting with Iframe](case-studies/no-route/assign-to-sub-contractors/intracting-with-iframe.md)
     * [Customize the Status Hierarchy](case-studies/no-route/customizethestatushierarchy.md)
+
+## Reference
+
+* [Find a Topic (A–Z)](reference/find-a-topic.md)
+* [Glossary](reference/glossary.md)
