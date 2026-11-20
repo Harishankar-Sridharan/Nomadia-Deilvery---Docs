@@ -76,5 +76,6 @@ The new configuration starts blank, and you set each field yourself.
 
 * [Missions](README.md)
 * [Mission Creation Configuration](mission-creation-configuration.md)
+* [Import and Export Mission Configurations as JSON](import-and-export-mission-configurations-as-json.md)
 * [Customize Mission Block Labels](../customizemissionblocklabels.md)
 * [Bulk Edit Mission Data](bulk-edit-mission-data.md)
