@@ -193,7 +193,7 @@
 * [Secure API Key Management](secure-api-key-management.md)
 * [Custom Actions](custom-actions.md)
 
-## Case studies
+## Scenarios
 
 * [Case Studies](case-studies/README.md)
   * [Study Creation with Primary Zone](case-studies/study-creation-with-primary-zone.md)

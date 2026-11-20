@@ -84,7 +84,7 @@ The platform supports management of up to 500,000 Missions, with powerful filter
 | [Secure API Key Management](secure-api-key-management.md) | The API keys of your integrations. |
 | [Custom Actions](custom-actions.md) | Buttons that call external systems from the back office. |
 
-### Case studies
+### Scenarios
 
 | Section | What you will find |
 | ------- | ------------------ |
