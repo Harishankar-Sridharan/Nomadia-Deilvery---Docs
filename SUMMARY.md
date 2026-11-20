@@ -175,6 +175,7 @@
   * [Customize the Constraints](manage-vehicle-fleets/customize-the-constraints.md)
   * [Driver Lunch Location](manage-vehicle-fleets/driver-lunch-location.md)
 * [Secure API Key Management](secure-api-key-management.md)
+* [Custom Actions](custom-actions.md)
 * [Keyboard Shortcuts Configuration](keyboard-shortcuts-configuration.md)
 * [Return to Contractor](return-to-contractor.md)
 * [Customize Navigation Tabs](customize-navigation-tabs.md)

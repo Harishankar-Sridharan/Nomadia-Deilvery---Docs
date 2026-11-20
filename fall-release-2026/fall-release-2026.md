@@ -33,3 +33,4 @@ The 27 October 2026 patch adds the following features.
 | 1   | Missions | [Missions > Custom Fields > Custom Field Overwrite Behavior](../8-6-missions/custom-fields/custom-field-overwrite-behavior.md) |
 | 2   | Manage Document Templates | [Manage Document Templates > QR Codes on Mission Extracts](../manage-document-templates/qr-codes-on-mission-extracts.md) |
 | 3   | Missions | [Missions > Clone a Mission Configuration](../8-6-missions/clone-a-mission-configuration.md) |
+| 4   | Custom Actions | [Custom Actions](../custom-actions.md) |
