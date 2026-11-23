@@ -115,6 +115,11 @@ The platform supports management of up to 500,000 Missions, with powerful filter
 | Send email or SMS notifications | [Manage Notifications](manage-notifications/README.md) |
 | Customize a Word document template | [Customizing Word Templates](manage-document-templates/customizing-word-templates.md) |
 | Connect an external system | [Custom Actions](custom-actions.md) and [Secure API Key Management](secure-api-key-management.md) |
+| Limit the missions loaded on the Missions page | [Set missions display (prefilter)](8-6-missions/understanding-the-missions-page/pre-filters/set-missions-display-prefilter.md) |
+| Select many missions at once | [Shift-Click Range Selection](8-6-missions/understanding-the-missions-page/shift-click-range-selection.md) |
+| Copy a mission configuration | [Clone a Mission Configuration](8-6-missions/clone-a-mission-configuration.md) |
+| Move mission configurations to another account | [Import and Export Mission Configurations as JSON](8-6-missions/import-and-export-mission-configurations-as-json.md) |
+| Choose which address blocks a user profile sees | [Address List Block Visibility per User Profile](customizetheaddresslistvisibility/address-list-block-visibility-per-user-profile.md) |
 | See what is new | [Fall Release 2026](fall-release-2026/fall-release-2026.md) |
 | Find a topic by name | [Find a Topic (A–Z)](reference/find-a-topic.md) |
 | Understand a word | [Glossary](reference/glossary.md) |
