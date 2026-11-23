@@ -104,6 +104,7 @@
   * [Create a Contractor User](9-7-contractors/a-configuration-user-type.md)
   * [Manage Address List](9-7-contractors/manage-address-list.md)
   * [Customize the Address Visibility](customizetheaddresslistvisibility/customizetheaddresslistvisibility.md)
+  * [Address List Block Visibility per User Profile](customizetheaddresslistvisibility/address-list-block-visibility-per-user-profile.md)
   * [Coloring and Filter](9-7-contractors/coloring-and-filter.md)
   * [Contractor Restrictions](9-7-contractors/contractor-restrictions.md)
   * [Fixed and Recurring Plans](9-7-contractors/13-11-fixed-and-recurring-plans.md)

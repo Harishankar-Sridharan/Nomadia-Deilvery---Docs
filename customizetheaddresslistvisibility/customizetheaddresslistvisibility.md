@@ -103,3 +103,4 @@ Steps:
 
 * [Manage Global Address List](../manage-global-address-list.md)
 * [Manage Address List](../9-7-contractors/manage-address-list.md)
+* [Address List Block Visibility per User Profile](address-list-block-visibility-per-user-profile.md)

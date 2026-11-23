@@ -35,3 +35,4 @@ The 27 October 2026 patch adds the following features.
 | 3   | Missions | [Missions > Clone a Mission Configuration](../8-6-missions/clone-a-mission-configuration.md) |
 | 4   | Custom Actions | [Custom Actions](../custom-actions.md) |
 | 5   | Missions | [Missions > Import and Export Mission Configurations as JSON](../8-6-missions/import-and-export-mission-configurations-as-json.md) |
+| 6   | Contractors | [Contractors > Address List Block Visibility per User Profile](../customizetheaddresslistvisibility/address-list-block-visibility-per-user-profile.md) |
