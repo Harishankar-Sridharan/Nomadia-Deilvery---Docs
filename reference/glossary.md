@@ -12,6 +12,7 @@ The words are in alphabetical order. Each definition has a link to the topic tha
 
 | Term | Meaning |
 | ---- | ------- |
+| **Address group** | A named set of addresses of the address list, such as **Lyon Retail**, that you assign to contractors so that they can use these addresses in their missions. See [Address List Groups for Contractors](../9-7-contractors/address-list-groups-for-contractors.md). |
 | **Address list** | The master record of customer addresses that you reuse when you create missions. See [Manage Global Address List](../manage-global-address-list.md) and [Manage Address List](../9-7-contractors/manage-address-list.md). |
 | **Address list visibility configuration** | A named set of address list blocks, such as the map, the contact information or the optimization constraints, that you assign to a user profile to control what its users see. See [Address List Block Visibility per User Profile](../customizetheaddresslistvisibility/address-list-block-visibility-per-user-profile.md). |
 | **Agency** | An operational unit of your organization, such as a depot or a branch. Missions, users and routes belong to an agency. See [Manage Users](../7-5-manage-users/README.md). |

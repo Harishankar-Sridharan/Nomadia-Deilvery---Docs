@@ -18,6 +18,7 @@ Every topic of this guide is listed in alphabetical order, with the section it b
 | [Add Articles to Mission](../manage-articles/add-articles-to-mission.md) | Manage Articles | Add articles to a mission from the Mission page so the products that are part of the delivery are tracked with the mission. |
 | [Adding a Mission](../8-6-missions/adding-a-mission-beta/README.md) | Missions | The Add interface introduces a simplified, single-page mission creation experience in Nomadia Delivery. |
 | [Address List Block Visibility per User Profile](../customizetheaddresslistvisibility/address-list-block-visibility-per-user-profile.md) | Contractors | Choose which blocks of the address list each user profile sees. |
+| [Address List Groups for Contractors](../9-7-contractors/address-list-groups-for-contractors.md) | Contractors | Group addresses and assign the groups to contractors so that they find the right addresses when they create missions. |
 | [Adhoc Address Creation](../adhocaddresscreation.md) | Missions | Create and save a new address on the fly while adding a mission in Nomadia Delivery. |
 | [Alert Management](../alertmanagement.md) | Alert Management | Alert Threshold Management in Nomadia Delivery allows dispatchers to set operational trigger limits. |
 | [Analysis charts](../simulation/simulation-analysis-charts.md) | Simulation | This page explains what each chart of the Analysis panel shows. |

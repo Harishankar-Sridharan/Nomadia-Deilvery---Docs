@@ -38,3 +38,4 @@ The 27 October 2026 patch adds the following features.
 | 6   | Contractors | [Contractors > Address List Block Visibility per User Profile](../customizetheaddresslistvisibility/address-list-block-visibility-per-user-profile.md) |
 | 7   | Missions | [Missions > Shift-Click Range Selection](../8-6-missions/understanding-the-missions-page/shift-click-range-selection.md) |
 | 8   | Configuration | [Configuration > Configuration Breadcrumb Navigation](../configuration-breadcrumb-navigation.md) |
+| 9   | Contractors | [Contractors > Address List Groups for Contractors](../9-7-contractors/address-list-groups-for-contractors.md) |

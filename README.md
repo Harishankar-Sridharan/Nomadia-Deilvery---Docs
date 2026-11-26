@@ -122,6 +122,7 @@ The platform supports management of up to 500,000 Missions, with powerful filter
 | Move mission configurations to another account | [Import and Export Mission Configurations as JSON](8-6-missions/import-and-export-mission-configurations-as-json.md) |
 | Choose which address blocks a user profile sees | [Address List Block Visibility per User Profile](customizetheaddresslistvisibility/address-list-block-visibility-per-user-profile.md) |
 | Jump to a higher level of the Configuration tab | [Configuration Breadcrumb Navigation](configuration-breadcrumb-navigation.md) |
+| Give contractors access to a set of addresses | [Address List Groups for Contractors](9-7-contractors/address-list-groups-for-contractors.md) |
 | See what is new | [Fall Release 2026](fall-release-2026/fall-release-2026.md) |
 | Find a topic by name | [Find a Topic (A–Z)](reference/find-a-topic.md) |
 | Understand a word | [Glossary](reference/glossary.md) |
