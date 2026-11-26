@@ -189,6 +189,7 @@
   * [Vehicle Condition Photos](15-13-configuring-customized-surveys/vehicle-condition-photos.md)
 * [Customize Navigation Tabs](customize-navigation-tabs.md)
 * [Keyboard Shortcuts Configuration](keyboard-shortcuts-configuration.md)
+* [Configuration Breadcrumb Navigation](configuration-breadcrumb-navigation.md)
 
 ## Integration
 

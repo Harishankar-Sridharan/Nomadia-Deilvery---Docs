@@ -22,6 +22,7 @@ The words are in alphabetical order. Each definition has a link to the topic tha
 | **Audit log** | The record of the changes made across the platform. See [Audit Logs](../auditlogs.md). |
 | **Backup zone** | A temporary secondary sector used when the subcontractor of a primary zone is unavailable. See [Creating Backup Zone](../case-studies/creating-backup-zone.md). |
 | **Booking portal** | The page where customers book or reschedule a delivery slot. See [Booking Portal](../11-9-appointment-booking-portal/README.md). |
+| **Breadcrumb trail** | The bar at the top of a configuration page that shows the path to the page. Each level above the current page is a link. See [Configuration Breadcrumb Navigation](../configuration-breadcrumb-navigation.md). |
 | **Bulk edit** | A change applied to several missions at once. See [Bulk Edit Mission Data](../8-6-missions/bulk-edit-mission-data.md). |
 | **Container** | A parent mission, such as a pallet or a box, that groups several child missions. See [Manage Container Types](../manage-container-types/README.md) and [Container child missions](../manage-container-types/container-child-missions.md). |
 | **Container type** | The kind of container, with the rules for how status, attributes and documents are inherited between parent and child missions. See [Edit a Container Type](../manage-container-types/edit-a-container-type.md). |

@@ -57,6 +57,7 @@ Every topic of this guide is listed in alphabetical order, with the section it b
 | [Color coding the custom fields](../colorcodingthecustomfields.md) | Missions | Color coding custom fields in Nomadia Delivery visually highlights key data based on value ranges. |
 | [Color the deliveries](../simulation/simulation-deliveries-coloring.md) | Simulation | This page explains how to use Coloring to apply color rules to the deliveries. |
 | [Coloring and Filter](../9-7-contractors/coloring-and-filter.md) | Contractors | Use the Coloring and Filter options to organize and display data according to specific conditions. |
+| [Configuration Breadcrumb Navigation](../configuration-breadcrumb-navigation.md) | Configuration Breadcrumb Navigation | Configuration breadcrumb navigation lets you jump to any level of the Configuration tab with one click. |
 | [Configure Mission Pre-filters](../configuremissionprefilters.md) | Missions | The Configure Managed Mission Pre-Filters feature creates custom filter rules based on mission status and type in Nomadia Delivery. |
 | [Configure the display of mission’s statuses](../readme-1/configure-the-display-of-missions-statuses.md) | Home Page | This feature allows users to customize the mission statuses displayed on their home page dashboard. |
 | [Configure the Display of my KPI](../readme-1/configure-the-display-of-my-kpi.md) | Home Page | You can personalize your Home Screen by selecting which KPIs are most relevant to your operations. |
