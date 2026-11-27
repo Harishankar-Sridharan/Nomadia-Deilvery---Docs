@@ -60,6 +60,7 @@ The words are in alphabetical order. Each definition has a link to the topic tha
 | **Return to contractor** | The creation of return missions for the parcels that could not be delivered. See [Return to Contractor](../return-to-contractor.md). |
 | **Reverse logistics** | The flow of goods back from the customer. See [Reverse Logistics](../case-studies/reverse-logistics.md). |
 | **Route** | The ordered list of stops that a deliverer carries out with a vehicle. See [Routes](../8-6-missions-1/README.md). |
+| **Route custom field** | A field that you add to routes to collect route-level data, such as the license plate or the odometer readings, filled in by deliverers in the mobile app. See [Route Custom Fields](../8-6-missions-1/route-custom-fields.md). |
 | **Sectorization** | The automatic creation of balanced delivery sectors. See [Create Postal Zones by Territory Management (Sectorization)](../manage-studies-and-zones/create-postal-zones-by-territory-management-sectorization.md). |
 | **Shuttle** | A transportation resource that moves goods between buildings. See [Shuttle Management](../case-studies/no-route/shuttle-management.md). |
 | **Simulation** | The result of a route optimization, which you review and adjust before validating the routes. See [Simulation](../simulation/simulation.md). |

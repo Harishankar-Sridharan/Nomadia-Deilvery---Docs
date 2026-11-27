@@ -40,3 +40,11 @@ The 27 October 2026 patch adds the following features.
 | 8   | Configuration | [Configuration > Configuration Breadcrumb Navigation](../configuration-breadcrumb-navigation.md) |
 | 9   | Contractors | [Contractors > Address List Groups for Contractors](../9-7-contractors/address-list-groups-for-contractors.md) |
 | 10  | Manage Document Templates | [Manage Document Templates > Article Aggregation in Loading Sheets](../manage-document-templates/article-aggregation-in-loading-sheets.md) |
+
+## Patch – November 2026
+
+The November 2026 patch adds the following features.
+
+| No. | Section | Navigation |
+| --- | ------- | ---------- |
+| 1   | Routes  | [Routes > Route Custom Fields](../8-6-missions-1/route-custom-fields.md) |

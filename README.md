@@ -124,6 +124,7 @@ The platform supports management of up to 500,000 Missions, with powerful filter
 | Jump to a higher level of the Configuration tab | [Configuration Breadcrumb Navigation](configuration-breadcrumb-navigation.md) |
 | Give contractors access to a set of addresses | [Address List Groups for Contractors](9-7-contractors/address-list-groups-for-contractors.md) |
 | Show article totals on loading sheets | [Article Aggregation in Loading Sheets](manage-document-templates/article-aggregation-in-loading-sheets.md) |
+| Collect route data such as the license plate | [Route Custom Fields](8-6-missions-1/route-custom-fields.md) |
 | See what is new | [Fall Release 2026](fall-release-2026/fall-release-2026.md) |
 | Find a topic by name | [Find a Topic (A–Z)](reference/find-a-topic.md) |
 | Understand a word | [Glossary](reference/glossary.md) |

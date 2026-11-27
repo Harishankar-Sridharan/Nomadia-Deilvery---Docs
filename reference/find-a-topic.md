@@ -266,6 +266,7 @@ Every topic of this guide is listed in alphabetical order, with the section it b
 | [Reverse Logistics](../case-studies/reverse-logistics.md) | Case Studies | Nomadia Delivery integrates reverse logistics directly into your standard mission lifecycle. |
 | [Reverse routes](../simulation/simulation-routes-reverse.md) | Simulation | This page explains how to reverse the order of the stops on the selected routes. |
 | [Route Blocking Settings](../case-studies/route-blocking-settings.md) | Case Studies | Route blocking systematically prevents drivers from starting routes containing high-value items until a planner reviews them. |
+| [Route Custom Fields](../8-6-missions-1/route-custom-fields.md) | Routes | Collect route-level data, such as the license plate or odometer readings, from deliverers and use it across the back office. |
 | [Route Editor](../routeeditor.md) | Routes | The Route Editor feature allows dispatchers to manage route details and survey configurations. |
 | [Routes](../8-6-missions-1/README.md) | Routes | Create, assign, view and finish delivery routes in Nomadia Delivery. |
 

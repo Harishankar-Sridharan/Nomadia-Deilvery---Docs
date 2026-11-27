@@ -70,6 +70,7 @@
   * [Table view](tableview.md)
   * [Gantt View](ganttview.md)
   * [Route Editor](routeeditor.md)
+  * [Route Custom Fields](8-6-missions-1/route-custom-fields.md)
 * [Simulation](simulation/simulation.md)
   * [Manage deliveries](simulation/simulation-deliveries.md)
     * [Optimize deliveries](simulation/simulation-deliveries-optimize.md)
