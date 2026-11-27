@@ -158,6 +158,7 @@
   * [Customizing Word Templates](manage-document-templates/customizing-word-templates.md)
   * [Accessing eCMR](manage-document-templates/accessing-ecmr.md)
   * [QR Codes on Mission Extracts](manage-document-templates/qr-codes-on-mission-extracts.md)
+  * [Article Aggregation in Loading Sheets](manage-document-templates/article-aggregation-in-loading-sheets.md)
 * [Manage Notifications](manage-notifications/README.md)
   * [Email](manage-notifications/email.md)
   * [Customize Email Templates](manage-notifications/customize-email-templates/README.md)

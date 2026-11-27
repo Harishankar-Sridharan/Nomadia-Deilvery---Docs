@@ -23,6 +23,7 @@ Every topic of this guide is listed in alphabetical order, with the section it b
 | [Alert Management](../alertmanagement.md) | Alert Management | Alert Threshold Management in Nomadia Delivery allows dispatchers to set operational trigger limits. |
 | [Analysis charts](../simulation/simulation-analysis-charts.md) | Simulation | This page explains what each chart of the Analysis panel shows. |
 | [Analyze the results](../simulation/simulation-analysis.md) | Simulation | This page explains how to use the Analysis panel to access analysis charts and better understand the results. |
+| [Article Aggregation in Loading Sheets](../manage-document-templates/article-aggregation-in-loading-sheets.md) | Manage Document Templates | Show each article’s planned quantity per mission and its total for the route on loading sheets. |
 | [Assign deliveries to a route](../simulation/simulation-deliveries-assign.md) | Simulation | This page explains how to choose the route and the time slot for a delivery. |
 | [Assign Pick up and Delivery Missions](../assignpickupanddelivery.md) | Routes | The Assign Pickup and Delivery Missions feature lets dispatchers assign pickup and delivery routes to drivers and vehicles. |
 | [Assign routes](../simulation/simulation-routes-assign.md) | Simulation | This page explains how to assign the selected routes. |
